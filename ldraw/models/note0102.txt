@@ -1,0 +1,46 @@
+LDraw.org Parts Update 2001-02
+---------------------------------------------------------------------------
+
+Notes created Fri Nov 30 22:30:56 2001 by the Parts Tracker.
+
+Release statistics:
+   New files: 45
+   New parts: 42
+   New subparts: 2
+   New primitives: 1
+
+New 3-digit part numbers assigned:
+   792.dat Arm Holder Brick  2 x  2 Lower
+   793.dat Arm Holder Brick  2 x  2 Upper with Hole
+   794.dat Arm Holder Brick  2 x  2 Upper without Hole
+   795.dat Arm Piece with Disc and 2 Fingers
+
+Moved Parts
+   151.DAT       ~Moved to 32316
+   2421A.DAT     ~Moved to s\2421a
+   3002PEYE.DAT  ~Moved to 3003pe1
+   4085.DAT      ~Moved to 4085c
+
+Renamed Parts
+   2421.DAT      Rotor  3 Blade Small
+   changed to    Propellor  3 Blade  4 Diameter
+
+   2958.DAT      Town Outdoor Umbrella Table
+   changed to    Technic Disc  3 x  3 with Axlehole
+
+   4349.DAT      Town Loudhailer
+   changed to    Minifig Loudhailer
+
+   4626.DAT      Town Scoop Bucket
+   changed to    Hinge Scoop Bucket
+
+Other Fixed Parts
+   2791.DAT      Technic Steering Rack
+   32184.DAT     Technic Axle Joiner Perpendicular  3L
+   4773.DAT      Electric Light & Sound Colored Globe
+   6231.DAT      Panel  1 x  1 x  1 Corner
+   70501A.DAT    Minifig Coin with 10 Mark
+   70501B.DAT    Minifig Coin with 20 Mark
+   70501C.DAT    Minifig Coin with 30 Mark
+   70501D.DAT    Minifig Coin with 40 Mark
+   973P44.DAT    Minifig Torso with Wolfpack Pattern

@@ -1,0 +1,16 @@
+0 ~Bike  3 Wheel Motorcycle Forks Shortcut
+0 Filename: 30189c01.dat
+0 Author: Paul Easter
+0 LDRAW_ORG Shortcut UPDATE 2001-02
+
+0 CATEGORY Car
+0 KEYWORDS minifig, tricycle, motorbike, motor, cycle, ATV, chopper
+0 KEYWORDS Town, City Centre, vehicle
+0 BFC CERTIFY CW
+
+0 2001-11-23 PNE added BFC to speed up render time.
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 30189.dat
+1 15 0 30 -20 0 0 -1 0 1 0 -1 0 0 30190.dat
+1 256 0 30 -20 0 0 1 0 1 0 -1 0 0 6015.dat
+0

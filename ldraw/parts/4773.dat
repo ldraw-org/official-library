@@ -1,30 +1,28 @@
 0 Electric Light & Sound Colored Globe
 0 Name: 4773.dat
 0 Author: Thomas Burger
-0 Official LCad update 99-01
+0 LDRAW_ORG Part UPDATE 2001-02
 
- 1 16 0 0 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
- 1 16 0 0 0 8 0 0 0 0 0 0 0 8 4-4edge.dat
- 4 16 0 0 6 -2.30 0 5.54 -3.06 0 7.39 0 0 8 
- 4 16 -2.30 0 5.54 -4.24 0 4.24 -5.66 0 5.66 -3.06 0 7.39 
- 4 16 -4.24 0 4.24 -5.54 0 2.30 -7.39 0 3.06 -5.66 0 5.66 
- 4 16 -5.54 0 2.30 -6 0 0 -8 0 0 -7.39 0 3.06 
- 4 16 -6 0 0 -5.54 0 -2.30 -7.39 0 -3.06 -8 0 0 
- 4 16 -5.54 0 -2.30 -4.24 0 -4.24 -5.66 0 -5.66 -7.39 0 -3.06 
- 4 16 -4.24 0 -4.24 -2.30 0 -5.54 -3.06 0 -7.39 -5.66 0 -5.66 
- 4 16 -2.30 0 -5.54 0 0 -6 0 0 -8 -3.06 0 -7.39 
- 4 16 0 0 -6 2.30 0 -5.54 3.06 0 -7.39 0 0 -8 
- 4 16 2.30 0 -5.54 4.24 0 -4.24 5.66 0 -5.66 3.06 0 -7.39 
- 4 16 4.24 0 -4.24 5.54 0 -2.30 7.39 0 -3.06 5.66 0 -5.66 
- 4 16 5.54 0 -2.30 6 0 0 8 0 0 7.39 0 -3.06 
- 4 16 6 0 0 5.54 0 2.30 7.39 0 3.06 8 0 0 
- 4 16 5.54 0 2.30 4.24 0 4.24 5.66 0 5.66 7.39 0 3.06 
- 4 16 4.24 0 4.24 2.30 0 5.54 3.06 0 7.39 5.66 0 5.66 
- 4 16 2.30 0 5.54 0 0 6 0 0 8 3.06 0 7.39 
- 1 16 0 -4 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
- 1 16 0 -4 0 8 0 0 0 4 0 0 0 8 4-4cyli.dat
- 1 16 0 -8 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
- 1 16 0 -9.4 0 8 0 0 0 5 0 0 0 8 4-4cyli.dat
+0 2000-09-18 TLC Removed two cylinders and elongated and
+0                repositioned two others to fix two gaps and
+0                get rid of redundant polygons.  Also replace
+0                16 quads which formed a ring with 4 1/4 rings.
+
+ 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+ 1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+0 Travis Cobbs replaced the original 16 quads which formed
+0 a ring with the following line. Note that it is doubled in
+0 size to final radii of 6-8.
+ 1 16 0 0 0 2 0 0 0 1 0 0 0 2 ring3.dat
+0 The following two lines were adjusted by Travis Cobbs to
+0 the correct positions and lengths.
+ 1 16 0 -8 0 6 0 0 0 8 0 0 0 6 4-4cyli.dat
+ 1 16 0 -9.5 0 8 0 0 0 9.5 0 0 0 8 4-4cyli.dat
+0 The following two lines were commented out by
+0 Travis Cobbs, since they are unnecessary after the
+0 adjustments above.
+0 1 16 0 -8 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
+0 1 16 0 -9.4 0 8 0 0 0 5 0 0 0 8 4-4cyli.dat
  1 16 0 -8 0 6 0 0 0 -4 0 0 0 6 4-8sphe.dat
  1 16 0 -9.5 0 8 0 0 0 -4 0 0 0 8 4-8sphe.dat
 0
