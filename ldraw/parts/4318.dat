@@ -1,7 +1,7 @@
-0 Boat Mast with Hinges (needs work)
+0 Hinge Boat Mast with 3 Fingers On Both Sides (needs work)
 0 Name: 4318.dat
 0 Author: Thomas Burger
-0 Official LCad update 98-02
+0 Official LCad update 99-01
 
 2 24 -20 80 20 -16 80 20 
 2 24 -16 80 20 -16 80 4 
@@ -245,5 +245,4 @@
 4 16 -4.24 -146 4.24 -2.3 -146 5.54 -4.24 -154 4.24 -2.3 -154 5.54 
 4 16 -2.3 -146 5.54 -2.3 -146 -5.54 -2.3 -154 5.54 -2.3 -154 -5.54 
 4 16 2.3 -146 -5.54 2.3 -146 5.54 2.3 -154 -5.54 2.3 -154 5.54 
-0 
-
+0

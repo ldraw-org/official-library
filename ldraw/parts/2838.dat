@@ -1,7 +1,7 @@
-0 ~Technic 9V Motor Base
+0 ~Electric Technic 9V Motor Base
 0 Name: 2838.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Official LCad update 99-01
 
  1 14 12 52 0 4 0 0 0 0 0 0 0 42 rect.dat
  1 14 -12 52 0 4 0 0 0 0 0 0 0 42 rect.dat
@@ -154,8 +154,4 @@
  4 16 -13 26 -46 -13 26 -48 -13 33 -48 -13 48 -46
  4 16 -13 48 -46 -13 33 -48 -13 33 -50 -13 48 -50
  4 16 -40 56 50 -40 48 50 -40 48 -50 -40 56 -50
-
-
-
-
-
+0

@@ -1,8 +1,7 @@
-0 Plate  2 x  4 with Electric Contacts
-0 name 4757.dat
-0 (c) Remco Braak 1997
-0 rbraak@nat.vu.nl
-0 Official LCad update 97-01
+0 Electric Plate  2 x  4 with Contacts
+0 Name: 4757.dat
+0 Author: (c) Remco Braak 1997 rbraak@nat.vu.nl
+0 Official LCad update 99-01
 
  1 16 20 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
  1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -83,4 +82,4 @@
  1 16 10 0 -10 1 0 0 0 1 0 0 0 1 studel.dat
  1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 studel.dat
  1 16 -30 0 -10 1 0 0 0 1 0 0 0 1 studel.dat
-
+0

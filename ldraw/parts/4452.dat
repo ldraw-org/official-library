@@ -1,7 +1,7 @@
-0 Box  6 x  6
-0 Name 4452.dat
-0 Created by Tore Eriksson
-0 Official LCad update 98-07
+0 Container Box  6 x  6
+0 Name: 4452.dat
+0 Author: Tore Eriksson
+0 Official LCad update 99-01
 
 2 24 -60 24 -60   60 24 -60
 2 24  60 24 -60   60 24  60
@@ -120,3 +120,4 @@
 1 16 -40 20  40 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16   0 20  40 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16  40 20  40 1 0 0 0 -1 0 0 0 1 stud4.dat
+0

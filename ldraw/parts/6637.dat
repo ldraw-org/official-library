@@ -1,8 +1,7 @@
-0 Technic Fiber Optics Element
-0 name 6637.dat
-0 (c) Remco Braak 1997
-0 rbraak@nat.vu.nl
-0 Official LCad update 97-01
+0 Electric Technic Fiber Optics Element
+0 Name: 6637.dat
+0 Author: (c) Remco Braak 1997 rbraak@nat.vu.nl
+0 Official LCad update 99-01
 
 1 16 0 24 0 1 0 0 0 1 0 0 0 1 6637a.dat
 1 16 0 24 0 1 0 0 0 1 0 0 0 1 6637b.dat

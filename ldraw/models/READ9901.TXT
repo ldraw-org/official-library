@@ -1,0 +1,18 @@
+Special note for this update:
+
+This is for users of LDraw Add-On (LDAO) only.
+If you do not have LDAO installed, ignore this.
+
+Go to:
+http://hugin.risoe.dk/JJ_Memorial/read9901.html
+http://home.att.net/~blisses/ldao/category.html
+
+For a guide on how to force LDAO to recognize the
+piece recategorizations in this update.
+
+If you cannot access that page for any reason, email
+me and I will send you a copy.
+Please specify plaintext or HTML format.
+
+-- Terry K --
+jjmemorial@geocities.com

@@ -1,7 +1,7 @@
-0 Slope Brick 45  2 x  1 with 12 White Buttons Pattern
-0 name 3040p33.dat
-0 Created by Tore Eriksson
-0 Official LCad update 97-01
+0 Slope Brick 45  2 x  1 with 9 + 3 White Buttons Pattern
+0 Name: 3040p33.dat
+0 Author: Tore Eriksson
+0 Official LCad update 99-01
 
 4 15 -8 2.8572 -12.8572 -4 2.8572 -12.8572 -4 5.7144 -15.7144 -8 5.7144 -15.7144
 4 15 -2 2.8572 -12.8572 2 2.8572 -12.8572 2 5.7144 -15.7144 -2 5.7144 -15.7144
@@ -93,5 +93,4 @@
  4 16 6 20 -26 6 4 -10 -6 4 -10 -6 20 -26
 
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-
-
+0

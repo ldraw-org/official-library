@@ -1,7 +1,7 @@
-0 Panel  3 x  3 x  6 Corner Concave
+0 Panel  4 x  4 x  6 Corner Concave
 0 Name: 2467.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Official LCad update 99-01
 
  1 16 50 132 0 1 0 0 0 -1 0 0 0 1 stud3.dat
  1 16 30 132 0 1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -255,6 +255,4 @@
  1 16 0 0 -20 1 0 0 0 1 0 0 0 1 stud2.dat
  1 16 0 0 -40 1 0 0 0 1 0 0 0 1 stud2.dat
  1 16 0 0 -60 1 0 0 0 1 0 0 0 1 stud2.dat
-
-
-
+0

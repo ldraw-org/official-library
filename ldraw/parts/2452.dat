@@ -1,7 +1,7 @@
-0 Plate  1 x  2 with Hinge on Side
+0 Hinge Plate  1 x  2 with 3 Fingers On Side
 0 Name: 2452.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Official LCad update 99-01
 
  1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
  1 16 0 8 0 16 0 0 0 -4 0 0 0 6 box5.dat
@@ -39,3 +39,4 @@
 
  1 16 -10.00 0 0 0 0 1.00 0 1 0 -1.00 0 0 stud.dat
  1 16 10.00 0 0 0 0 1.00 0 1 0 -1.00 0 0 stud.dat
+0

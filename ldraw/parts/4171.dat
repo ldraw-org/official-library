@@ -1,4 +1,7 @@
-0 Train Light Prism  1 x  3
+0 Electric Train Light Prism  1 x  3
+0 Name: 4171.dat
+0 Author: James Jessiman
+0 Official LCad update 99-01
 
  1 16 0 0 -4 6 0 0 0 0 6 0 0 0 4-4edge.dat
 
@@ -43,3 +46,4 @@
  4 16 46 -6 18 46 -6 16 34 -6 4 0 -6 4
 
  1 16 0 0 10 0 0 -6 6 0 0 0 -6 -6 2-4cyli.dat
+0

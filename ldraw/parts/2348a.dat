@@ -1,7 +1,7 @@
-0 Car Roof  4 x  4 Sunroof Glass without Ridges
+0 Glass for Hinge Car Roof  4 x  4 Sunroof without Ridges
 0 Name: 2348a.dat
 0 Author: Thomas Burger
-0 Official LCad update 98-07
+0 Official LCad update 99-01
 
  1 16 30 0 0 0 0 0 0 0 4 4 0 0 3-4edge.dat
  1 16 26 0 0 0 0 0 0 0 4 4 0 0 2-4edge.dat
@@ -62,3 +62,4 @@
  4 16 -30 0 0 -30 0 26 -30 -2 30 -30 -4 0 
  4 16 30 -2 30 30 -2 36 30 -4 36 30 -4 0 
  4 16 -30 -2 30 -30 -2 36 -30 -4 36 -30 -4 0 
+0

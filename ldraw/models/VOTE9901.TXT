@@ -1,0 +1,248 @@
+Voting Results - L-Cad dat vote 9901
+13 vote-sheets tallied - some were partial/incomplete 
+
+**** Please READ the text file READ9901.TXT ****
+
+-Pieces marked with an * by the number had some sort of 
+ modification to name and/or description. Details below.
+ All parts starting with an X that did not get new
+ correct numbers had the X dropped.
+-Some existing numbers were changed. Details at end of page.
+
+Yes No Abstain Name     Description
+-- --  --   -------  --------------------------------
+08  0  05 * 71185    Antenna Chrome 6H
+10  0  03   3005-AE  Brick  1 x  1 with Blue Danish "AE" Pattern
+13  0   0   30144    Brick  2 x  4 x  3
+13  0   0 * 550      Cone  2 x  2 x  1 & 2/3 Octagonal
+11 01  01 * 30151    Cylinder  2 x  2 x  1 & 2/3 Dome
+13  0   0   2928     Electric Train Light Prism  1 x  4 Holder
+10  0  02 * 777P03   Flag on Flagpole Old with Danish Pattern
+10  0  02 * 777P04   Flag on Flagpole Old with Finnish Pattern
+10  0  02 * 777P02   Flag on Flagpole Old with Swedish Pattern 
+11  0  02 * 2440P68  Hinge  6 x  3 Radar/Blade/Spoiler/Panel with Mtron Pattern
+13  0   0   70501A   Minifig Coin with 10 Mark 
+13  0   0   70501B   Minifig Coin with 20 Mark
+13  0   0   70501C   Minifig Coin with 30 Mark
+13  0   0   70501D   Minifig Coin with 40 Mark
+12  0  01 * 970P63   Minifig Hips with Robot Design
+11  0  01 * 972P63   Minifig Leg Left with Robot Design
+12  0  01 * 971P63   Minifig Leg Right with Robot Design
+07  1  05 * 740      Minifig Vest
+13  0   0   80120    Panel  1 x  4 x  3 with Red Bar and White Grille Pattern
+11 01   0   3127     Plate  1 x  2 with Crane Hook (needs work)
+12  0  01   30183    Slope Brick  4 x  6 Double Inverted
+12  0  01 * 3040P32  Slope Brick 45  2 x  1 with 12 Black Buttons Pattern
+12 01   0   3660P01  Slope Brick 45  2 x  2 Inverted with Computer Screen Pattern
+10  0  02 * 768      Technic Gear Block  2 x  8 x  3
+13  0   0   32065    Technic Liftarm  1 x  7
+09  0  04 * 2874     Train Door Sliding
+09  0  03 * 767      Train Track Sleeper - Type 2
+11  0  02 * 30161    Windscreen  1 x  4 x  1.3 Flip-Down
+11  0  02   6267     Windscreen  2 x 12 x  4
+
+_New Subparts added to the \S directory in this update:
+  970p63a.dat ~Subpart Minifig Hips with Robot Pattern - Silver Colour
+  971p63a.dat ~Subpart Minifig Leg Right with Robot Pattern - Silver Colour
+  972p63a.dat ~Subpart Minifig Leg Left with Robot Pattern - Silver Colour
+ 
+_New Primitive added:
+  1-4cyls2.dat 1/4 Cylinder Sloped Convex
+
+-------------------------------------------------------------------- 
+Other diabolical doings with the new parts:
+
+-Special note for the "Antenna 6H":
+  After much deliberation, I have opted to release this 
+  part as an uncolored piece. This means that using part
+  number 71185 would be incorrect, as that is the specific
+  number for the chromed version of that part.
+  So this will be released as:
+  "104 Antenna 6H"
+
+-"X" numbers changed: 
+  X550 renamed to 6039  Cone  2 x  2 x  1 & 2/3 Octagonal
+  X740 renamed to 3840  Minifig Vest
+
+-"X" numbers kept as is, with the X dropped:
+  777P03  Flag on Flagpole Old with Danish Pattern
+  777P04  Flag on Flagpole Old with Finnish Pattern
+  777P02  Flag on Flagpole Old with Swedish Pattern
+  768     Technic Gear Block  2 x  8 x  3
+  
+_Piece put on "HOLD" pending problem resolution:
+  767     Train Track Sleeper - Type 2
+
+_Descriptions changes to new parts
+  30161 Windscreen  1 x  4 x  1.3 with Bottom Hinge
+  104 Antenna 6H
+  30151 Cylinder  2 x  2 x  1 & 2/3 with Dome Top
+  2440P68  Hinge  6 x  3 Radar/Blade/Spoiler/Panel with Radar-type Pattern
+  3040p32  Slope Brick 45  2 x  1 with 9 + 3 Black Buttons Pattern 
+  2874     Train Door Sliding - Type 2
+  970P63   Minifig Hips with Robot Pattern
+  972P63   Minifig Leg Left with Robot Pattern
+  971P63   Minifig Leg Right with Robot Pattern
+
+-------------------------------------------------------------------- 
+Summary of changes to existing parts:
+
+_After deferring this several times, I caved and did a bunch of 
+ category and name changes.
+ For users of LDrawAddOn (LDAO) see the file READ9901.txt in the 
+ archive for info on ways to update or not update the categories in
+ your Visual Element Catalog (VEC).
+
+-Dropped the "New" from the Minifig parts:
+   3626B.DAT     Minifig Head
+   3626BP01.DAT  Minifig Head with Standard Grin Pattern
+   3626BP02.DAT  Minifig Head with Standard Woman Pattern (needs work)
+   9326.DAT      Minifig Torso
+   9326P14.DAT   Minifig Torso with 'S' Logo Pattern
+   9326P16.DAT   Minifig Torso with Airplane Logo Pattern 
+   9326P52.DAT   Minifig Torso with Blacktron I Pattern
+   9326P51.DAT   Minifig Torso with Blacktron II Pattern
+   9326P47.DAT   Minifig Torso with Castle Red/Gray Pattern
+   9326P11.DAT   Minifig Torso with Dungarees Pattern
+   9326P61.DAT   Minifig Torso with Gold Ice Planet Pattern
+   9326P15.DAT   Minifig Torso with Horizontal Stripes Pattern
+   9326P68.DAT   Minifig Torso with MTron Logo Pattern
+   9326P17.DAT   Minifig Torso with Red V-Neck and Buttons Pattern
+   9326P63.DAT   Minifig Torso with Robot Pattern 
+   9326P60.DAT   Minifig Torso with Shell Logo Pattern
+   9326P18.DAT   Minifig Torso with Suit and Tie Pattern
+   9326P02.DAT   Minifig Torso with Vertical Striped Blue/Red Pattern
+   9326P01.DAT   Minifig Torso with Vertical Striped Red/Blue Pattern
+   3626B-4T.DAT  ~Minifig Head without Face Area
+
+_Recategorized the following into EXISTING category "Hinge".
+ In addition, some clarifications were made to the descriptions, 
+ and the 3149 and 3324 hinge plate assemblies were separated into
+ their component parts:
+   4318.DAT      Hinge Boat Mast with 3 Fingers On Both Sides (needs work)
+   4213.DAT      Hinge Car Roof  4 x  4
+   2349.DAT      Hinge Car Roof  4 x  4 Sunroof 
+   4214.DAT      Hinge Car Roof Holder  1 x  4 x  2
+   2582.DAT      Hinge Panel  2 x  4 x  3 & 1/3
+   2582P68.DAT   Hinge Panel  2 x  4 x  3 & 1/3 with MTron Pattern
+   4276.DAT      Hinge Plate  1 x  2 with 2 Fingers 
+   4275.DAT      Hinge Plate  1 x  2 with 3 Fingers
+   2452.DAT      Hinge Plate  1 x  2 with 3 Fingers On Side
+   4315.DAT      Hinge Plate  1 x  4 with Car Roof Holder 
+   4504.DAT      Hinge Plate  1 x  6 with 2 and 3 Fingers On Ends
+   4505.DAT      Hinge Plate  1 x  6 with 2 and 3 Fingers On Sides
+   3597.DAT      Hinge Plate  2 x  4 - Female 
+   3640.DAT      Hinge Plate  2 x  4 with Articulated Joint - Female 
+   3639.DAT      Hinge Plate  2 x  4 with Articulated Joint - Male
+   3315.DAT      Hinge Plate  2 x  4 with Digger Bucket Holder 
+   3149.DAT      Hinge Plate  2 x  5 (Complete Assembly Shortcut)
+   3149C.DAT     Hinge Plate  2 x  5 Base
+   3149A.DAT     Hinge Plate  2 x  5 Pivot
+   3149B.DAT     Hinge Plate  2 x  5 Top 
+   3324.DAT      Hinge Plate  2 x  9 (Complete Assembly Shortcut)
+   3324A.DAT     Hinge Plate  2 x  9 Base 
+   4531.DAT      Hinge Tile  1 x  2 with 2 Fingers 
+   4625.DAT      Hinge Tile  1 x  4 
+   2881.DAT      Hinge Train Cantenary 
+   2880.DAT      Hinge Train Cantenary Holder 
+   2873.DAT      Hinge Train Gate  2 x  4
+   
+_Recategorized the following into NEW category "Container":
+   30150.DAT     Container Adventurers Chest
+   4345.DAT      Container Box  2 x  2 x  2 
+   4346.DAT      Container Box  2 x  2 x  2 Door with Slot
+   4346p68       Container Box  2 x  2 x  2 Door with Slot and MTron Pattern
+   4452.DAT      Container Box  6 x  6 
+   4082.DAT      Container Box  6 x  8 x  1 & 1/3
+   4532.DAT      Container Cupboard  2 x  3 x  2 
+   4533.DAT      Container Cupboard  2 x  3 x  2 Door
+   4536.DAT      Container Cupboard  2 x  3 x  2 Drawer
+   4534.DAT      Container Cupboard  2 x  3 x  4 
+   4535.DAT      Container Cupboard  2 x  3 x  4 Door 
+   729.DAT       Container Storage  8 x 11 x  3 Clear 
+   4738.DAT      Container Treasure Chest
+   4739.DAT      Container Treasure Chest Lid
+
+_Recategorized the following into NEW category "Glass":
+   2348B.DAT     Glass for Hinge Car Roof  4 x  4 Sunroof with Ridges
+   2348A.DAT     Glass for Hinge Car Roof  4 x  4 Sunroof without Ridges 
+   4183.DAT      Glass for Train Door 
+   2918.DAT      Glass for Train Front Sloping Top
+   4036.DAT      Glass for Train Window  1 x  2 x  3
+   4034.DAT      Glass for Train Window  1 x  4 x  3
+   4862.DAT      Glass for Window  1 x  2 x  2 Plane 
+   3855.DAT      Glass for Window  1 x  4 x  3
+   2494.DAT      Glass for Window  1 x  4 x  5 
+   3762.DAT      Glass for Window  1 x  6 x  5 
+   4448.DAT      Glass for Window  4 x  4 x  3 Roof 
+   301.DAT       Glass for Window Bay  3 x  8 x  6 
+   6160B.DAT     ~Glass for Window  1 x  4 x  6
+
+_Recategorized the following into NEW category "Electric":
+   5306.DAT      Electric Brick  2 x  2 x  2/3 with Wire End
+   4773.DAT      Electric Light & Sound Colored Globe
+   6035.DAT      Electric Light & Sound Brick  1 x  2 Side Light
+   4767.DAT      Electric Light & Sound Brick  1 x  2 Single Top Light 
+   4771.DAT      Electric Light & Sound Brick  1 x  4 Twin Top Lights 
+   4755.DAT      Electric Plate  1 x  2 with Contacts
+   4757.DAT      Electric Plate  2 x  4 with Contacts
+   4758.DAT      Electric Plate  2 x  8 with Contacts 
+   2837A.DAT     Electric Technic 9V Motor
+   6637.DAT      Electric Technic Fiber Optics Element
+   6639.DAT      Electric Technic Fiber Optics Element Axis
+   2986.DAT      Electric Technic Micromotor 
+   2985.DAT      Electric Technic Micromotor Base
+   2983.DAT      Electric Technic Micromotor Pulley 
+   6551.DAT      Electric Technic Pole Reverser 
+   6552.DAT      Electric Technic Pole Reverser Center
+   2879A.DAT     Electric Train Contact Wheel 
+   4171.DAT      Electric Train Light Prism  1 x  3 
+   4170.DAT      Electric Train Light Prism  1 x  6 Holder
+   590.DAT       Electric Train Motor
+   2838.DAT      ~Electric Technic 9V Motor Base 
+   2837.DAT      ~Electric Technic 9V Motor Shaft
+   2839.DAT      ~Electric Technic 9V Motor Top
+   6637C.DAT     ~Electric Technic Fiber Optics Element Cylinder Segment
+   6637D.DAT     ~Electric Technic Fiber Optics Element Front/Back
+   6637B.DAT     ~Electric Technic Fiber Optics Element Sides 
+   6637A.DAT     ~Electric Technic Fiber Optics Element Top/Bottom  
+
+_Single recategorizations to remove one-piece categories:
+6117 Chainsaw Blade                    Renamed: Minifig Tool Chainsaw Blade
+4211 Truck Cabin Base  5 x  4          Renamed: Car Base  4 x  5
+4608 Unknown  2 x  4 x  5 (needs work) Renamed: Window  2 x  4 x  5 (needs work)
+2496 Wheels Trolley                    Renamed: Wheel Trolley
+
+_Various tweaks and corrections:
+    1-4con3.dat  Header text error
+    1-4con4.dat  Header text error
+    9326p63.dat  pattern fix by author
+    3649.dat     Description error (mine)
+    2637.dat     Part fix by non-original author
+    970.dat      /S mod to facilitate patterns - with authors permission
+    971.dat      /S mod to facilitate patterns - with authors permission
+    972.dat      /S mod to facilitate patterns - with authors permission
+    970s01.dat   /S mod to facilitate patterns - with authors permission
+    971s01.dat   /S mod to facilitate patterns - with authors permission
+    972s01.dat   /S mod to facilitate patterns - with authors permission
+    4166.dat     Fix by Author/Description mod - add "with Cable Grooves - Type 1"
+    4150p04.dat  Pattern update by non-original author
+    3068p08.dat  Pattern update by non-original author
+    3069p06.dat  Pattern update by non-original author
+    6639.dat     Remove stray carriage returns
+    30119.dat    Remove stray carriage returns
+    4864p66.dat  pattern fix by author
+    979.dat      fixed internal reference to updated parts-adjust head/hat 
+    980.dat      fixed internal reference to updated parts-adjust head/hat
+    2467.dat     fix to description of original part
+    3040p33.dat  alter description to match similar new piece
+    3069p52.dat  fixed calls to non-existent files
+    4511.dat     description mod to differentiate from new part "- Type 1" 
+    750.dat      fixed by author
+    754.dat      modification/improvement by author
+
+_Moved To files:  
+   9326T01.dat ~Moved to 9326p01 just to correct terminology
+   9326T02.dat ~Moved to 9326p02 just to correct terminology
+
+-- Terry K --

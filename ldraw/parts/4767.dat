@@ -1,7 +1,7 @@
-0 Light & Sound Single Light
+0 Electric Light & Sound Brick  1 x  2 with Single Top Light
 0 Name: 4767.dat
 0 Author: Thomas Burger
-0 Official LCad update 98-02
+0 Official LCad update 99-01
 
 0 ----inlined 4768.dat-------
 0 comment:I have NO IDEA what bottom looks like
@@ -190,4 +190,4 @@
  1 47 0 -8 0 6 0 0 0 -4 0 0 0 6 4-8sphe.dat
  4 16 10 0 10 10 0 -10 20 0 10 20 0 -10 
  4 16 -10 0 10 -10 0 -10 -20 0 10 -20 0 -10 
-
+0

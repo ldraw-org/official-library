@@ -1,4 +1,7 @@
-0 Window  4 x  4 x  3 Roof Glass
+0 Glass for Window  4 x  4 x  3 Roof
+0 Name: 4448.dat
+0 Author: James Jessiman
+0 Official LCad update 99-01
 
  2 24 36 64 -60 -36 64 -60
  2 24 36 60 -60 -36 60 -60
@@ -32,3 +35,4 @@
 
  4 16 36 64 -56 36 8 -7.4666 -36 8 -7.4666 -36 64 -56
  4 16 36 60 -60 36 4 -11.4666 -36 60 -60 -36 4 -11.4666
+0

@@ -1,7 +1,7 @@
-0 Chainsaw Blade
-0 Name 6117.dat
+0 Minifig Tool Chainsaw Blade
+0 Name: 6117.dat
 0 Author: Steve Bliss
-0 Official LCad update 97-16
+0 Official LCad update 99-01
 
 2 24 4 14 40 4 13.543 37.704 
 2 24 4 13.543 37.704 4 12.243 35.757 
@@ -362,5 +362,4 @@
 4 16 -4 2 0 4 2 0 4 4.4 0 -4 4.4 0 
 4 16 -2 11.6 0 2 11.6 0 2 4.4 0 -2 4.4 0 
 4 16 -4 9.2 0 4 9.2 0 4 6.8 0 -4 6.8 0 
-0 
-
+0

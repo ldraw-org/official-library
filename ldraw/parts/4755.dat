@@ -1,7 +1,7 @@
-0 Plate  1 x  2 with Electric Contacts
+0 Electric Plate  1 x  2 with Contacts
 0 Name: 4755.dat
 0 Author: Manfred Moolhuysen
-0 Official LCad update 97-17
+0 Official LCad update 99-01
 
 1 16 0 6 -6 16 0 0 0 0 2 0 1 0 rect.dat
 1 16 0 6 6 16 0 0 0 0 2 0 1 0 rect.dat
@@ -27,3 +27,4 @@
 1 16 0 8 0 20 0 0 0 -8 0 0 0 10 box5.dat
 1 16 10 0 0 0 0 -1 0 1 0 1 0 0 studel.dat
 1 16 -10 0 0 0 0 1 0 1 0 -1 0 0 studel.dat
+0

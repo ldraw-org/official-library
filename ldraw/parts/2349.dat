@@ -1,7 +1,7 @@
-0 Car Roof  4 x  4 Sunroof
-0 Name: 2349.dat
+0 Hinge Car Roof  4 x  4 Sunroof
+0 Name: 2439.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Official LCad update 99-01
 
  2 24 32 8 32 30 8 32
  2 24 30 8 32 30 8 -22
@@ -387,3 +387,4 @@
  1 16 10 0 -30 1 0 0 0 1 0 0 0 1 stud.dat
  1 16 -10 0 -30 1 0 0 0 1 0 0 0 1 stud.dat
  1 16 -30 0 -30 1 0 0 0 1 0 0 0 1 stud.dat
+0

@@ -1,8 +1,8 @@
-0 Minifig Torso New, Castle Red/Gray Symbol
-0 Name 9326p47.dat
-0 Pattern by Tore Eriksson
-0 Torso by Steve Bliss
-0 Official LCad update 97-16
+0 Minifig Torso with Castle Red/Gray Pattern
+0 Name: 9326p47.dat
+0 Author: Pattern by Tore Eriksson
+0 Author: Torso by Steve Bliss
+0 Official LCad update 99-01
 
 1 16  0 0 0  1 0 0  0 1 0  0 0 1 9326-4t.dat
 
@@ -31,4 +31,4 @@
 3 16 19 29 -10 10.5 12.4 -10 9 18 -10
 3 16 -19 29 -10 19 29 -10 0 27.1 -10
 4 16 -19 32 -10 19 32 -10 -19 29 -10 19 29 -10
-
+0

@@ -1,3 +1,7 @@
-0 Window  1 x  4 x  3 Glass
+0 Glass for Window  1 x  4 x  3
+0 Name: 3855.dat
+0 Author: James Jessiman
+0 Official LCad update 99-01
 
  1 16 0 34 -4 36 0 0 0 30 0 0 0 2 box.dat
+0

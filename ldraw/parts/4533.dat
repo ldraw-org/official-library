@@ -1,7 +1,7 @@
-0 Cupboard  2 x  3 x  2 Door
+0 Container Cupboard  2 x  3 x  2 Door
 0 Name: 4533.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Official LCad update 99-01
 
  2 24 2 36 0 2 36 50
  2 24 2 36 50 -2 36 50
@@ -76,3 +76,7 @@
 
  1 16 0 0 0 2 0 0 0 36 0 0 0 -2 2-4cyli.dat
 0
+
+
+
+

@@ -1,8 +1,8 @@
-0 Minifig Torso New with Shell Logo Pattern
+0 Minifig Torso with Shell Logo Pattern
 0 Name: 9326p60.dat
 0 Author: Tore Eriksson
 0 Author: Leonardo Zide
-0 Official LCad update 98-08
+0 Official LCad update 99-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 9326-4t.dat
 
@@ -84,3 +84,4 @@
 4 16 9.2 2 -10  9.2 5 -10  -9.2 2 -10  -9.2 5 -10
 4 16 9.2 29 -10  9.2 21.6 -10  -9.2 21.6 -10  -9.2 29 -10
 4 16 12 0 -10 -12 0 -10 -14.345 2 -10 14.345 2 -10
+0

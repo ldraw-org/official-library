@@ -1,7 +1,7 @@
-0 Box  6 x  8 x  1 & 1/3
+0 Container Box  6 x  8 x  1 & 1/3
 0 Name: 4082.dat
 0 Author: Tore Eriksson
-0 Official LCad update 98-07 
+0 Official LCad update 99-01
 
 1 16 -60 28 -40 1 0 0 0 -1 0 0 0 1 STUD4.DAT
 1 16 -40 28 -40 1 0 0 0 -1 0 0 0 1 STUD4.DAT
@@ -75,3 +75,4 @@
 1 16 10 24 30 1 0 0 0 1 0 0 0 1 STUD.DAT
 1 16 30 24 30 1 0 0 0 1 0 0 0 1 STUD.DAT
 1 16 50 24 30 1 0 0 0 1 0 0 0 1 STUD.DAT
+0
