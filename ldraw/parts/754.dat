@@ -1,7 +1,9 @@
 0 Hose Flexible Segment Link Section (open file for usage guide)
 0 Name: 754.dat
 0 Author: John VanZwieten
-0 Official LCad update 99-03
+0 Official LCad Part 2000-01
+
+0 2000-04-28 SEB Removed erroneous RING3.dat references.
 
 0 This file, the Link Section, forms the chain of pieces
 0 to make the bulk of the hose.
@@ -26,7 +28,5 @@
 1 16 0 -1.25 0 4 0 0 0 -1.25 0 0 0 -4 4-8sphe.dat
 1 16 0 -.65 0 4 0 0 0 1.25 0 0 0 4 4-8sphe.dat
 
-01 16 0 -2 0 1 0 0 0 0 0 0 0 1 ring3.dat
-01 16 0 0 0 1 0 0 0 0 0 0 0 1 ring3.dat
 1 16 0 0 0 3.4 0 0 0 3 0 0 0 3.4 4-8sphe.dat
 0

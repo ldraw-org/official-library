@@ -1,0 +1,11 @@
+0 Tile  1 x  2 with Ball
+0 Name: 45.dat
+0 Author: Tore Eriksson
+0 Official LCad Part 2000-01
+
+0 CMDLINE -c383
+
+1 16  0 0 0  1 0 0 0 1 0 0 0 1 3069.dat
+1 16  0 -6 0  10 0 0 0 10 0 0 0 10 8-8sphe.dat
+1 16  0 0 0  8 0 0  0 0 0  0 0 8  4-4edge.dat
+0

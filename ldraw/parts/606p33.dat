@@ -2,11 +2,13 @@
 0 Name: 606p33.dat
 0 Author: Leonardo Zide
 0 Modified by: Jonathan Wilson
-0 Official LCad update 99-06
+0 Official LCad Part 2000-01
  
+0 2000-Jan-02 Kevin Bane: quick fixes applied
+
  4 15 133 0 320 133 0 -320 117 0 -320 117 0 320
  4 15 -117 0 320 -117 0 -320 -133 0 -320 -133 0 320
- 4 15 6 0 320 6 0 300 -6 0 300 -6 0 320
+ 4 15 6 0 320 6 0 -320 -6 0 -320 -6 0 320
  4 15 6 0 276 6 0 236 -6 0 236 -6 0 276
  4 15 6 0 212 6 0 172 -6 0 172 -6 0 212
  4 15 6 0 148 6 0 108 -6 0 108 -6 0 148

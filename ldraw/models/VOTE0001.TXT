@@ -1,0 +1,196 @@
+Voting Results - L-Cad dat vote 2000-01
+24 vote-sheets tallied - some may have been partial or incomplete
+
+-Pieces marked with an * by the number had some sort of
+ modification to name and/or description. Details below.
+ All parts starting with an X that did not get new
+ correct numbers had the X dropped.
+ Pieces marked with an 'H' are being held pending problem
+ resolution.
+
+Yes No Abstain Name     Description
+--  --  --  -------    --------------------------------
+16   1   5  425p01     Baseplate 32 x 32 Road 3 Lane with Race Track Pattern
+15   1   7  4478p01    Baseplate 32 x 32 With Driveway and Grey Pattern
+10      12  6199       Belville Swing
+10      12  6200       Belville Swing Stand
+18       5  3004p90    Brick  1 x  2 with Classic Space Logo Pattern
+13       9  772p01     Brick  1 x  2 x  2 without Centre Studs with Window Pattern
+15       7  772        Brick  1 x  2 x  2 without Centre Studs
+16       7  4088       Brick  1 x  4 x  2 with 1 x 2 x 1 Centre Stud Top
+18       4  4611       Door  6 x  7 Barred
+15       7  30056      Fence Spindled  4 x  4 x  2 Quarter Round
+14       8  43         Flag  6 x  4
+15       7  2494p01    Glass for Window  1 x  4 x  5 with 5 White Stripes Pattern
+19       3  4524       Minifig Cape
+20       4  2570       Minifig Crossbow
+21       3  3834       Minifig Fire Helmet
+19       4  2614       Minifig Tool Fishing Rod
+17       5  973p23     Minifig Torso with 'S' Logo Yellow / Blue Pattern
+15       7  973p42     Minifig Torso with Castle Crossed Pikes Pattern
+19       4  973p90     Minifig Torso with Classic Space Logo Pattern
+19       4  973p65     Minifig Torso with Futuron Pattern
+15       7  973p25     Minifig Torso with Red Cross and Stethoscope Pattern
+13       8  973p24     Minifig Torso with Red Cross Pattern
+14       7  973p64     Minifig Torso with Unitron Pattern
+15   1   5  4215p66    Panel  1 x  4 x  3 with Red Cross Pattern
+16       6  30156      Panel  4 x  6 x  6 Sloped
+19       4  4728       Plant Flower  2 x  2
+22       2  3471       Plant Tree Pine  4 x  4 x  6 & 2/3
+18       5  30157      Plate  2 x  4 with Pins
+16       6  30303      Plate  6 x  6 x  2/3 Cross with Dome
+19       2  4617       Propellor  3 Blade  5.5 Diameter
+17       6  30213      Rock  2 x  2 Crystal 3 Point
+ 7   1  14  6923       Scala Tile  8 x 20 x   2/3 Round Ends
+17       6  3298p90    Slope Brick 33  3 x  2 with Classic Space Logo Pattern
+16       7  2336p90    Space Nose with Classic Space Logo Pattern
+17   1   6  32062      Technic Axle  2 Notched
+11      11  552        Technic Axle 5.5 With Stop
+13       9  32199      Technic Axle Flexible 11
+13       9  32200      Technic Axle Flexible 12
+13       9  32201      Technic Axle Flexible 14
+13       9  32202      Technic Axle Flexible 16
+13       9  32235      Technic Axle Flexible 19
+17       7  2951       Technic Bucket 10 x  8
+24          2717       Technic Seat
+18       5  44         Technic Toggle Joint Smooth
+11   2   9  45         Tile  1 x  2 with Ball
+16       6  3068p81    Tile  2 x  2 with Number 1 Pattern
+15       7  3068p87    Tile  2 x  2 with Number 7 Pattern
+17       5  3068p67    Tile  2 x  2 with Red Quarter Rings Pattern
+15       7  30046      Window  1 x  2 x  2 & 2/3 with Rounded Top Lattice Diamond
+
+Voting Problem:
+It's now the night *after* the 2000-01 update was released.  For various 
+reasons (such as: I'm a newbie parts-administrator), a few files were not 
+included in the voting, but were released in the update.  I've decided to 
+leave them in the update, rather than yanking them out.  I apologize for this 
+mix-up, and I hope it doesn't cause anyone confusion.
+
+6041.dat      Propellor  3 Blade  1.5 Diameter                                
+3040p32.dat   Slope Brick 45  2 x  1 with 9 + 3 Black Buttons Pattern
+4727.dat      Plant Flower  2 x  2 Leaves
+
+If you notice any problems with these files, please either notify the author, or let 
+me know at partsref@worldnet.att.net.
+
+_New Subparts added to the \S directory in this update:
+3004p90a.dat  ~Brick  1 x  2 with Classic Space Logo Pattern - Gold subpart
+faxle1.dat    ~Subpart Flexible Axle Segment #1
+faxle2.dat    ~Subpart Flexible Axle Segment #2
+faxle3.dat    ~Subpart Flexible Axle Segment #3
+faxle4.dat    ~Subpart Flexible Axle Segment #4
+faxle5.dat    ~Subpart Flexible Axle Segment #5
+973p90a.dat   ~Minifig Torso with Classic Space Logo - Gold subpart
+973p65a.dat   ~Minifig Torso with Futuron Pattern - Gold Subpart
+3298p90a.dat  ~Slope Brick 33  3 x  2 with Classic Space Logo - Gold Subpart
+2336p90a.dat  ~Space Nose with Classic Space Logo Pattern - Gold Subpart
+43s01.dat     ~Subpart Flag  4 x  6 without Front or Back
+973p42a.dat   ~Subpart Minifig Torso 973P32 Golden Pattern
+
+_New Primitives:
+1-4ring1.dat    1/4 Ring Radius 1:2
+48\1-4ring3.dat 12-48 Hi-Res Ring 3
+48\1-8cyli.dat  6-48 Hi-Res Cylinder
+48\1-8disc.dat  6-48 Hi-Res Disc
+axle2.dat       Axle End Surface
+axlehol9.dat    Axle Hole Edges #9
+axlehol8.dat    Axle Hole Inside Edges
+axle3.dat       Flexible Axle End
+
+_New pieces added in _underscore (hard-coded color) categories:
+81043.dat     _Baseplate 32 x 32 Road 3 Lane with Race Track Pattern
+81022.dat     _Baseplate 32 x 32 With Driveway and Grey Pattern
+9460.dat      _Brick  1 x  2 with Classic Space Logo Pattern
+80395.dat     _Panel  1 x  4 x  3 with Red Cross Pattern
+80123.dat     _Slope Brick 33  3 x  2 with Classic Space Logo Pattern
+80973.dat     _Space Nose with Classic Space Logo Pattern
+70942.dat     _Tile  1 x  2 with Ball
+
+_New shortcut parts files
+flowers.dat   Plant Flowers with Stem Shortcut
+
+--------------------------------------------------------------------
+Summary of changes to existing parts:
+
+_Fixes to existing parts:
+
+  4-4con1.dat (4/4 Cone 1:2 radii) 
+     This primitive was renamed from 4-4con12.dat.  All files which 
+     referenced 4-4con12.dat were updated.  The parts effected are:
+
+     104.dat       Antenna 6H
+     755.dat       Hose Flexible Segment End Section (open file for usage guide)
+     751.dat       Hose Flexible Tube 7L
+     6246d.dat     Minifig Tool Box Wrench
+     6246b.dat     Minifig Tool Hammer
+     6246e.dat     Minifig Tool Open End Wrench
+     6246c.dat     Minifig Tool Power Drill
+     6246a.dat     Minifig Tool Screwdriver
+
+  Conditional edges in cross-axle primitives.
+     All axle*.dat primitives which model the X-surfaces of the crossaxle
+     were updated by adding conditional edge-lines.  The effected files
+     are:
+
+     axle.dat      Axle
+     axlehol4.dat  Axle Hole #4
+     axlehol5.dat  Axle Hole #5
+     axlehole.dat  Axle Hole
+
+  6246c.dat     Minifig Tool Power Drill
+     This part was repositioned to put the handle on the Y-axis.  This 
+     allows the part to be easily inserted into a minifig hand.
+
+  10p03.dat     Baseplate 24 x 32 with Set 358 Dots Pattern
+     The pattern was corrected
+
+  3461.dat      Propeller  4 Blade  5 Diameter with Rotor Holder
+     This part was accidently dropped during a previous update, when 
+     it should have been renumbered.  3461 is the correct number.
+
+  71184.dat     Bar  4.5L Straight
+     This part was slightly shorter than it should have been.
+
+  3861.dat      Door  1 x  4 x   5 with 4 Panes
+  73312.dat     Door  1 x  4 x   5 with 6 Panes
+     The descriptions on these two parts were switched.
+
+  Various fixes and improvements were applied to:
+     2552.dat      Baseplate 32 x 32 Raised with Ramp (needs work)
+     606p33.dat    Baseplate 32 x 32 Road 9-Stud Straight Runway
+     4589.dat      Cone  1 x  1
+     4760.dat      Electric 9V Battery Box Small (needs work)
+     4762.dat      Electric 9V Battery Box Small Switch (needs work)
+     756.dat       Hose Flexible Segment Center Section (open file for usage guide)
+     754.dat       Hose Flexible Segment Link Section (open file for usage guide)
+     298.dat       Lever Small Base
+     4523.dat      Minifig Container D-Basket
+     971.dat       Minifig Leg Right
+     973p34.dat    Minifig Torso with Open Jacket over Striped Vest
+     973p62.dat    Minifig Torso with Silver Ice Planet Pattern
+     2466p07.dat   Panel  3 x  2 x  6 with Black Grille Pattern
+     3741.dat      Plant Flower Stem 
+     3183.dat      Plate  1 x  4 with Towball Socket
+     4095.dat      Town Umbrella Stand Small
+
+_~Moved To files:
+  None in this update.
+
+_Category changes:
+  None in this update.
+ 
+_Description changes to existing pieces:
+  4273.dat      Technic Toggle Joint Toothed
+     This part was changed to better align with the new, non-toothed version 
+     of the part.
+
+  30044.dat     Window  1 x  2 x  2 & 2/3 with Rounded Top
+     The size was corrected.
+
+  3040p01.dat   Slope Brick 45  2 x  1 with 3 Buttons, 3 Red Lamps/Yellow Panel
+
+_Modifications to the 0 CATEGORY statement line:
+  None in this update.
+
+--Steve Bliss

@@ -1,0 +1,12 @@
+0 ~Subpart Flexible Axle Segment #4
+0 Name: faxle4.dat
+0 Author: Steve Bliss
+0 Official LCad Subpart 2000-01
+
+0 See flexible axle parts for usage information
+
+1 16 1.6 0 0 0 1 0 1 0 0 0 0 1 axlehol3.dat
+1 16 1.6 0 0 0 2.4 0 1 0 0 0 0 1 axleho10.dat
+1 16 1.6 0 0 0 2.4 0 1 0 0 0 0 1 axlehol8.dat
+1 16 0 0 0 0 1.6 0 6 0 0 0 0 6 4-4cyli.dat
+0

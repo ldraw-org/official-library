@@ -1,7 +1,9 @@
 0 Minifig Tool Open End Wrench
 0 Name: 6246e.dat
 0 Author: Steve Bliss
-0 Official LCad update 99-05
+0 Official LCad Part 2000-01
+
+0 19990819 SEB Changed 4-4con12.dat >> 4-4con1.dat
 
 0 CATEGORY Minifig Accessory
 0 KEYWORDS minifig tools wrench hex crescent open-ended
@@ -18,7 +20,7 @@
 1 16 0 23 0 2 0 0 0 0 0 0 0 2 4-4edge.dat
 1 16 0 48 0 4 0 0 0 0 0 0 0 4 4-4disc.dat
 1 16 0 26 0 4 0 0 0 22 0 0 0 4 4-4cyli.dat
-1 16 0 26 0 2 0 0 0 -3 0 0 0 2 4-4con12.dat
+1 16 0 26 0 2 0 0 0 -3 0 0 0 2 4-4con1.dat
 1 16 0 23 0 2 0 0 0 0 0 0 0 2 4-4edge.dat
 1 16 0 23 0 2 0 0 0 -6 0 0 0 2 4-4cyli.dat
 2 24 2 16.786 0 1.84 16.816 0.76

@@ -1,0 +1,13 @@
+0 Flag  6 x  4
+0 Name: 43.dat
+0 Author: Franklin W. Cain (fwcain@yahoo.com)
+0 Official LCad Part 2000-01
+
+0 CATEGORY Flag
+0 KEYWORDS accessory pirate castle
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43s01.dat
+
+4 16 2 0 10 2 0 130 2 80 130 2 80 10
+4 16 -2 0 10 -2 0 130 -2 80 130 -2 80 10
+0
