@@ -1,0 +1,16 @@
+0 _Boat Bow 12 x 12 x  5 & 1/3 White/Blue
+0 Name: 4100340.dat
+0 Author: Paul Easter
+0 Shortcut for Official TLG Color/Number
+0 LDRAW_ORG Part UPDATE 2002-05
+
+0 This file is "shortcut" with the correct TLC number
+0 and has the actual coloring of the piece.
+0 Its category is preceded by an underscore character.
+
+0 CATEGORY _Boat
+0 CERTIFY BFC CCW
+
+ 1  1  0 0 0  1 0 0  0 1 0  0 0 1 6051.DAT
+ 1 15  0 0 0  1 0 0  0 1 0  0 0 1 6050.DAT
+0

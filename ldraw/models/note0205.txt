@@ -1,0 +1,104 @@
+LDraw.org Parts Update 2002-05
+---------------------------------------------------------------------------
+
+Notes created Fri Nov 29 21:26:44 2002 by the Parts Tracker.
+
+Release statistics:
+   Total files: 199
+   New files: 163
+   New parts: 116
+   New subparts: 37
+   New primitives: 10
+
+New 3-digit part numbers assigned:
+   170.dat ~Technic Gearbox  4.5V Casing
+   171.dat ~Technic Gearbox  4.5V Back Plate
+   517.dat Brick  1 x  2 x  2 & 1/3 Shock Absorber Spring
+   518.dat Minifig Cannon  2 x  8 Non-Shooting
+   519.dat ~Crane Grab Jaw Spring
+   744.dat Technic Gear 42 Tooth
+   765.dat ~Electric Plug Single
+   766.dat ~Electric Plug Double Narrow
+   791.dat Window  1 x  6 x  5 Shutter
+   905.dat ~Electric Light & Sound Computer Console Base
+   906.dat ~Electric Light & Sound Computer Screen
+   981.dat Minifig Arm Left
+   982.dat Minifig Arm Right
+   983.dat Minifig Hand Improved
+
+Moved Parts
+   4215P05.DAT   ~Moved to 4215ap05
+   4215P06.DAT   ~Moved to 4215ap06
+   4215P07.DAT   ~Moved to 4215ap07
+   4215P77.DAT   ~Moved to 4215ap25
+   973P65.DAT    ~Moved to 973p6b, 973p6c, 973p6d, 973p6e
+
+Renamed Parts
+   1-4RING1.DAT  1/4 Ring Radius 1:2
+   changed to    Ring  1 x 0.25
+
+   BOX.DAT       Box (six faces)
+   changed to    Box 6 (six faces)
+
+   2336P36.DAT   Space Nose with V Pattern
+   changed to    Space Nose with Red/Silver "V" Pattern
+
+   251.DAT       Turntable  2 x  2 Plate Base with Hinge
+   changed to    ~Turntable  2 x  2 Plate Base with Hinge
+
+   2536C01.DAT   Plant Tree Palm  6 Segment with Small Leaves (Shortcut)
+   changed to    Plant Tree Palm  6 Segment with Large Leaves (Shortcut)
+
+   2618.DAT      Cockpit 10 X 10 Octagonal Base
+   changed to    Cockpit 10 x 10 x  4 Octagonal Base
+
+   30140.DAT     Panel  2 x  5 x  6 Log Wall
+   changed to    Panel  2 x  6 x  6 Log Wall
+
+   30386.DAT     Hinge Brick  1 X  2 Locking Double
+   changed to    Hinge Brick  1 x  2 Locking Double
+
+   30389.DAT     Hinge Brick  2 X  2 Locking with 1 Finger On Side
+   changed to    Hinge Brick  2 x  2 Locking with 1 Finger On Side
+
+   3679.DAT      Turntable  2 x  2 Plate Top
+   changed to    ~Turntable  2 x  2 Plate Top
+
+   4360.DAT      Space Laser-Gun with Side Sight (needs work)
+   changed to    Minifig Camera with Side Sight
+
+   50.DAT        Technic Friction Peg with Towball
+   changed to    Technic Friction Pin with Towball
+
+   578.DAT       Bar 4L Light Sabre Blade
+   changed to    Bar  4L Light Sabre Blade
+
+   975.DAT       Minifig Arm Right
+   changed to    ~Minifig Arm Right (Obsolete)
+
+   976.DAT       Minifig Arm Left
+   changed to    ~Minifig Arm Left (Obsolete)
+
+   977.DAT       Minifig Hand
+   changed to    ~Minifig Hand (Obsolete)
+
+   4858P90A.DAT  ~Subpart Wedge  4 x  4 with Classic Space Pattern - gold
+   changed to    Wedge  4 x  4 with Classic Space Pattern - Gold
+
+   973P65A.DAT   ~Subpart Minifig Torso with Futuron Pattern - Gold
+   changed to    Minifig Torso with Futuron Pattern - Gold
+
+Other Fixed Parts
+   8-8SPHE.DAT   Sphere 1.0
+   AXLEHOL5.DAT  Axle Hole #5
+   3462.DAT      Plate  2 x  3 with Helicopter Rotor Holder
+   3481.DAT      Plate  2 x  2 with Helicopter Tail Rotor Holder
+   4218.DAT      Roller Door with Handle
+   4219.DAT      Roller Door Normal
+   4474.DAT      Windscreen  6 x  4 x  2 Canopy
+   4858P90.DAT   Wedge  4 x  4 with Classic Space Pattern
+   4869.DAT      Plane Jet Engine Centre
+   6029A.DAT     Animal Cattlehorns (needs work)
+   6267.DAT      Windscreen  2 x 12 x  4
+   6536.DAT      Technic Axle Joiner Perpendicular
+   973P25.DAT    Minifig Torso with Red Cross and Stethoscope Pattern

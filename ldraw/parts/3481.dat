@@ -1,10 +1,12 @@
 0 Plate  2 x  2 with Helicopter Tail Rotor Holder
 0 Name: 3481.dat
 0 Author: Christian M. Angele (c.m.angele@t-online.de)
-0 Official LCad update 98-08
+0 LDRAW_ORG Part UPDATE 2002-05
 
-0 Date: 19971211
-0
+0 KEYWORDS pin
+
+0 2002-07-16 FWC Added keywords...  
+
 0 stud4
  1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 0 line0

@@ -1,7 +1,10 @@
-0 Turntable  2 x  2 Plate Base with Hinge
+0 ~Turntable  2 x  2 Plate Base with Hinge
 0 Name: 251.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Original LDraw Part
+0 LDRAW_ORG Part UPDATE 2002-05
+
+0 BFC NOCERTIFY
 
  1 16 0 4 0 1 0 0 0 2 0 0 0 1 peghole.dat
  1 16 0 6 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
@@ -104,4 +107,3 @@
  4 16 -20 0 20 -16 0 16 -16 0 -16 -20 0 -20
  4 16 20 0 20 16 0 16 -16 0 16 -20 0 20
  4 16 20 0 -20 16 0 -16 -16 0 -16 -20 0 -20
-

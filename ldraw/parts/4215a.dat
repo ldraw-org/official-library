@@ -1,0 +1,13 @@
+0 Panel  1 x  4 x  3
+0 Name: 4215a.dat
+0 Author: Bernd Broich
+0 LDRAW_ORG Part UPDATE 2002-05
+
+0 2001-Dec-02 BB Replaced non-decorated portion with reference to s\4215s01.dat
+0 2002-Jun-25 CWD Corrected header and added final 0
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4215as01.DAT
+
+4 16 40 72 10 -40 72 10 -40 0 10 40 0 10
+0

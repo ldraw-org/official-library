@@ -1,7 +1,7 @@
-0 Minifig Hand
+0 ~Minifig Hand (Obsolete)
 0 Name: 977.dat
 0 Author: Leonardo Zide with some help from Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2001-01
+0 LDRAW_ORG Part UPDATE 2002-05
 
 0 2001-Feb-09 CWD Corrected type 5 line, non-planar quads, vertex sequences,
 0                 and added intersect lines between wrist and hand.

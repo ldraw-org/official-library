@@ -1,8 +1,12 @@
-0 Cockpit 10 X 10 Octagonal Base
+0 Cockpit 10 x 10 x  4 Octagonal Base
 0 Name: 2618.dat
 0 Author: Orion Pobursky
-0 LDRAW_ORG Part UPDATE 2002-03
+0 LDRAW_ORG Part UPDATE 2002-05
+
 0 KEYWORD Dome, Aquazone, Castle, Star Wars, Arctic, Adventurers
+
+0 2002-08-31 DG Append one missing edge line
+
 1 16 -50 32 10 0 0 -1 0 1 0 1 0 0 stud.dat
 1 16 -50 32 -10 0 0 -1 0 1 0 1 0 0 stud.dat
 1 16 50 32 -10 0 0 -1 0 1 0 1 0 0 stud.dat
@@ -1536,4 +1540,5 @@
 2 24 18 68 -11 18 64 -11
 2 24 11 68 -18 11 64 -18
 2 24 -11 68 -18 -11 64 -18
+2 24 40 0 -100 -40 0 -100 
 0

@@ -1,7 +1,11 @@
-0 1/4 Ring Radius 1:2
+0 Ring  1 x 0.25
 0 Name: 1-4ring1.dat
 0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 Official LCad Primitive 2000-01
+0 LDRAW_ORG Primitive UPDATE 2002-05
+
+0 2002-11-22 Hafhead: Added BFC statement
+
+0 BFC CERTIFY CW
 
 4 16 1 0 0 0.9239 0 0.3827 1.8478 0 0.7654 2 0 0
 4 16 0.9239 0 0.3827 0.7071 0 0.7071 1.4142 0 1.4142 1.8478 0 0.7654

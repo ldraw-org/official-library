@@ -1,11 +1,10 @@
-0 Panel  2 x  5 x  6 Log Wall
+0 Panel  2 x  6 x  6 Log Wall
 0 Name: 30140.dat
 0 Author: Steve Bliss
-0 Official LCad update 99-05
+0 LDRAW_ORG Part UPDATE 2002-05
 
-0 CATEGORY Panel
 0 KEYWORDS wall, log, timber, wild west, pirates, ninja, adventurers
-0 not CW compliant
+0 BFC NOCERTIFY
 
 2 24 40 144 0 40 144 -17
 2 24 -40 144 -17 -40 144 0

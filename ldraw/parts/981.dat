@@ -1,0 +1,16 @@
+0 Minifig Arm Left
+0 Name: 981.dat
+0 Author: Chris Dee (chris_w_dee@hotmail.com)
+0 LDRAW_ORG Part UPDATE 2002-05
+ 
+0 Usage notes :
+0  Place at 15.552 9 0 relative to torso
+0  Then rotate about x axis to give require elevation of arm
+0   0 = upper arm vertical
+0   -45 = lower arm horizontal
+0   -90 = upper arm horizontal
+0  -135 = lower arm vertical
+0  Then rotate -9.782 about z axis to align with slope of torso
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 982.dat
+0

@@ -1,15 +1,16 @@
-0 Bar 4L Light Sabre Blade
+0 Bar  4L Light Sabre Blade
 0 Name: 578.dat
 0 Author: Steve Bliss
-0 Official LCad update 99-04
+0 LDRAW_ORG Part UPDATE 2002-05
 
-0 CATEGORY Bar
-0 KEYWORDS minifig, tool, light, saber, sabre, blade, bar, star wars
-0 CW-compliant (well, maybe CCW-compliant -- I haven't checked)
+0 KEYWORDS minifig, tool, saber, bar, star wars, accessory
+0 BFC CERTIFY CW
+
+0 2002-07-26 SEB Corrected spacing in title, applied BFC
 
 1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 80 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
 1 16 0 0 0 4 0 0 0 80 0 0 0 4 4-4cyli.dat
-1 16 0 80 0 4 0 0 0 -1 0 0 0 4 4-4disc.dat
+1 16 0 80 0 -4 0 0 0 -1 0 0 0 4 4-4disc.dat
 0
