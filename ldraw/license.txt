@@ -1,0 +1,186 @@
+               LDraw & LEdit Block Modelling Program
+
+                   Legal Information and License
+
+                             May 2001
+
+             GENERAL LICENSE AGREEMENT -- LICENSE.TXT
+              
+          (Distributed under permission by www.ldraw.org)
+
+                     LDraw beta version 0.27
+                     LEdit beta version 0.4
+                     SL2LD beta version 0.12
+           Copyright (C) 1996-2001 James Jessiman Estate
+
+                  The utility MKList version 1.2  
+              Copyright (C) 1999-2001 Lars C. Hassing
+
+          Other portions (.DAT format parts or primitives)
+      Copyright held by author of record as shown in each file
+
+                        
+                       All Rights Reserved
+
+
+You should carefully read the following terms and conditions
+before using this software. Use of this software indicates
+your acceptance of this license agreement and warranty.
+
+IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, EITHER DESTROY,
+OR RETURN INTACT, THE SOFTWARE, CONTAINING THE CD OR DISK MEDIA,
+TOGETHER WITH THE OTHER COMPONENTS OF THE PRODUCT TO THE PLACE
+OF PROCUREMENT.
+
+
+LICENSE AGREEMENT:
+This document is a legal agreement between you (either an
+individual or a single entity), the "USER," and the
+copyright holders. By installing, copying or otherwise
+using the enclosed software you agree to be bound by the terms
+of this license agreement. As used in this License agreement,
+the term "SOFTWARE" applies to all LDraw program executable
+(binary) files, model files, documentation files, and .DAT format
+piece and primitive files contained in official LDraw archives.
+The LDraw copyright holders reserve the right to revise these
+rules in future versions and to make additional rules to address
+new circumstances at any time.
+
+All of this software is Copyrighted.
+Although it is distributed as freeware, it is NOT PUBLIC DOMAIN.
+
+
+WARRANTY:
+THIS SOFTWARE IS PROVIDED ON AN AS-IS BASIS
+WITHOUT WARRANTY OF ANY KIND.
+
+PROVIDER SPECIFICALLY DISCLAIMS ANY OTHER WARRANTY,
+EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+IN NO EVENT SHALL PROVIDER BE LIABLE FOR ANY
+CONSEQUENTIAL, INDIRECT, SPECIAL OR INCIDENTAL DAMAGES,
+EVEN IF PROVIDER HAS BEEN ADVISED BY USER OF THE
+POSSIBILITY OF SUCH POTENTIAL LOSS OR DAMAGE. USER
+AGREES TO HOLD PROVIDER HARMLESS FROM AND AGAINST ANY
+AND ALL CLAIMS, LOSSES, LIABILITIES AND EXPENSES.
+
+
+PROPRIETARY RIGHTS:
+The SOFTWARE and any accompanying documentation are proprietary 
+products of the copyright holders and are protected under 
+applicable copyright laws and international treaty provisions.
+You obtain no rights, title or other interests in or to the enclosed
+software or related documentation, including any copyright, patent,
+trade secret, trademark or other proprietary rights therein.
+Ownership of the SOFTWARE and all copies, modifications, and merged
+portions thereof shall at all times remain with the copyright holders.
+All copies of the enclosed software, in whole, or in part remain
+the intellectual property of the copyright holders.
+
+
+GRANT OF LICENSE:
+The SOFTWARE and accompanying documentation are being licensed to you,
+which means you have the right to use the SOFTWARE only in accordance
+with this License Agreement. The SOFTWARE is considered in use on a
+computer when it is loaded into temporary memory or installed into
+permanent memory.
+
+
+USAGE PROVISIONS:                                 
+Permission is granted to the user to use the software and
+associated files in this package to create and render images. The
+use of this software for the purpose of creating images is
+completely free. The creator of a model file and the image created
+from the model file, retains all rights to the image and model
+file they created and may use them for any purpose commercial or
+non-commercial.
+
+
+DISTRIBUTION:
+This software application is FREEWARE, which means you can
+make as many copies as you want, give it to friends or otherwise
+distribute it freely, subject to the conditions below:
+
+1    You may copy and distribute the software provided
+     you comply with the following:
+
+     a)   No charge is made for providing the disk or media,
+          other than a small handling charge to cover costs.
+     b)   A copy of this notice is included in the distribution.
+     c)   All original files are copied and included on the
+          distribution disk or media without alteration.
+     d)   All copyright notices and information remain intact.
+
+2    Teachers and educational institutions may also distribute
+     the material to students for free or they may charge minimal
+     copying costs if the software is to be used in a course.
+
+
+RETAIL VALUE OF THIS SOFTWARE:
+Although LDraw is, when distributed within the terms of this
+agreement, free of charge, the retail value (or price) of this
+program is determined as US$20.00 per copy distributed or copied.
+If the software is distributed or copied without authorization you
+are legally liable to this debt to the copyright holders or any
+other person or organization delegated by the copyright holders for
+the collection of this debt, and you agree that you are legally
+bound by the above and will pay this debt within 30 days of the
+event.
+
+HOWEVER, none of the above paragraph constitutes permission for
+you to distribute this software outside of the terms of this
+agreement. In particular, the conditions and debt mentioned above
+(whether paid or unpaid) do not allow you to avoid statutory
+damages or other legal penalties and does not constitute any
+agreement that would allow you to avoid such other legal remedies
+as are available to the copyright holders.
+
+Put simply, LDraw is only free if you comply with our distribution
+conditions; it is not free otherwise. The copyright holders of this
+software chooses to give it away free under these and only these
+conditions.
+
+For the purpose of copyright regulations, the retail value of this
+software is US$20.00 per copy.
+
+
+OTHER PROVISIONS:
+ INTELLECTUAL PROPERTY RIGHTS:
+ 1   The LDraw .DAT file format:
+      
+     a)   The graphics description language used in the 
+          construction of the LDraw Part and Primitive .DAT
+          files remains the sole intellectual property of 
+          James Jessiman and his estate.
+     b)   The creation of programs which import, export or translate
+          files in the LDraw .DAT language format is encouraged. There
+          are no restrictions on the use of the language itself. 
+     c)   We reserve the right to add or remove or change any part of
+          the language or .DAT file format.  
+     d)   Creation of tools and utilities simplifying or extending
+          the functionality of LDraw is also encouraged.
+
+
+REVOCATION OF LICENSE:
+VIOLATION OF THIS LICENSE IS A VIOLATION OF COPYRIGHT LAWS. IT
+WILL RESULT IN REVOCATION OF ALL USE AND DISTRIBUTION PRIVILEGES
+AND MAY RESULT IN CIVIL OR CRIMINAL PENALTY.
+
+
+                 ---End of License Information---
+
+
+TECHNICAL SUPPORT:
+The LDraw software package is user-supported and maintained, as
+such, there are no formal technical support facilities available.
+However, there are a large number of users that are willing to
+share their knowledge and expertise.  For further information,
+or should you have any questions concerning this Agreement, please
+make inquiries at:  www.ldraw.org
+
+Other sources of information include the LDraw and CAD-related
+newsgroup forums on the private news server www.lugnet.com and
+possibly on the public Usenet newsgroup Rec.Toys.Lego
+
+
+--end of file--

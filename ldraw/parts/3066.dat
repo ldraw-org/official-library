@@ -1,0 +1,19 @@
+0 Brick  1 x  4 without Centre Studs
+0 Name: 3066.dat
+0 Author: James Jessiman
+0 Original LDraw Part - LDraw beta 0.27 Archive
+
+1 16 0 24 0 36 0 0 0 -20 0 0 0 6 box5.dat
+
+4 16 40 24 10 36 24 6 -36 24 6 -40 24 10
+4 16 -40 24 10 -36 24 6 -36 24 -6 -40 24 -10
+4 16 -40 24 -10 -36 24 -6 36 24 -6 40 24 -10
+4 16 40 24 -10 36 24 -6 36 24 6 40 24 10
+
+1 16 0 24 0 40 0 0 0 -24 0 0 0 10 box5.dat
+
+1 16 30 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -30 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+0

@@ -1,0 +1,454 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE>LEdit.htm Documentation File</TITLE>
+<META NAME="Generator" CONTENT="HTMLed Pro32 Version 2.0d">
+<META NAME="Author" CONTENT="Terry Keller - updated from the James Jessiman original text">
+</HEAD>
+<BODY BGCOLOR="#F3F3F3">
+<FONT FACE=="Verdana, Arial, Helvetica" size="-0">
+<H1>LEdit beta 0.4 documentation.</H1>
+<BLOCKQUOTE>
+<FONT SIZE="+2">
+The LEdit program is to create and edit your models.
+This program is interactive and uses keyboard commands.
+Sorry, no mouse support.<BR>
+</FONT>
+
+<UL>
+<LI><B>Typical LEdit Screen</B><BR>
+The LEdit screen consists of four text lines, a separator bar, and an viewing window.
+The first text line is a informational status line. The following three lines show
+the Previous, Current, and Next pieces in the model file.<BR>
+Below the diagram is an explanation of what each pointer in the diagram means.<BR>
+<BR>
+</UL>
+<IMG SRC="htmimage/ledit.gif" ALT="LEdit Window" WIDTH="546" HEIGHT="488" BORDER="0">
+<UL>
+<UL>
+<LI><B>Current line</B><BR>
+This shows what line in your model your are working on. <A HREF="#/Pdetail"><I>more info...</I></A>
+<LI><B>Orientation of viewing window</B><BR>
+Shows what view the window is currently displaying. Use key shortcut <B>/V</B> to change. <A HREF="#/Vdetail"><I>more info...</I></A>
+<LI><B>Zoom factor</B><BR>
+Shows the current magnification level of the screen. Use the <FONT SIZE="+2"><B>+</B></FONT>
+or <FONT SIZE="+2"><B>-</B></FONT> keys to change. <A HREF="#zoom1"><I>more info...</I></A>
+<LI><B>Move increment</B><BR>
+Shows the current Movement setting. Use <B>M</B> to cycle through Normal/Coarse/Fine settings. <A HREF="#move"><I>more info...</I></A>
+<LI><B>Piece filename</B><BR>
+Shows the actual filename for the Previous/Current/Next pieces.
+<LI><B>Previous piece</B><BR>
+The top line of the three parts lines is the Previous piece. Use the <B>Page Up</B> key to scroll
+it into the Current piece position to edit.
+<LI><B>Next piece</B><BR>
+The bottom line of the three parts lines is the Next piece. Use the <B>Page Down</B> key to scroll
+it into the Current piece position to edit.
+<LI><B>Current piece</B><BR>
+The center line of the three parts lines is the Current Piece. <B>The piece in this position is
+the one on which all editing is done</B>.
+<LI><B>Piece orientation</B><BR>
+This series of nine numbers describe a pieces orientation - what angle of rotation it has - among
+its three axis, X,Y, and Z. These numbers will change when the piece is turned using the key
+shortcuts <B>/TX</B>, <B>/TY</B> and <B>/TZ</B>. <A HREF="#xyz"><I>more info...</I></A>
+<LI><B>Piece Z coordinate</B><BR>
+This number shows a pieces Z coordinate - where it is located - in three dimensional space.<BR>
+Depending on the current view, use the proper <B>Arrow</B>, <B>Home</B>, or <B>End</B> keys to change.
+Or use the Z key to enter the desired distance to move in that direction. <A HREF="#Zkey"><I>more info...</I></A>
+<LI><B>Piece Y coordinate</B><BR>
+This number shows a pieces Y coordinate - where it is located - in three dimensional space.<BR>
+Depending on the current view, use the proper <B>Arrow</B>, <B>Home</B>, or <B>End</B> keys to change.
+Or use the Y key to enter the desired distance to move in that direction. <A HREF="#Ykey"><I>more info...</I></A>
+<LI><B>Piece X coordinate</B><BR>
+This number shows a pieces X coordinate - where it is located - in three dimensional space.<BR>
+Depending on the current view, use the proper <B>Arrow</B>, <B>Home</B>, or <B>End</B> keys to change.
+Or use the X key to enter the desired distance to move in that direction. <A HREF="#Xkey"><I>more info...</I></A>
+<LI><B>Colour</B><BR>
+This number shows a pieces colour code.  Use <B>C</B> or the <B>/PC</B> key shortcut to change. <A HREF="#colour"><I>more info...</I></A>
+<LI><B>Line-Type</B><BR>
+This number will always be a 1 for pieces.  For Comments added with the <B>/ELC</B> key shortcut, or
+STEPS added with the <B>/ELS</B> key shortcut, it will be a 0. <A HREF="#comments"><I>more info...</I></A>
+<LI><B>Viewing Window</B><BR>
+This is where the visual display of the model is shown. This is also where the visual display
+of parts files available for use is shown when the <B>P</B> then <B>Enter</B> key is pressed.
+</UL>
+</UL>
+
+<FONT SIZE="+2">
+Single key commands:
+<BR>
+</FONT>
+
+ <UL>
+<LI><FONT SIZE="+1"><B>Piece Movement</B></FONT><BR>
+Move the Current piece in 6 axis on the screen:
+<UL>
+<LI><B>Arrow Keys</B><BR>
+Move the piece onscreen in the direction indicated by the arrow.<BR>
+Except in the default Three-D view where the movement is toward the corners of the screen  :
+<UL>
+<LI><B>Up</B> Arrow moves the piece toward the upper-right corner.
+<LI><B>Down</B> Arrow moves the piece toward the lower-left corner.
+<LI><B>Left</B> Arrow moves the piece toward the upper-left corner.
+<LI><B>Right</B> Arrow moves the piece toward the lower-right corner.
+</UL>
+<LI><B>Home</B><BR>
+Home generally moves the piece directly <B>Away</B> from you, but this is usually not apparent
+due to LEdit not having any perspective. An exception is when using the default
+Three-D view, where it moves the piece <B>Up</B> in a true vertical motion.
+<LI><B>End</B><BR>
+End generally moves the piece directly <B>Toward</B> you, but this is usually not apparent
+due to LEdit not having any perspective. An exception is when using the default
+Three-D view, where it moves the piece <B>Down</B> in a true vertical motion.
+</UL>
+</UL>
+
+<UL>
+<FONT SIZE="+1"><B>Page up</B></FONT>
+<LI>  Selects the Previous piece to make it the Current piece.<BR>
+Scrolls up through the list of pieces in your model.
+</UL>
+
+<UL>
+<FONT SIZE="+1"><B>Page down</B></FONT>
+<LI>  Selects the Next piece to make it the Current piece.<BR>
+Scrolls down through the list of pieces in your model.
+</UL>
+
+<UL>
+<FONT SIZE="+1"><B>A</B></FONT>
+<LI>  Turns the Current piece 90 degrees clockwise (looking from above the
+piece).
+</UL>
+
+
+<UL>
+<A NAME="colour">
+<FONT SIZE="+1"><B>C</B></FONT>
+<LI>Gets prompt to change Current piece <B>Colour</B>.<BR>
+Then enter a colour number:<BR>
+<UL>
+
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;0&nbsp;=&nbsp;<B>Black</B></TD><TD WIDTH="25" BGCOLOR=#000000>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;1&nbsp;=&nbsp;<B>Blue</B></TD><TD WIDTH="25" BGCOLOR=#0001A6>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;2&nbsp;=&nbsp;<B>Green</B></TD><TD WIDTH="25" BGCOLOR=#00AC00>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;3&nbsp;=&nbsp;<B>Dark Cyan</B></TD><TD WIDTH="25" BGCOLOR=#00AAA9>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;4&nbsp;=&nbsp;<B>Red</B></TD><TD WIDTH="25" BGCOLOR=#A90200>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;5&nbsp;=&nbsp;<B>Magenta</B></TD><TD WIDTH="25" BGCOLOR=#A8567E>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;6&nbsp;=&nbsp;<B>Brown</B></TD><TD WIDTH="25" BGCOLOR=#A6AB06>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;7&nbsp;=&nbsp;<B>Grey</B></TD><TD WIDTH="25" BGCOLOR=#CCCCCC>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;8&nbsp;=&nbsp;<B>Dark Grey</B></TD><TD WIDTH="25" BGCOLOR=#646464>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;9&nbsp;=&nbsp;<B>Light Blue</B></TD><TD WIDTH="25" BGCOLOR=#5454FF>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">10&nbsp;=&nbsp;<B>Light Green</B></TD><TD WIDTH="25" BGCOLOR=#53FF56>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">11&nbsp;=&nbsp;<B>Cyan</B></TD><TD WIDTH="25" BGCOLOR=#4BAFFA>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">12&nbsp;=&nbsp;<B>Light Red</B></TD><TD WIDTH="25" BGCOLOR=#FF5551>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">13&nbsp;=&nbsp;<B>Pink</B></TD><TD WIDTH="25" BGCOLOR=#F5AFE1>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">14&nbsp;=&nbsp;<B>Yellow</B></TD><TD WIDTH="25" BGCOLOR=#FFFF44>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">15&nbsp;=&nbsp;<B>White</B></TD><TD WIDTH="25" BGCOLOR=#FFFFFF>&nbsp;</TD> </TR> </TABLE>
+   &nbsp;16&nbsp;=&nbsp;<B>Null-colour</B><BR>
+Pieces using null colour code use whatever colour code is entered on the command line when rendering with LDraw or, if no colour code is specified, they default to a #7 Grey colour.<BR>
+<B>Clear Colours.</B><BR>
+Add 32 to get clear versions of the colours.<BR>
+For example, to get clear red use 36 (32 for clear + 4 for red)<BR>
+<B>Note:</B> After setting a pieces colour, each subsequent piece added to the model will be
+that same colour, until the colour is changed.
+</UL>
+</UL>
+
+<UL>
+<FONT SIZE="+1"><B>E</B></FONT>
+<LI>  <B>Erases</B> the screen. Will cause the program to redraw the model.
+</UL>
+
+<UL>
+<FONT SIZE="+1"><B>I</B></FONT>
+<LI>  <B>Insert</B> new piece.<BR>
+Inserts a new line for a piece directly below the current one.
+The current line and above are moved up to make room.
+The new piece inserted is the same as the previously used piece,
+but does not have the previous pieces orientation.
+</UL>
+
+<UL>
+<A NAME="move">
+<FONT SIZE="+1"><B>M</B></FONT>
+<LI><B>Move</B> setting adjustment.<BR>
+This adjusts the distance a piece moves when using the Arrow, Home or End keys.<BR>
+The current setting is shown at the top of screen.<BR>
+Three settings are available:<BR>
+<UL>
+<LI><B>Fine</B><BR>
+The Fine setting moves a piece 1/20 of a stud sideways or 1/8 of a plate thickness up.
+<LI><B>Normal</B><BR>
+The Default setting.<BR>
+The Normal setting moves a piece 1/2 of a stud sideways or 1 plate thickness up.
+<LI><B>Coarse</B><BR>
+The Coarse setting moves a piece 5 studs sideways or 10 plate thicknesses up.
+</UL>
+</UL>
+
+<UL>
+<FONT SIZE="+1"><B>P</B></FONT>
+<LI>Gets prompt to enter a <B>Piece</B> number.<BR>
+Changes the Current piece to the one specified.
+<UL>
+<UL>
+<LI>   3001.dat&nbsp;=&nbsp;2x4 Brick
+<LI>   3002.dat&nbsp;=&nbsp;2x3 Brick
+<LI>   3003.dat&nbsp;=&nbsp;2x2 Brick
+<LI>   When entering part numbers, only the number need be entered - the
+<I>.dat</I> is not required
+</UL>
+</UL>
+<LI>Or press Enter at the Part no: prompt for a scrollable list of pieces.
+Placing the scroll highlight on the desired piece and pressing Enter
+will select that piece.
+</UL>
+
+<UL>
+<FONT SIZE="+1"><B>W</B></FONT>
+<LI>  <B>Swap</B> the Current and the Next pieces.
+</UL>
+
+<UL>
+<A NAME="Xkey">
+<FONT SIZE="+1"><B>X</B></FONT>
+<LI>Gets prompt to move the Current piece in the <B>X</B> direction.<BR>
+Enter the number of LDraw units you wish to move the piece.
+This moves the piece in the desired direction just like the arrow/home/end keys do.
+<B>This does not rotate the piece</B>.
+</UL>
+
+<UL>
+<A NAME="Ykey">
+<FONT SIZE="+1"><B>Y</B></FONT>
+<LI>Gets prompt to move the Current piece in the <B>Y</B> direction.<BR>
+Enter the number of LDraw units you wish to move the piece.
+This moves the piece in the desired direction just like the arrow/home/end keys do.
+<B>This does not rotate the piece</B>.
+</UL>
+
+
+<UL>
+<A NAME="Zkey">
+<FONT SIZE="+1"><B>Z</B></FONT>
+<LI>Gets prompt to move the Current piece in the <B>Z</B> direction.<BR>
+Enter the number of LDraw units you wish to move the piece.
+This moves the piece in the desired direction just like the arrow/home/end keys do.
+<B>This does not rotate the piece</B>.
+</UL>
+
+<UL>
+<A NAME="zoom1">
+<FONT SIZE="+2"><B>-</B></FONT>
+<LI>Zooms out. Will cause a redraw of the entire screen.<BR>
+The current setting of the zoom factor is shown at the top of the screen.
+</UL>
+
+
+<UL>
+<FONT SIZE="+2"><B>+</B></FONT>
+<LI> Zooms in. Will cause a redraw of the entire screen.<BR>
+The current setting of the zoom factor is shown at the top of the screen.
+</UL>
+
+<FONT SIZE="+2">
+Multiple key menu commands:<BR>
+</FONT>
+<BR>
+<FONT SIZE="+1"><B>LEdit Menus</B></FONT><BR>
+<IMG SRC="htmimage/filemenu.gif" ALT="LEdit Menu" WIDTH="363" HEIGHT="42" BORDER="0"><BR>
+Use the '<B>/</B>' or '<B>ESC</B>' keys to activate the menus.<BR>
+Then use the arrow keys to navigate the menu. Or use the key shortcuts shown.<BR>
+<UL>
+<LI><B>File</B> Menu  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/F</B>]<BR>
+<IMG SRC="htmimage/loadmenu.gif" ALT="File Menu" WIDTH="336" HEIGHT="51" BORDER="0"><BR>
+<UL>
+<LI><B>Load</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/FL</B>]<BR>
+    Loads an existing model file by prompting you to type its name.<BR>
+    <FONT COLOR="#FF0000">WARNING</FONT>: Current file will <B>not</B> be saved first!
+    Save prior to loading!
+<LI><B>Save</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/FS</B>]<BR>
+    Saves the file. Press enter to use the name suggested. Or type a new name.<BR>
+    <FONT COLOR="#FF0000">WARNING</FONT>: Save often! LEdit can crash under
+    some circumstances, so make it a habit to save after placing a few pieces.
+<LI><B>Exit</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/FE</B>]<BR>
+    Exits the program.  Prompts to save the current file if needed.
+</UL>
+</UL>
+
+<UL>
+<LI><B>Edit</B> Menu  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/E</B>]<BR>
+<IMG SRC="htmimage/editmenu.gif" ALT="Edit Menu" WIDTH="329" HEIGHT="45" BORDER="0"><BR>
+<UL>
+<LI><B>Insert</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/EI</B>]<BR>
+     Inserts a new piece. Same as '<B>I</B>' above.<BR>
+<LI><B>Delete</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/ED</B>]<BR>
+    Deletes the Current piece.
+<LI><B>Swap</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/ES</B>]<BR>
+    Swaps the Current and Next pieces. Same as '<B>W</B>' above.
+<A NAME="comments">
+<LI><B>Line-Type</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/EL</B>]<BR>
+ Changes the current line type to:
+   <UL>
+<LI><B>Piece</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/ELP</B>]<BR>
+  Set Line-Type to Piece. The default setting.
+<LI><B>Comment</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/ELC</B>]<BR>
+  Set Line-Type to Comment. This line contains a text comment which you may type in.<BR>
+  Note that there are three special comment types:<BR>
+<UL>
+<LI><B>PAUSE</B><BR>
+Typing PAUSE (must be in capital letters) in the comment field causes LDraw to pause
+when rendering the model file.  Similar to the STEP command below, but without the
+graphic output capabilities.
+<LI><B>WRITE</B><BR>
+Typing WRITE (must be in capital letters) in the comment field causes LDraw to show whatever
+text is after the WRITE command onscreen in the upper-left corner. This has limited functionality
+due to LDraw not clearing the text before writing other text, resulting in a confusing mixture
+of text.
+<LI><B>CLEAR</B><BR>
+Typing CLEAR (must be in capital letters) in the comment field causes LDraw to erase all pieces
+displayed up to that point.  LDraw then continues by displaying all pieces after the CLEAR command.
+</UL>
+<LI><B>Step</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/ELS</B>]<BR>
+  Set Line-Type to Step. This line separates the steps in a model. Steps normally cause LDraw
+  to pause when rendering and, when the LDraw command line switch -MS is specified, cause LDraw
+  to output a bitmap picture of the model.<BR>
+  Note that the STEP command is all capitals - useful to remember if adding STEP's to a
+  model file in a text editor.
+</UL>
+</UL>
+</UL>
+
+<A NAME="/Vdetail">
+<UL>
+<LI><B>View</B> Menu  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/V</B>]<BR>
+<IMG SRC="htmimage/viewmenu.gif" ALT="View Menu" WIDTH="596" HEIGHT="46" BORDER="0"><BR>
+Changes the current view to the one selected. Will cause a redraw of the screen.<BR>
+For reference, in the default Three-D mode, 'Front' is considered to be a view
+from the lower-left corner of the screen.  So a model of a car would point toward
+the lower-left corner of the screen.  See the <I>car.dat</I> model file included with this program
+for an example of proper orientation.
+<UL>
+<LI><B>Front</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/VF</B>]<BR>
+Change to a Front view of the model.
+<LI><B>Right</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/VR</B>]<BR>
+Change to a Right side view of the model.
+<LI><B>Left</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/VL</B>]<BR>
+Change to a Left side view of the model.
+<LI><B>Back</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/VB</B>]<BR>
+Change to a Back (rear) view of the model.
+<LI><B>Over</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/VO</B>]<BR>
+Change to a Over (above) view of the model.
+<LI><B>Under</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/VU</B>]<BR>
+Change to a Under (beneath) view of the model.
+<LI><B>Three-D</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/VT</B>]<BR>
+Change to a Three-D view of the model. This is the default view.
+<LI><B>Out(Zoom)</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>none</B>]<BR>
+Same as '<B>-</B>' above.
+<LI><B>In(Zoom)</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/VI</B>]<BR>
+Same as '<B>+</B>' above.
+<LI><B>Centre-Set</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/VC</B>]<BR>
+Sets the centre of the viewing window to be wherever the blinking cursor is located.<BR>
+Not to be confused with the Centre-Set used for turning pieces. (see below)
+</UL>
+</UL>
+
+
+<UL>
+<A NAME="xyz">
+<LI><B>Turn</B> Menu  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/T</B>]<BR>
+<IMG SRC="htmimage/turnmenu.gif" ALT="Turn Menu" WIDTH="346" HEIGHT="48" BORDER="0"><BR>
+<FONT COLOR="#FF0000">WARNING</FONT>: When turning a piece, be careful to only
+use <B>NUMBERS</B> where prompted. Using letters will cause LEdit to crash, losing
+all work done to a model since the last save.
+<UL>
+<LI><B>X-axis</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/TX</B>]<BR>
+Gets Prompt to turn the Current piece around the X-axis. Enter the number of
+degrees to turn the piece from 0 to 360. May also use negative numbers to turn
+in the opposite direction.
+<LI><B>Y-axis</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/TY</B>]<BR>
+Gets Prompt to turn the Current piece around the Y-axis. Enter the number of
+degrees to turn the piece from 0 to 360. May also use negative numbers to turn
+in the opposite direction.
+<LI><B>Z-axis</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/TZ</B>]<BR>
+Gets Prompt to turn the Current piece around the Z-axis. Enter the number of
+degrees to turn the piece from 0 to 360. May also use negative numbers to turn
+in the opposite direction.
+<LI><B>Centre-Set</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/TC</B>]<BR>
+Sets the centre of rotation to be wherever the cursor is currently located.
+<OL>
+<LI>In most cases, you will probably want to place the Centre-Set on whatever
+piece you are about to turn. If you place Centre-Set on the piece you want to
+rotate, the piece will rotate around its own default center. (which is good)
+<LI>If you do not place the Centre-Set on the piece you want to rotate, but place it
+or leave it on some other piece, the piece you are trying to turn may rotate around
+a wide arc centered on wherever the Centre-Set happens to be. This will most likely
+cause your piece to rotate right out of the viewing window. (which can be very annoying)
+<LI>But there are some cases where, with a little planning, placing the Centre-Set somewhere
+other than on the piece you are about to turn can be advantageous. Doing this successfully
+takes some practice and patience.
+</OL>
+</UL>
+</UL>
+
+<UL>
+<LI><B>Piece</B> Menu  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/P</B>]<BR>
+<IMG SRC="htmimage/piecmenu.gif" ALT="Piece Menu" WIDTH="334" HEIGHT="46" BORDER="0"><BR>
+<UL>
+<LI><B>File</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/PF</B>]<BR>
+Gets prompt to change the Current piece number. Same as '<B>P</B>' above.<BR>
+Or press enter for a scrollable list of pieces.
+<LI><B>Colour</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/PC</B>]<BR>
+Gets prompt to change the Current piece colour. Same as '<B>C</B>' above.
+<A NAME="/Pdetail">
+<LI><B>Goto-Line</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/PG</B>]<BR>
+Gets prompt to move to a different line number in the model. Enter the line
+number where you wish to go, or enter a very large number to jump to the end
+of the file.  Useful in a large model where scrolling using the Page Up/Page Down
+keys is too slow.
+</UL>
+</UL>
+
+<UL>
+<LI><B>Options</B> Menu  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/O</B>]<BR>
+<IMG SRC="htmimage/optsmenu.gif" ALT="Options Menu" WIDTH="475" HEIGHT="44" BORDER="0"><BR>
+<UL>
+<LI><B>Line-as-Stud</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/OL</B>]<BR>
+Causes LEdit to display studs on pieces as either simple lines or as full studs.
+The default setting is (on) which shows the studs as simple lines.  This improves
+the drawing speed and makes alignment of parts easier. Each selection of this
+option switches the setting.
+<LI><B>Start-at-Line</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/OS</B>]<BR>
+Selecting this causes LEdit to start drawing from the Current piece when the screen is redrawn.
+The current line where drawing starts from is shown in parenthesis. The default is
+line (0) - the first piece. The program resets to (0) when started.
+This option is useful by allowing earlier pieces to not be drawn, thus speeding up redraws
+of the screen and reducing onscreen clutter.
+<LI><B>Stop-at-Cursor</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>none</B>]<BR>
+By default, LEdit draws all pieces up to and including the Current piece.  All pieces
+after the Current piece are not drawn.  Selecting this option causes LEdit to draw all
+pieces in a file regardless of which piece is currently selected. Each selection of this
+option switches the setting.
+</UL>
+</UL>
+
+<UL>
+<LI><B>Quit</B> Menu  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/Q</B>]<BR>
+<IMG SRC="htmimage/quitmenu.gif" ALT="Quit Menu" WIDTH="323" HEIGHT="44" BORDER="0"><BR>
+Exits the program. If there have been no modifications to the model file, the
+program exits immediately.  If the model file has been modified, you are asked if you
+want to save before exiting:
+<UL>
+<LI><B>Yes</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/QY</B>]<BR>
+Gets a prompt to Save the file. Press enter to use the name suggested. Or type a new name.
+<LI><B>No</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/QN</B>]<BR>
+Exits the program without saving.
+<LI><B>Cancel</B>  &nbsp;&nbsp;[key shortcut&nbsp;=&nbsp;<B>/QC</B>]<BR>
+Returns to the program.
+</UL>
+</UL>
+<BR>--end of file--
+</BLOCKQUOTE>
+</BODY>
+
+</HTML>

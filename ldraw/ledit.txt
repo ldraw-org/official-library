@@ -1,0 +1,507 @@
+LEdit beta 0.4 documentation.
+
+The LEdit program is to create and edit your models.
+This program is interactive and uses keyboard commands.
+Sorry, no mouse support.
+
+* Note: Viewing the file ledit.htm in a browser is preferable *
+* over viewing this text file. The HTML version is enhanced.  *
+
+Piece Movement
+   Move the Current piece in 6 axis on the screen:
+
+     Arrow Keys
+       Move the piece onscreen in the direction indicated by the arrow.
+       Except in the default Three-D view where the movement is toward
+       the corners of the screen:
+           Up Arrow moves the piece toward the upper-right corner.
+           Down Arrow moves the piece toward the lower-left corner.
+           Left Arrow moves the piece toward the upper-left corner.
+           Right Arrow moves the piece toward the lower-right corner.
+
+     Home
+       Home generally moves the piece directly Away from you, but this is usually
+       not apparent due to LEdit not having any perspective. An exception is when
+       using the default Three-D view, where it moves the piece Up in a true
+       vertical motion.
+
+     End
+       End generally moves the piece directly Toward you, but this is usually not
+       apparent due to LEdit not having any perspective. An exception is when
+       using the default Three-D view, where it moves the piece Down in a true
+       vertical motion.
+
+
+
+Page up
+  Selects the Previous piece to make it the Current piece.
+  Scrolls up through the list of pieces in your model.
+
+
+
+Page down
+  Selects the Next piece to make it the Current piece.
+  Scrolls down through the list of pieces in your model.
+
+
+
+A
+  Turns the Current piece 90 degrees clockwise (looking from above the
+  piece).
+
+
+
+C
+  Gets prompt to change Current piece Colour.
+  Then enter a colour number:
+
+    0 = Black 
+    1 = Blue 
+    2 = Green 
+    3 = Dark Cyan 
+    4 = Red 
+    5 = Magenta 
+    6 = Brown 
+    7 = Grey 
+    8 = Dark Grey 
+    9 = Light Blue 
+   10 = Light Green 
+   11 = Cyan 
+   12 = Light Red 
+   13 = Pink 
+   14 = Yellow 
+   15 = White 
+   16 = Null-colour
+        Pieces using null colour code use whatever colour code is entered
+        on the command line when rendering with LDraw or, if no colour code
+        is specified, they default to a #7 Grey colour.
+   Clear Colours.
+        Add 32 to get clear versions of the colours.
+        For example, to get clear red use 36 (32 for clear + 4 for red)
+   Note: After setting a pieces colour, each subsequent piece added to the
+         model will be that same colour, until the colour is changed.
+
+
+
+E
+  Erases the screen. Will cause the program to redraw the model.
+
+
+
+I
+  Insert new piece.
+    Inserts a new line for a piece directly below the current one.
+    The current line and above are moved up to make room.
+    The new piece inserted is the same as the previously used piece,
+    but does not have the previous pieces orientation.
+
+
+
+M
+  Move setting adjustment.
+    This adjusts the distance a piece moves when using the Arrow, Home or End keys.
+    The current setting is shown at the top of screen.
+    Three settings are available:
+       Fine
+         The Fine setting moves a piece 1/20 of a stud sideways or
+         1/8 of a plate thickness up.
+
+       Normal
+         The Default setting.
+         The Normal setting moves a piece 1/2 of a stud sideways or
+         1 plate thickness up.
+
+       Coarse
+         The Coarse setting moves a piece 5 studs sideways or
+         10 plate thicknesses up.
+
+
+
+P
+  Gets prompt to enter a Piece number.
+  Changes the Current piece to the one specified.
+    3001.dat = 2x4 Brick
+    3002.dat = 2x3 Brick
+    3003.dat = 2x2 Brick
+        When entering part numbers, only the number need be
+        entered - the .dat is not required
+  Or press Enter at the Part no: prompt for a scrollable list of pieces.
+  Placing the scroll highlight on the desired piece and pressing Enter
+  will select that piece.
+
+
+
+W
+  Swap the Current and the Next pieces.
+
+
+
+X
+  Gets prompt to move the Current piece in the X direction.
+  Enter the number of LDraw units you wish to move the piece.
+
+
+
+Y
+  Gets prompt to move the Current piece in the Y direction.
+  Enter the number of LDraw units you wish to move the piece.
+
+
+
+Z
+  Gets prompt to move the Current piece in the Z direction.
+  Enter the number of LDraw units you wish to move the piece.
+
+ 
+
+-
+  Zooms out. Will cause a redraw of the entire screen.
+  The current setting of the zoom factor is shown at the top
+  of the screen.
+
+
+
++
+  Zooms in. Will cause a redraw of the entire screen.
+  The current setting of the zoom factor is shown at the top
+  of the screen.
+
+
+
+LEdit Menus
+  Use the '/' or 'ESC' keys to activate the menus.
+  Then use the arrow keys to navigate the menu.
+  Or use the key shortcuts shown.
+
+File Menu    [key shortcut = /F]
+
+     Load    [key shortcut = /FL]
+             Loads an existing model file.
+                WARNING: Current file will not be saved first!
+                         Save prior to loading!
+
+     Save    [key shortcut = /FS]
+             Saves the file. Press enter to use the name suggested.
+             Or type a new name.
+                WARNING: Save often! LEdit can crash under some circumstances,
+                         so make it a habit to save after placing a few pieces.
+     Exit    [key shortcut = /FE]
+             Exits the program.  Prompts to save the current file if needed.
+
+
+
+Edit Menu    [key shortcut = /E]
+
+     Insert    [key shortcut = /EI]
+               Inserts a new piece. Same as 'I' above.
+
+     Delete    [key shortcut = /ED]
+               Deletes the Current piece.
+     
+     Swap      [key shortcut = /ES]
+               Swaps the Current a Next pieces. Same as 'W' above.
+
+     Line-Type [key shortcut = /EL]
+               Changes the current line type to:
+
+                  Piece    [key shortcut = /ELP]
+                           Set Line-Type to Piece. The default setting.
+
+                  Comment  [key shortcut = /ELC]
+                           Set Line-Type to Comment. This line contains a text
+                           comment which you may type in.
+                           Note that there are three special comment types:
+                              PAUSE
+                                 Typing PAUSE (must be in capital letters) in
+                                 the comment field causes LDraw to pause when
+                                 rendering the model file.  Similar to the 
+                                 STEP command below, but without the graphic
+                                 output capabilities.
+                              WRITE
+                                 Typing WRITE (must be in capital letters)
+                                 in the comment field causes LDraw to show
+                                 whatever text is after the WRITE command
+                                 onscreen in the upper-left corner. This has
+                                 limited functionality due to LDraw not
+                                 clearing the text before writing other text,
+                                 resulting in a confusing mixture of text.
+                              CLEAR
+                                 Typing CLEAR (must be in capital letters)
+                                 in the comment field causes LDraw to erase
+                                 all pieces displayed up to that point.
+                                 LDraw then continues by displaying all pieces
+                                 after the CLEAR command.
+
+                  Step     [key shortcut = /ELS]
+                           Set Line-Type to Step. This line separates the steps
+                           in a model. Steps normally cause LDraw to pause when
+                           rendering and, when the LDraw command line switch -MS
+                           is specified, cause LDraw to output a bitmap picture
+                           of the model.
+                           Note that the STEP command is all capitals - useful
+                           to remember if adding STEP's to a model file in a
+                           text editor.
+
+
+View Menu    [key shortcut = /V]
+   Change the current view to the one selected. Will cause a redraw of the screen.
+   For reference, in the default Three-D mode, 'Front' is considered to be a view
+   from the lower-left corner of the screen.  So a model of a car would point
+   toward the lower-left corner of the screen.  See the car.dat model file
+   included with this program for an example of proper orientation.
+
+     Front      [key shortcut = /VF]
+                Change to a Front view of the model.
+
+     Right      [key shortcut = /VR]
+                Change to a Right side view of the model.
+
+     Left       [key shortcut = /VL]
+                Change to a Left side view of the model.
+
+     Back       [key shortcut = /VB]
+                Change to a Back (rear) view of the model.
+
+     Over       [key shortcut = /VO]
+                Change to a Over (above) view of the model.
+
+     Under      [key shortcut = /VU]
+                Change to a Under (beneath) view of the model.
+
+     Three-D    [key shortcut = /VT]
+                Change to a Three-D view of the model. This is the default view.
+
+     Out(Zoom)  [key shortcut = none]
+                Same as '-' above.
+
+     In(Zoom)   [key shortcut = /VI]
+                Same as '+' above.
+
+     Centre-Set [key shortcut = /VC]
+                Sets the centre of the viewing window to be wherever the blinking
+                cursor is located. Not to be confused with the Centre-Set used for
+                turning pieces. (see below)
+
+
+
+Turn Menu        [key shortcut = /T]
+                 WARNING: When turning a piece, be careful to only use NUMBERS
+                 where prompted. Using letters will cause LEdit to crash, losing
+                 all work done to a model since the last save.
+
+     X-axis      [key shortcut = /TX]
+                 Gets Prompt to turn the Current piece around the X-axis. Enter
+                 the number of degrees to turn the piece from 0 to 360.
+                 May also use negative numbers to turn in the opposite direction.
+
+     Y-axis      [key shortcut = /TY]
+                 Gets Prompt to turn the Current piece around the Y-axis. Enter
+                 the number of degrees to turn the piece from 0 to 360.
+                 May also use negative numbers to turn in the opposite direction.
+
+     Z-axis      [key shortcut = /TZ] 
+                 Gets Prompt to turn the Current piece around the Z-axis. Enter
+                 the number of degrees to turn the piece from 0 to 360.
+                 May also use negative numbers to turn in the opposite direction.
+
+     Centre-Set  [key shortcut = /TC]
+                 Sets the centre of rotation to be wherever the cursor is
+                 currently located.
+
+                    1. In most cases, you will probably want to place the
+                       Centre-Set on whatever piece you are about to turn. If you
+                       place Centre-Set on the piece you want to rotate, the piece
+                       will rotate around its own default center. (which is good)
+
+                    2. If you do not place the Centre-Set on the piece you want to
+                       rotate, but place it or leave it on some other piece, the
+                       piece you are trying to turn may rotate around a wide arc
+                       centered on wherever the Centre-Set happens to be.
+                       This will most likely cause your piece to rotate right out
+                       of the viewing window. (which can be very annoying)
+
+                    3. But there are some cases where, with a little planning,
+                       placing the Centre-Set somewhere other than on the piece
+                       you are about to turn can be advantageous. Doing this
+                       successfully takes some practice and patience.
+
+
+
+Piece Menu    [key shortcut = /P]
+
+     File       [key shortcut = /PF]
+                Gets prompt to change the Current piece number. Same as 'P' above.
+                Or press enter for a scrollable list of pieces.
+
+     Colour     [key shortcut = /PC]
+                Gets prompt to change the Current piece colour. Same as 'C' above.
+
+     Goto-Line  [key shortcut = /PG]
+                Gets prompt to move to a different line number in the model.
+                Enter the line number where you wish to go, or enter a very large
+                number to jump to the end of the file.  Useful in a large model
+                where scrolling using the Page Up/Page Down keys is too slow.
+
+
+
+Options Menu    [key shortcut = /O]
+
+     Line-as-Stud    [key shortcut = /OL]
+                     Causes LEdit to display studs on pieces as either simple
+                     lines or as full studs. The default setting is (on) which
+                     shows the studs as simple lines.  This improves the drawing
+                     speed and makes alignment of parts easier. Each selection of
+                     this option switches the setting.
+
+     Start-at-Line   [key shortcut = /OS]
+                     Selecting this causes LEdit to start drawing from the Current
+                     piece when the screen is redrawn.  The current line where
+                     drawing starts from is shown in parenthesis. The default is
+                     line (0) - the first piece. The program resets to (0) when 
+                     started. This option is useful by allowing earlier pieces to
+                     not be drawn, thus speeding up redraws of the screen and
+                     reducing onscreen clutter.
+
+     Stop-at-Cursor  [key shortcut = none]
+                     By default, LEdit draws all pieces up to and including the
+                     Current piece.  All pieces after the Current piece are not
+                     drawn.  Selecting this option causes LEdit to draw all
+                     pieces in a file regardless of which piece is currently
+                     selected. Each selection of this option switches the setting.
+
+
+
+Quit Menu    [key shortcut = /Q]
+             Exits the program. If there have been no modifications to the model
+             file, the program exits immediately.  If the model file has been
+             modified, you are asked if you want to save before exiting:
+
+                Yes     [key shortcut = /QY]
+                        Gets a prompt to Save the file. Press enter to use
+                        the name suggested. Or type a new name.
+
+                No      [key shortcut = /QN]
+                        Exits the program without saving.
+
+                Cancel  [key shortcut = /QC]
+                        Returns to the program.
+
+
+
+Typical LEdit Screen (see diagram below)
+  The LEdit screen consists of four text lines, a separator bar, and a
+  viewing window. The first text line is a informational status line.
+  The following three lines show the Previous, Current, and Next pieces
+  in the model file. 
+  
+  What each pointer means in the diagram below:
+
+     Current line
+         This shows what line in your model your are working on.
+
+     Orientation of viewing window
+         Shows what view the window is currently displaying.
+         Use key shortcut /V to change.
+     
+     Zoom factor
+         Shows the current magnification level of the screen. Use the +
+         or - keys to change.
+
+     Move increment
+         Shows the current Movement setting. Use M to cycle through
+         Normal/Coarse/Fine settings.
+
+     Piece filename
+         Shows the actual filename for the Previous/Current/Next pieces.
+
+     Previous piece
+         The top line of the three parts lines is the Previous piece.
+         Use the Page Up key to scroll it into the Current piece position
+         to edit.
+
+     Next piece
+         The bottom line of the three parts lines is the Next piece.
+         Use the Page Down key to scroll it into the Current piece position
+         to edit.
+
+     Current piece
+         The center line of the three parts lines is the Current Piece.
+         The piece in this position is the one on which all editing is done.
+
+     Piece orientation
+         This series of nine numbers describe a pieces orientation - what angle
+         of rotation it has - among its three axis, X,Y, and Z.
+         These numbers will change when the piece is turned using the key
+         shortcuts /TX, /TY and /TZ
+
+     Piece Z coordinate
+         This number shows a pieces Z coordinate - where it is located - in
+         three dimensional space.  Depending on the current view, use the proper
+         Arrow, Home, or End keys to change. 
+
+     Piece Y coordinate
+         This number shows a pieces Y coordinate - where it is located - in
+         three dimensional space. Depending on the current view, use the proper
+         Arrow, Home, or End keys to change.
+
+     Piece X coordinate
+         This number shows a pieces X coordinate - where it is located - in
+         three dimensional space. Depending on the current view, use the proper
+         Arrow, Home, or End keys to change. 
+
+     Colour
+         This number shows a pieces colour code. 
+         Use C or the /PC key shortcut to change.
+
+     Line-Type
+         This number will always be a 1 for pieces. For Comments added with
+         the /ELC key shortcut, or STEPS added with the /ELS key shortcut,
+         it will be a 0.
+
+    Viewing Window
+         This is where the visual display of the model is shown. This is also
+         where the visual display of parts files available for use is shown
+         when the P then Enter key is pressed.
+
+
+
+Current Line    Orientation of viewing window       Piece filename
+      |              |                                  |
+      |        +-----+   Zoom factor   Move increment   |    Previous piece
+      |        |              |             |           |       |
+      v        v              v             v           |       |
+Line: 2  View: Three-D  Zoom: x1.000  Move: Normal      v       |
+1 0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 3001.dat <--+
+1 0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 3002.dat <--------+
+1 0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 3003.dat <-----+  |
+______________________________________________________________     |  |
+                                                                   |  |
+^ ^  ^   ^   ^  ^                                 ^                |  |
+| |  |   |   |  |                                 |    Next piece -+  |
+| |  |   |   |  |                                 |                   |
+| |  |   |   |  +----------------+----------------+    Current piece -+
+| |  |   |   |                   |
+| |  |   |   |                   +-------------------- Piece orientation
+| |  |   |   |
+| |  |   |   +---------------------------------------- Piece Z coordinate
+| |  |   |
+| |  |   +-------------------------------------------- Piece Y coordinate
+| |  |
+| |  +------------------------------------------------ Piece X coordinate
+| |
+| +--------------------------------------------------- Colour
+|
++----------------------------------------------------- Line-Type
+                                                       1 for Pieces
+                                                       0 for Steps or Comments
+
+                               ^
+                               |
+                         Viewing Window
+                     <-- Where Model is -->
+                           Displayed
+                               |
+                               v
+
+
+--end of file--

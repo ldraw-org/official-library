@@ -1,0 +1,12 @@
+0 Pov-RAY Light Source
+0 Name: light.dat
+0 Author: James Jessiman
+0 Original LDraw Part - LDraw beta 0.27 Archive
+
+ 2 24 0 4 0 0 1 0
+ 2 24 4 0 0 1 0 0
+ 2 24 0 0 4 0 0 1
+ 2 24 0 -4 0 0 -1 0
+ 2 24 -4 0 0 -1 0 0
+ 2 24 0 0 -4 0 0 -1
+0

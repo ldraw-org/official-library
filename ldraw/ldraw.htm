@@ -1,0 +1,182 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE>LDraw.htm Documentaion File</TITLE>
+<META NAME="Generator" CONTENT="HTMLed Pro32 Version 2.0d">
+<META NAME="Author" CONTENT="Terry Keller - updated from the James Jessiman original text">
+</HEAD>
+<BODY BGCOLOR="#F3F3F3">
+<FONT FACE=="Verdana, Arial, Helvetica" size="-0">
+<H1>LDraw beta 0.27 documentation.</H1>
+<BLOCKQUOTE>
+<FONT SIZE="+2">
+The LDraw program is used to draw your models on screen after entering
+them by hand or with the LEdit program. This program is not interactive
+and is controlled by the following command line parameters:<BR>
+</FONT>
+<BR>
+<LI><FONT SIZE="+1"><B>Basic Usage:</B></FONT><BR>
+<UL>
+<LI>Example command line: <B>ldraw <I>filename.dat</I></B><BR>
+Will draw the model specified by <I>filename.dat</I> using the default
+Three-D view.<BR>
+<BR>
+You must specify at least a model filename in order for the program
+to work.<BR>
+Running LDraw.exe with no command line argument will do
+nothing.<BR>
+<BR>
+Tip:<BR>
+If your model file has the extension .dat on it, you do not need
+to specify the .dat on the command line - LDraw assumes a model
+has the .dat extension.  So either of the following will work:<BR>
+&nbsp;&nbsp; ldraw filename.dat<BR>
+&nbsp;&nbsp; ldraw filename
+</UL>
+
+
+<LI><FONT SIZE="+1"><B>Advanced Usage Command line Switches:</B></FONT><BR>
+<UL>
+<LI><B>-A</B><BR>
+Specifies the orientation of the model within the 3-D space.<BR>
+Example command line: <B>ldraw car.dat -A1,0,0,0,1,0,0,0,1</B>
+<UL>
+<LI> <B>-A1,0,0,0,1,0,0,0,1</B><BR>
+Front view of model.
+<LI> <B>-A-1,0,0,0,1,0,0,0,-1</B><BR>
+Back view of model.
+<LI> <B>-A0,0,1,0,1,0,-1,0,0</B><BR>
+Left view of model.
+<LI> <B>-A0,0,-1,0,1,0,1,0,0</B><BR>
+Right view of model.
+<LI> <B>-A0,0,1,1,0,0,0,1,0</B><BR>
+Over view of model.
+<LI> <B>-A0,0,1,-1,0,0,0,-1,0</B><BR>
+Under view of model.
+<LI> <B>-A1,0,1,0.5,1,-0.5,-1,0,1</B><BR>
+3-D View (Default)
+</UL>
+Try these as well. They work best with the <I>car.dat</I> file instead of the
+<I>pyramid.dat</I>.<BR>
+Use car.dat on the command line as well as the <B>-A</B> option.
+<UL>
+<LI> <B>-A-1,0,1,0.5,1,0.5,-1,0,-1</B>
+<LI> <B>-A-1,0,-1,-0.5,1,0.5,1,0,-1</B>
+<LI> <B>-A1,0,-1,-0.5,1,-0.5,1,0,1</B>
+</UL>
+I like this one.
+<UL>
+<LI> <B>-A-1,0,1,-0.5,-1,-0.5,1,0,1</B>
+</UL>
+Different?
+<UL>
+<LI> <B>-A0.5,0,0.86,0.43,1,-0.25,-1,0,2</B>
+</UL>
+
+<BR>
+<LI><B>-B</B><I>n</I><BR>
+Changes the background colour to colour <I>n</I>.<BR>
+Example command line: <B>ldraw car.dat -B9</B> draws <I>car.dat</I> on a light blue background.
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;0&nbsp;=&nbsp;<B>Black</B></TD><TD WIDTH="25" BGCOLOR=#000000>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;1&nbsp;=&nbsp;<B>Blue</B></TD><TD WIDTH="25" BGCOLOR=#0001A6>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;2&nbsp;=&nbsp;<B>Green</B></TD><TD WIDTH="25" BGCOLOR=#00AC00>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;3&nbsp;=&nbsp;<B>Dark Cyan</B></TD><TD WIDTH="25" BGCOLOR=#00AAA9>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;4&nbsp;=&nbsp;<B>Red</B></TD><TD WIDTH="25" BGCOLOR=#A90200>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;5&nbsp;=&nbsp;<B>Magenta</B></TD><TD WIDTH="25" BGCOLOR=#A8567E>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;6&nbsp;=&nbsp;<B>Brown</B></TD><TD WIDTH="25" BGCOLOR=#A6AB06>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;7&nbsp;=&nbsp;<B>Grey</B></TD><TD WIDTH="25" BGCOLOR=#CCCCCC>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;8&nbsp;=&nbsp;<B>Dark Grey</B></TD><TD WIDTH="25" BGCOLOR=#646464>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">&nbsp;&nbsp;9&nbsp;=&nbsp;<B>Light Blue</B></TD><TD WIDTH="25" BGCOLOR=#5454FF>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">10&nbsp;=&nbsp;<B>Light Green</B></TD><TD WIDTH="25" BGCOLOR=#53FF56>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">11&nbsp;=&nbsp;<B>Cyan</B></TD><TD WIDTH="25" BGCOLOR=#4BAFFA>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">12&nbsp;=&nbsp;<B>Light Red</B></TD><TD WIDTH="25" BGCOLOR=#FF5551>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">13&nbsp;=&nbsp;<B>Pink</B></TD><TD WIDTH="25" BGCOLOR=#F5AFE1>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">14&nbsp;=&nbsp;<B>Yellow</B></TD><TD WIDTH="25" BGCOLOR=#FFFF44>&nbsp;</TD> </TR> </TABLE>
+<TABLE BORDER=0> <TR> <TD WIDTH="160">15&nbsp;=&nbsp;<B>White</B></TD><TD WIDTH="25" BGCOLOR=#FFFFFF>&nbsp;</TD> </TR> </TABLE>
+
+<BR>
+<LI><B>-FS</B><BR>
+Draws the model using the faster version of the stud files. Will draw faster
+but will not look as good.<BR>
+Example command line: <B>ldraw car.dat -FS</B><BR>
+
+<BR>
+<LI><B>-M</B><I>n</I><BR>
+Changes the drawing mode of the program to mode <I>n</I>.
+<UL>
+<LI> <I>n</I> = <B>P</B> Pause at each step (default).<BR>
+Example command line: <B>ldraw car.dat -MP</B>
+<LI> <I>n</I> = <B>C</B> Continuous, do not pause.<BR>
+Example command line: <B>ldraw car.dat -MP</B>
+<LI> <I>n</I> = <B>S</B> Save each step as a bitmap, do not pause.<BR>
+Example command line: <B>ldraw car.dat -MS</B>
+</UL>
+
+<BR>
+<LI><B>-O</B><I>x</I>,<I>y</I><BR>
+Changes the centre of the picture.
+The value for <I>x</I> moves across and the value for <I>y</I> moves down.<BR>
+Example command line: <B>ldraw car.dat -O125,-45</B> moves the model 125 units right and 45 units up
+(since the <I>y</I> component is a negative number it moves up instead of down)<BR>
+
+<BR>
+<LI><B>-S</B><I>n</I><BR>
+Changes the size of the model on the screen.<BR>
+Example command line: <B>ldraw car.dat -S2</B>
+<UL>
+<LI> <I>n</I> = <B>2</B>&nbsp;&nbsp;&nbsp;&nbsp;   Double size
+<LI> <I>n</I> = <B>1</B>&nbsp;&nbsp;&nbsp;&nbsp;   Normal (default)
+<LI> <I>n</I> = <B>0.5</B>&nbsp; Half size
+</UL>
+
+<BR>
+<LI><B>-V</B><I>n</I><BR>
+Selects video mode <I>n</I>.<BR>
+Example command line: <B>ldraw car.dat -V4</B><BR>
+Note: your video card must support these modes for them to work.
+Many newer video card do not support all these old modes.
+<UL>
+<LI> <I>n</I> = <B>0</B> CGA 320x200 4 colour
+<LI> <I>n</I> = <B>1</B> EGA 640x200 16 colour
+<LI> <I>n</I> = <B>2</B> EGA 640x350 16 colour
+<LI> <I>n</I> = <B>3</B> VGA 640x480 16 colour (default mode)
+<LI> <I>n</I> = <B>4</B> SVGA 800x600 16 colour
+<LI> <I>n</I> = <B>5</B> SVGA 1024x768 16 colour
+<LI> <I>n</I> = <B>6</B> SVGA 1280x1024 16 colour
+</UL>
+</UL>
+
+<LI><FONT SIZE="+1"><B>Using multiple switches on the command line:</B></FONT><BR>
+Combinations can be used in any order, each separated by spaces.<BR>
+Example command line: <B>ldraw car -a-1,0,1,-0.5,-1,-0.5,1,0,1 -b11 -fs -ms -o35,12 -s2</B><BR>
+(Note that the .dat extension is not necessary, nor is using capital letters for the switches)<BR>
+This command line would do the following:
+<UL>
+<LI>Display the Car.dat model file.
+<LI>Using an upside down three-d view.
+<LI>On a Cyan background.
+<LI>Using the faster rendering (lower quality) studs.
+<LI>Save a bitmap in the \bitmap\ directory at each STEP line in the model. The progress of the bitmap save
+can be seen as a slowly descending spot on the left side of the screen.
+<LI>The model will be moved onscreen by 35 units in the <I>x</I> direction, and 12 units in the <I>y</I> direction.
+<LI>Double the size of the model.
+</UL>
+
+<LI><FONT SIZE="+1"><B>Display note:</B></FONT><BR>
+When displaying models in LDraw, you may see text messages in the upper-left corner of the screen.
+Most commonly, they look something like this:<BR>
+<B>Part 101 moved to 3623</B><BR>
+In LDraw every attempt is made to make the part filename match the part number of an actual real-life part.
+Occasionally there are parts which do not have a known number at the time of publication, but later the
+true part number is found.  At that point, the part filename is corrected and then the old number is used
+as a redirection pointer to the new number.<BR>
+So the <B>Part 101 moved to 3623</B> message is a reminder that part 101 has been updated to part 3623.<BR>
+You may also see text messages displayed by using the 0 WRITE command in a model file.<BR>
+See the Edit Menu/Line-Type/Comment section of the <A HREF="ledit.htm">ledit.htm</A> or
+<A HREF="ledit.txt">ledit.txt</A> file for more info.
+<BR><BR>--end of file--
+</BLOCKQUOTE>
+</FONT>
+</BODY>
+
+</HTML>

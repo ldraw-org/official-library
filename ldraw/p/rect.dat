@@ -1,0 +1,11 @@
+0 Rectangle
+0 Name: RECT.dat
+0 Author: James Jessiman
+0 Original LDraw Primitive - LDraw beta 0.27 Archive
+
+2 24 1 0 1 -1 0 1
+2 24 -1 0 1 -1 0 -1
+2 24 -1 0 -1 1 0 -1
+2 24 1 0 -1 1 0 1
+4 16 1 0 1 1 0 -1 -1 0 -1 -1 0 1
+0

@@ -1,0 +1,181 @@
+LDraw beta 0.27 documentation.
+
+The LDraw program is used to draw your models on screen after entering
+them by hand or with the LEdit program. This program is not interactive
+and is controlled by the following command line parameters:
+
+* Note: Viewing the file ldraw.htm in a browser is preferable *
+* over viewing this text file. The HTML version is enhanced.  *
+
+Basic Usage:
+
+     LDRAW filename.dat
+         Will draw the model specified by filename.dat using the default
+         Three-D view.
+
+     You must specify at least a model filename in order for the program
+     to work.  Running LDraw.exe with no command line argument will do
+     nothing.
+
+     Tip: If your model file has the extension .dat on it, you do not need
+          to specify the .dat on the command line - LDraw assumes a model
+          has the .dat extension.  So either of the following will work:
+            ldraw filename.dat
+            ldraw filename
+
+Advanced Usage Command line Switches:
+
+   -A
+         Specifies the orientation of the model within the 3-D space.
+         Example command line: ldraw car.dat -A1,0,0,0,1,0,0,0,1
+
+           -A1,0,0,0,1,0,0,0,1
+               Front view of model.
+           -A-1,0,0,0,1,0,0,0,-1
+               Back view of model.
+           -A0,0,1,0,1,0,-1,0,0
+               Left view of model.
+           -A0,0,-1,0,1,0,1,0,0
+               Right view of model.
+           -A0,0,1,1,0,0,0,1,0
+               Over view of model.
+           -A0,0,1,-1,0,0,0,-1,0
+               Under view of model.
+           -A1,0,1,0.5,1,-0.5,-1,0,1
+               3-D View (Default)
+
+         Try these as well. They work best with the car.dat file instead of the
+         pyramid.dat.
+         Use car.dat on the command line as well as the -A option.
+
+           -A-1,0,1,0.5,1,0.5,-1,0,-1
+           -A-1,0,-1,-0.5,1,0.5,1,0,-1
+           -A1,0,-1,-0.5,1,-0.5,1,0,1
+
+         I like this one.
+
+           -A-1,0,1,-0.5,-1,-0.5,1,0,1
+
+         Different?
+
+           -A0.5,0,0.86,0.43,1,-0.25,-1,0,2
+
+
+
+   -Bn
+         Changes the background colour to colour n.
+         Example command line: ldraw car.dat -B9
+         draws car.dat on a light blue background.
+
+           0 = Black  
+           1=Blue  
+           2=Green  
+           3=Dark Cyan  
+           4=Red  
+           5=Magenta  
+           6=Brown  
+           7=Grey  
+           8=Dark Grey  
+           9=Light Blue  
+          10=Light Green  
+          11=Cyan  
+          12=Light Red  
+          13=Pink  
+          14=Yellow  
+          15=White  
+
+
+    -FS
+         Draws the model using the faster version of the stud files.
+         Will draw faster but will not look as good.
+         Example command line: ldraw car.dat -FS
+
+
+   -Mn
+         Changes the drawing mode of the program to mode n.
+
+           n = P Pause at each step (default).
+                 Example command line: ldraw car.dat -MP
+
+           n = C Continuous, do not pause.
+                 Example command line: ldraw car.dat -MP
+
+           n = S Save each step as a bitmap, do not pause.
+                 Example command line: ldraw car.dat -MS
+
+
+
+   -Ox,y
+         Changes the centre of the picture.
+         The value for x moves across and the value for y moves down.
+         Example command line: ldraw car.dat -O125,-45 
+         moves the model 125 units right and 45 units up
+         (since the y component is a negative number it moves up instead of down)
+
+ 
+   -Sn
+         Changes the size of the model on the screen.
+         Example command line: ldraw car.dat -S2
+
+           n = 2   Double size
+           n = 1   Normal (default)
+           n = 0.5 Half size
+
+
+   -Vn
+         Selects video mode n.
+         Example command line: ldraw car.dat -V4
+         Note: your video card must support these modes for them to work.
+         Many newer video card do not support all these old modes.
+
+           n = 0 CGA 320x200 4 colour
+           n = 1 EGA 640x200 16 colour
+           n = 2 EGA 640x350 16 colour
+           n = 3 VGA 640x480 16 colour (default mode)
+           n = 4 SVGA 800x600 16 colour
+           n = 5 SVGA 1024x768 16 colour
+           n = 6 SVGA 1280x1024 16 colour
+
+
+
+Using multiple switches on the command line:
+
+   Combinations can be used in any order, each separated by spaces.
+   Example: ldraw car -a-1,0,1,-0.5,-1,-0.5,1,0,1 -b11 -fs -ms -o35,12 -s2
+   (Note that the .dat extension is not necessary, nor is using capital
+   letters for the switches)
+   This command line would do the following:
+
+       - Display the Car.dat model file.
+       - Using an upside down three-d view.
+       - On a Cyan background.
+       - Using the faster rendering (lower quality) studs.
+       - Save a bitmap in the \bitmap\ directory at each STEP line in the model.
+         The progress of the bitmap save can be seen as a slowly descending spot
+         on the left side of the screen.
+       - The model will be moved onscreen by 35 units in the x direction,
+         and 12 units in the y direction.
+       - Double the size of the model.
+         
+
+Display note:
+   When displaying models in LDraw, you may see text messages in the
+   upper-left corner of the screen. 
+   Most commonly, they look something like this:
+      Part 101 moved to 3623
+
+   In LDraw every attempt is made to make the part filename match the
+   part number of an actual real-life part.
+   Occasionally there are parts which do not have a known number at the
+   time of publication, but later the true part number is found.
+   At that point, the part filename is corrected and then the old number
+   is used as a redirection pointer to the new number.
+   So the Part 101 moved to 3623 message is a reminder that part 101 has
+   been updated to part 3623.
+
+   You may also see text messages displayed by using the 0 WRITE command
+   in a model file. See the Edit Menu/Line-Type/Comment section of the
+   ledit.htm or ledit.txt file for more info.
+
+
+--end of file--

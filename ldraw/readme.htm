@@ -1,0 +1,198 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE>LDraw Readme.htm File</TITLE>
+<META NAME="Generator" CONTENT="HTMLed Pro32 Version 2.0d">
+<META NAME="Author" CONTENT="Terry Keller">
+</HEAD>
+<BODY>
+<FONT FACE=="Verdana, Arial, Helvetica" size="-1">
+<H1>LDraw Readme File</H1>
+<BLOCKQUOTE>
+<FONT SIZE="+2">Welcome to LDraw!<BR>
+This short readme file explains what files and subdirectories are
+present in your LDraw installation, and has links to some sites on the internet
+where you can find help and further information.<BR>
+
+</FONT>
+<UL>
+<FONT SIZE="+1">
+<LI> <A HREF="#content">LDraw program directory contents</A>
+<LI> <A HREF="#info">More information/help available online</A>
+<LI> <A HREF="#update">Parts Updates</A>
+</FONT>
+</UL>
+-------------------------------------------------------------------------------------<BR>
+<A NAME="content">
+<FONT SIZE="+1">What is contained in the LDraw directory:</FONT>
+<UL>
+<LI><B><FONT COLOR="#0000A0">Program executables:</FONT></B>
+<UL>
+<LI>   <B>LDraw.exe</B><BR>
+  This is the command line run program used to render *.DAT files.<BR>
+  This program <B><I>must</I></B> be run with command line arguments to work, such as:<BR>
+  &nbsp;&nbsp;&nbsp;&nbsp;<B><I>ldraw.exe car.dat</I></B><BR>
+  If the program is run with no command line arguments specified, it will do nothing.<BR>
+  More details on the command line arguments for LDraw.exe can be found in <A HREF="#ldraw">LDraw.htm</A>.<BR>
+  Or you can use a "shell" program to run it, such as <A HREF="#info">LDraw Add-On or LDraw Launcher</A>.<BR>
+  (This is highly recommended - much easier than typing in command line arguments)
+<LI>   <B>LEdit.exe</B><BR>
+  This is the interactive modelling program used to create models. This program is a
+  simple graphic modelling program using keyboard inputs to place pieces in your model.
+  More details on using LEdit can be found in the <A HREF="#ledit">LEdit.htm</A> file, and
+  in the <A HREF="#tutorials">tutorials</A> available for it.<BR>
+  This program seems difficult at first glance, but is really much easier to use than it first appears.
+  And a lot of help is available from experienced users on the <A HREF="#lugnet">LUGNET newsgroups</A>.
+<LI>   <B>MKList.exe</B><BR>
+  This is a utility that creates a list of available
+  parts. This list (parts.lst) is used by LEdit and
+  by several other third-party utilities.<BR>
+  Three things to remember:
+  <UL>
+   <LI>Run MKList now, immediately after installing LDraw.
+   <LI>Run MKList after any parts update(s) are installed.
+   <LI>You can Run MKList at any time to choose the sort order of your parts - Numerical or Description.
+  </UL>
+<LI>   <B>Rtm.exe</B><BR>
+  A subroutine program used by LDraw.exe and LEdit.exe.
+<LI>   <B>SL2LD.exe</B><BR>
+  Conversion program. Used to convert SimLego files
+  to LDraw files.<BR><B>The SL2LD program is no longer supported.</B>
+</UL>
+
+<LI><B><FONT COLOR="#0000A0">Support Files:</FONT></B>
+<UL>
+<LI>   <B>Parts.lst</B><BR>
+  This is your listing of all usable parts available.
+  This list is created by running MKList.exe and choosing
+  to create the list sorted Numerically or by Description.
+  Most people use Description sorting, but you can
+  change to whichever way you prefer at any time.
+<LI>   <B>SL2LD.lst</B><BR>
+  The parts list file used by the SL2LD conversion program.<BR>
+  <B>The SL2LD listing is no longer updated or supported</B>.
+<LI>   <B>Cga.bgi</B><BR>
+  Graphics interface file used by LDraw and LEdit.
+<LI>   <B>Egavga.bgi</B><BR>
+  Graphics interface file used by LDraw and LEdit.
+<LI>   <B>Vesa16.bgi</B><BR>
+  Graphics interface file used by LDraw and LEdit.
+<LI>   <B>Dpmi16bi.ovl</B><BR>
+  Program overlay file used by LDraw and LEdit.
+<LI>   <B>Update.scr</B><BR>
+  Screen driver file used by LDraw and LEdit.
+<LI>   <B>LDraw.pif</B><BR>
+  Basic Win9x Program Information File.
+<LI>   <B>LEdit.pif</B><BR>
+  Basic Win9x Program Information File.
+<LI>   <B>MKList-c.zip</B><BR>
+  Zip archive of the MKList source code.
+</UL>
+
+<LI><B><FONT COLOR="#0000A0">Informational Files:</FONT></B>
+<UL>
+<A NAME="ldraw">
+<LI>   <B><A HREF="ldraw.htm">LDraw.htm</A> / <A HREF="ldraw.txt">LDraw.txt</A></B><BR>
+  Short reference to command line usage of LDraw.exe.
+<A NAME="ledit">
+<LI>   <B><A HREF="ledit.htm">LEdit.htm</A> / <A HREF="ledit.txt">LEdit.txt</A></B><BR>
+  Short reference to usage of LEdit.exe.
+<LI>   <B><A HREF="license.txt">License.txt</A></B><BR>
+  Users license file detailing terms and conditions of use.
+<LI>   <B><A HREF="readme.htm">Readme.htm</A> / <A HREF="readme.txt">Readme.txt</A></B><BR>
+  This file you are currently reading.
+</UL>
+
+<LI><B><FONT COLOR="#0000A0">Subdirectories:</FONT></B>
+<UL>
+<LI>  <B>\BITMAP\</B><BR>
+  This directory is where LDraw.exe saves .bmp-type
+  graphics screenshots of model files. This can be done by
+  using a combination of the -MS switch on the LDraw.exe
+  command line AND having '0 STEP' lines located in the .dat
+  file to be rendered.<BR>
+  Note: the file <I>delete.me</I> in this directory can be safely deleted.
+<LI>   <B>\MODELS\</B><BR>
+  This directory is where your model .dat files are stored.
+  There are two sample model .dat files installed for you
+  to look at - <I>Car.dat</I> and <I>Pyramid.dat</I>.
+<LI>   <B>\P\</B><BR>
+  This directory is where part file primitives are located.
+  Do not delete or alter these files.
+<LI>   <B>\PARTS\</B><BR>
+  This directory holds all the actual parts that can be used
+  in creating or rendering your models.  A list of these
+  parts can be seen by viewing the parts.lst file.
+<LI>   <B>\HTMIMAGE\</B><BR>
+  This directory contains image files for the HTML help pages.
+</UL>
+</UL>
+
+-------------------------------------------------------------------------------------<BR>
+<A NAME="info">
+<FONT SIZE="+1">For more information on LDraw, check out these internet resources:</FONT>
+
+<UL>
+<LI><B><FONT COLOR="#0000A0">LDRAW.ORG</FONT></B><BR>
+  <A HREF="http://www.ldraw.org/">http://www.ldraw.org/</A><BR>
+  Centralized LDraw Resources on the internet.<BR>
+  Parts updates, Utility programs for using and enhancing LDraw, and more.
+<A NAME="lugnet">
+<LI><B><FONT COLOR="#0000A0">LUGNET</FONT></B><BR>
+  <A HREF="http://www.lugnet.com/">http://www.lugnet.com/</A><BR>
+  The Lego Users Group NETwork (LUGNET) - A great place for fans of Lego.<BR>
+  LUGNET has many topic-specific newsgroups that discuss LDraw and other forms
+  of Lego-type CAD.
+<A NAME="tutorials">
+<LI><B><FONT COLOR="#0000A0">Instructions/Tutorials:</FONT></B>
+<UL>
+<LI><B>LDraw/LEdit Tutorial</B><BR>
+  <A HREF="http://library.thinkquest.org/20551/home.html">http://library.thinkquest.org/20551/home.html</A><BR>
+  Bram Lambrecht's great online step-by-step guide to learning how
+  to use LDraw and LEdit.<BR>
+  Can also be downloaded in a .zip file for offline study and reference.
+<LI><B>The LEdit Primer</B><BR>
+  A short primer on using LEdit in two formats:
+<UL>
+<LI>Plain text format: <A HREF="http://www.ldraw.org/memorial/archive/howto.txt">http://www.ldraw.org/memorial/archive/howto.txt</A>
+<LI>MS Word 7.0 format: <A HREF="http://www.ldraw.org/memorial/archive/howto-word.doc">http://www.ldraw.org/memorial/archive/howto-word.doc</A>
+</UL>
+</UL>
+<LI><B><FONT COLOR="#0000A0">The LDraw Frequently Asked Questions (FAQ):</FONT></B><BR>
+  <A HREF="http://www.ldraw.org/faq/">http://www.ldraw.org/faq/</A>
+</UL>
+
+-------------------------------------------------------------------------------------<BR>
+<A NAME="update">
+<FONT SIZE="+1">Parts Updates:</FONT>
+
+ <UL>
+<LI>The basic archive of <B>ldraw027.exe</B> contains the original parts
+   and programs for LDraw that were released by James Jessiman.<BR>
+   Since the untimely passing of James, many parts have been created
+   and officially added.
+
+<LI>If you have not already done so, you should visit <A HREF="http://www.ldraw.org/">www.ldraw.org</A> and
+   download and install the full update package of new parts contained
+   in the <B>complete.exe</B> file.
+
+<LI>Periodically, new parts and part fixes are released in small updates,
+   available from <A HREF="http://www.ldraw.org/">www.ldraw.org.</A><BR>
+   These updates should be downloaded and installed as they become available.<BR>
+   Please remember that OLD updates should not be installed over NEW or NEWER updates.<BR>
+   Doing so might overwrite a fixed version of a part with an older version.
+
+<LI>If you ever feel that you are missing parts, or something in your LDraw
+  installation has been corrupted for any reason, the best recourse is to
+  re-install the original archive - <B>ldraw027.exe</B> - followed by a new
+  download of the <B>complete.exe</B> file from <A HREF="http://www.ldraw.org/">www.ldraw.org.</A>
+  This will ensure that you have all the parts, with the latest fixes.
+</UL>
+
+--end of file--
+
+</BLOCKQUOTE>
+</FONT>
+</BODY>
+
+</HTML>

@@ -1,0 +1,80 @@
+AXLE.DAT      Axle                                                            
+AXLEHOLE.DAT  Axle Hole                                                       
+AXLEHOL4.DAT  Axle Hole 4                                                     
+AXLEHOL5.DAT  Axle Hole 5                                                     
+AXLEHOL2.DAT  Axle Hole Edge 1                                                
+AXLEHOL3.DAT  Axle Hole Edge 2                                                
+BOX.DAT       Box (six faces)                                                 
+BOX4.DAT      Box 4 (four faces)                                              
+BOX5.DAT      Box 5 (five faces)                                              
+BUSHLOCK.DAT  Bush Lock                                                       
+BUSHLOC2.DAT  Bush Lock 2                                                     
+BUSHLOC3.DAT  Bush Lock 3                                                     
+BUSHLOC4.DAT  Bush Lock 4                                                     
+1-8EDGE.DAT   Circle 0.125                                                    
+1-4EDGE.DAT   Circle 0.25                                                     
+3-8EDGE.DAT   Circle 0.375                                                    
+2-4EDGE.DAT   Circle 0.5                                                      
+3-4EDGE.DAT   Circle 0.75                                                     
+4-4EDGE.DAT   Circle 1.0                                                      
+CLIP3.DAT     Clip 3                                                          
+CONNECT2.DAT  Connector                                                       
+CONNECT4.DAT  Connector 1/2                                                   
+CONNECT3.DAT  Connector 1/2 with Base Collar                                  
+CONNECT.DAT   Connector with Base Collar                                      
+1-8CYLI.DAT   Cylinder 0.125                                                  
+1-4CYLI.DAT   Cylinder 0.25                                                   
+3-8CYLI.DAT   Cylinder 0.375                                                  
+2-4CYLI.DAT   Cylinder 0.5                                                    
+3-4CYLI.DAT   Cylinder 0.75                                                   
+4-4CYLI.DAT   Cylinder 1.0                                                    
+1-4CYLS.DAT   Cylinder Sloped 0.25                                            
+3-8CYLS.DAT   Cylinder Sloped 0.375                                           
+2-4CYLS.DAT   Cylinder Sloped 0.5                                             
+1-4CCYLI.DAT  Cylinder Tube 0.25                                              
+1-8DISC.DAT   Disc 0.125                                                      
+1-4DISC.DAT   Disc 0.25                                                       
+2-4DISC.DAT   Disc 0.5                                                        
+3-4DISC.DAT   Disc 0.75                                                       
+4-4DISC.DAT   Disc 1.0                                                        
+1-8NDIS.DAT   Disc Negative 0.125                                             
+1-4NDIS.DAT   Disc Negative 0.25                                              
+2-4NDIS.DAT   Disc Negative 0.5                                               
+3-4NDIS.DAT   Disc Negative 0.75                                              
+4-4NDIS.DAT   Disc Negative 1.0                                               
+ARM1.DAT      Hinge Arm 2 Finger                                              
+ARM2.DAT      Hinge Arm 3 Finger                                              
+H1.DAT        Hinge Plate 2 Fingers                                           
+H2.DAT        Hinge Plate 3 Fingers                                           
+PEGHOLE.DAT   Peg Hole End                                                    
+RECT.DAT      Rectangle                                                       
+RING1.DAT     Ring  1 Radius 1.0                                              
+RING2.DAT     Ring  2 Radius 1.0                                              
+2-4RING3.DAT  Ring  3 Radius 0.5                                              
+RING3.DAT     Ring  3 Radius 1.0                                              
+RING4.DAT     Ring  4 Radius 1.0                                              
+RING7.DAT     Ring  7 Radius 1.0                                              
+RING10.DAT    Ring 10 Radius 1.0                                              
+1-8SPHE.DAT   Sphere 0.125                                                    
+2-8SPHE.DAT   Sphere 0.25                                                     
+4-8SPHE.DAT   Sphere 0.5                                                      
+8-8SPHE.DAT   Sphere 1.0                                                      
+STEEREND.DAT  Steering End                                                    
+STUD.DAT      Stud                                                            
+STU2.DAT      Stud (Fast-Draw)                                                
+STUD2.DAT     Stud Open                                                       
+STU22.DAT     Stud Open (Fast-Draw)                                           
+STUD2A.DAT    Stud Open without Base Edges                                    
+STU22A.DAT    Stud Open without Base Edges (Fast-Draw)                        
+STUDLINE.DAT  Stud Placeholder (SuperFast-Draw)                               
+STUD4.DAT     Stud Tube Open                                                  
+STU24.DAT     Stud Tube Open (Fast-Draw Mode)                                 
+STUD4A.DAT    Stud Tube Open without Base Edges                               
+STU24A.DAT    Stud Tube Open without Base Edges (Fast-Draw)                   
+STUD3.DAT     Stud Tube Solid                                                 
+STU23.DAT     Stud Tube Solid (Fast-Draw)                                     
+STUD3A.DAT    Stud Tube Solid without Base Edges                              
+STU23A.DAT    Stud Tube Solid without Base Edges (Fast-Draw)                  
+STUDP01.DAT   Stud with Dot Pattern                                           
+STU2P01.DAT   Stud with Dot Pattern (Fast-Draw)                               
+TRI3.DAT      Triangle 3                                                      

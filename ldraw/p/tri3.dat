@@ -1,0 +1,18 @@
+0 Triangle 3
+0 Name: TRI3.dat
+0 Author: James Jessiman
+0 Original LDraw Primitive - LDraw beta 0.27 Archive
+
+2 24 1 1 0 0 1 1
+2 24 0 1 1 0 1 0
+2 24 0 1 0 1 1 0
+2 24 1 0 0 0 0 1
+2 24 0 0 1 0 0 0
+2 24 0 0 0 1 0 0
+2 24 1 0 0 1 1 0
+2 24 0 0 1 0 1 1
+2 24 0 0 0 0 1 0
+4 16 1 1 0 0 1 1 0 0 1 1 0 0
+4 16 0 1 1 0 1 0 0 0 0 0 0 1
+4 16 0 1 0 1 1 0 1 0 0 0 0 0
+0

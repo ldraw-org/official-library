@@ -1,0 +1,10 @@
+0 Stud
+0 Name: STUD.dat
+0 Author: James Jessiman
+0 Original LDraw Primitive - LDraw beta 0.27 Archive
+
+ 1 16 0 0 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
+ 1 16 0 -4 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
+ 1 16 0 0 0 6 0 0 0 -4 0 0 0 6 4-4cyli.dat
+ 1 16 0 -4 0 6 0 0 0 0 0 0 0 6 4-4disc.dat
+0
