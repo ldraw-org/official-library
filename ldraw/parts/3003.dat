@@ -2,10 +2,15 @@
 0 Name: 3003.dat
 0 Author: James Jessiman
 0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2001-01
+0 LDRAW_ORG Part UPDATE 2002-03
+
+0 BFC CERTIFY CCW
+
+0 2002-05-07 KJM BFC Certification
 
 1 16 0 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
 
+0 BFC INVERTNEXT
 1 16 0 24 0 16 0 0 0 -20 0 0 0 16 box5.dat
 
 4 16 20 24 20 16 24 16 -16 24 16 -20 24 20

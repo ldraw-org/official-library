@@ -1,0 +1,60 @@
+LDraw.org Parts Update 2002-03
+---------------------------------------------------------------------------
+
+Notes created Tue Jun 11 14:12:16 2002 by the Parts Tracker.  Updated
+June 11, 14:05 by Steve Bliss.
+
+Release statistics:
+   Total files: 74
+   New files: 43
+   New parts: 33
+   New subparts: 5
+   New primitives: 5
+
+New 3-digit part numbers assigned:
+   120.dat Technic Liftarm  1 x  9 Straight
+   124.dat Minifig Accessory Shield Round
+
+Moved Parts
+   3039P101.DAT  ~Moved to 3039ps1
+
+Renamed Parts
+   48\1-4NDIS.DAT   Disc Negative  48 0.25
+   changed to       High-Res Disc Negative 0.25
+
+   S\3039S101.DAT   ~Subpart Brick 45  2 x  2 w/ SW Trench Computer Pattern
+   changed to       Brick 45  2 x  2 with SW Trench Computer Pattern Decoration
+
+   S\3626BS01.DAT   ~Subpart Minifig Head - Faceless Subpart (hollow stud)
+   changed to       Minifig Head - Stud Hollow without Face Area
+
+Files made compliant with BFC standard:
+   PEGHOLE.DAT   Peg Hole End
+   3001.DAT      Brick  2 x  4
+   3002.DAT      Brick  2 x  3
+   3003.DAT      Brick  2 x  2
+   3004.DAT      Brick  1 x  2
+   3005.DAT      Brick  1 x  1
+   3006.DAT      Brick  2 x 10
+   3007.DAT      Brick  2 x  8
+   3008.DAT      Brick  1 x  8
+   3009.DAT      Brick  1 x  6
+   3010.DAT      Brick  1 x  4
+   3020.DAT      Plate  2 x  4
+   3021.DAT      Plate  2 x  3
+   3022.DAT      Plate  2 x  2
+   3023.DAT      Plate  1 x  2
+   3024.DAT      Plate  1 x  1
+   3026.DAT      Plate  6 x 24
+   3027.DAT      Plate  6 x 16
+   3028.DAT      Plate  6 x 12
+   3029.DAT      Plate  4 x 12
+   3030.DAT      Plate  4 x 10
+   3031.DAT      Plate  4 x  4
+   3032.DAT      Plate  4 x  6
+
+Other Fixed Parts
+   2447.DAT      Minifig Helmet Visor
+   59.DAT        Minifig Sword Greatsword
+   973P36.DAT    Minifig Torso with Pirate Captain Pattern
+   973PS1.DAT    Minifig Torso with SW Rebel Pilot Pattern
