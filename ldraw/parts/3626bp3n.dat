@@ -1,0 +1,16 @@
+0 Minifig Head with Sideburns and Droopy Moustache Black Pattern
+0 Name: 3626bp3n.dat
+0 Author: Franklin W. Cain (fwcain@yahoo.com)
+0 LDRAW_ORG Part UPDATE 2003-01
+
+0 COMMENT (Cannot do "stubble", doesn't look good...) :-/ 
+
+0 KEYWORDS face, Admiral, Governor, officer, Imperial, bluecoats
+0 KEYWORDS Pirates, Trading Post, Flagship, soldiers, standard grin
+0 CMDLINE -c14
+0 BFC NOCERTIFY
+
+ 1  0 0 0 0 1 0 0 0 1 0 0 0 1 s\3626b37a.dat
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626b37b.dat
+0
+0 COMMENT end of file

@@ -1,0 +1,110 @@
+LDraw.org Parts Update 2003-01
+---------------------------------------------------------------------------
+
+Notes created Mon Mar 10 22:20:43 2003 by the Parts Tracker.
+
+Release statistics:
+   Total files: 93
+   New files: 55
+   New parts: 27
+   New subparts: 22
+   New primitives: 1
+   New hi-res primitives: 4
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   2431B.DAT     ~Moved to 2431
+   2431BP52.DAT  ~Moved to 2431p52
+   2431BP79.DAT  ~Moved to 2431p79
+   973P35.DAT    ~Moved to 973p3n, 973p3q
+
+Renamed Parts
+   1-4CON10.DAT  1-4 Cone 10:11
+   changed to    Cone 10 x 0.25
+
+   1-4CON4.DAT   1/4 Cone 4:5 radii
+   changed to    Cone  4 x 0.25
+
+   2-4RING3.DAT  Official LCad update 98-10
+   changed to    Ring  3 x 0.5
+
+   4-4CON8.DAT   Cone 1.0   Radius  8
+   changed to    Cone  8 x 1.0
+
+   AXLEHO10.DAT  Axle Hole Face
+   changed to    Technic Axle Hole Tooth Surface
+
+   AXLEHO11.DAT  Axlehole #11
+   changed to    Technic Axle Hole Reduced
+
+   AXLEHOL2.DAT  Axle Hole Edge 1
+   changed to    Technic Axle Hole Side Edges
+
+   AXLEHOL3.DAT  Axle Hole Edge 2
+   changed to    Technic Axle Hole Tooth Outer Edges
+
+   AXLEHOL4.DAT  Axle Hole #4
+   changed to    Technic Axle Hole Open One Side
+
+   AXLEHOL5.DAT  Axle Hole #5
+   changed to    Technic Axle Hole Open Two Opposite Sides
+
+   AXLEHOL6.DAT  Axle Hole 6 - only the teeth
+   changed to    Technic Axle Hole Tooth
+
+   AXLEHOL7.DAT  Axle Hole 7 - Area between teeth
+   changed to    Technic Axle Hole Sides
+
+   AXLEHOL8.DAT  Axle Hole Inside Edges
+   changed to    Technic Axle Hole Perimeter
+
+   AXLEHOL9.DAT  Axle Hole Edges #9
+   changed to    Technic Axle Hole Tooth Inner Edges
+
+   AXLEHOLE.DAT  Axle Hole
+   changed to    Technic Axle Hole Closed
+
+   BOX4-4A.DAT   Box, 4 faces drawn, 4 adjacent edges left out
+   changed to    Box with 4 Faces without 4 Adjacent Edges
+
+   BOX4-7A.DAT   Box, 4 faces drawn, 7 adjacent edges left out
+   changed to    Box with 4 Faces without 7 Adjacent Edges
+
+   2431P51.DAT   Tile  1 x  4 with stripes
+   changed to    Tile  1 x  4 with Long White Stripes Pattern
+
+   2431P52.DAT   ~Moved to 2431bp52
+   changed to    Tile  1 x  4 with Danger Stripes Black Pattern
+
+   2431P79.DAT   ~Moved to 2431bp79
+   changed to    Tile  1 x  4 with 5 Red Stripes Pattern
+
+   3005-1B.DAT   Brick  1 x  1 with Lightblue "1" Pattern (Needs work)
+   changed to    Brick  1 x  1 with Lightblue "1" Pattern
+
+   3876.DAT      Minifig Accessory Shield Round
+   changed to    Minifig Shield Round
+
+   41770.DAT     Wing 2 x  4 Left
+   changed to    Wing  2 x  4 Left
+
+   3070BS01.DAT  ~Subfile Tile  1 x  1 with Groove without Face
+   changed to    ~Tile  1 x  1 with Groove without Top Face
+
+   973P35A.DAT   ~Subpart Minifig Torso with Imperial Guard Pattern - Gold subpart
+   changed to    ~Minifig Torso with Imperial Guard Pattern - Gold
+
+   973P35B.DAT   ~Subpart Minifig Torso with Imperial Guard Pattern - silver subpart
+   changed to    ~Minifig Torso with Imperial Guard Pattern - Silver
+
+Other Fixed Parts
+   AXLE.DAT      Axle
+   AXLEEND.DAT   Axle End Surface
+   2431.DAT      Tile  1 x  4
+   2431P02.DAT   Tile  1 x  4 with Danger Stripes Red Pattern
+   3297.DAT      Slope Brick 33  3 x  4
+   3639.DAT      Hinge Plate  2 x  4 with Articulated Joint - Male
+   604.DAT       Window  1 x  6 x  3 Panorama
+   6060.DAT      Arch  1 x  6 x  3 & 1/3 with Curved Top

@@ -1,7 +1,11 @@
-0 Box, 4 faces drawn, 4 adjacent edges left out
+0 Box with 4 Faces without 4 Adjacent Edges
 0 Name: box4-4a.dat
 0 Author: M. Moolhuysen 1998
-0 Official LCad Update 98-07
+0 LDRAW_ORG Primitive UPDATE 2003-01
+
+0 2002-12-13: Hafhead: Made BFC compliant
+
+0 BFC CERTIFY CW
 
 2 24 1 1 1 -1 1 1
 2 24 -1 1 1 -1 1 -1
@@ -11,7 +15,8 @@
 2 24 1 0 -1 1 0 1
 2 24 1 0 1 1 1 1
 2 24 -1 0 1 -1 1 1
-4 16  1 1  1  1 1 -1 -1 1 -1 -1 1  1
+4 16  1 1  1 -1 1  1 -1 1 -1  1 1 -1
 4 16  1 1  1  1 0  1 -1 0  1 -1 1  1
 4 16 -1 1  1 -1 0  1 -1 0 -1 -1 1 -1
 4 16  1 1 -1  1 0 -1  1 0  1  1 1  1
+0

@@ -1,0 +1,12 @@
+0 Minifig Shield Triangular with Maroon/Red Quarters Pattern
+0 Name: 3846p4u.dat
+0 Author: Andrew Westrate
+0 LDRAW_ORG Part UPDATE 2003-01
+
+0 CMDLINE -C7
+0 KEYWORDS Castle, LEGOLAND Castle, Knight, Tournament
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3846s01.dat
+1 260 0 0 -10 -1 0 0 0 1 0 0 0 1 s\3846p4ta.dat
+1 4   0 0 -10  1 0 0 0 1 0 0 0 1 s\3846p4ta.dat
+0

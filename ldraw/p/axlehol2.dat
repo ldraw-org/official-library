@@ -1,14 +1,20 @@
-0 Axle Hole Edge 1
-0 Name: AXLEHOL2.dat
+0 Technic Axle Hole Side Edges
+0 Name: axlehol2.dat
 0 Author: James Jessiman
-0 Original LDraw Primitive - LDraw beta 0.27 Archive
+0 Original LDraw Primitive
+0 LDRAW_ORG Primitive UPDATE 2003-01
 
- 2 24 6    0 0    5.58 0 2
- 2 24 2    0 5.58 0    0 6
- 2 24 -6    0 0    -5.58 0 2
- 2 24 -2    0 5.58 -0    0 6
- 2 24 6    0 -0    5.58 0 -2
- 2 24 2    0 -5.58 0    0 -6
- 2 24 -6    0 -0    -5.58 0 -2
- 2 24 -2    0 -5.58 -0    0 -6
+0 BFC CERTIFY CCW
+
+0 2002-11-08 OWP Adjusted fit and precision
+
+
+ 2 24 6  0 0      5.602 0 2
+ 2 24 2  0 5.602  0    0 6
+ 2 24 -6 0 0      -5.602 0 2
+ 2 24 -2 0 5.602  -0    0 6
+ 2 24 6  0 -0     5.602 0 -2
+ 2 24 2  0 -5.602 0    0 -6
+ 2 24 -6 0 -0     -5.602 0 -2
+ 2 24 -2 0 -5.602 -0    0 -6
 0
