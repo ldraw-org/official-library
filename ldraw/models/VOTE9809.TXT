@@ -1,0 +1,182 @@
+Voting Results - L-Cad dat vote 9809 
+15 vote-sheets tallied - some were partial/incomplete 
+
+-Pieces marked with an * by the number had some sort of 
+ modification to name and/or description. Details below.
+ All parts starting with an X that did not get new
+ correct numbers had the X dropped.
+-Some existing numbers were changed. Details below.
+
+Yes No Abstain Name     Description
+--- --- ----   ----     --------------------------------
+12  2   1      607P01   Baseplate 32 x 32 Road Crossroads with Road Pattern-9 Studs 
+12  1   2      607      Baseplate 32 x 32 Road Crossroads-9 Studs 
+12  1   2      609      Baseplate 32 x 32 Road Curve-9 Studs 
+11  1   2      606P01   Baseplate 32 x 32 Road Straight with Road Pattern-9 Studs 
+13  1   1      606P02   Baseplate 32 x 32 Road Straight with Road and Crosswalk-9 Studs
+11  1   2      606      Baseplate 32 x 32 Road Straight-9 Studs 
+12  2   1      608P01   Baseplate 32 x 32 Road T Intersection with Road Pattern-9 Studs
+12  1   2      608      Baseplate 32 x 32 Road T Intersection-9 Studs 
+12  1   2    * 4289     Boat Mast  2 x  2
+14  0   1      6042     Brick  2 x  2 x  3 & 1/3 Octagonal With Side Studs
+14  0   0      6107     Brick  5 x  5 Facet
+12  0   3      6546     Door  1 x  2 x  3 Pane
+13  0   2    * 30198    Grab Jaw Holder with Handle
+15  0   0    * 73590A   Hose Flexible 8.5L without Tabs (Complete Assembly Shortcut)
+15  0   0      752      Hose Flexible End  1 x  1 x  2/3 without Tabs 
+15  0   0      756      Hose Flexible Segment Center Section (open file for usage guide)
+15  0   0      755      Hose Flexible Segment Cup Section (open file for usage guide)
+15  0   0      754      Hose Flexible Segment Link Section (open file for usage guide)
+13  0   2    * 30159    Magnet Holder Plate  2 x  2 Bottom 
+14  0   1    * 3896     Minifig Castle Helmet with Chin-Guard 
+14  0   1    * 2446     Minifig Helmet 
+14  0   1    * 2447     Minifig Helmet Visor 
+13  0   2      4736     Minifig Jet-Pack with Stud On Front 
+13  1   1    * 82359    Minifig Skeleton Skull (Needs work) 
+14  0   0    * 194      Minifig Tool Hose Nozzle with Handle
+14  0   1      4522     Minifig Tool Mallet 
+13  0   2      6246C    Minifig Tool Power Drill 
+14  0   1      4006     Minifig Tool Spanner/Screwdriver  
+13  0   2      2582P68  Panel  2 x  4 x  3 & 1/3 with MTron Pattern
+13  0   2      30140    Panel  2 x  5 x  6 Log Wall
+14  0   1      2466P68  Panel  3 x  2 x  6 with MTron Logo Pattern 
+10  0   4    * 200      Rack Winder Axle 
+10  1   4    * 202      Rack Winder without Axle 
+11  1   3      80039    Roadsign Round with Left Turn Prohibited Sign 
+11  1   3      80045    Roadsign Round with No Parking Sign  
+11  1   3      7284     Roadsign Round with No Thoroughfare Sign 
+11  1   3      3678P01  Slope Brick 65  2 x  2 x  2 with Witch's Dress Pattern 
+12  1   2      2573     Space Wheel Giant 
+12  1   2      2680     Support  4 x  4 x  5 Stanchion 
+11  1   3      2681     Support  6 x  6 x 10 Stanchion
+13  1   1      32013    Technic Angle Connector #1 
+13  1   1      32034    Technic Angle Connector #2 
+12  1   1      32016    Technic Angle Connector #3
+09  3   2      924      Technic Angle Connector #4 
+13  1   1      32015    Technic Angle Connector #5 
+13  1   1      32014    Technic Angle Connector #6
+11  1   2      4346P68  Town Mailbox  2 x  2 x  2 Door with MTron Pattern 
+09  1   4      6556     Train Window  1 x  4 x  3 New 
+13  1   0      4288     Tyre Balloon 
+12  1   2      3739     Wheel Technic 24 x 43 
+12  1   2      30231    Wing Insectoid Small with Arm Hinge
+
+These pieces on "Hold":
+14  0   1      6105     Door  1 x  4 x  7.8 with 1/4 Circle Top 
+14  0   1      2400     Door  1 x  5 x  9.4 with 1/4 Circle Top 
+
+New Subparts added to the \S directory in this update:
+14S01.DAT     ~Subpart Roadsign Round 
+2573-12.DAT   ~Subpart Space Wheel Giant,  1/12
+921A.DAT      ~Subpart Technic Axle Connector Center 
+921B.DAT      ~Subpart Technic Axle Connector End 
+4288-15.DAT   ~Subpart Tyre Balloon Tread 
+3739A.DAT     ~Subpart Wheel Technic 24 x 43 
+
+-------------------------------------------------------------------- 
+Other diabolical doings with the new parts:
+
+-"X" numbers kept as is, with the X dropped:
+  607P01  Baseplate 32 x 32 Road Crossroads with Road Pattern-9 Studs 
+  607     Baseplate 32 x 32 Road Crossroads-9 Studs 
+  609     Baseplate 32 x 32 Road Curve-9 Studs 
+  606P01  Baseplate 32 x 32 Road Straight with Road Pattern-9 Studs 
+  606P02  Baseplate 32 x 32 Road Straight with Road and Crosswalk-9 Studs
+  606     Baseplate 32 x 32 Road Straight-9 Studs 
+  608P01  Baseplate 32 x 32 Road T Intersection with Road Pattern-9 Studs
+  608     Baseplate 32 x 32 Road T Intersection-9 Studs 
+  752     Hose Flexible End  1 x  1 x  2/3 without Tabs
+  756     Hose Flexible Segment Center Section (open file for usage guide)
+  755     Hose Flexible Segment Cup Section (open file for usage guide)
+  754     Hose Flexible Segment Link Section (open file for usage guide)
+  924     Technic Angle Connector #4
+
+-"X" numbers changed: 
+  X104 renamed to 4289    Boat Mast  2 x  2       
+  X105 renamed to 30198   Grab Jaw Holder with Handle 
+  X753 renamed to 73590A  Hose Flexible 8.5L without Tabs (Complete Assembly Shortcut)  
+  X763 renamed to 3896    Minifig Castle Helmet with Chin-Guard      
+  X762 renamed to 2446    Minifig Helmet      
+  X761 renamed to 2447    Minifig Helmet Visor 
+  X106 renamed to 82359   Minifig Skeleton Skull (Needs work) 
+
+-"Correct" numbers found to be INCORRECT.
+  2424 renamed to 200     Rack Winder Axle      
+       2424 is known to be a different piece. 
+
+  2425 renamed to 202     Rack Winder without Axle
+        
+  73180 renamed to 194    Minifig Tool Hose Nozzle with Handle
+       73180 is the composite number for the piece plus
+       the line attached to it.  If we ever make a line,
+       73180 would be the shortcut number for both.
+
+-Description changes to new parts:
+  Jet Pipe (needs better name) changed to:
+     194   Minifig Tool Hose Nozzle with Handle 
+
+  Plate  2 x  2 Bottom Magnet Holder changed to:
+     30159 Magnet Holder Plate  2 x  2 Bottom
+
+-These pieces on "HOLD" pending major revision by author:
+  6105.DAT  hold    Door  1 x  4 x  7.8 with 1/4 Circle Top 
+  2400.DAT  hold    Door  1 x  5 x  9.4 with 1/4 Circle Top 
+
+-------------------------------------------------------------------- 
+Summary of changes to existing parts:
+
+-First, there seemed to be a consensus to create a "Magnet" category.
+So several pieces were changed to be placed there, along with the 
+new piece in this vote (see above).  These pieces were changed:
+  2607  Magnet Holder  2 x  3 
+  2609  Magnet Holder Tile  2 x  2
+  73092 Magnet Cylindrical
+Note that I did not change the theme specific Train parts that use
+the magnet. Only the generic-usage parts.
+
+-There was also some talk of creating a new "Container" category, or of
+moving several pieces into the "Box" category.  I choose to defer that
+pending a better consensus.
+
+-I also deferred action on the move to drop the "New" from a whole slew
+of parts.  The next vote looks to be pretty sparse, perhaps then would
+be a good time to do that.  This update has enough already.
+
+-Various fixes by authors to their parts:
+3462      Plate  2 x  3 with Helicopter Rotor Holder
+751       Hose Tube 7L
+3626bp02  Minifig Head New with Standard Woman Pattern (needs work)
+3626bp01  Minifig Head New with Standard Grin Pattern
+3626B     Minifig Head New
+3626b-4t  ~Minifig Head New without Face Area
+9326p14   Minifig Torso New with 'S' logo
+9326p51   Minifig Torso New with Blacktron II Pattern
+9326p52   Minifig Torso New with Blacktron I Pattern
+4080      Tipper Bucket  4 x  6
+30136     Brick  1 x  2 Log
+30137     Brick  1 x  4 Log
+3951p68   Slope Brick 33  3 x  6 with MTron Logo Pattern
+ 
+-Error fixes to original parts:
+2358p01   Baseplate 32 x 32 Road Straight with Road Pattern
+             piece also ~Moved To number 80547
+3626a     Minifig Head Old
+
+-Stuff I fiddled with:
+4476  Support  2 x  4 x  5 Stanchion Inclined
+         Space Leg renamed to "Support" category
+2875  Slope Brick 45  2 x  6 x  2/3
+         had extra number on line 12 - L3P complained
+750   Hose Flexible End  1 x  1 x  2/3
+         added comment text for hose assembly guide
+         like other pieces in new release (752,754-756)
+979   Minifig (Complete Figure Shortcut)
+         fixed internal reference to moved head part
+980   Minifig (Complete Figure Shortcut, Sitting)
+         fixed internal reference to moved head part
+73590 Hose Flexible  8.5L (Complete Assembly Shortcut - Straight)
+         ~moved to 73590b because new parts include 73590a variant
+122   Plate  2 x  2 with Wheels
+          added wheels to 2x2 wheels holder to match 3137.dat
+          brick 2x2 with wheels
+2358p01 ~Moved To number 80547

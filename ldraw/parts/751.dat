@@ -1,10 +1,10 @@
-0 Hose Flexible Tube  7L
+0 Hose Tube 7L
 0 Name: 751.dat
 0 Author: Steve Bliss
-0 Official LCad update 98-07
+0 Official LCad update 98-09
 
-0 Category Gizmo
-0 Keywords gizmo, hose, flexible, minifig, space, tube
+0 CATEGORY Gizmo
+0 KEYWORDS gizmo, hose, flexible, minifig, space, tube
 
 1 16 0 -70 0 4 0 0 0 140 0 0 0 4 4-4cyli.dat
 1 16 0 -65 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
@@ -57,15 +57,33 @@
 1 16 0 57.2 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 59.8 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 62.4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 -65 0 5 0 0 0 0 0 0 0 5 4-4disc.dat
+1 16 0 -65 0 5 0 0 0 0 0 0 0 5 4-4edge.dat
+1 16 0 -65 0 5 0 0 0 -5 0 0 0 5 4-4cyli.dat
+1 16 0 -70 0 5 0 0 0 0 0 0 0 5 4-4edge.dat
+1 16 0 -70 0 5 0 0 0 0 0 0 0 5 4-4disc.dat
+1 16 0 -70 0 3 0 0 0 0 0 0 0 3 4-4edge.dat
+1 16 0 -70 0 3 0 0 0 -6 0 0 0 3 4-4cyli.dat
+1 16 0 -76 0 3 0 0 0 0 0 0 0 3 4-4edge.dat
+1 16 0 -76 0 1 0 0 0 0 0 0 0 1 ring3.dat
+1 16 0 -76 0 4 0 0 0 0 0 0 0 4 4-4edge.dat
+1 16 0 -76 0 4 0 0 0 -2 0 0 0 4 4-4cyli.dat
+1 16 0 -78 0 2 0 0 0 -4 0 0 0 2 4-4con12.dat
+1 16 0 -82 0 2 0 0 0 0 0 0 0 2 4-4edge.dat
+1 16 0 -82 0 2 0 0 0 0 0 0 0 2 4-4disc.dat
 1 16 0 65 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
-1 16 0 -65 0 2 0 0 0 0 0 0 0 2 ring2.dat
-1 16 0 -65 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
-1 16 0 -65 0 6 0 0 0 -5 0 0 0 6 4-4cyli.dat
-1 16 0 -70 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
-1 16 0 -70 0 6 0 0 0 0 0 0 0 6 4-4disc.dat
-1 16 0 65 0 2 0 0 0 0 0 0 0 2 ring2.dat
-1 16 0 65 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
-1 16 0 65 0 6 0 0 0 5 0 0 0 6 4-4cyli.dat
-1 16 0 70 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
-1 16 0 70 0 6 0 0 0 0 0 0 0 6 4-4disc.dat
+1 16 0 65 0 5 0 0 0 0 0 0 0 5 4-4disc.dat
+1 16 0 65 0 5 0 0 0 0 0 0 0 5 4-4edge.dat
+1 16 0 65 0 5 0 0 0 5 0 0 0 5 4-4cyli.dat
+1 16 0 70 0 5 0 0 0 0 0 0 0 5 4-4edge.dat
+1 16 0 70 0 5 0 0 0 0 0 0 0 5 4-4disc.dat
+1 16 0 70 0 3 0 0 0 0 0 0 0 3 4-4edge.dat
+1 16 0 70 0 3 0 0 0 6 0 0 0 3 4-4cyli.dat
+1 16 0 76 0 3 0 0 0 0 0 0 0 3 4-4edge.dat
+1 16 0 76 0 1 0 0 0 0 0 0 0 1 ring3.dat
+1 16 0 76 0 4 0 0 0 0 0 0 0 4 4-4edge.dat
+1 16 0 76 0 4 0 0 0 1 0 0 0 4 4-4cyli.dat
+1 16 0 77 0 2 0 0 0 5 0 0 0 2 4-4con12.dat
+1 16 0 82 0 2 0 0 0 0 0 0 0 2 4-4edge.dat
+1 16 0 82 0 2 0 0 0 0 0 0 0 2 4-4disc.dat
 0

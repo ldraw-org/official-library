@@ -1,0 +1,30 @@
+0 Hose Flexible Segment Center Section (open file for usage guide)
+0 Name: 756.dat
+0 Author: John VanZwieten
+0 Official LCad update 98-09
+
+0 This file, the Center Section, joins the chain of 754.dat Link
+0 Sections coming from the two Cup Sections. 
+
+0 Use this file in conjuction with the files:
+0 750.dat/752.dat End piece with or without tabs
+0 754.dat Link Section
+0 755.dat Cup Section
+0 to manually construct complete flexible tubes.
+
+0 Example:
+0 Start with a 750.dat End piece,
+0 Next comes a 755.dat Cup Section,
+0 Then a string of approximately 25 754.dat Link Sections,
+0 Place a 756.dat Center Section,
+0 Then another string of 754.dat's facing the opposite way,
+0 Then a 755.dat Cup Section,
+0 Finish with a 750.dat End piece. 
+
+1 16 0 -2 0 4 0 0 0 0 0 0 0 4 4-4edge.dat
+1 16 0 -2 0 4 0 0 0 2 0 0 0 4 4-4cyli.dat
+1 16 0 -2 0 1 0 0 0 0 0 0 0 1 ring3.dat
+1 16 0 0 0 3 0 0 0 0 0 0 0 3 4-4edge.dat
+1 16 0 0 0 3 0 0 0 3 0 0 0 3 4-8sphe.dat
+1 16 0 -2 0 3 0 0 0 -3 0 0 0 3 4-8sphe.dat
+0

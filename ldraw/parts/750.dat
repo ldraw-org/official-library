@@ -1,10 +1,29 @@
 0 Hose Flexible End  1 x  1 x  2/3
 0 Name: 750.dat
 0 Author: Steve Bliss
-0 Official LCad update 98-07
+0 Official LCad update 98-09
+
+0 This file, the End piece, forms each end of
+0 a flexible hose.
+
+0 Use this file in conjuction with the files:
+0 754.dat Link Section
+0 755.dat Cup Section
+0 756.dat Center Section
+0 to manually construct complete flexible tubes.
+
+0 Example:
+0 Start with a 750.dat End piece,
+0 Next comes a 755.dat Cup Section,
+0 Then a string of approximately 25 754.dat Link Sections,
+0 Place a 756.dat Center Section,
+0 Then another string of 754.dat's facing the opposite way,
+0 Then a 755.dat Cup Section,
+0 Finish with a 750.dat End piece. 
 
 0 Category Gizmo
-0 Keywords gizmo, hose, flexible, minifig, space, tube
+0 Keywords gizmo, hose, flexible, minifig, space, tube, end, tabs, cap
+
 
 1 16 0 16 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
 1 16 0 16 0 8 0 0 0 0 0 0 0 8 4-4edge.dat

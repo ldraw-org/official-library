@@ -1,7 +1,7 @@
-0 Space  2 x  2 Tile Magnet Holder 
+0 Magnet Holder Tile  2 x  2
 0 Name: 2609.dat
 0 Author: Steve Bliss
-0 Official LCad update 97-17
+0 Official LCad update 98-09
 
 2 24 20 8 20 -20 8 20 
 2 24 -20 8 20 -20 8 -20 
@@ -286,6 +286,4 @@
 1 16 16 -6.59 0 0 4 0 -1.41 0 1.41 1.41 0 1.41 3-4cyli.dat
 4 16 20 0 8 20 0 -8 20 -4 -8 20 -4 8 
 4 16 16 0 8 16 0 -8 16 -4 -8 16 -4 8 
-0 
-
-
+0

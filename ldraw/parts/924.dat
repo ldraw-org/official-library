@@ -1,0 +1,9 @@
+0 Technic Angle Connector #4
+0 Name: 924.dat
+0 Author: Lutz Uhlmann
+0 Official LCad update 98-09
+
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\921a.dat
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\921b.dat
+ 1 16 0 0 0 -1 0 0 0 0.7 0.7 0 0.7 -0.7 s\921b.dat
+0 
