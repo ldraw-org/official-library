@@ -1,0 +1,11 @@
+0 Windscreen  4 x  7 x  1 2/3 w/ SW Pattern
+0 Name: 30372p79.dat
+0 Author: John VanZwieten
+0 Official LCad update 99-06
+
+0 Windscreen w/o Top Faces
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30372s01.dat
+
+0 Patterned Top Faces
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30372s02.dat
+0

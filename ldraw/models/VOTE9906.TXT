@@ -1,0 +1,179 @@
+Voting Results - L-Cad dat vote 9906
+10 vote-sheets tallied - some were partial/incomplete 
+
+-Pieces marked with an * by the number had some sort of 
+ modification to name and/or description. Details below.
+ All parts starting with an X that did not get new
+ correct numbers had the X dropped.
+ Pieces marked with an "H" are being held pending problem
+ resolution.
+
+Yes No Abstain Name     Description
+--  --  --  -------    --------------------------------
+ 7   1   2 * 30139     Barrel  4 x  4 x  3.5                                           
+ 7   2   1   2552      Baseplate 32 x 32 Raised with Ramp (needs work)                 
+ 6   3   1   611       Baseplate 32 x 32 Road 8-Stud Crossroads                        
+ 7   2   1   611P01    Baseplate 32 x 32 Road 8-Stud Crossroads with Pattern           
+ 6   3   1   613       Baseplate 32 x 32 Road 8-Stud Curve                             
+ 7   2   1   613P01    Baseplate 32 x 32 Road 8-Stud Curve with Pattern                
+ 6   3   1   610       Baseplate 32 x 32 Road 8-Stud Straight                          
+ 7   2   1   610P01    Baseplate 32 x 32 Road 8-Stud Straight with Pattern             
+ 6   3   1   612       Baseplate 32 x 32 Road 8-Stud T Intersection                    
+ 7   2   1   612P01    Baseplate 32 x 32 Road 8-Stud T Intersection with Pattern       
+ 8   1   1   609P01    Baseplate 32 x 32 Road 9-Stud Curve with Pattern                
+ 8   1   1 * 606P33    Baseplate 32 x 32 Road 9-Stud Straight Runway                   
+ 7   2   1 * 608P33    Baseplate 32 x 32 Road 9-Stud T-Junction Runway (needs work)    
+ 8   0   2 * 3004P03   Brick  1 x  2 with Yellow Down Arrow and Black Border Pattern   
+ 8   0   2   3004P05   Brick  1 x  2 with Yellow Grille Pattern                        
+ 8   0   2   3004P01   Brick  1 x  2 with Yellow Left Arrow and Black Border Pattern   
+ 8   0   2   3004P02   Brick  1 x  2 with Yellow Right Arrow and Black Border Pattern  
+ 8   0   2 * 3004P04   Brick  1 x  2 with Yellow Up Arrow and Black Border Pattern     
+ 8   0   2   3010P05   Brick  1 x  4 with White Grille Pattern                         
+10   0   0   4523      Container Pannier D-Basket                                      
+ 9   0   1   30360     Cylinder  3 x  6 x  2 2/3 Horizontal                            
+10   0   0   6105      Door  1 x  4 x  8 with 1/4 Circle Top                           
+10   0   0   2400      Door  1 x  5 x 10 with 1/4 Circle Top                           
+ 7   2   1   4760      Electric 9V Battery Box Small (needs work)                      
+ 7   2   1   4761      Electric 9V Battery Box Small Lid (needs work)                  
+ 7   2   1   4762      Electric 9V Battery Box Small Switch (needs work)               
+ 8   0   2   2500C01   Electric Light & Sound Brick  1 x  8 with 3 Front Lights        
+ 8   0   2   2984      Electric Technic Micromotor Top                                 
+ 9   0   1   30383     Hinge Plate  1 x  2 Locking w/ 1 Finger On Top                  
+ 8   1   1 * 30407     Hinge Plate  1 x  8 with Angled Side Extensions                 
+ 8   0   2   735       Magnet Holder for Train Base  6 x 16 Type I                     
+10   0   0   4498      Minifig Arrow Quiver                                            
+10   0   0   4499      Minifig Bow with Arrow                                          
+10   0   0   3852      Minifig Hairbrush                                               
+ 9   0   1   30152     Minifig Tool Magnifying Glass                                   
+10   0   0   973P21    Minifig Torso with Five Button Fire Fighter Pattern             
+10   0   0   973P46    Minifig Torso with Forestman and Purse Pattern                  
+10   0   0   973P34    Minifig Torso with Open Jacket over Striped Vest Pattern        
+10   0   0   973P22    Minifig Torso with Red Shirt and Suit Pattern                   
+10   0   0   973P101   Minifig Torso with SW Rebel Pilot Pattern                       
+ 8   0   2   4865P06   Panel  1 x  2 x  1 with Black Grille Pattern                    
+ 9   0   1   4215P06   Panel  1 x  4 x  3 Left with Blue Stripe Pattern                
+ 8   1   1   4215P07   Panel  1 x  4 x  3 Left with Red/Blue Stripe Pattern            
+ 9   0   1   4215P04   Panel  1 x  4 x  3 Right with Blue Stripe Pattern               
+ 9   0   1   4215P05   Panel  1 x  4 x  3 Right with Red/Blue Stripe Pattern           
+ 8   0   2   2466P07   Panel  3 x  2 x  6 with Black Grille Pattern                    
+ 9   0   1   2408P01   Panel 10 x  6 x 11 with Blacktron II Logo Pattern               
+ 8   1   1   4727      Plant Flower Leaves                                             
+10   0   0   3471      Plant Tree Pine                                                 
+10   0   0   892       Roadsign Clip-on  2.2 x  2 2/3 Triangular                       
+ 9   0   1   30363     Slope Brick 18  4 x  2                                          
+ 7   0   3   3298P66   Slope Brick 33  3 x  2 with Pink Triangles Pattern              
+ 9   0   1   3040P01   Slope Brick 45  1 x  2 with 3 Buttons, 3 Red Lamps/Yellow Panel 
+10   0   0   3039P101  Slope Brick 45  2 x  2 w/ SW Trench Computer Pattern            
+ 8   0   1   3039P33   Slope Brick 45  2 x  2 with 12 Buttons, 3 Red Lamps/Yellow Panel
+ 7   1   2   741       Technic Gear 14 Tooth                                           
+ 7   0   2   2714      Technic Ski Pole                                                
+10   0   0   3069P101  Tile  1 x  2 w/ SW Computer Pattern                             
+ 8   0   2   3069P07   Tile  1 x  2 with Long Red Arrow with White Border Pattern      
+ 9   0   1 * 2431P52   Tile  1 x  4 with Danger Stripes Black Pattern                  
+ 9   0   0   3068P101  Tile  2 x  2 w/ SW Rebel Mechanical Pattern                     
+ 7   0   2   736C01    Train Base  6 x 16 Type I with Wheels                           
+ 8   0   2   4181P06   Train Door  1 x  4 x  5 Left with Red/Blue Stripe Pattern       
+ 8   0   2   4182P06   Train Door  1 x  4 x  5 Right with Red/Blue Stripe Pattern      
+10   0   0   6069P101  Wedge  4 x  4 Triple w/ SW X-wing Nose Pattern                  
+ 9   0   1   30372P79  Windscreen  4 x  7 x  1 2/3 w/ SW Pattern
+
+
+_New Subparts added to the \S directory in this update:
+ 3039A101.DAT  ~Subpart Brick 45  2 x  2 w/ SW Trench Computer Pattern
+ 3039S101.DAT  ~Subpart Brick 45  2 x  2 w/ SW Trench Computer Pattern
+ 3068A101.DAT  ~Subpart for 3068s101 subpart
+ 3068B101.DAT  ~Subpart for 3068s101 subpart
+ 3068C101.DAT  ~Subpart for 3068s101 subpart
+ 3852-1.DAT    ~Subpart for Minifig Hairbrush
+ MAGNET.DAT    ~Subpart Magnet Holder Old
+ 973P34A.DAT   ~Subpart Minifg Torso with Open Jacket over Striped Vest - Belt
+ 973A101.DAT   ~Subpart Minifig Torso w/ SW Rebel Pilot Pattern
+ 973P46A.DAT   ~Subpart Minifig Torso with Forestman and Purse Pattern
+ 892S01.DAT    ~Subpart Roadsign Clip-on  2.2 X  2 2/3 Triangular
+ COG2.DAT      ~Subpart Samsonite Gear Cog
+ 3039S01.DAT   ~Subpart Slope Brick 45  2 x  2 w/o Front Face
+ 3068S101.DAT  ~Subpart Tile  2 x  2 w/ SW Rebel Mechanical Pattern
+ 3068S.DAT     ~Subpart Tile  2 x  2 w/o top face
+ 6069S01.DAT   ~Subpart Wedge  4 x  4 Triple w/ SW X-wing Nose Pattern
+ 6069S101.DAT  ~Subpart Wedge  4 x  4 Triple w/ SW X-wing Nose Pattern
+ 30372S01.DAT  ~Subpart Windscreen  4 x  7 x  1 2/3 w/ SW Pattern
+ 30372S02.DAT  ~Subpart Windscreen  4 x  7 x  1 2/3 w/ SW Pattern
+
+
+_New Primitives:
+ No new primitives in this release
+
+_"X" numbers kept as is, with the X dropped:
+ Basically all three-digit numbers beginning with 6, 7, or 8.  
+
+_Description changes to new pieces:
+A few tweaks:
+ The 30139 Barrel appears to be 4 x 4 NOT 3 x 3 as originally shown.
+ Some of the baseplates and bricks with colored arrows were altered to match
+    existing nomenclatures.
+ The starwars podracer vane piece (30407) was designated as a hinge with
+    a dimension of 1 x 8 and "side extensions".  
+ 2431p52 Tile  1 x  4 with Danger Stripes Black Pattern
+    Altered to match the similar original red piece (which was
+    also changed in this update). Both should now sort together.
+
+_Number changes to new pieces:
+ Besides dropping the "x" on three-digit pieces, just one:
+ 736C01    Train Base  6 x 16 Type I with Wheels
+   "cO1" added as this is a composite structure.  
+
+_Pieces put on "HOLD" pending problem resolution.
+   The composite of the shock, 2909c01.dat, passed in vote 9904.
+   But the final determination of how to implement this piece has not
+   been decided. When figured out, this piece will be released.
+   UPDATE:  The method has been pretty much finalized, we just
+            need to get the proper spring parts made.   
+   UPDATE to the UPDATE: Still in a holding pattern. :-(
+
+
+_New pieces added in _underscore (hard-coded color) categories:
+ 4109603.DAT   _Baseplate 32 x 32 Road 8-Stud Crossroads with Pattern          
+ 4109601.DAT   _Baseplate 32 x 32 Road 8-Stud Curve with Pattern               
+ 4109602.DAT   _Baseplate 32 x 32 Road 8-Stud Straight with Pattern            
+ 4109600.DAT   _Baseplate 32 x 32 Road 8-Stud T Intersection with Pattern      
+ 71185.DAT     _Antenna 6H Chrome
+ 81055.DAT     _Panel  1 x  2 x  1 with Black Grille Pattern                   
+ 80651.DAT     _Panel  1 x  4 x  3 Left with Blue Stripe Pattern               
+ 80649.DAT     _Panel  1 x  4 x  3 Left with Red/Blue Stripe Pattern           
+ 80650.DAT     _Panel  1 x  4 x  3 Right with Blue Stripe Pattern              
+ 80648.DAT     _Panel  1 x  4 x  3 Right with Red/Blue Stripe Pattern          
+ 81599.DAT     _Panel 10 x  6 x 11 with Blacktron II Logo Pattern              
+ 81149.DAT     _Slope Brick 45  1 x  2 with 3 Buttons, 3 Red Lamps/Yellow Panel
+
+-------------------------------------------------------------------- 
+Summary of changes to existing parts:
+_Fixes to existing parts:
+ 2554  Door 1 x 3 x 6 with 1/4 Circle Top
+         This is an all-new replacement for the existing
+         piece. Based on the 2400 and 6105 pieces in this
+         vote. Adds some depth and detail.
+ 4522  Minifig Tool Mallet
+  
+_~Moved To files:
+  None in this update.
+
+_Category changes:
+  NONE! (didn't feel like it!)
+
+_Description changes to existing pieces:
+ 2431p02 Tile  1 x  4 with Danger Stripes Red Pattern
+   Added "Red" to description to sort better with new "black"
+   version in this update.
+
+_Modifications to the 0 CATEGORY statement line:
+  None that I recall.
+
+---------------------------------------------------------------------
+_Summary of changes to the parts production crew:
+ This (very late) update will be my last.  My apologies to all for taking
+ so long to get this one out.  I have enjoyed doing this for about two years
+ now, but circumstances force me to turn over the job to Steve Bliss (GO Steve!)
+ 
+ So remember, all kowtowing must be done in his direction now. :-)
+
+-- Terry Keller --

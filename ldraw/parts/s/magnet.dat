@@ -1,0 +1,20 @@
+0 ~Subpart Magnet Holder Old
+0 Name: magnet.dat
+0 Author: Tore Eriksson 
+0 Official LCad update 99-06
+
+0 To be copied into the Parts\s directory
+
+1 8 4 0 0 0 18 0 12 0 0 0 0 12 4-4cyli.dat
+1 8 22 0 0 0 0 0 12 0 0 0 0 12 4-4edge.dat
+1 8 22 0 0 0 18 0 12 0 0 0 0 12 4-4disc.dat
+1 16 20 0 0 0 0 0 12 0 0 0 0 12 4-4edge.dat
+1 16 0 0 0 0 0 0 14 0 0 0 0 14 4-4edge.dat
+1 16 20 0 0 0 0 0 14 0 0 0 0 14 4-4edge.dat
+1 16 20 0 0 0 0 0 14 0 0 0 0 14 4-4disc.dat
+0  line above should be:
+0  1 16  20 0 0  0 0 0  2 0 0  0 0 2 ring6.dat
+0  problem is we have no ring6 primitive
+1 16 0 0 0 0 0 0 14 0 0 0 0 14 4-4disc.dat
+1 16 0 0 0 0 20 0 14 0 0 0 0 14 4-4cyli.dat
+0
