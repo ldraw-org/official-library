@@ -1,0 +1,14 @@
+0 Box, 4 faces drawn, 7 adjacent edges left out
+0 Name: box4-7a.dat
+0 Author: M. Moolhuysen 1998
+0 Official LCad Update 98-07
+
+2 24 1 1 1 -1 1 1
+2 24 -1 1 1 -1 1 -1
+2 24 1 1 -1 1 1 1
+2 24 1 0 1 1 1 1
+2 24 -1 0 1 -1 1 1
+4 16  1 1  1  1 1 -1 -1 1 -1 -1 1  1
+4 16  1 1  1  1 0  1 -1 0  1 -1 1  1
+4 16 -1 1  1 -1 0  1 -1 0 -1 -1 1 -1
+4 16  1 1 -1  1 0 -1  1 0  1  1 1  1

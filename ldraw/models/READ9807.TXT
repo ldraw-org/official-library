@@ -1,0 +1,196 @@
+Voting Results - L-Cad dat vote 9807 
+20 vote-sheets tallied - some were partial/incomplete 
+
+-Pieces marked with an * by the number had some sort of 
+ modification to name and/or description. Details below.
+-Some existing numbers were changed. Details below.
+
+Yes No Abstain Name     Description
+--- --- ----   ----     --------------------------------
+20   0   0     2637     Technic Link 16L
+14   2   4     3008P21  Brick  1 x  8 with Light Blue Squares Pattern
+14   2   4     3009P21  Brick  1 x  6 with Light Blue Squares Pattern
+16   0   4     3010P21  Brick  1 x  4 with Light Blue Squares Pattern 
+16   3   1     30235    Car Base  4 x 10 x  1 2/3
+16   3   1     30277    Car Base  2 x  8 x  1 1/3 
+17   0   3   * 3039P58  Slope Brick 45  2 x  2 with Dive Computer Pattern 
+18   1   1     3068P66  Tile  2 x  2 with Coastguard Pattern 
+15   3   2     3474     Wing  4 x  8 Tail 
+14   2   4     3491     Plate  2 x  5 with Towball Socket (needs work)
+18   0   1     3596P01  Flag on Flagpole with Stripes Pattern
+17   2   1     4215P24  Panel  1 x  4 x  3 with 1\2 Black Pattern (Left Side)
+15   3   1     4215P77  Panel  1 x  4 x  3 with 1\2 Black Pattern (Right Side) 
+19   1   0   * 4497     Minifig Metal Detector 
+18   0   2     4536     Cupboard  2 x  3 x  2 Drawer 
+19   0   1     4864P33  Panel  1 x  2 x  2 with Red, White, & Blue Pattern (Left Side)
+18   1   1     4864P34  Panel  1 x  2 x  2 with Red, White, & Blue Pattern (Right Side)
+20   0   0     6058     Space Cabin Nose Base 
+18   0   2   * 6156     Window  1 x  4 x  3 with Glass 
+18   1   1   * 6246A    Minifig Screwdriver 
+18   1   1   * 6246B    Minifig Hammer 
+17   1   1   * 6246D    Minifig Box Wrench 
+16   1   1   * 6246E    Minifig Crescent Wrench 
+13   0   7   * 71184    Bar Straight 
+17   2   1   * 73590    Hose Flexible  8 5L (Complete Assembly Shortcut)
+11   3   2     X649     Roadsign Triangle 
+16   2   2     X649P01  Roadsign Triangle with Level Crossing Pattern
+12   5   3   * X665     Brick  2 x  4 with Top/Side/End Holes 
+13   0   6     X670     Door  1 x  6 x 10 Frame 
+14   0   6     X671     Door  1 x  6 x 10 
+14   0   6   * X672     Window  1 x  6 x  5 
+14   0   6   * X673     Window  1 x  6 x  5 Glass 
+17   0   3     X675     Roadsign Square Tall 
+17   0   3     X675P01  Roadsign Square Tall with Parking Sign 
+16   1   3     X676     Roadsign Rectangle 
+16   1   3     X676P01  Roadsign Rectangle with Snack Bar Sign  
+ 7   8   2     X677     Roadsign Triangle
+13   2   2   * X677P01  Roadsign Triangle with Road Crossing Sign 
+14   1   5     X678     Homemaker Awning  2 x  6
+14   1   5     X679     Homemaker Windowsill  2 x  6 x  2 & 1/3 
+11   3   6     X721     Garage  4 x  8 x  3 
+12   3   5     X722     Garage  4 x  8 x  3 Door 
+16   1   3   * X725     Box  6 x  8 x  1 & 1/3
+16   3   1     X750     Hose Flexible End  1 x  1 x  2/3
+19   1   0     X751     Hose Flexible Tube  7L
+
+15   2   1     \S Directory addition
+
+-------------------------------------------------------------------
+
+Taking the "New Name" suggestions from the voting, the following files
+were renamed as shown:
+
+  71184    Bar  4.5L Straight
+  73590    Hose Flexible 8.5L (Complete Assembly Shortcut - Straight)
+  6156     Panel  1 x  4x  3 with Glass
+  3039P58  Slope Brick 45  2 x  2 with Divers Computer Pattern
+  6426E    Minifig Tool Open End Wrench
+ 
+  By LCad list consensus:
+  6426 series - added "Tool" after "Minifig"
+
+  X665 Brick  2 x 4 with Top/Side/End Holes.  (new filename 3709a.dat)
+       Adding "Technic" will _NOT_ be done at this time.
+       This piece does _not_ fit Technic connectors properly.       
+
+-------------------------------------------------------------------
+
+Some parts were renumbered:
+
+  X665 Changed to 3709a  (current 3709 is ~moved to 3709b)
+  4497 Changed to 4479   (This was a typo from the original source)
+  X672 Changed to 3761 
+  X673 Changed to 3762 
+  X725 Changed to 4082
+  X677p01 Changed to 649p02  (to match other version)
+
+See?  Told you the "X" numbers might change...  <g>
+To bad not all of them. :-(
+And of course, any x number not changing gets the x dropped.
+
+--------------------------------------------------------------------
+
+Triangular Roadsign.
+
+Part x677 was dropped in favor of x649.
+The 649.dat version of this part (and its patterned version) will be
+released. x677p01.dat (based on x677) is being converted to work on
+649.dat.  And this part is released as 649p02.dat
+
+Thanks to the authors of these pieces on working together to resolve
+the conflict.
+-------------------------------------------------------------------- 
+
+Other diabolical doings:
+
+New Primitives approved by the primitives group:
+  BOX4-1.DAT    Box, 4 faces drawn, 1 edge left out 
+  BOX4-4A.DAT   Box, 4 faces drawn, 4 adjacent edges left out 
+  BOX4-7A.DAT   Box, 4 faces drawn, 7 adjacent edges left out 
+  4-4CON12.DAT  Cone 1:2 Ratio
+
+Subparts moved to the new \S directory approved by voting, and the
+related files modified to work with them:
+  4186.DAT      Baseplate 48 x 48
+  4186A.DAT     ~Subpart Baseplate 48 x 48  
+
+  2593.DAT      Space Wheel Medium
+  25931-12.DAT  ~Subpart Medium Space Wheel,  1/12 
+  25931-8H.DAT  ~Subpart Medium Space Wheel, inside hub 
+
+  649s01.DAT    ~Subpart Roadsign Triangle (from the current vote)
+
+Description Changes of existing parts:
+
+  4452.DAT      Box  6 x  6      
+  4228.DAT      Slope Brick 33  5 x  6 x  2 Inverted
+  646.DAT       Window  1 x  6 x  2 with Shutters
+  4855.DAT      Wedge  4 x  4 Triple Inverted  
+  4858.DAT      Wedge  4 x  4
+  6069.DAT      Wedge  4 x  4 Triple
+  6153.DAT      Wedge  6 x  4
+  2880.DAT      Train Cantenary Holder  (Cantenary spelled wrong)
+  2881.DAT      Train Cantenary         (Cantenary spelled wrong)
+
+Minor file fixes:
+  4588.DAT      Brick  1 x  1 Round with Fins  
+  2335P01.DAT   Flag  2 x  2 with Diver Pattern   
+  2335P02.DAT   Flag  2 x  2 with Diver Stripe Pattern 
+
+~Moved To Files & Number Changes.
+these reflect the continuing effort to find correct numbers
+for all LDraw parts. (this list always seems to grow)
+All parts, except one, have corresponding "~moved to" files.
+
+  808.DAT       ~Moved to 2348a  
+  2348A.DAT     Car Roof  4 x  4 Sunroof Glass without Ridges
+---
+  2348.DAT      ~Moved to 2348b  
+  2348B.DAT     Car Roof  4 x  4 Sunroof Glass with Ridges
+---
+  28.DAT        ~Moved to 3062b       (Oops! Missed this in 9806 update)
+---
+  3709.DAT      ~Moved to 3709b   
+  3709B.DAT     Technic Plate  2 x  4 with Holes
+---
+  6237.DAT      ~Moved to 601         (6237 is WRONG number for this part)
+  601.DAT       Freestyle Window  1 x  3 x  4 Pane
+---
+  810.DAT       ~Moved to 6238
+  6238.DAT      Windscreen  4 x  4 x  1
+---
+  600.DAT       Freestyle Door  1 x  6 x  6  
+                (Was 6238 which was WRONG number for this part)
+   !!!    ->->->(No "~moved to" available as 6238 is in use by part above)
+
+ATTENTION!!     Any models using 6238.dat MUST be MANUALLY updated to
+                600.dat  Sorry, but that is the price of progress.
+---
+  2455.DAT      ~Moved to 3755        (2455 is WRONG number for this part)
+  3755.DAT      Brick  1 x  3 x  5
+---
+  2561.DAT      ~Moved to 2566        (2561 is WRONG number for this part)
+  2566.DAT      Tree Palm Top
+---
+  2562.DAT      ~Moved to 2536        (2562 is WRONG number for this part)
+  2536.DAT      Tree Palm Trunk
+---
+  2872.DAT      ~Moved to 2921        (2872 is WRONG number for this part)
+  2921.DAT      Brick  1 x  1 with Handle 
+---
+  3949.DAT      ~Moved to 3838        (3949 is WRONG number for this part)
+  3838.DAT      Minifig Airtanks (needs work)
+
+
+-- Terry K --
+
+TIP:  AFTER you have installed update lcad9807, you can DELETE the
+      following files from your \Parts directory. Or go to:
+      http://www.geocities.com/Athens/Parthenon/2244/del-dat.txt
+      for a list of unneeded files and a batch file to do the job.
+         
+      25931-12.DAT  
+      25931-8H.DAT  
+
+Don't forget: Any of your models using 6238.dat must have that number
+              changed to 600.dat due to an unavoidable conflict.

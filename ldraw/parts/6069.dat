@@ -1,7 +1,4 @@
-0 Wedge  4 x  4
-0 Name: 6069.dat
-0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Wedge  4 x  4 Triple
 
  1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
  1 16 18 4 0 2 0 0 0 4 0 0 0 1 box5.dat
@@ -330,4 +327,3 @@
 
  1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
  1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-0
