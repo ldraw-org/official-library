@@ -1,0 +1,19 @@
+0 Stud Duplo Tube
+0 Name: stud8.dat
+0 Author: Tony Hafner
+0 LDRAW_ORG Primitive UPDATE 2002-02
+
+0 To be copied into \p directory
+
+0 BFC CERTIFY CW
+
+1 16 0 -4 0 14 0 0 0 1 0 0 0 14 4-4edge.dat
+1 16 0 -4 0 16 0 0 0 1 0 0 0 16 4-4edge.dat
+1 16 0 0 0 14 0 0 0 1 0 0 0 14 4-4edge.dat
+1 16 0 0 0 16 0 0 0 1 0 0 0 16 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 -4 0 14 0 0 0 4 0 0 0 14 4-4cyli.dat
+1 16 0 -4 0 16 0 0 0 4 0 0 0 16 4-4cyli.dat
+1 16 0 -4 0 2 0 0 0 1 0 0 0 2 ring7.dat
+
+0

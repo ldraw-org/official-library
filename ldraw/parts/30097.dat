@@ -1,0 +1,11 @@
+0 Panel 10 x  6 x 11
+0 Name: 30097.dat
+0 Author: Steve Bliss
+0 LDRAW_ORG Alias UPDATE 2002-02
+
+0 Part 30097 is a counterpart of 2408.  Visually, the two parts seem
+0 identical.  This file is provided to make it easier to locate part files
+0 when using the numbers imprinted on the actual parts.
+
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2408.dat
+0

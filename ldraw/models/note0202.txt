@@ -1,0 +1,159 @@
+LDraw.org Parts Update 2002-02
+---------------------------------------------------------------------------
+
+Notes created Thu Apr 25 14:14:53 2002 by the Parts Tracker.
+
+Release statistics:
+   Total files: 204
+   New files: 121
+   New parts: 91
+   New subparts: 21
+   New primitives: 8
+   New hi-res primitives: 1
+
+New 3-digit part numbers assigned:
+   133.dat Technic Connector  2 x  3 with Ball Socket
+   210.dat Baseplate 16 x 22
+   476.dat Bar 12L with Hollow Studs, Towball, and Slit
+
+Moved Parts
+   3068P07.DAT   ~Moved to 3068bp07
+   3068P08.DAT   ~Moved to 3068bp08
+   3068P18.DAT   ~Moved to 3068bp18
+   3068P80.DAT   ~Moved to 3068bp80
+   3069P25.DAT   ~Moved to 3069bp25
+
+Renamed Parts
+   1-8DISC.DAT   Official LCad update 98-10
+   changed to    Disc 0.125
+
+   2-4DISC.DAT   Disc
+   changed to    Disc 0.5
+
+   4-4CYLI.DAT   Official LCad update 98-10
+   changed to    Cylinder 1.0
+
+   4-4DISC.DAT   Disc
+   changed to    Disc 1.0
+
+   1-4DISC.DAT   12-48 Hi-Res Disc
+   changed to    Hi-Res Disc 0.25
+
+   RING1.DAT     Official LCad update 98-10
+   changed to    Ring  1 x 1.0
+
+   RING10.DAT    Official LCad update 98-10
+   changed to    Ring 10 x 1.0
+
+   RING2.DAT     Official LCad update 98-10
+   changed to    Ring  2 x 1.0
+
+   RING3.DAT     Official LCad update 98-10
+   changed to    Ring  3 x 1.0
+
+   RING4.DAT     Official LCad update 98-10
+   changed to    Ring  4 x 1.0
+
+   RING7.DAT     Official LCad update 98-10
+   changed to    Ring  7 x 1.0
+
+   STU25.DAT     Scala Stud (Fast-Draw)
+   changed to    Stud Scala (Fast-Draw)
+
+   STUD2.DAT     Stud 2
+   changed to    Stud Open
+
+   STUD2A.DAT    Stud 2A
+   changed to    Stud Open without Base Edges
+
+   STUD4.DAT     Stud 4
+   changed to    Stud Tube Open
+
+   STUD4A.DAT    Stud 4A
+   changed to    Stud Tube Open without Base Edges
+
+   STUD5.DAT     Scala Stud
+   changed to    Stud Scala
+
+   STUD6A.DAT    Stud Open For Round 2x2 Parts No Bottom Edges
+   changed to    Stud Open For Round 2x2 Parts without Base Edges
+
+   30187C01.DAT  Bike  3 Wheel Motorcycle Shortcut
+   changed to    Bike  3 Wheel Motorcycle (Shortcut)
+
+   30189C01.DAT  ~Bike  3 Wheel Motorcycle Forks Shortcut
+   changed to    ~Bike  3 Wheel Motorcycle Forks (Shortcut)
+
+   3626BPS4.DAT  Minifig Head with Grey Beard and Eyebrows Pattern
+   changed to    Minifig Head with SW Grey Beard and Eyebrows Pattern
+
+   4864P35.DAT   Panel  1 x  2 x  2 with tow Pattern(?)
+   changed to    Panel  1 x  2 x  2 with Tow Pattern
+
+   4865P01.DAT   Panel  1 x  2 x  1 with rail logo black
+   changed to    Panel  1 x  2 x  1 with Rail Logo Black Pattern
+
+   4865P02.DAT   Panel  1 x  2 x  1 with rail logo white
+   changed to    Panel  1 x  2 x  1 with Rail Logo White Pattern
+
+   6041.DAT      Propellor  3 Blade  1.5 Diameter
+   changed to    Propellor  3 Blade  3.5 Diameter
+
+   3068A101.DAT  ~Subpart for 3068s101 subpart
+   changed to    ~Tile  2 x  2 w/ SW Rebel Mechanical Pattern (color-264)
+
+   3068C101.DAT  ~Subpart for 3068s101 subpart
+   changed to    ~Tile  2 x  2 w/ SW Rebel Mechanical Pattern (color-391)
+
+Other Fixed Parts
+   1-4CYLI.DAT   Cylinder 0.25
+   1-4DISC.DAT   Disc 0.25
+   1-4NDIS.DAT   Disc Negative 0.25
+   1-8CYLI.DAT   Cylinder 0.125
+   1-8NDIS.DAT   Disc Negative 0.125
+   1-8SPHE.DAT   Sphere 0.125
+   2-4CYLI.DAT   Cylinder 0.5
+   2-4NDIS.DAT   Disc Negative 0.5
+   3-4CYLI.DAT   Cylinder 0.75
+   3-4DISC.DAT   Disc 0.75
+   3-4NDIS.DAT   Disc Negative 0.75
+   4-4NDIS.DAT   Disc Negative 1.0
+   1-4CYLI.DAT   12-48 Hi-Res Cylinder
+   BOX4-1.DAT    Box, 4 faces drawn, 1 edge left out
+   BOX4.DAT      Box 4 (four faces)
+   BOX5.DAT      Box 5 (five faces)
+   RECT.DAT      Rectangle
+   STU2.DAT      Stud (Fast-Draw)
+   STU22.DAT     Stud Open (Fast-Draw)
+   STU22A.DAT    Stud Open without Base Edges (Fast-Draw)
+   STU23.DAT     Stud Tube Solid (Fast-Draw)
+   STU23A.DAT    Stud Tube Solid without Base Edges (Fast-Draw)
+   STU24.DAT     Stud Tube Open (Fast-Draw)
+   STU24A.DAT    Stud Tube Open without Base Edges (Fast-Draw)
+   STU26.DAT     Stud Open For Round 2x2 Parts (Fast-Draw)
+   STU2P01.DAT   Stud with Dot Pattern (Fast-Draw)
+   STUD.DAT      Stud
+   STUD3.DAT     Stud Tube Solid
+   STUD6.DAT     Stud Open For Round 2x2 Parts
+   STUDEL.DAT    Stud with Electric Contact
+   STUDLINE.DAT  Stud Placeholder (SuperFast-Draw)
+   STUDP01.DAT   Stud with Dot Pattern
+   2446.DAT      Minifig Helmet
+   2823.DAT      Technic Forklift Fork
+   2984.DAT      Electric Technic Micromotor Top
+   3626BPS2.DAT  Minifig Head with SW Brown Eyebrows Pattern
+   4019.DAT      Technic Gear 16 Tooth
+   4186.DAT      Baseplate 48 x 48
+   6069PS1.DAT   Wedge  4 x  4 Triple with SW X-Wing Nose Pattern
+   608P33.DAT    Baseplate 32 x 32 Road 9-Stud T-Junction Runway (needs work)
+   711.DAT       Plate  5 x  6 with Hole
+   770.DAT       Minifig Shield Ovoid
+   787.DAT       Fabuland Roof Support
+   971.DAT       Minifig Leg Right
+   972.DAT       Minifig Leg Left
+   973P18.DAT    Minifig Torso with Suit and Tie Pattern
+   973P22.DAT    Minifig Torso with Red Shirt and Suit Pattern
+   973P26.DAT    Minifig Torso with Patch Pocket Pattern
+   973P28.DAT    Minifig Torso with Leather Jacket Pattern
+   973P36A.DAT   ~Subpart - Minifig Torso with Pirate Captain Pattern - Belt
+   973S01.DAT    ~Subpart Minifig Torso without Front or Back

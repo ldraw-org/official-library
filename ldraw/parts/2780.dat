@@ -1,0 +1,10 @@
+0 Technic Pin with Friction and Slots
+0 Name: 2780.dat
+0 Author: Kevin Bane
+0 LDRAW_ORG Part UPDATE 2002-02
+
+0 2002-01-04 SEB Got the correct part number for the slotted pin.
+
+1 16 0 0 0 0 1 0 0 0 1 1 0 0 connect5.dat
+1 16 0 0 0 0 -1 0 0 0 1 1 0 0 connect5.dat
+0

@@ -1,12 +1,18 @@
-0 Stud 2A
+0 Stud Open without Base Edges
 0 Name: stud2a.dat
+0 Author: James Jessiman
 0 Author: Chris Dee
-0 Official LCad update 99-05
+0 Original LDraw Primitive
+0 LDRAW_ORG Primitive UPDATE 2002-02
 
- 1 16 0 -4 0 4 0 0 0 0 0 0 0 4 4-4edge.dat
- 1 16 0 -4 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
+0 BFC CERTIFY CW
 
+0 2002-04-04 SEB Modified for BFC compliance
+
+ 1 16 0 -4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+ 1 16 0 -4 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+0 BFC INVERTNEXT
  1 16 0 -4 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
  1 16 0 -4 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
- 1 16 0 -4 0 2 0 0 0 0 0 0 0 2 ring2.dat
+ 1 16 0 -4 0 2 0 0 0 1 0 0 0 2 ring2.dat
 0

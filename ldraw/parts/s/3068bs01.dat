@@ -1,0 +1,23 @@
+0 ~Subpart Tile  2 x  2 with Groove without Face
+0 Name: s\3068bs01.dat
+0 Author: Damien Guichard
+0 LDRAW_ORG Subpart UPDATE 2002-02
+
+0 BFC CERTIFY CCW
+
+0 2002-04-02 SEB Modified for BFC compliance
+
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
+0 BFC INVERTNEXT
+1 16 0 8 0 16 0 0 0 -4 0 0 0 16 box5.dat
+4 16 19 8 19 16 8 16 -16 8 16 -19 8 19
+4 16 -19 8 19 -16 8 16 -16 8 -16 -19 8 -19
+4 16 -19 8 -19 -16 8 -16 16 8 -16 19 8 -19
+4 16 19 8 -19 16 8 -16 16 8 16 19 8 19
+1 16 0 8 0 19 0 0 0 -1 0 0 0 19 box4.dat
+4 16 20 7 20 19 7 19 -19 7 19 -20 7 20
+4 16 -20 7 20 -19 7 19 -19 7 -19 -20 7 -20
+4 16 -20 7 -20 -19 7 -19 19 7 -19 20 7 -20
+4 16 20 7 -20 19 7 -19 19 7 19 20 7 20
+1 16 0 7 0 20 0 0 0 -7 0 0 0 20 box4.dat
+0

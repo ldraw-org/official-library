@@ -1,7 +1,11 @@
 0 Box, 4 faces drawn, 1 edge left out
 0 Name: box4-1.dat
 0 Author: Tore Eriksson 1998
-0 Official LCad Update 98-07
+0 LDRAW_ORG Primitive UPDATE 2002-02
+
+0 BFC CERTIFY CW
+
+0 2002-4-5: TH: Made BFC compliant
 
 2 24 1 1 1 -1 1 1
 2 24 -1 1 1 -1 1 -1
@@ -14,7 +18,8 @@
 2 24 -1 0 1 -1 1 1
 2 24 1 0 -1 1 1 -1
 2 24 -1 0 -1 -1 1 -1
-4 16  1 1  1  1 1 -1 -1 1 -1 -1 1  1
+4 16 -1 1 -1  1 1 -1  1 1  1 -1 1  1
 4 16  1 1  1  1 0  1 -1 0  1 -1 1  1
 4 16 -1 1  1 -1 0  1 -1 0 -1 -1 1 -1
 4 16  1 1 -1  1 0 -1  1 0  1  1 1  1
+0

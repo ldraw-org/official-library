@@ -1,0 +1,11 @@
+0 Panel  1 x  2 x  1
+0 Name: 30010.dat
+0 Author: Steve Bliss
+0 LDRAW_ORG Alias UPDATE 2002-02
+
+0 Part 30010 is a counterpart of 4865.  Visually, the two parts seem
+0 identical.  This file is provided to make it easier to locate part files
+0 when using the numbers imprinted on the actual parts.
+
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4865.dat
+0

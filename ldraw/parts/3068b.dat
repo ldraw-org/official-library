@@ -1,0 +1,9 @@
+0 Tile  2 x  2 with Groove
+0 Name: 3068b.dat
+0 Author: damien.guichard@wanadoo.fr, from James Jessiman's 3068.dat
+0 LDRAW_ORG Part UPDATE 2002-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+
+4 16 -20 0 -20 20 0 -20 20 0 20 -20 0 20
+0

@@ -1,19 +1,19 @@
 0 Stud with Electric Contact
-0 name studel.dat
-0 (c) Remco Braak 1997
-0 rbraak@nat.vu.nl
-0 To be copied into the ldraw\p directory
-0 Official LCad update 97-01
+0 Name: studel.dat
+0 Author: Remco Braak <rbraak@nat.vu.nl>
+0 LDRAW_ORG Primitive UPDATE 2002-02
 
- 1 16 0 0 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
- 1 16 0 -4 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
- 1 16 0 0 0 6 0 0 0 -4 0 0 0 6 1-4cyli.dat
- 1 16 0 0 0 6 0 0 0 -4 0 0 0 -6 1-4cyli.dat
- 1 16 0 0 0 -6 0 0 0 -4 0 0 0 6 1-4cyli.dat
+0 BFC CERTIFY CW
+
+0 2002-04-04 SEB Modified for BFC compliance
+
+ 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+ 1 16 0 -4 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+ 1 16 0 0 0 0 0 6 0 -4 0 -6 0 0 3-4cyli.dat
  1 14 0 0 0 -6 0 0 0 -3 0 0 0 -6 1-4cyli.dat
  1 14 0 -3 0 -6 0 0 0 1 0 0 0 -6 1-4edge.dat
  2 24 -6 0 0 -6 -3 0
  2 24 0 0 -6 0 -3 -6
  1 16 0 -3 0 -6 0 0 0 -1 0 0 0 -6 1-4cyli.dat
- 1 16 0 -4 0 6 0 0 0 0 0 0 0 6 4-4disc.dat
+ 1 16 0 -4 0 6 0 0 0 1 0 0 0 6 4-4disc.dat
 0

@@ -1,9 +1,13 @@
 0 Stud Open For Round 2x2 Parts (Fast-Draw)
 0 Name: stu26.dat
 0 Author: Steve Bliss
-0 Official LCAD Primitive - 2000-02 Update
+0 LDRAW_ORG Primitive UPDATE 2002-02
 
-1 16 0 0 0 0 0 -6 0 1 0 6 0 0 3-4edge.DAT
+0 BFC CERTIFY CW
+
+0 2002-04-04 SEB Modified for BFC compliance
+
+1 16 0 0 0 0 0 -6 0 1 0 6 0 0 3-4edge.dat
 1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 
 2 24 6 0 0 5.6145 0 1.9397
@@ -18,6 +22,7 @@
 
 1 16 0 -4 0 0 0 -6 0 1 0 6 0 0 3-4edge.DAT
 1 16 0 -4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+0 BFC INVERTNEXT
 1 16 0 -4 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
 
 4 16 0 -4 4 -1.5308 -4 3.6956 -2.2962 -4 5.5434 0 -4 6
