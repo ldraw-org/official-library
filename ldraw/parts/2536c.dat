@@ -1,21 +1,17 @@
 0 Technic Horn
 0 Name: 2536c.dat
 0 Author: Marc Klein
-0 LDRAW_ORG Part UPDATE 2003-01
+0 LDRAW_ORG Part UPDATE 2004-04
 
+0 BFC CERTIFY CCW
 0 KEYWORDS Plant Tree Palm Trunk
 
+0 // 2004-08-06  GuyVivan  Made BFC Compliant
+
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2536.DAT
-1 16 0 -8 0 1 0 0 0 10 0 0 0 1 axlehol6.dat
 1 16 0 -8 0 0 0 -1 0 10 0 1 0 0 axlehol6.dat
 1 16 0 -8 0 0 0 1 0 10 0 -1 0 0 axlehol6.dat
-1 16 0 -8 0 -1 0 0 0 10 0 0 0 -1 axlehol6.dat
-1 16 0 2 0 -2.2961 0 -5.54328 0 10 0 5.54328 0 -2.2961 1-8edge.dat
-1 16 0 2 0 -5.54328 0 2.2961 0 10 0 -2.2961 0 -5.54328 1-8edge.dat
-1 16 0 2 0 5.54328 0 -2.2961 0 10 0 2.2961 0 5.54328 1-8edge.dat
-1 16 0 2 0 2.2961 0 5.54328 0 10 0 -5.54328 0 2.2961 1-8edge.dat
-0 BFC INVERTNEXT
-1 16 0 -8 0 4 0 0 0 -8 0 0 0 4 4-4cyli.dat
-1 16 0 -8 0 4 0 0 0 -8 0 0 0 4 4-4edge.dat
-1 16 0 -8.1 0 2 0 0 0 0 0 0 0 2 ring2.dat
+1 16 0 2 0 -2.2961 0 -5.54328 0 1 0 5.54328 0 -2.2961 1-8edge.dat
+1 16 0 2 0 2.2961 0 5.54328 0 1 0 -5.54328 0 2.2961 1-8edge.dat
 0

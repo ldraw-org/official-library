@@ -1,0 +1,46 @@
+0 Duplo Primo Anti-Stud
+0 Name: babybot.dat
+0 Author: Tony Hafner <www.hafhead.com>
+0 LDRAW_ORG Primitive UPDATE 2004-04
+
+0 BFC CERTIFY CW
+
+
+
+1 16 0 0 0 44 0 0 0 -1 0 0 0 44 48\1-4ndis.dat
+1 16 0 0 0 -44 0 0 0 -1 0 0 0 -44 48\1-4ndis.dat
+1 16 0 0 0 0 0 44 0 -1 0 -44 0 0 48\1-4ndis.dat
+1 16 0 0 0 0 0 -44 0 -1 0 44 0 0 48\1-4ndis.dat
+1 16 0 0 0 44 0 0 0 1 0 0 0 44 48\1-4edge.dat
+1 16 0 0 0 -44 0 0 0 1 0 0 0 -44 48\1-4edge.dat
+1 16 0 0 0 0 0 44 0 1 0 -44 0 0 48\1-4edge.dat
+1 16 0 0 0 0 0 -44 0 1 0 44 0 0 48\1-4edge.dat
+1 16 0 0 0 44 0 0 0 1 0 0 0 44 48\1-4cyli.dat
+1 16 0 0 0 -44 0 0 0 1 0 0 0 -44 48\1-4cyli.dat
+1 16 0 0 0 0 0 44 0 1 0 -44 0 0 48\1-4cyli.dat
+1 16 0 0 0 0 0 -44 0 1 0 44 0 0 48\1-4cyli.dat
+1 16 0 1 0 44 0 0 0 1 0 0 0 44 48\1-4edge.dat
+1 16 0 1 0 -44 0 0 0 1 0 0 0 -44 48\1-4edge.dat
+1 16 0 1 0 0 0 44 0 1 0 -44 0 0 48\1-4edge.dat
+1 16 0 1 0 0 0 -44 0 1 0 44 0 0 48\1-4edge.dat
+1 16 0 0 0 40 0 0 0 1 0 0 0 40 48\1-4edge.dat
+1 16 0 0 0 -40 0 0 0 1 0 0 0 -40 48\1-4edge.dat
+1 16 0 0 0 0 0 40 0 1 0 -40 0 0 48\1-4edge.dat
+1 16 0 0 0 0 0 -40 0 1 0 40 0 0 48\1-4edge.dat
+0 BFC CERTIFY INVERTNEXT
+1 16 0 0 0 40 0 0 0 1 0 0 0 40 48\1-4cyli.dat
+0 BFC CERTIFY INVERTNEXT
+1 16 0 0 0 -40 0 0 0 1 0 0 0 -40 48\1-4cyli.dat
+0 BFC CERTIFY INVERTNEXT
+1 16 0 0 0 0 0 40 0 1 0 -40 0 0 48\1-4cyli.dat
+0 BFC CERTIFY INVERTNEXT
+1 16 0 0 0 0 0 -40 0 1 0 40 0 0 48\1-4cyli.dat
+1 16 0 1 0 40 0 0 0 1 0 0 0 40 48\1-4edge.dat
+1 16 0 1 0 -40 0 0 0 1 0 0 0 -40 48\1-4edge.dat
+1 16 0 1 0 0 0 40 0 1 0 -40 0 0 48\1-4edge.dat
+1 16 0 1 0 0 0 -40 0 1 0 40 0 0 48\1-4edge.dat
+1 16 0 1 0 4 0 0 0 -1 0 0 0 4 48\1-4rin10.dat
+1 16 0 1 0 -4 0 0 0 -1 0 0 0 -4 48\1-4rin10.dat
+1 16 0 1 0 0 0 4 0 -1 0 -4 0 0 48\1-4rin10.dat
+1 16 0 1 0 0 0 -4 0 -1 0 4 0 0 48\1-4rin10.dat
+0

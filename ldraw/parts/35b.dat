@@ -1,16 +1,31 @@
 0 ~Wheel Axle Metal
 0 Name: 35b.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Original LDraw Part
+0 LDRAW_ORG Part UPDATE 2004-04
 
- 1 16 0 0 18 4 0 0 0 0 4 0 0 0 4-4edge.dat
- 1 16 0 0 12 4 0 0 0 0 4 0 0 0 4-4edge.dat
- 1 16 0 0 10 4 0 0 0 0 4 0 0 0 4-4edge.dat
- 1 16 0 0 -10 4 0 0 0 0 4 0 0 0 4-4edge.dat
- 1 16 0 0 -12 4 0 0 0 0 4 0 0 0 4-4edge.dat
- 1 16 0 0 -18 4 0 0 0 0 4 0 0 0 4-4edge.dat
+0 BFC CERTIFY CW
 
- 1 16 0 0 18 4 0 0 0 0 4 0 0 0 4-4disc.dat
- 1 16 0 0 -18 4 0 0 0 0 4 0 0 0 4-4disc.dat
- 1 16 0 0 18 4 0 0 0 0 4 0 -36 0 4-4cyli.dat
+0 // 2002-12-29 NielsK : BFC Certified, notch added
+
+ 1 16 0 0 18 4 0 0 0 0 4 0 4 0 4-4edge.dat
+ 1 16 0 0 12 4 0 0 0 0 4 0 4 0 4-4edge.dat
+ 1 16 0 0 11 3 0 0 0 0 3 0 3 0 4-4edge.dat
+ 1 16 0 0 10 4 0 0 0 0 4 0 4 0 4-4edge.dat
+ 1 16 0 0 -10 4 0 0 0 0 4 0 4 0 4-4edge.dat
+ 1 16 0 0 -11 3 0 0 0 0 3 0 3 0 4-4edge.dat
+ 1 16 0 0 -12 4 0 0 0 0 4 0 4 0 4-4edge.dat
+ 1 16 0 0 -18 4 0 0 0 0 4 0 4 0 4-4edge.dat
+ 
+ 1 16 0 0 18 4 0 0 0 0 4 0 -4 0 4-4disc.dat
+ 1 16 0 0 -18 4 0 0 0 0 4 0 4 0 4-4disc.dat
+
+ 1 16 0 0 18 4 0 0 0 0 4 0 -6 0 4-4cyli.dat
+ 1 16 0 0 10 4 0 0 0 0 4 0 -20 0 4-4cyli.dat
+ 1 16 0 0 -12 4 0 0 0 0 4 0 -6 0 4-4cyli.dat
+
+ 1 16 0 0 12 1 0 0 0 0 1 0 -1 0 4-4con3.dat
+ 1 16 0 0 10 1 0 0 0 0 1 0 1 0 4-4con3.dat
+ 1 16 0 0 -10 1 0 0 0 0 1 0 -1 0 4-4con3.dat
+ 1 16 0 0 -12 1 0 0 0 0 1 0 1 0 4-4con3.dat
 0

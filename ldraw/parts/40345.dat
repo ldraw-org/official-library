@@ -1,0 +1,13 @@
+0 Technic Brick  6 x  8 with Open Center  4 x  6
+0 Name: 40345.dat
+0 Author: Chris Dee
+0 LDRAW_ORG Part UPDATE 2004-04
+
+0 // Part 40345 is a counterpart of 32532.  Visually, the two parts seem
+0 // identical.  This file is provided to make it easier to locate part files
+0 // when using the numbers imprinted on the actual parts.
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 32532.dat
+0

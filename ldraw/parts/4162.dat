@@ -2,32 +2,31 @@
 0 Name: 4162.dat
 0 Author: James Jessiman
 0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2002-04
+0 LDRAW_ORG Part UPDATE 2004-04
 
-0 2002-Feb-15 DG groove
+0 BFC CERTIFY CCW
 
+0 // 2002-02-15 DG groove
+0 // 2004-07-27  GuyVivan  Made BFC Compliant
+
+
+1 16 0 7 0 80 0 0 0 -7 0 0 0 10 box5.dat
+0 BFC INVERTNEXT
 1 16 0 8 0 76 0 0 0 -4 0 0 0 6 box5.dat
-
 4 16 79 8 9 76 8 6 -76 8 6 -79 8 9
 4 16 -79 8 9 -76 8 6 -76 8 -6 -79 8 -9
 4 16 -79 8 -9 -76 8 -6 76 8 -6 79 8 -9
 4 16 79 8 -9 76 8 -6 76 8 6 79 8 9
-
 1 16 0 8 0 79 0 0 0 -1 0 0 0 9 box4.dat
-
 4 16 80 7 10 79 7 9 -79 7 9 -80 7 10
 4 16 -80 7 10 -79 7 9 -79 7 -9 -80 7 -10
 4 16 -80 7 -10 -79 7 -9 79 7 -9 80 7 -10
 4 16 80 7 -10 79 7 -9 79 7 9 80 7 10
-
-1 16 0 7 0 80 0 0 0 -7 0 0 0 10 box5.dat
-
 1 16 60 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 40 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 20 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
-1 16 0  4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 -20 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 -40 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 -60 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
-
 0

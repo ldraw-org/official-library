@@ -1,5 +1,6 @@
 2546.DAT      Animal Bird
 2546P01.DAT   Animal Bird with Parrot Pattern
+6251.DAT      Animal Cat Crouching
 6029A.DAT     Animal Cattlehorns (needs work)
 6128.DAT      Animal Dragon Arm Left
 6127.DAT      Animal Dragon Arm Right
@@ -82,6 +83,7 @@
 3865.DAT      Baseplate  8 x 16
 3497.DAT      Baseplate  8 x 24
 4187.DAT      Baseplate  8 x 32
+397.DAT       Baseplate 10 x 16
 3867.DAT      Baseplate 16 x 16
 912.DAT       Baseplate 16 x 16 Control Tower Set 340
 30225.DAT     Baseplate 16 x 16 Driveway
@@ -89,6 +91,7 @@
 30225P02.DAT  Baseplate 16 x 16 Driveway with Gray Drive/White Stripes Pattern
 3867P02.DAT   Baseplate 16 x 16 with Island Pattern
 3867P01.DAT   Baseplate 16 x 16 with Island and Water Pattern
+184.DAT       Baseplate 16 x 18
 210.DAT       Baseplate 16 x 22
 3334.DAT      Baseplate 16 x 24
 455.DAT       Baseplate 16 x 24 with Rounded Corners
@@ -270,6 +273,7 @@
 3005PVL.DAT   Brick  1 x  1 with Lightblue "L" Pattern
 3005PVN.DAT   Brick  1 x  1 with Lightblue "N" Pattern
 3005PVO.DAT   Brick  1 x  1 with Lightblue "O" Pattern
+3005PVP.DAT   Brick  1 x  1 with Lightblue "P" Pattern
 3005PVR.DAT   Brick  1 x  1 with Lightblue "R" Pattern
 3005PVT.DAT   Brick  1 x  1 with Lightblue "T" Pattern
 3005PVU.DAT   Brick  1 x  1 with Lightblue "U" Pattern
@@ -281,7 +285,7 @@
 3005PWL.DAT   Brick  1 x  1 with Lightblue Plus Pattern
 3005PWM.DAT   Brick  1 x  1 with Lightblue Subtraction Pattern
 3005PWF.DAT   Brick  1 x  1 with Lightblue U Dieresis Pattern
-4733.DAT      Brick  1 x  1 with Studs on Sides
+4733.DAT      Brick  1 x  1 with Studs on Four Sides
 47905.DAT     Brick  1 x  1 with Studs on Two Opposite Sides
 289.DAT       Brick  1 x  1 x   2/3 Round with Scala Base
 3581.DAT      Brick  1 x  1 x  2 with Shutter Holder
@@ -302,6 +306,7 @@
 2458.DAT      Brick  1 x  2 with Pin
 3004PRC.DAT   Brick  1 x  2 with Red Cross Pattern
 3004P60.DAT   Brick  1 x  2 with Shell Logo I Pattern
+3004PC0.DAT   Brick  1 x  2 with TV Screen and 3 Buttons Pattern
 3004P18.DAT   Brick  1 x  2 with Thin Black "POLICE" Pattern
 3004P51.DAT   Brick  1 x  2 with Three-Spot Face
 3004P20.DAT   Brick  1 x  2 with White Down Arrow Pattern
@@ -313,9 +318,9 @@
 3004P04.DAT   Brick  1 x  2 with Yellow Up Arrow and Black Border Pattern
 3065.DAT      Brick  1 x  2 without Centre Stud
 3245A.DAT     Brick  1 x  2 x  2
-550.DAT       Brick  1 x  2 x  2
 2605C01.DAT   Brick  1 x  2 x  2 & 1/3 Shock Absorber (Complete)
 517.DAT       Brick  1 x  2 x  2 & 1/3 Shock Absorber Spring
+3245B.DAT     Brick  1 x  2 x  2 with Inside Axleholder
 772.DAT       Brick  1 x  2 x  2 without Centre Studs
 772P01.DAT    Brick  1 x  2 x  2 without Centre Studs with Window Pattern
 4595.DAT      Brick  1 x  2 x  2/3 with Studs on Sides
@@ -356,15 +361,16 @@
 4088.DAT      Brick  1 x  4 x  2 with Centre Stud Top
 3009.DAT      Brick  1 x  6
 3009PT1.DAT   Brick  1 x  6 with "Shell" Pattern
-3009P02.DAT   Brick  1 x  6 with "TRANSPORT" Pattern White
+3009P04.DAT   Brick  1 x  6 with Blue "HOTEL" Pattern
 3009PT0.DAT   Brick  1 x  6 with Blue "KLM" Pattern
 3009P23.DAT   Brick  1 x  6 with Centered 12 Light Blue Squares Pattern
 3009P03.DAT   Brick  1 x  6 with Lego Text
-3009P24.DAT   Brick  1 x  6 with Light Blue & Black Squares Pattern
 3009P21.DAT   Brick  1 x  6 with Light Blue Squares Pattern
+3009P24.DAT   Brick  1 x  6 with Light Blue and Black Squares Pattern
 3009P18B.DAT  Brick  1 x  6 with Thin Black "POLICE" Pattern
 3009P01.DAT   Brick  1 x  6 with Town Car Grille Black Pattern
 3009P22.DAT   Brick  1 x  6 with Upper 12 Light Blue Squares Pattern
+3009P02.DAT   Brick  1 x  6 with White "TRANSPORT" Pattern
 3067P11.DAT   Brick  1 x  6 without Center Studs with "TAXI" Pattern
 3067.DAT      Brick  1 x  6 without Centre Studs
 3067P01.DAT   Brick  1 x  6 without Centre Studs with 'Hotel' Pattern
@@ -380,8 +386,8 @@
 6112.DAT      Brick  1 x 12
 4217.DAT      Brick  1 x 14 with Groove
 2465.DAT      Brick  1 x 16
-6091.DAT      Brick  2 x  1 with Curved Top
 3963.DAT      Brick  2 x  1 with Positioning Rockets
+6091.DAT      Brick  2 x  1 x  1 & 1/3 with Curved Top
 3003.DAT      Brick  2 x  2
 6056.DAT      Brick  2 x  2  x  6 with Groove
 2357.DAT      Brick  2 x  2 Corner
@@ -443,6 +449,7 @@
 6214.DAT      Brick  2 x  8 x  4 with Curved Ends
 3006.DAT      Brick  2 x 10
 2462.DAT      Brick  3 x  3 Facet
+30505.DAT     Brick  3 x  3 without Corner
 2464.DAT      Brick  3 x  3 x  2 Facet Bottom
 2463.DAT      Brick  3 x  3 x  2 Facet Top
 30400.DAT     Brick  4 x  18
@@ -500,9 +507,11 @@
 4589.DAT      Cone  1 x  1
 6039.DAT      Cone  2 x  2 x  1 & 2/3 Octagonal
 3942B.DAT     Cone  2 x  2 x  2 with Hollow Stud
+3942A.DAT     Cone  2 x  2 x  2 with Solid Stud
 6233.DAT      Cone  3 x  3 x  2
 3943.DAT      Cone  4 x  4 x  2
 4742.DAT      Cone  4 x  4 x  2 Hollow No Studs
+272.DAT       Cone  4 x  4 x  3
 2439.DAT      Container  2 x  2 Rubbish Bin 
 30150.DAT     Container Adventurers Chest
 1.DAT         Container Bookcase  2 x  4 x  4
@@ -563,7 +572,7 @@
 3960P03.DAT   Dish  4 x  4 Inverted with Red Spiral Pattern
 3960P06.DAT   Dish  4 x  4 Inverted with Red Stripes Pattern
 3960P01.DAT   Dish  4 x  4 Inverted with Red and Green Petals Pattern
-4285A.DAT     Dish  6 x  6 Webbed - Type 1
+4285A.DAT     Dish  6 x  6 Inverted Webbed - Type 1
 4285B.DAT     Dish  6 x  6 Webbed - Type 2
 3961.DAT      Dish  8 x  8 Inverted
 32.DAT        Door  1 x  2 x  3 Left
@@ -573,11 +582,13 @@
 3822P09.DAT   Door  1 x  3 x  1 Left with Fire Logo Pattern
 3822P24.DAT   Door  1 x  3 x  1 Left with Red Cross Pattern
 3822P01.DAT   Door  1 x  3 x  1 Left with Safari Stripes Pattern
+3822P60.DAT   Door  1 x  3 x  1 Left with Shell Logo Pattern
 3822P03.DAT   Door  1 x  3 x  1 Left with Yellow/Red Stripe Pattern
 3821.DAT      Door  1 x  3 x  1 Right
 3821P09.DAT   Door  1 x  3 x  1 Right with Fire Logo Pattern
 3821P24.DAT   Door  1 x  3 x  1 Right with Red Cross Pattern
 3821P01.DAT   Door  1 x  3 x  1 Right with Safari Stripes Pattern
+3821P60.DAT   Door  1 x  3 x  1 Right with Shell Logo Pattern
 3821P03.DAT   Door  1 x  3 x  1 Right with Yellow/Red Stripe Pattern
 3189.DAT      Door  1 x  3 x  2 Left
 3188.DAT      Door  1 x  3 x  2 Right
@@ -589,12 +600,12 @@
 3579.DAT      Door  1 x  3 x  4 Frame
 445.DAT       Door  1 x  3 x  4 Left
 825.DAT       Door  1 x  3 x  4 Left with Window
-825P01.DAT    Door  1 x  3 x  4 Left with Window & Lower 1/2 Red Cross Pattern
-825P02.DAT    Door  1 x  3 x  4 Left with Window and Red Cross Pattern, Upper
+825P01.DAT    Door  1 x  3 x  4 Left with Window & Lower Red Cross Pattern
+825P02.DAT    Door  1 x  3 x  4 Left with Window & Upper Red Cross Pattern
 446.DAT       Door  1 x  3 x  4 Right
 826.DAT       Door  1 x  3 x  4 Right with Window
-826P01.DAT    Door  1 x  3 x  4 Right with Window and Red Cross Pattern, Lower
-826P02.DAT    Door  1 x  3 x  4 Right with Window and Red Cross Pattern, Upper
+826P01.DAT    Door  1 x  3 x  4 Right with Window & Lower Red Cross Pattern
+826P02.DAT    Door  1 x  3 x  4 Right with Window & Upper Red Cross Pattern
 7930C01.DAT   Door  1 x  3 x  4 with Glass (Complete)
 2554.DAT      Door  1 x  3 x  6 with 1/4 Circle Top
 6155.DAT      Door  1 x  4 x  4 Lift
@@ -614,6 +625,8 @@
 670.DAT       Door  1 x  6 x 10 Frame
 2596.DAT      Door  1 x  9 x 11
 4131.DAT      Door  2 x  4 x  5
+4130.DAT      Door  2 x  4 x  5 Frame
+30102.DAT     Door  2 x  8 x  6 Revolving
 4511.DAT      Door  6 & 1/2 x  5 Sliding with Vertical Lines
 4611.DAT      Door  6 x  7 Barred
 6851.DAT      Duplo Baseplate 12 x 16
@@ -637,6 +650,15 @@
 31021P01.DAT  Duplo Fence  1 x  6 x  2 with Red Stripes Pattern
 4672.DAT      Duplo Plate  4 x  8
 4196.DAT      Duplo Plate  6 x 12
+31000.DAT     Duplo Primo Brick  1 x  1
+31000P1R.DAT  Duplo Primo Brick  1 x  1 with 3 Red Dots Pattern
+31000P1W.DAT  Duplo Primo Brick  1 x  1 with 3 White Dots Pattern
+31000P1Y.DAT  Duplo Primo Brick  1 x  1 with 3 Yellow Dots Pattern
+31007.DAT     Duplo Primo Brick  1 x  1 with 4 Duplo Studs
+31000P1M.DAT  Duplo Primo Brick  1 x  1 with Multicolored Dots Pattern
+31001.DAT     Duplo Primo Brick  1 x  2
+31002.DAT     Duplo Primo Brick  1 x  3
+31012.DAT     Duplo Primo Plate  3 x  3
 6309.DAT      Duplo Tile  2 x  2
 6309PTA.DAT   Duplo Tile  2 x  2 with "A" Pattern
 6309PTB.DAT   Duplo Tile  2 x  2 with "B" Pattern
@@ -854,6 +876,7 @@
 483.DAT       Hinge Arm Locking with Single Finger and Friction Pin
 480.DAT       Hinge Arm Locking with Single and Dual Fingers
 2880.DAT      Hinge Bar  2 & 1/2 with 2 and 3 Fingers on Ends
+2433.DAT      Hinge Bar  2 with 3 Fingers and Top Stud
 2375.DAT      Hinge Bar 12 with Split Rod Holder
 30386.DAT     Hinge Brick  1 x  2 Locking Double
 30541.DAT     Hinge Brick  1 x  2 Locking with 1 Finger On End Horizontal
@@ -877,6 +900,7 @@
 4214.DAT      Hinge Car Roof Holder  1 x  4 x  2
 4593.DAT      Hinge Control Stick
 298.DAT       Hinge Control Stick Base
+298C01.DAT    Hinge Control Stick and Base (Complete)
 650.DAT       Hinge Coupling-Nylon 
 2651.DAT      Hinge Hook Arm
 2650.DAT      Hinge Hook Base
@@ -885,6 +909,7 @@
 2582.DAT      Hinge Panel  2 x  4 x  3 & 1/3 
 2582P68.DAT   Hinge Panel  2 x  4 x  3 & 1/3 with MTron Pattern
 44302.DAT     Hinge Plate  1 x  2 Locking with Dual Finger on End Vertical
+44567.DAT     Hinge Plate  1 x  2 Locking with Single Finger On Side Vertical
 30383.DAT     Hinge Plate  1 x  2 Locking with Single Finger On Top
 44301.DAT     Hinge Plate  1 x  2 Locking with Single Finger on End Vertical
 4276.DAT      Hinge Plate  1 x  2 with 2 Fingers
@@ -947,8 +972,6 @@
 852.DAT       Ladder Three Piece, Third Section
 2039.DAT      Lamppost  2 x  2 x  7
 30248.DAT     Landing Skids
-2433.DAT      Lever Control
-298C01.DAT    Lever Small (Complete)
 73092.DAT     Magnet Cylindrical
 2607.DAT      Magnet Holder  2 x  3
 30159.DAT     Magnet Holder Plate  2 x  2 Bottom
@@ -1000,6 +1023,7 @@
 2599.DAT      Minifig Flipper (needs work)
 2599C01.DAT   Minifig Flippers on Sprue
 775.DAT       Minifig Forestman Cap
+775C01.DAT    Minifig Forestman Cap with Small Plume (Shortcut)
 4528.DAT      Minifig Frypan
 2343.DAT      Minifig Goblet
 2562.DAT      Minifig Gun Flintlock Pistol
@@ -1007,6 +1031,7 @@
 30132.DAT     Minifig Gun Revolver
 30141.DAT     Minifig Gun Rifle
 6132.DAT      Minifig Hair Beard
+390.DAT       Minifig Hair Female with Pigtails
 3901.DAT      Minifig Hair Male
 6093.DAT      Minifig Hair Shoulder Length
 3852.DAT      Minifig Hairbrush
@@ -1158,6 +1183,7 @@
 3846P4C.DAT   Minifig Shield Triangular with Blue Dragon Pattern
 3846P4G.DAT   Minifig Shield Triangular with Blue Lion on Yellow Background
 3846P48.DAT   Minifig Shield Triangular with Forestman Pattern
+3846P4E.DAT   Minifig Shield Triangular with Lion Head, Blue & Yellow Pattern
 3846P4U.DAT   Minifig Shield Triangular with Maroon/Red Quarters Pattern
 3846P47.DAT   Minifig Shield Triangular with Red and Gray Pattern, Blue Frame
 3846P4T.DAT   Minifig Shield Triangular with Red/Peach Quarters Pattern
@@ -1188,6 +1214,8 @@
 6246B.DAT     Minifig Tool Hammer
 774.DAT       Minifig Tool Handaxe
 194.DAT       Minifig Tool Hose Nozzle with Handle
+577C02.DAT    Minifig Tool Light Sabre - Dual On (Shortcut)
+577C01.DAT    Minifig Tool Light Sabre - On (Shortcut)
 577.DAT       Minifig Tool Light Sabre Hilt
 30152.DAT     Minifig Tool Magnifying Glass
 4522.DAT      Minifig Tool Mallet
@@ -1248,11 +1276,14 @@
 973P1J.DAT    Minifig Torso with Green Dungarees Pattern
 973P76.DAT    Minifig Torso with Jacket, Tie and Police Badge Pattern 
 973PA8.DAT    Minifig Torso with Jacket, White Shirt, and Necklace Pattern
+973P1Q.DAT    Minifig Torso with Launch Command Logo and Equipment Pattern
 973P28.DAT    Minifig Torso with Leather Jacket Pattern
 973P68.DAT    Minifig Torso with MTron Logo Pattern
 973P4U.DAT    Minifig Torso with Maroon/Red Quarters Shield Pattern
 973PAC.DAT    Minifig Torso with Mayan Necklace, Tribal Shirt, & Navel Pattern
 973P3D.DAT    Minifig Torso with Medallion, Belt, And Silver Buttons Pattern
+973P77.DAT    Minifig Torso with Modern Firefighter Type 1 Pattern
+973P78.DAT    Minifig Torso with Modern Firefighter Type 2 Pattern
 973PN6.DAT    Minifig Torso with Ninja Wrap, Gold Shuriken, and Armour Pattern
 973PN5.DAT    Minifig Torso with Ninja Wrap, Silver Shuriken & Dagger Pattern
 973PS6.DAT    Minifig Torso with Old Obi-Wan Pattern
@@ -1301,6 +1332,7 @@
 973PSE.DAT    Minifig Torso with SW Scout Trooper Pattern
 973PS4.DAT    Minifig Torso with SW Shirt (Open Collar, No Vest) Pattern
 973PSK.DAT    Minifig Torso with SW Stormtrooper Pattern
+973PSF.DAT    Minifig Torso with SW Tunic and Belt Pattern
 973PS3.DAT    Minifig Torso with SW Wrap-Around Tunic Pattern
 973PA7.DAT    Minifig Torso with Safari Shirt, Black Tee, and Holster Pattern
 973PA3.DAT    Minifig Torso with Safari Shirt, Gun & Red Bandana Pattern
@@ -1309,6 +1341,7 @@
 973PN1.DAT    Minifig Torso with Samurai Robe, Sash and Dagger Pattern
 973P60.DAT    Minifig Torso with Shell Logo Pattern
 973P62.DAT    Minifig Torso with Silver Ice Planet Pattern
+973P04.DAT    Minifig Torso with Six Button Suit and Airplane Pattern
 973P05.DAT    Minifig Torso with Six Button Suit and Anchor Pattern
 973P69.DAT    Minifig Torso with Space Police II and Radio Pattern
 973P2F.DAT    Minifig Torso with Spotted Singlet and Necklace Pattern
@@ -1324,6 +1357,7 @@
 973PAB.DAT    Minifig Torso with Tank Top, Stains, Wrench, and Tattoo Pattern
 973P19.DAT    Minifig Torso with Train Chevron Pattern
 973P4R.DAT    Minifig Torso with Tri-Colored Shield Pattern
+973P54.DAT    Minifig Torso with UFO Alien Orange and Silver Pattern
 973P64.DAT    Minifig Torso with Unitron Pattern
 973P02.DAT    Minifig Torso with Vertical Striped Blue/Red Pattern
 973P01.DAT    Minifig Torso with Vertical Striped Red/Blue Pattern
@@ -1355,8 +1389,9 @@
 30010.DAT     Panel  1 x  2 x  1
 4865.DAT      Panel  1 x  2 x  1
 4865P06.DAT   Panel  1 x  2 x  1 with Black Grille Pattern
-4865P01.DAT   Panel  1 x  2 x  1 with Rail Logo Black Pattern
-4865P02.DAT   Panel  1 x  2 x  1 with Rail Logo White Pattern
+4865P18.DAT   Panel  1 x  2 x  1 with Thin Black "POLICE" Pattern
+4865P01.DAT   Panel  1 x  2 x  1 with Train Logo Black Pattern
+4865P02.DAT   Panel  1 x  2 x  1 with Train Logo White Pattern
 4864BP10.DAT  Panel  1 x  2 x  2 Hollow Stud with Red/White/Blue Left Pattern
 4864BP11.DAT  Panel  1 x  2 x  2 Hollow Stud with Red/White/Blue Right Pattern
 4864B.DAT     Panel  1 x  2 x  2 with Hollow Studs
@@ -1403,6 +1438,7 @@
 6083.DAT      Panel  3 x  8 x  7 Rock Triangular
 30080.DAT     Panel  4 x  3 x  3 with Porthole (Divers)
 2467.DAT      Panel  4 x  4 x  6 Corner Concave
+30562.DAT     Panel  4 x  4 x  6 Corner Round
 30156.DAT     Panel  4 x  6 x  6 Sloped
 6002.DAT      Panel  6 x  6 x  9 Corner Round
 2572.DAT      Panel  6 x  6 x  9 with Curved Top
@@ -1459,7 +1495,8 @@ FLOWERS.DAT   Plant Flowers with Stem Shortcut
 2540.DAT      Plate  1 x  2 with Handle
 3839A.DAT     Plate  1 x  2 with Handles Type 1
 3839B.DAT     Plate  1 x  2 with Handles Type 2
-3475.DAT      Plate  1 x  2 with Jet Engine
+3475B.DAT     Plate  1 x  2 with Jet Engine and Axle Hole
+3475A.DAT     Plate  1 x  2 with Jet Engine and Smooth Hole
 4175.DAT      Plate  1 x  2 with Ladder
 2508.DAT      Plate  1 x  2 with Long Towball
 3623.DAT      Plate  1 x  3
@@ -1484,6 +1521,7 @@ FLOWERS.DAT   Plant Flowers with Stem Shortcut
 2817.DAT      Plate  2 x  2 with Holes
 4229.DAT      Plate  2 x  2 with Jet Engine
 2476.DAT      Plate  2 x  2 with Pin
+2476B.DAT     Plate  2 x  2 with Pin Type 2
 30033.DAT     Plate  2 x  2 with Rod Frame Octagonal
 3731.DAT      Plate  2 x  2 with Towball
 3730.DAT      Plate  2 x  2 with Towball Socket
@@ -1649,7 +1687,7 @@ LIGHT.DAT     Pov-RAY Light Source
 4228.DAT      Slope Brick 33  5 x  6 x  2 Inverted
 3049.DAT      Slope Brick 45  1 x  2 Double / Inverted
 3048.DAT      Slope Brick 45  1 x  2 Triple
-3040.DAT      Slope Brick 45  2 x  1
+3040B.DAT     Slope Brick 45  2 x  1
 3044.DAT      Slope Brick 45  2 x  1 Double
 3044P37.DAT   Slope Brick 45  2 x  1 Double with Double 3 Button Black Pattern
 3665.DAT      Slope Brick 45  2 x  1 Inverted
@@ -1659,6 +1697,7 @@ LIGHT.DAT     Pov-RAY Light Source
 3040P03.DAT   Slope Brick 45  2 x  1 with Black Rotary Dial Pattern
 3040P58.DAT   Slope Brick 45  2 x  1 with Targeting Screen Pattern
 3040P02.DAT   Slope Brick 45  2 x  1 with White Rotary Dial Pattern
+3040A.DAT     Slope Brick 45  2 x  1 without Centre Stud
 3039.DAT      Slope Brick 45  2 x  2
 3043.DAT      Slope Brick 45  2 x  2 Double
 3046.DAT      Slope Brick 45  2 x  2 Double Concave
@@ -1677,6 +1716,7 @@ LIGHT.DAT     Pov-RAY Light Source
 3039P23.DAT   Slope Brick 45  2 x  2 with Computer Screen Pattern
 3039P58.DAT   Slope Brick 45  2 x  2 with Divers Computer Pattern
 3039P09.DAT   Slope Brick 45  2 x  2 with Fire Logo Pattern
+3039PC2.DAT   Slope Brick 45  2 x  2 with Flame and Control Panel Pattern
 3039PC5.DAT   Slope Brick 45  2 x  2 with Flight Control Pattern
 3039PC3.DAT   Slope Brick 45  2 x  2 with Horizon Indicator Screen Pattern
 3039P02.DAT   Slope Brick 45  2 x  2 with Left Green Inverse 1/4 Disc Pattern
@@ -1715,6 +1755,7 @@ LIGHT.DAT     Pov-RAY Light Source
 3684.DAT      Slope Brick 75  2 x  2 x  3
 3685.DAT      Slope Brick 75  2 x  2 x  3 Double Convex
 3684P22.DAT   Slope Brick 75  2 x  2 x  3 with Ferry Windows Pattern
+44126.DAT     Slope Brick Curved  6 x  2
 30602.DAT     Slope Brick Curved Top  2 x  2 x  1
 464.DAT       Slope Brick Round  1 x  6
 500.DAT       Slope Brick Round  1 x  6 Inverted
@@ -1737,11 +1778,19 @@ LIGHT.DAT     Pov-RAY Light Source
 4784.DAT      Staircase  4 x  6 x  7 1/3 Enclosed Straight 
 2046.DAT      Staircase  6 x  6 x  7 & 1/3 Enclosed Curved
 30134.DAT     Staircase  7 x  4 x  6 Open
+40244.DAT     Staircase Spiral Axle
 S10.DAT       Sticker  2 x  2 Round with Lifepreserver Pattern
 71405A.DAT    Sticker System Cavalry Logo
+71405B.DAT    Sticker System Fort Legoredo Sign
+71472.DAT     Sticker System Town TV Logo
 S1.DAT        Sticker System with Classic Space Logo Pattern
 S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
+190775.DAT    Sticker Technic Black "6" or "9" on Round White Background
 168135A.DAT   Sticker Technic Supercar 4x4x4 Logo
+168135F.DAT   Sticker Technic Supercar Gearbox 1&2 Black
+168135B.DAT   Sticker Technic Supercar Gearbox 1&2 White
+168135C.DAT   Sticker Technic Supercar Gearbox 3&4 White
+168135D.DAT   Sticker Technic Supercar V8 Logo
 43822A.DAT    Sticker Train Fan
 723.DAT       Streetlight Old
 4714.DAT      Stretcher
@@ -1749,6 +1798,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 2580.DAT      Support  2 x  2 x  5 Lattice Pillar
 2580C01.DAT   Support  2 x  2 x  5 Lattice Pillar (Complete)
 2579.DAT      Support  2 x  2 x  5 Lattice Pillar Top
+30646.DAT     Support  2 x  2 x  8 Girder
 30517.DAT     Support  2 x  2 x 10 Girder Triangular
 6168A.DAT     Support  2 x  2 x 11 Solid Pillar
 4476.DAT      Support  2 x  4 x  5 Stanchion Inclined
@@ -1783,6 +1833,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 3705C01.DAT   Technic Axle  4 Threaded
 32073.DAT     Technic Axle  5
 552.DAT       Technic Axle  5.5 With Stop
+32209.DAT     Technic Axle  5.5 With Stop
 3706.DAT      Technic Axle  6
 300.DAT       Technic Axle  7
 3707.DAT      Technic Axle  8
@@ -1800,6 +1851,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 32184.DAT     Technic Axle Joiner Perpendicular  3L
 32068.DAT     Technic Axle Joiner Perpendicular 3 Long
 32291.DAT     Technic Axle Joiner Perpendicular Double
+41678.DAT     Technic Axle Joiner Perpendicular Double Split
 4698.DAT      Technic Axle Nut
 3749.DAT      Technic Axle Pin
 2736.DAT      Technic Axle Towball
@@ -1818,6 +1870,10 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 32018.DAT     Technic Brick  1 x 14 with Holes
 3703.DAT      Technic Brick  1 x 16 with Holes
 32324.DAT     Technic Brick  4 x  4 with Open Center  2 x  2
+40344.DAT     Technic Brick  4 x  6 with Open Center  2 x  4
+32531.DAT     Technic Brick  4 x  6 with Open Center  2 x  4
+32532.DAT     Technic Brick  6 x  8 with Open Center  4 x  6
+40345.DAT     Technic Brick  6 x  8 with Open Center  4 x  6
 2951.DAT      Technic Bucket 10 x  8
 70961.DAT     Technic Bumper  2 x  4 Rubber 
 3713.DAT      Technic Bush
@@ -1825,6 +1881,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 4265A.DAT     Technic Bush 1/2 Type I
 4265B.DAT     Technic Bush 1/2 Type II
 6575.DAT      Technic Cam
+32133C01.DAT  Technic Competition Arrow (Complete)
 3651.DAT      Technic Connector
 32174.DAT     Technic Connector  2 x  3 with Ball Socket
 32137.DAT     Technic Connector Block  3 x  2 x  2
@@ -1929,6 +1986,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 32054.DAT     Technic Pin Long with Stop Bush
 4459.DAT      Technic Pin with Friction
 2780.DAT      Technic Pin with Friction and Slots
+3652.DAT      Technic Piston  2 x  2 Block
 4263.DAT      Technic Plate  1 x  4 with Holes
 4262.DAT      Technic Plate  1 x  6 with Holes
 4442.DAT      Technic Plate  1 x  8 with Holes
@@ -2004,6 +2062,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 3070BP06.DAT  Tile  1 x  1 with Red & Black Buttons Pattern
 3070BPF1.DAT  Tile  1 x  1 with Red Top Pattern
 3070BPF0.DAT  Tile  1 x  1 with Red/Blue Flower Pattern
+3070P1K.DAT   Tile  1 x  1 with TV Logo Pattern
 3070BPF2.DAT  Tile  1 x  1 with White Top Pattern
 3070A.DAT     Tile  1 x  1 without Groove
 2412B.DAT     Tile  1 x  2 Grille with Groove
@@ -2020,16 +2079,19 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 3069B.DAT     Tile  1 x  2 with Groove
 2432.DAT      Tile  1 x  2 with Handle
 3069BP61.DAT  Tile  1 x  2 with Ice Planet Control Panel Pattern
+3069BP80.DAT  Tile  1 x  2 with Keyboard Pattern
 3069BP01.DAT  Tile  1 x  2 with Letter Pattern
 3069BP0C.DAT  Tile  1 x  2 with Letter and Seal Pattern
 3069P12.DAT   Tile  1 x  2 with Long Black Arrow Pattern
 3069BP07.DAT  Tile  1 x  2 with Long Red Arrow with White Border Pattern
 3069BP06.DAT  Tile  1 x  2 with Long Yellow Arrow with Black Border Pattern
+3069BP0B.DAT  Tile  1 x  2 with Officer Picture and Handprint Pattern
 3069BP68.DAT  Tile  1 x  2 with Red & Yellow Controls Pattern
 3069BPF2.DAT  Tile  1 x  2 with Red Rectangle Pattern
 3069BPF1.DAT  Tile  1 x  2 with Red Top Pattern
 3069BPC1.DAT  Tile  1 x  2 with Rock Raiders Vehicle Control Pattern
 3069BPS1.DAT  Tile  1 x  2 with SW Computer Pattern
+3069BPS6.DAT  Tile  1 x  2 with SW Jedi Starfighter Controls Pattern
 3069BPS3.DAT  Tile  1 x  2 with SW Mini Jedi Starfighter Pattern
 3069BPS2.DAT  Tile  1 x  2 with SW Orange, Red & Silver Avionics Pattern
 3069BPS4.DAT  Tile  1 x  2 with SW Right Mini X-Wing Pattern
@@ -2039,7 +2101,9 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 3069BPA2.DAT  Tile  1 x  2 with Stingray Control Panel Pattern
 3069BP02.DAT  Tile  1 x  2 with Tape Reels Pattern
 3069P52.DAT   Tile  1 x  2 with Telemetry Computer Pattern
+3069BP18.DAT  Tile  1 x  2 with Thin Black "POLICE" Pattern
 3069BP54.DAT  Tile  1 x  2 with UFO Controls Pattern
+3069BP11.DAT  Tile  1 x  2 with White "TAXI" Pattern
 3069A.DAT     Tile  1 x  2 without Groove
 2431.DAT      Tile  1 x  4
 2431P08.DAT   Tile  1 x  4 with "--3--" Pattern
@@ -2049,6 +2113,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 2431P02.DAT   Tile  1 x  4 with Danger Stripes Red Pattern
 2431P51.DAT   Tile  1 x  4 with Long White Stripes Pattern
 2431P12.DAT   Tile  1 x  4 with Radar Pattern
+2431PS3.DAT   Tile  1 x  4 with SW Mini Jedi Starfighter Pattern
 6636.DAT      Tile  1 x  6
 4162.DAT      Tile  1 x  8
 3068BP17.DAT  Tile  2 x  2 Grooved with Black Circle Pattern
@@ -2077,6 +2142,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 3068BP61.DAT  Tile  2 x  2 with Ice Planet Logo Pattern
 3068BP80.DAT  Tile  2 x  2 with Instruments and Keyboard Pattern
 30358.DAT     Tile  2 x  2 with Jet Engine
+3068BP11.DAT  Tile  2 x  2 with Launch Command Logo Pattern
 3068BP68.DAT  Tile  2 x  2 with MTron Logo Pattern
 3068BP40.DAT  Tile  2 x  2 with Magic Scroll Pattern
 3068BP81.DAT  Tile  2 x  2 with Number 1 Pattern
@@ -2102,6 +2168,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 3068A.DAT     Tile  2 x  2 without Groove
 3068AP17.DAT  Tile  2 x  2 without Groove with Black Circle Pattern
 30350.DAT     Tile  2 x  3 with Horizontal Clips
+30350P01.DAT  Tile  2 x  3 with Horizontal Clips with Danger Chevron Pattern
 6179.DAT      Tile  4 x  4 with Studs on Edge
 6180.DAT      Tile  4 x  6 with Studs on Edges
 4607.DAT      Tile  4 x 16 with 24 studs
@@ -2172,6 +2239,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 4168.DAT      Train Signal Mast
 4169.DAT      Train Signal Stand
 32087.DAT     Train Track  9V Crossing
+2867.DAT      Train Track  9V Curved
 2865.DAT      Train Track  9V Straight
 3231.DAT      Train Track Crossing - 4.5 V
 4166.DAT      Train Track Sleeper Plate  2 x  8 with Cable Grooves
@@ -2203,6 +2271,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 6578.DAT      Tyre 30.4 x 14 VR
 6579.DAT      Tyre 43.2 x 28 Balloon Small
 6594.DAT      Tyre 49.6 x 28 VR
+2995.DAT      Tyre 68.8 x 40 Q
 2902.DAT      Tyre 81.6 x 15 Motorcycle
 2997.DAT      Tyre 81.6 x 34 ZR for Large Wheel Hub
 4288.DAT      Tyre Balloon
@@ -2223,12 +2292,18 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 6564.DAT      Wedge  3 x  2 Right
 2399.DAT      Wedge  3 x  4
 4859.DAT      Wedge  3 x  4 Plate
+41768.DAT     Wedge  4 x  2 Left
+41767.DAT     Wedge  4 x  2 Right
+43721.DAT     Wedge  4 x  2 Sloped Left
+43720.DAT     Wedge  4 x  2 Sloped Right
 4858.DAT      Wedge  4 x  4
 6069.DAT      Wedge  4 x  4 Triple
 4855.DAT      Wedge  4 x  4 Triple Inverted
+6069PS2.DAT   Wedge  4 x  4 Triple with SW Mini Slave 1 Pattern
 6069PS1.DAT   Wedge  4 x  4 Triple with SW X-Wing Nose Pattern
 4858P01.DAT   Wedge  4 x  4 with Blacktron I Logo
 4858P90.DAT   Wedge  4 x  4 with Classic Space Pattern
+4858P1K.DAT   Wedge  4 x  4 with TV Logo Pattern
 45677.DAT     Wedge  4 x  4 x  2/3 Curved
 6153.DAT      Wedge  6 x  4
 4856.DAT      Wedge  6 x  4 Inverted
@@ -2241,6 +2316,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 3482.DAT      Wheel Centre Large
 4624.DAT      Wheel Centre Small
 30027.DAT     Wheel Centre Small Wide for Slick Tyre
+30155.DAT     Wheel Centre Spoked Small
 30190.DAT     Wheel Centre Wide with Stub Axles
 3464.DAT      Wheel Centre with Stub Axles
 6248.DAT      Wheel Freestyle
@@ -2253,6 +2329,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 715.DAT       Wheel Old with 12 Studs
 2574.DAT      Wheel Pull-Back Motor
 33211.DAT     Wheel Spoked  5 & 1/2 x  5 & 1/2
+33212.DAT     Wheel Spoked  7 x  7
 35.DAT        Wheel Spoked Large
 3739.DAT      Wheel Technic 24 x 43
 2496.DAT      Wheel Trolley
@@ -2328,6 +2405,8 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 30058.DAT     Windscreen 10 x  4 x  2 & 1/3 Canopy
 2507P01.DAT   Windscreen 10 x  4 x  2 & 1/3 Canopy with Silver Frame Pattern
 2598.DAT      Windscreen 10 x 10 x  4 Octagonal Canopy
+43723.DAT     Wing  2 x  3 Left
+43722.DAT     Wing  2 x  3 Right
 41770.DAT     Wing  2 x  4 Left
 41769.DAT     Wing  2 x  4 Right
 47397.DAT     Wing  3 x 12 Left
@@ -2459,8 +2538,6 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 759.DAT       ~Hose Flexible 12L End Segment
 758.DAT       ~Hose Flexible 12L Segment
 757.DAT       ~Hose Flexible 12L Top  1 x  1 x  2/3 with Stud
-25931-12.DAT  ~Medium Space Wheel, 1/12
-25931-8H.DAT  ~Medium Space Wheel, inside hub
 976.DAT       ~Minifig Arm Left (Obsolete)
 975.DAT       ~Minifig Arm Right (Obsolete)
 466C.DAT      ~Minifig Book Back
@@ -2556,6 +2633,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 578.DAT       ~Moved to 30374
 30389.DAT     ~Moved to 30389a
 3039P101.DAT  ~Moved to 3039ps1
+3040.DAT      ~Moved to 3040b
 57.DAT        ~Moved to 3045
 40.DAT        ~Moved to 3046
 238.DAT       ~Moved to 3048
@@ -2620,6 +2698,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 720.DAT       ~Moved to 3218
 3228.DAT      ~Moved to 3228a
 151.DAT       ~Moved to 32316
+550.DAT       ~Moved to 3245b
 163.DAT       ~Moved to 3315
 3324A.DAT     ~Moved to 3324
 65.DAT        ~Moved to 3358
@@ -2627,6 +2706,7 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 829.DAT       ~Moved to 3433
 9.DAT         ~Moved to 3460
 6.DAT         ~Moved to 3464
+3475.DAT      ~Moved to 3475b
 93.DAT        ~Moved to 3479
 3465.DAT      ~Moved to 3480
 3463.DAT      ~Moved to 3481
@@ -2819,10 +2899,15 @@ S2.DAT        Sticker System with Classic Space Logo Pattern (Mirrored)
 9326P68.DAT   ~Moved to 973p68
 973P101.DAT   ~Moved to 973ps1
 2421A.DAT     ~Moved to s\2421a
+25931-12.DAT  ~Moved to s\25931-12
+25931-8H.DAT  ~Moved to s\25931-8h
 3626B-4T.DAT  ~Moved to s\3626bs01
 9326-4T.DAT   ~Moved to s\973s01
 6168.DAT      ~Support  2 x  2 x 11 Solid Pillar Base
 6167.DAT      ~Support  2 x  2 x 11 Solid Pillar Top
+154.DAT       ~Technic Competition Arrow Core
+155.DAT       ~Technic Competition Arrow Rubber Tip
+32133.DAT     ~Technic Competition Arrow Shaft
 206A.DAT      ~Technic Differential Centre
 206B.DAT      ~Technic Differential Gear
 342.DAT       ~Technic Flex-System Cable End

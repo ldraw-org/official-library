@@ -1,0 +1,16 @@
+0 Door  2 x  8 x  6 Revolving
+0 Name: 30102.dat
+0 Author: Franklin W. Cain (fwcain@yahoo.com)
+0 LDRAW_ORG Part UPDATE 2004-04
+
+0 KEYWORDS wall, "secret door", Castle, Ninja, Adventurers
+
+0 COMMENT aka 30344
+
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30102s01.dat
+0
+0 this is the front face (for the pattern)
+ 4 16 -49 1 -1 -49 121 -1 49 121 -1 49 1 -1
+0 this is the back face
+ 4 16 -49 1 1 -49 121 1 49 121 1 49 1 1
+0

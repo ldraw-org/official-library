@@ -1,11 +1,13 @@
-0 Brick  1 x  1 with Studs on Sides
+0 Brick  1 x  1 with Studs on Four Sides
 0 Name: 4733.dat
 0 Author: James Jessiman
-0 LDRAW_ORG Part UPDATE 2003-03
+0 LDRAW_ORG Part UPDATE 2004-04
 
 0 BFC CERTIFY CCW
 
 0 // 2003-06-08 JHR BFC compliant
+0 // 2004-07-24 CWD Add "Four" to part title
+
 
 
 2 24 6 24 6 -6 24 6

@@ -1,29 +1,21 @@
 0 ~Technic Axle Connector Center
 0 Name: s\921a.dat
 0 Author: Lutz Uhlmann
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 LDRAW_ORG Subpart UPDATE 2004-04
+
+0 // 2003-06-09 JHR BFC compliant, ring substitutions
+0 // 2004-07-10  GuyVivan  Use Peghole primitive
 
 0 BFC CERTIFY CCW
 
-0 // 2003-06-09 JHR BFC compliant, ring substitutions
-
 0 BFC INVERTNEXT
 1 16 8 0 0 0 -16 0 -6 0 0 0 0 6 4-4cyli.dat
-1 16 8 0 0 0 1 0 -6 0 0 0 0 6 4-4edge.dat
-1 16 -8 0 0 0 1 0 -6 0 0 0 0 6 4-4edge.dat
-0 BFC INVERTNEXT
-1 16 10 0 0 0 -2 0 -8 0 0 0 0 8 4-4cyli.dat
-0 BFC INVERTNEXT
-1 16 -10 0 0 0 2 0 -8 0 0 0 0 8 4-4cyli.dat
-1 16 8 0 0 0 1 0 -8 0 0 0 0 8 4-4edge.dat
-1 16 -8 0 0 0 1 0 -8 0 0 0 0 8 4-4edge.dat
-1 16 10 0 0 0 1 0 -8 0 0 0 0 8 4-4edge.dat
-1 16 -10 0 0 0 1 0 -8 0 0 0 0 8 4-4edge.dat
+1 16 10 0 0 0 -1 0 -1 0 0 0 0 1 peghole.dat
+1 16 -10 0 0 0 1 0 1 0 0 0 0 -1 peghole.dat
 1 16 10 0 0 0 -20 0 -10 0 0 0 0 10 4-4cyli.dat
 1 16 10 0 0 0 1 0 -10 0 0 0 0 10 4-4edge.dat
 1 16 -10 0 0 0 1 0 -10 0 0 0 0 10 4-4edge.dat
 1 16 -10 0 0 0 1 0 -2 0 0 0 0 2 ring4.dat
 1 16 10 0 0 0 -1 0 -2 0 0 0 0 -2 ring4.dat
-1 16 -8 0 0 0 1 0 -2 0 0 0 0 2 ring3.dat
-1 16 8 0 0 0 -1 0 -2 0 0 0 0 2 ring3.dat
 0
+

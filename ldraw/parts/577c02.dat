@@ -1,0 +1,20 @@
+0 Minifig Tool Light Sabre - Dual On (Shortcut)
+0 Name: 577c02.dat
+0 Author: Paul Easter
+0 LDRAW_ORG Shortcut UPDATE 2004-04
+
+0 BFC CERTIFY CW
+0 CATEGORY Minifig Accessory
+0 KEYWORDS saber, bar, star wars, accessory
+
+0 // The sabre 'blades' will glow when rendered in POV-Ray
+
+
+
+
+1 383 0 0 0 1 0 0 0 1 0 0 0 1 577.DAT
+1 16 0 0.2 0 -1 0 0 0 -1 0 0 0 1 30374.dat
+1 16 0 36 0 1 0 0 0 1 0 0 0 1 30374.dat
+1 16 0 -2 0 1 0 0 0 1 0 0 0 1 light.dat
+1 16 0 38 0 1 0 0 0 1 0 0 0 1 light.dat
+0
