@@ -1,0 +1,10 @@
+0 Tyre 49.6 x 28 VR
+0 Name: 6594.dat
+0 Author: ONYX (J Boen) onyx@flash.net
+0 Official LCad update 99-04
+
+ 1 16 0 0 0 -0.00 0 -1 0 1 0 1 0 -0.00 s\6594a.dat
+ 1 16 0 0 0 -0.00 0 -1 0 1 0 1 0 -0.00 s\6594b.dat
+ 1 16 0 0 0 -0.00 0 1 0 -1 0 1 0 0.00 s\6594a.dat
+ 1 16 0 0 0 -0.00 0 1 0 -1 0 1 0 0.00 s\6594b.dat
+0

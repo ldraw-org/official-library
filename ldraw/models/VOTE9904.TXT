@@ -1,0 +1,146 @@
+Voting Results - L-Cad dat vote 9904
+13 vote-sheets tallied - some were partial/incomplete 
+
+-READ THIS!!!!!!
+ Included in this update is a updated version of MKLIST.exe.
+ Also included is the source code in the zip file mklist.zip.
+ This new version, by default, does not include "~Moved to"
+ file entries when generating a parts.lst file. 
+ Users of LDAO can still use that programs internal makelist
+ utility as well. 
+
+-Pieces marked with an * by the number had some sort of 
+ modification to name and/or description. Details below.
+ All parts starting with an X that did not get new
+ correct numbers had the X dropped.
+ Pieces marked with an "H" are being held pending problem
+ resolution.
+
+Yes No Abstain Name     Description
+--  --  --  -------   --------------------------------
+06  00  06   10P05    Baseplate 24 x 32 with Set 351 Dots Pattern
+07  00  05   374      Baseplate 16 x 32 with Rounded Corners
+06  00  06   374P01   Baseplate 16 x 32 with Rounded Corners and Set 350 Dots Pattern
+08  01  03   608P03   Baseplate 32 x 32 Road 9-Stud T Intersection with Yellow Lines
+11  00  01 * 973P19   Minifig Torso with Train Chevron Pattern
+11  00  01 * 973P31   Minifig Torso with Pirate Stripes Pattern (Red/Cream)
+11  00  01 * 973P32   Minifig Torso with Pirate Stripes Pattern (Blue/Cream)
+11  00  01 * 973P33   Minifig Torso with Pirate Stripes Pattern (Red/Black)
+11  00  01 * 973P41   Minifig Torso with Castle Chainmail Pattern 
+11  00  01 * 973P62   Minifig Torso with Silver Ice Planet Pattern
+09  00  04   2358P02  Baseplate 32 x 32 Road 7-Stud Straight with Runway Pattern
+10  00  01   2359P01  Baseplate 32 x 32 Road 7-Stud Curve with Pattern
+10  00  02   2360P01  Baseplate 32 x 32 Road 7-Stud T Intersection with Crosswalks
+11  00  01   2361P01  Baseplate 32 x 32 Road 7-Stud Crossroads with Crosswalks
+10  00  02   2418A    Windscreen  6 x  6 Octagonal Canopy without Axlehole
+13  00  00 * 2851     Technic Piston Round
+11  00  02 * 2854     Technic Crankshaft Centre
+10  00  02 * 2871     Electric Train Motor  9V Decorative Side
+11  00  02 H 2909C01  Technic Shock Absorber Large (Complete Assembly Shortcut)
+07  00  05   3008P22  Brick  1 x  8 with Ferry Windows Pattern
+12  00  00   3626BP03 Minifig Head with Standard Grin and Pointed Moustache Pattern
+13  00  00   3626BP04 Minifig Head with Standard Grin and Sunglasses Pattern
+13  00  00   3626BP05 Minifig Head with Standard Grin and Eyebrows Pattern
+07  01  04   3684P22  Slope Brick 75  2 x  2 x  3 with Ferry Windows Pattern
+08  00  04   3705C01  Technic Axle  4 Threaded 
+08  00  04   3737C01  Technic Axle 10 Threaded 
+08  01  03   6099P03  Baseplate 32 x 32 Road 9-Stud Landing Pad with Yellow Circle
+08  01  04   6100P01  Baseplate 32 x 32 with 3 Driveways and Set 6571 Pattern 
+11  00  01   6131     Minifig Wizards Hat 
+12  00  01   6575     Technic Cam
+11  00  02   6579     Tyre 43.2 x 28 Balloon Small
+12  00  01   6580     Wheel 43.2 x 28 Balloon Small
+12  00  01   6581     Tyre 20 x 30 Balloon Medium
+12  00  01   6582     Wheel 20 x 30 Balloon Medium
+11  00  02   6594     Tyre 49.6 x 28 VR
+11  00  02   6595     Wheel 49.6 x 28 VR
+11  00  01 * 30093    Plants Sea Grass
+09  01  02 * 30250    Brick  2 x  4 x  3 Notched with Side  5 x  4 Plate
+09  00  03   32059    Plate  4 x  6 without Corners
+09  00  03   X105     Antenna Whip with Flag
+10  00  02   X551     Windscreen  6 x  8 x  3
+11  00  01   X577     Minifig Tool Light Sabre Hilt
+11  00  01   X578     Bar 4L Light Sabre Blade 
+09  00  03   X733     Brick 10 x 10
+11  00  01 * X770     Minifig Ovoid Shield
+
+
+_New Subparts added to the \S directory in this update:
+
+973P31A   ~Subpart Minifig Torso with Pirate Stripes Pattern - second stripe
+973P31B   ~Subpart Minifig Torso with Pirate Stripes Pattern - belt
+973P31C   ~Subpart Minifig Torso with Pirate Stripes Pattern - Belt Buckle
+973P41A   ~Subpart Minifig Torso with Castle Chainmail Pattern - silver
+973P62A   ~Subpart Minifig Torso New with Silver Ice Planet pattern - silver
+6579A     ~Subpart 1/14th 6579a Tyre Section                              
+6580A     ~Subpart 6580 Wheel 1-4 Section                                 
+6580B     ~Subpart 6580 Wheel 1-2 Center                                  
+6581A     ~Subpart 6581 1/2th Tire                                        
+6582A     ~Subpart 6582 1/14th Wheel Section                              
+6582B     ~Subpart 6582 1/4 Wheel                                         
+6594A     ~Subpart 6594 Tire 11-Sections                                  
+6594B     ~Subpart 6594 Tire 12-Sections                                  
+6594C     ~Subpart 49 x 28 treads                                         
+6595A     ~Subpart 6595 wheel 11 sections                                 
+6595B     ~Subpart 6595 wheel 12 sections                                 
+6595C     ~Subpart 1-4 6595 Wheel                                         
+6595D     ~Subpart 6595 axle edge                                         
+73839A    ~Subpart Axle Thread                                            
+X770S01   ~Subpart Minifig Ovoid Shield without Decorated Surface 
+
+_New Primitives:
+  No new primitives added.
+
+_"X" numbers kept as is, with the X dropped:
+  105     Antenna Whip with Flag
+  551     Windscreen  6 x  8 x  3
+  577     Minifig Tool Light Sabre Hilt
+  578     Bar 4L Light Sabre Blade 
+  733     Brick 10 x 10
+  770     Minifig Shield Ovoid
+
+_Description changes to new pieces:
+  770     Minifig Shield Ovoid
+  30250   Bracket  4 x  7 x  3
+  30093   Plant Sea Grass
+  2851    Technic Engine Piston Round
+  2854    Technic Engine Crankshaft Centre
+
+_Number changes to new pieces:
+  All the torsos were changed from 9326 to 973
+
+_Pieces put on "HOLD" pending problem resolution.
+   The composite of the shock, 2909c01.dat, passed. But the
+   final determination of how to implement this piece has not
+   been decided. When figured out, this piece will be released.
+
+_Piece added with minor pattern color change:
+  122c02  Plate  2 x  2 with Wheels in White
+
+_New pieces added in _underscore categories:
+  80549     _Baseplate 32 x 32 Road 7-Stud Crossroads with Crosswalks       
+  80546     _Baseplate 32 x 32 Road 7-Stud Curve with Pattern               
+  80548     _Baseplate 32 x 32 Road 7-Stud T Intersection with Crosswalks   
+  80256     _Baseplate 32 x 32 Road 9-Stud Landing Pad with Yellow Circle   
+  73839     _Technic Axle  4 Threaded                                       
+  73485     _Technic Axle 10 Threaded
+
+-------------------------------------------------------------------- 
+Summary of changes to existing parts:
+_~Moved To files:
+  297 ~Moved to 4593 Lever Small
+
+_Category changes:
+  All "Plants" changed to "Plant"
+
+_Description changes:
+  2850  Technic Engine Cylinder Head
+
+_Fix of a major boo-boo:
+  Part 146 was supposed to be moved to 2529. But it was
+  moved to 2429 by accident.  So these three files fix that:
+  146   ~Moved to 2529
+  2529  renumbered window lattice piece.
+  2429  Replacement of the overwritten 1x2 hinge plate.
+
+-- fini --
