@@ -1,28 +1,5 @@
-0 Panel  1 x  2 x  2 with Red Cross Pattern
-0 Name: 4864p66.dat
-0 Author: Duane Hess
-0 LDRAW_ORG Part UPDATE 2004-02
-
+0 ~Moved to 4864ap02
+0 WRITE Part 4864p66 moved to 4864ap02
+0 LDRAW_ORG Part UPDATE 2004-03
 0 BFC CERTIFY CCW
-
-0 // 2002-12-23  George Barnes (glbarnes@gdi.net)  Split Quads for rendering purposes
-0 // 2003-07-02  Steffen                           BFCed; subfiled
-0 //                                               deleted lines around cross
-0 // 2003-12-30  SEB reworked the pattern as a mesh
-
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4864s01.dat
-
-4 16 5 19 10 5 10 10 20 0 10 14 19 10
-4 16 20 0 10 5 10 10 -5 10 10 -20 0 10
-4 16 -20 0 10 -5 10 10 -5 19 10 -14 19 10
-4 16 -20 0 10 -14 19 10 -14 29 10 -20 48 10
-4 16 -20 48 10 -14 29 10 -5 29 10 -5 38 10
-4 16 -20 48 10 -5 38 10 5 38 10 20 48 10
-4 16 20 48 10 5 38 10 5 29 10 14 29 10
-4 16 20 48 10 14 29 10 14 19 10 20 0 10
-4 4 -5 10 10 5 10 10 5 19 10 -5 19 10
-4 4 -14 19 10 -5 19 10 -5 29 10 -14 29 10
-4 4 -5 19 10 5 19 10 5 29 10 -5 29 10
-4 4 5 19 10 14 19 10 14 29 10 5 29 10
-4 4 -5 29 10 5 29 10 5 38 10 -5 38 10
-0
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4864ap02.dat

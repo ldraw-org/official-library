@@ -1,0 +1,147 @@
+LDraw.org Parts Update 2004-03
+---------------------------------------------------------------------------
+
+Notes created Sun Sep 12 21:10:59 2004 by the Parts Tracker.
+
+Release statistics:
+   Total files: 175
+   New files: 111
+   New parts: 84
+   New subparts: 20
+   New primitives: 6
+   New hi-res primitives: 1
+
+New 3-digit part numbers assigned:
+   169.dat Technic Liftarm  1 x  2
+   264.dat Window  1 x  4 x  5 Curved Top 
+   688.dat Plant Tree Cedar  4 x  4 x 11 & 1/2
+   764.dat Signpost Old
+   775.dat Minifig Forestman Cap
+   779.dat Tractor Trailer Chassis Hitching Ball
+
+Moved Parts
+   2362.DAT      ~Moved to 2362b
+   2362P53.DAT   ~Moved to 2362ap53
+   2362P54.DAT   ~Moved to 2362ap54
+   3005-0.DAT    ~Moved to 3005pt0
+   3005-5.DAT    ~Moved to 3005pt5
+   3005-A.DAT    ~Moved to 3005pta
+   3005-AE.DAT   ~Moved to 3005pua
+   3005-B.DAT    ~Moved to 3005ptb
+   3005-C.DAT    ~Moved to 3005ptc
+   3005-D.DAT    ~Moved to 3005ptd
+   3005-G.DAT    ~Moved to 3005ptg
+   3005-K.DAT    ~Moved to 3005ptk
+   3005-P.DAT    ~Moved to 3005ptp
+   3005-S.DAT    ~Moved to 3005pts
+   3005-X.DAT    ~Moved to 3005ptx
+   4864.DAT      ~Moved to 4864b
+   4864P33.DAT   ~Moved to 4864bp10
+   4864P34.DAT   ~Moved to 4864bp11
+   4864P66.DAT   ~Moved to 4864ap02
+   4864P89.DAT   ~Moved to 4864ap03
+
+Renamed Parts
+   104.DAT       Antenna 6H
+   changed to    Antenna  6H
+
+   2343.DAT      Castle Goblet
+   changed to    Minifig Goblet
+
+   2359.DAT      Baseplate 32 x 32 Road Curve
+   changed to    Baseplate 32 x 32 Road 7-Stud Curve
+
+   2569.DAT      Antenna Whip 8H
+   changed to    Antenna  8H Whip
+
+   3001P02.DAT   Brick  2 x  4 with Plane Windows Pattern
+   changed to    Brick  2 x  4 with Red Stripe and 4 Black Windows Pattern
+
+   30065.DAT     Round Dish  4 x  4
+   changed to    Dish  4 x  4 Inverted
+
+   3008P01.DAT   Brick  1 x  8 with Red Cross Upper Half
+   changed to    Brick  1 x  8 with Red Cross Upper Half Pattern
+
+   3008P02.DAT   Brick  1 x  8 with Red Cross Lower Half
+   changed to    Brick  1 x  8 with Red Cross Lower Half Pattern
+
+   3008P03.DAT   Brick  1 x  8 with "GARAGE" Pattern
+   changed to    Brick  1 x  8 with Black "GARAGE" Pattern
+
+   3008P21.DAT   Brick  1 x  8 with Light Blue Squares Pattern
+   changed to    Brick  1 x  8 with 32 Light Blue Squares Pattern
+
+   3008P22.DAT   Brick  1 x  8 with Ferry Windows Pattern
+   changed to    Brick  1 x  8 with 16 Black Squares Pattern
+
+   30225.DAT     Baseplate 16 x 16 with Driveway
+   changed to    Baseplate 16 x 16 Driveway
+
+   30225P01.DAT  Baseplate 16 x 16 with Driveway Pattern
+   changed to    Baseplate 16 x 16 Driveway with Gray Drive Pattern
+
+   30225P02.DAT  Baseplate 16 x 16 with Driveway Pattern
+   changed to    Baseplate 16 x 16 Driveway with Gray Drive/White Stripes Pattern
+
+   3821P03.DAT   Door  1 x  3 x  1 Right with Yellow / Red Stripe Pattern
+   changed to    Door  1 x  3 x  1 Right with Yellow/Red Stripe Pattern
+
+   3960.DAT      Space Radar Dish  4 x  4
+   changed to    Dish  4 x  4 Inverted
+
+   3960P01.DAT   Space Radar Dish  4 x  4 with Red & Green Petals Pattern
+   changed to    Dish  4 x  4 Inverted with Red and Green Petals Pattern
+
+   3960P02.DAT   Space Radar Dish  4 x  4 with Black Spiral Pattern
+   changed to    Dish  4 x  4 Inverted with Black Spiral Pattern
+
+   3960P03.DAT   Space Radar Dish  4 x  4 with Red Spiral Pattern
+   changed to    Dish  4 x  4 Inverted with Red Spiral Pattern
+
+   4444.DAT      Castle Wall  2 x  5 x  6
+   changed to    Panel  2 x  5 x  6 Wall
+
+   4444P03.DAT   Castle Wall  2 x  5 x  6 with Black Stripes
+   changed to    Panel  2 x  5 x  6 Wall with Black Half-Timber Pattern
+
+   464.DAT       Slope Rounded  1 x  6
+   changed to    Slope Brick Round  1 x  6
+
+   4740.DAT      Dish  2 x  2
+   changed to    Dish  2 x  2 Inverted
+
+   6083.DAT      Rock Piece Triangular
+   changed to    Panel  3 x  8 x  7 Rock Triangular
+
+   609.DAT       Baseplate 32 x 32 Road Curve-9 Studs
+   changed to    Baseplate 32 x 32 Road 9-Stud Curve
+
+   80547.DAT     Baseplate 32 x 32 Road Straight with Road Pattern
+   changed to    Baseplate 32 x 32 Road 7-Stud Straight with Road Pattern
+
+   2362S01.DAT   ~Panel  1 x  2 x  3 without Front Face
+   changed to    ~Panel  1 x  2 x  3 without Front Face and Studs
+
+   3960S01.DAT   ~Space Radar Dish 4 x 4 without Top Face
+   changed to    ~Dish  4 x  4 Inverted without Top Face
+
+   4864S01.DAT   ~Panel  1 x  2 x  2 without Front Face
+   changed to    ~Panel  1 x  2 x  2 without Front Face and Studs
+
+Other Fixed Parts
+   2337.DAT      Windscreen  4 x  4 x  2 Canopy Extender
+   3001.DAT      Brick  2 x  4
+   30033.DAT     Plate  2 x  2 with Rod Frame Octagonal
+   3008.DAT      Brick  1 x  8
+   3044.DAT      Slope Brick 45  2 x  1 Double
+   3044P37.DAT   Slope Brick 45  2 x  1 Double with Double 3 Button Black Pattern
+   3660.DAT      Slope Brick 45  2 x  2 Inverted
+   3660P01.DAT   Slope Brick 45  2 x  2 Inverted with Computer Screen Pattern
+   3684.DAT      Slope Brick 75  2 x  2 x  3
+   3823.DAT      Windscreen  2 x  4 x  2
+   4178.DAT      Train Base  6 x 16
+   6167.DAT      ~Support  2 x  2 x 11 Solid Pillar Top
+   6249.DAT      Brick  2 x  4 with Pins
+   8.DAT         Plate  2 x  2 with Wheel Holder Single
+   2335S01.DAT   ~Flag  2 x  2 without Main Faces

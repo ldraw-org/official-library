@@ -1,0 +1,22 @@
+0 Tile  1 x  1 with "1" Pattern
+0 Name: 3070bp01.dat
+0 Author: John Riley <Rohnjiley@yahoo.com>
+0 LDRAW_ORG Part UPDATE 2004-03
+
+0 BFC CERTIFY CCW
+
+0 // 2003-07-02  Steffen  fixed BFC errors
+
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
+4 16 10 0 7 2.5 0 7 2.5 0 -7 10 0 -7
+4 16 -10 0 -7 -4 0 -7 -4 0 7 -10 0 7
+4 16 -10 0 10 -10 0 7 10 0 7 10 0 10
+4 16 10 0 -10 10 0 -7 -10 0 -7 -10 0 -10
+4 0 0 0 7 0 0 -7 2.5 0 -7 2.5 0 7
+4 0 -4 0 4 -4 0 2 0 0 2 0 0 4
+4 16 -4 0 2 -4 0 -7 0 0 -7 0 0 2
+1 0 -4 0 7 4 0 0 0 1 0 0 0 -3 1-4ndis.dat
+1 16 -4 0 7 0 0 4 0 1 0 -3 0 0 1-4disc.dat
+0

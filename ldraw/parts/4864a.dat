@@ -1,0 +1,15 @@
+0 Panel  1 x  2 x  2 with Solid Studs
+0 Name: 4864a.dat
+0 Author: James Jessiman
+0 Original LDraw part
+0 LDRAW_ORG Part UPDATE 2004-03
+0 BFC CERTIFY CW
+
+0 // 2004-04-25 CWD Created solid stud version
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4864s01.dat
+
+4 16 -20 0 10 -20 48 10 20 48 10 20 0 10
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+0

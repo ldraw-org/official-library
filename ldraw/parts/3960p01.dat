@@ -1,12 +1,14 @@
-0 Space Radar Dish  4 x  4 with Red & Green Petals Pattern
+0 Dish  4 x  4 Inverted with Red and Green Petals Pattern
 0 Name: 3960p01.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2002-02
+0 Author: Franklin W. Cain
+0 LDRAW_ORG Part UPDATE 2004-03
 
-0 KEYWORDS umbrella, parasol, town, pinwheel, daisy
-0 CMDLINE -C15
+0 BFC NOCERTIFY
+0 CMDLINE -c15
+0 CATEGORY Round
+0 KEYWORDS Town, umbrella, parasol, pinwheel, daisy, round, radar
 
-0 20010918 SEB Made petal subfile to save space; standardized colors
+0 // 2001-09-18 SEB  subfiled; standardized colors
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p01a.dat
 1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p01b.dat
@@ -56,7 +58,7 @@
 1 4 0 0 0 .866 0 -.5 0 1 0 .5 0 .866 s\3960p01b.dat
 1 16 0 0 0 .9659 0 -.2588 0 1 0 .2588 0 .9659 s\3960p01a.dat
 1 2 0 0 0 .9659 0 -.2588 0 1 0 .2588 0 .9659 s\3960p01b.dat
-
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s01.dat
-
 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s01.dat
+0
+0 end of file

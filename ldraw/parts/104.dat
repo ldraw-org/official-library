@@ -1,14 +1,15 @@
-0 Antenna 6H
+0 Antenna  6H
 0 Name: 104.dat
 0 Author: Steve Bliss
-0 Official LCad Part 2000-01
+0 LDRAW_ORG Part UPDATE 2004-03
 
 0 BFC CERTIFY CW
-0 19990819 SEB Fixed CW-ness, 4-4con12.dat>>4-4con1.dat, added CMDLINE
-
 0 CATEGORY Antenna
 0 KEYWORDS chrome, Belville, Model Team, whip, rod
 0 CMDLINE -C383
+
+0 // 1999-08-19 SEB Fixed CW-ness, 4-4con12.dat>>4-4con1.dat, added CMDLINE
+
 
 1 16 0 0 0 5 0 0 0 1 0 0 0 5 4-4edge.dat
 1 16 0 -3 0 5 0 0 0 1 0 0 0 5 4-4edge.dat
@@ -16,7 +17,7 @@
 1 16 0 -32 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 -34 0 2 0 0 0 1 0 0 0 2 4-4edge.dat
 1 16 0 -137.535 0 2 0 0 0 1 0 0 0 2 4-4edge.dat
-1 16 0 0 0 5 0 0 0 1 0 0 0 5 4-4disc.dat
+1 16 0 0 0 -5 0 0 0 -1 0 0 0 5 4-4disc.dat
 1 16 0 -3 0 5 0 0 0 3 0 0 0 5 4-4cyli.dat
 1 16 0 -3 0 5 0 0 0 1 0 0 0 5 4-4disc.dat
 1 16 0 -32 0 4 0 0 0 29 0 0 0 4 4-4cyli.dat
