@@ -1,15 +1,15 @@
 0 ~Tile  1 x  1 with Groove without Top Face
 0 Name: s\3070bs01.dat
 0 Author: Kevin B
-0 LDRAW_ORG Subpart UPDATE 2003-03
+0 LDRAW_ORG Subpart UPDATE 2004-01
 
 0 BFC CERTIFY CCW
 
 0 // 2002-12-20 NielsK: BFC certified
 0 // 2003-03-20 CWD     Removed blank line after INVERTNEXT
 
-0 BFC INVERTNEXT
 
+0 BFC INVERTNEXT
 1 16 0 8 0 6 0 0 0 -4 0 0 0 6 box5.dat
 
 4 16 9 8 9 6 8 6 -6 8 6 -9 8 9

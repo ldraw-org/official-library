@@ -3,7 +3,7 @@
 0 Author: James Jessiman, original
 0 Author: Chris Dee (chris_w_dee@hotmail.com), rewrite
 0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2003-03
+0 LDRAW_ORG Part UPDATE 2004-01
 
 0 // Note: One or more STUD references in this file have been purposely 
 0 // capitalized to ensure that the stud is fully visible in LEdit
@@ -13,7 +13,6 @@
 0 // 2003-01-28 SEB Completed header; BFC'ed
 
 0 BFC INVERTNEXT
-
 1 16 0 8 0 6 0 0 0 -4 0 0 0 6 box5.dat
 
 4 16 6 8 -6 6 8 6 10 8 10 10 8 -10

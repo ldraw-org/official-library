@@ -1,0 +1,45 @@
+0 Dish  6 x  6 Webbed - Type 1
+0 Name: 4285a.dat
+0 Author: Tore Eriksson
+0 LDRAW_ORG Part UPDATE 2004-01
+
+0 CATEGORY Round
+0 BFC CERTIFY CCW
+0 KEYWORDS Space, Town, Radar Dish, Round
+
+0 // 2002-07-15  SEB      Fix bad cylinder ref, serious L3P warnings.
+0 // 2002-07-30  SEB      Added missing quads, conditional lines, fixed ghost edges.
+0 // 2002-09-05  DG       Made Type 1 from Type 2, moved webbing to subpart 4285s01
+0 // 2003-07-20  Steffen  BFCed
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4285s01.dat
+1 16 0 0 0 0.707 0 -0.707 0 1 0 0.707 0 0.707 s\4285s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\4285s01.dat
+1 16 0 0 0 -0.707 0 -0.707 0 1 0 0.707 0 -0.707 s\4285s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\4285s01.dat
+1 16 0 0 0 -0.707 0 0.707 0 1 0 -0.707 0 -0.707 s\4285s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\4285s01.dat
+1 16 0 0 0 0.707 0 0.707 0 1 0 -0.707 0 0.707 s\4285s01.dat
+1 16 0 8 0 24 0 0 0 1 0 0 0 24 4-4edge.dat
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
+1 16 0 4 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 ring1.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 ring2.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 ring3.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
+1 16 0 2 0 24 0 0 0 6 0 0 0 24 4-4cyli.dat
+0 BFC INVERTNEXT
+1 16 0 2 0 21 0 0 0 6 0 0 0 21 4-4cyli.dat
+1 16 0 8 0 21 0 0 0 1 0 0 0 21 4-4edge.dat
+1 16 0 4 0 21 0 0 0 1 0 0 0 21 4-4edge.dat
+1 16 0 4 0 6 0 0 0 -1 0 0 0 6 ring1.dat
+1 16 0 4 0 6 0 0 0 -1 0 0 0 6 ring2.dat
+1 16 0 4 0 3 0 0 0 -1 0 0 0 3 4-4ring6.dat
+1 16 0 8 0 3 0 0 0 -1 0 0 0 3 ring7.dat
+0

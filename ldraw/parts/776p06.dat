@@ -1,0 +1,22 @@
+0 Flag on Flagpole Type 1 with Austria Pattern
+0 Name: 776p06.dat
+0 Author: Tore Eriksson
+0 LDRAW_ORG Part UPDATE 2004-01
+0 KEYWORDS classic, h0 scale
+
+0 BFC CERTIFY CW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\776s01.dat
+
+0 REM Decorated surfaces
+
+0 BFC INVERTNEXT
+1 4  0 0 0  1 0 0  0 1 0  0 0 1 s\777s01.dat
+1 4  0 0 -3  1 0 0  0 1 0  0 0 1 s\777s01.dat
+0 BFC INVERTNEXT
+1 15  0 16 0  1 0 0  0 1 0  0 0 1 s\777s01.dat
+1 15  0 16 -3  1 0 0  0 1 0  0 0 1 s\777s01.dat
+0 BFC INVERTNEXT
+1 4  0 32 0  1 0 0  0 1 0  0 0 1 s\777s01.dat
+1 4  0 32 -3  1 0 0  0 1 0  0 0 1 s\777s01.dat
+0

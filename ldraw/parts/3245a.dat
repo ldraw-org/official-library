@@ -1,0 +1,22 @@
+0 Brick  1 x  2 x  2
+0 Name: 3245a.dat
+0 Author: Steffen <muchelchupser@web.de>
+0 LDRAW_ORG Part UPDATE 2004-01
+
+0 KEYWORDS Train
+0 BFC CERTIFY CCW
+
+0 // based on 3245b.dat by Steve Bliss
+
+
+1 16 0 48 0 20 0 0 0 -48 0 0 0 10 box5.dat
+1 16 0 4 0 1 0 0 0 -11 0 0 0 1 stud3.dat
+0 BFC INVERTNEXT
+1 16 0 48 0 16 0 0 0 -44 0 0 0 6 box5.dat
+4 16 16 48 -6 20 48 -10 -20 48 -10 -16 48 -6
+4 16 16 48 6 20 48 10 20 48 -10 16 48 -6
+4 16 -16 48 6 -20 48 10 20 48 10 16 48 6
+4 16 -16 48 -6 -20 48 -10 -20 48 10 -16 48 6
+1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+0

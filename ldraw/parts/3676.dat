@@ -2,14 +2,13 @@
 0 Name: 3676.dat
 0 Author: James Jessiman
 0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2003-03
+0 LDRAW_ORG Part UPDATE 2004-01
 
 0 BFC CERTIFY CCW
 
 0 // 2003-06-08 JHR BFC compliant
 
 0 BFC INVERTNEXT
-
 1 16 0 24 0 6 0 0 0 -20 0 0 0 6 box5.dat
 4 16 10 24 10 6 24 6 -6 24 6 -10 24 10
 4 16 -10 24 10 -6 24 6 -6 24 -6 -10 24 -10

@@ -1,0 +1,159 @@
+LDraw.org Parts Update 2004-01
+---------------------------------------------------------------------------
+
+Notes created Tue Mar  2 00:41:16 2004 by the Parts Tracker.
+
+Release statistics:
+   Total files: 166
+   New files: 94
+   New parts: 61
+   New subparts: 24
+   New primitives: 9
+
+New 3-digit part numbers assigned:
+   342.dat ~Technic Flex-System Cable End
+   343.dat ~Technic Flex-System Cable Segment
+   480.dat Hinge Arm Locking with Single and Dual Fingers
+   481.dat Hinge Arm Locking with Single Finger and Axle Hole
+   482.dat Hinge Arm Locking with Dual Finger and Axle Hole
+   483.dat Hinge Arm Locking with single Finger and Peg
+   757.dat ~Hose Flexible 12L Top  1 x  1 x  2/3 with Stud
+   758.dat ~Hose Flexible 12L Segment
+   759.dat ~Hose Flexible 12L End Segment
+   760.dat ~Hose Flexible 12L Base  1 x  1 x   2/3
+   769.dat Minifig Helmet Visor Space
+   776.dat Flag on Flagpole Type 1
+   819.dat Baseplate  8 x 12
+
+Moved Parts
+   30389.DAT     ~Moved to 30389a
+   3942.DAT      ~Moved to 3942b
+   4285.DAT      ~Moved to 4285b
+
+Renamed Parts
+   1-4CCYLI.DAT  Cylinder Tube 0.25
+   changed to    ~Cylinder Tube 0.25 (deprecated; use t04q4000.dat)
+
+   1-4RIN10.DAT  Ring 10:11 Radius 1/4
+   changed to    Ring 10 x 0.25
+
+   1-8DISC.DAT   6-48 Hi-Res Disc
+   changed to    Hi-Res Disc 0.125
+
+   2446.DAT      Minifig Helmet
+   changed to    Minifig Helmet Modern
+
+   30031.DAT     Space Handlebars
+   changed to    Minifig Handlebars
+
+   30365.DAT     Hinge Brick  1 x  2 Locking with 2 Fingers on End
+   changed to    Hinge Brick  1 x  2 Locking with Dual Finger On End
+
+   30386.DAT     Hinge Brick  1 x  2 Locking with Single and Dual Fingers on Ends
+   changed to    Hinge Brick  1 x  2 Locking Double
+
+   30388.DAT     Hinge Brick  1 x  6 Locking with Single and Dual Fingers on Ends
+   changed to    Hinge Brick  1 x  6 Locking Double
+
+   3040P01.DAT   Slope Brick 45  2 x  1 with 3 Buttons, 3 Red Lamps/Yellow Panel
+   changed to    Slope Brick 45  2 x  1 with 3 Buttons 3 Lamps on Yellow Pattern
+
+   3065.DAT      Brick  1 x  2 without Centre Studs
+   changed to    Brick  1 x  2 without Centre Stud
+
+   3585.DAT      Wing  7 x 12 Left
+   changed to    Wing  7 x 12 Right
+
+   3586.DAT      Wing  7 x 12 Right
+   changed to    Wing  7 x 12 Left
+
+   3847.DAT      Castle Sword
+   changed to    Minifig Sword Shortsword
+
+   3957.DAT      Antenna  4L
+   changed to    Antenna  4H
+
+   3959.DAT      Space Gun
+   changed to    Minifig Torch
+
+   4318.DAT      Hinge Boat Mast with 3 Fingers On Both Sides (needs work)
+   changed to    Boat Mast Hinged with 2 Fingers on Both Sides
+
+   44302.DAT     Hinge Plate  1 x  2 Locking with Dual Fingers on End Vertical
+   changed to    Hinge Plate  1 x  2 Locking with Dual Finger on End Vertical
+
+   6124.DAT      Castle Magic Wand                
+   changed to    Minifig Magic Wand
+
+   777P01.DAT    Flag on Flagpole Old with German Pattern
+   changed to    Flag on Flagpole Type 2 with Germany Pattern
+
+   777P02.DAT    Flag on Flagpole Old with Swedish Pattern
+   changed to    Flag on Flagpole Type 2 with Sweden Pattern
+
+   777P03.DAT    Flag on Flagpole Old with Danish Pattern
+   changed to    Flag on Flagpole Type 2 with Denmark Pattern
+
+   777P04.DAT    Flag on Flagpole Old with Finnish Pattern
+   changed to    Flag on Flagpole Type 2 with Finland Pattern
+
+   777P06.DAT    Flag on Flagpole Old with Austrian Pattern
+   changed to    Flag on Flagpole Type 2 with Austria Pattern
+
+   777P07.DAT    Flag on Flagpole Old with Dutch Pattern
+   changed to    Flag on Flagpole Type 2 with The Netherlands Pattern
+
+   777P08.DAT    Flag on Flagpole Old with Italian Pattern
+   changed to    Flag on Flagpole Type 2 with Italy Pattern
+
+   777P09.DAT    Flag on Flagpole Old with Belgian Pattern
+   changed to    Flag on Flagpole Type 2 with Belgium Pattern
+
+   777P11.DAT    Flag on Flagpole Old with United Kingdom Pattern
+   changed to    Flag on Flagpole Type 2 with United Kingdom Pattern
+
+   777S01.DAT    ~Subpart Stripe 1/3 from Flag Pattern
+   changed to    ~Flag on Flagpole - 1/3 Horizontal Stripe
+
+Other Fixed Parts
+   CLH4.DAT      Click Lock Hinge Half Dual Finger
+   15.DAT        Minifig Legs Old
+   2341.DAT      Slope Brick 45  3 x  1 Inverted Double
+   2362.DAT      Panel  1 x  2 x  3
+   2447.DAT      Minifig Helmet Visor
+   2456.DAT      Brick  2 x  6
+   2465.DAT      Brick  1 x 16
+   30000.DAT     Brick  2 x  2 with Pins and Axlehole
+   30076.DAT     Brick  4 x 10 with Wheel Holders
+   30090.DAT     Minifig Diver Mask
+   30387.DAT     Hinge Brick  1 x  4 Locking Double
+   30387P01.DAT  Hinge Brick  1 x  4 Locking Double with Black Stripes Pattern
+   30387P02.DAT  Hinge Brick  1 x  4 Locking Double with Red Stripes Pattern
+   3040.DAT      Slope Brick 45  2 x  1
+   3040P32.DAT   Slope Brick 45  2 x  1 with 9 + 3 Black Buttons Pattern
+   3040P33.DAT   Slope Brick 45  2 x  1 with 9 + 3 White Buttons Pattern
+   3043.DAT      Slope Brick 45  2 x  2 Double
+   30540.DAT     Hinge Brick  1 x  2 Locking with Dual Finger on End Horizontal
+   3185.DAT      Fence  1 x  4 x  2
+   3188.DAT      Door  1 x  3 x  2 Right
+   3189.DAT      Door  1 x  3 x  2 Left
+   3315.DAT      Hinge Plate  2 x  4 with Digger Bucket Holder
+   3676.DAT      Slope Brick 45  2 x  2 Inverted Double Convex
+   3788.DAT      Car Mudguard  2 x  4
+   3856.DAT      Window  1 x  2 x  3 Shutter
+   3937.DAT      Hinge  1 x  2 Base
+   3939.DAT      Slope Brick 33  3 x  6
+   3956.DAT      Bracket  2 x  2 -  2 x  2
+   4079.DAT      Minifig Seat  2 x  2
+   4081B.DAT     Plate  1 x  1 with Clip Light - Type 2
+   4346.DAT      Container Box  2 x  2 x  2 Door with Slot
+   4858.DAT      Wedge  4 x  4
+   6019.DAT      Plate  1 x  1 with Clip Horizontal
+   6087.DAT      Bracket  5 x  2 x  2 & 1/3
+   6091.DAT      Brick  2 x  1 with Curved Top
+   6111.DAT      Brick  1 x 10
+   6112.DAT      Brick  1 x 12
+   6182.DAT      Arch  1 x  4 x  2
+   6215.DAT      Brick  2 x  3 with Curved Top
+   6232.DAT      Brick  2 x  2 with Pin and Axlehole
+   3070BS01.DAT  ~Tile  1 x  1 with Groove without Top Face

@@ -1,0 +1,9 @@
+0 Circle 0.1875
+0 Name: 3-16edge.dat
+0 Author: Donald Sutter
+0 LDRAW_ORG Primitive UPDATE 2004-01
+
+2 24 1 0 0 0.9239 0 0.3827
+2 24 0.9239 0 0.3827 0.7071 0 0.7071
+2 24 0.7071 0 0.7071 0.3827 0 0.9239
+0

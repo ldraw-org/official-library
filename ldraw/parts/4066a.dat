@@ -1,0 +1,12 @@
+0 Duplo Brick  1 x  2 x  2 Type 1
+0 Name: 4066a.dat
+0 Author: Tony Hafner
+0 LDRAW_ORG Part UPDATE 2004-01
+
+0 BFC CERTIFY CW
+
+0 Part without a face
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066as01.dat
+0 Front face
+4 16 40 96 -20 -40 96 -20 -40 0 -20 40 0 -20
+0

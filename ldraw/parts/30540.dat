@@ -1,16 +1,17 @@
 0 Hinge Brick  1 x  2 Locking with Dual Finger on End Horizontal
 0 Name: 30540.dat
 0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2003-03
+0 LDRAW_ORG Part UPDATE 2004-01
 
 0 BFC CERTIFY CW
 
 0 // 2003-04-30 DS, BFC'd and switch to primitives
+0 // 2004-01-26 CWD Modified for corrected clh4
 
 
 1 16 26 10 0 0 0 1 -1 0 0 0 1 0 clh4.dat
-1 16 20 3.5 0 0 6 0 2.5 0 0 0 0 6 box4o4a.dat
+1 16 20 3.75 0 0 6 0 2.25 0 0 0 0 6 box4o4a.dat
 1 16 26 10 0 0 0 1 1 0 0 0 1 0 clh4.dat
-1 16 20 16.5 0 0 6 0 2.5 0 0 0 0 6 box4o4a.dat
+1 16 20 16.25 0 0 6 0 2.25 0 0 0 0 6 box4o4a.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3004.DAT
 0
