@@ -1,7 +1,11 @@
-0 Hinge Train Cantenary Holder
-0 Name: 2881.dat
+0 Hinge Rod  2.5L with 2 and 3 Fingers on Ends
+0 Name: 2880.dat
 0 Author: James Jessiman
-0 Official LCad update 99-01
+0 Original LDraw Part
+0 LDRAW_ORG Part UPDATE 2002-01
+
+0 KEYWORDS train cantenary holder, robot finger, claw
+0 KEYWORDS pantograph, arm, bar
 
  2 24 10 4 -20 -10 4 -20
  2 24 -10 4 -20 -10 -4 -20

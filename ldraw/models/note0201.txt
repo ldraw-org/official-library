@@ -1,0 +1,85 @@
+LDraw.org Parts Update 2002-01
+---------------------------------------------------------------------------
+
+Notes created Mon Feb 18 18:26:29 2002 by the Parts Tracker.
+Corrected and enhanced Mon Feb 18 19:56:00 2002 by Steve Bliss.
+
+Release statistics:
+   Total files:  83
+
+   New files:    36;  parts: 30; subparts: 6
+   Moved files:  14;  parts: 14
+   Name changes: 13;  parts: 13
+   Other fixes:  20;  parts: 18; subparts: 2
+
+New 3-digit part numbers assigned:
+   471.dat Minifig Feathers with Clip
+   472.dat Minifig Feathers with Pin
+
+Moved Parts:
+   2412.DAT      ~Moved to 2412a
+   2431P52.DAT   ~Moved to 2431bp52
+   2431P79.DAT   ~Moved to 2431bp79
+   3069P05.DAT   ~Moved to 3069bp05
+   3069P06.DAT   ~Moved to 3069bp06
+   3069P07.DAT   ~Moved to 3069bp07
+   3069P09.DAT   ~Moved to 3069bp09
+   3069P101.DAT  ~Moved to 3069ps1
+   3069P21.DAT   ~Moved to 3069bp21
+   3069P68.DAT   ~Moved to 3069bp68
+   3070DISP.DAT  ~Moved to 3070bpc2
+   3070P06.DAT   ~Moved to 3070bp06
+   6069P101.DAT  ~Moved to 6069ps1
+   788.DAT       ~Moved to 4323
+
+Renamed Parts:
+   2412A.DAT     Tile  1 x  2 Grille
+   changed to    Tile  1 x  2 Grille without Groove
+
+   2431BP52.DAT  Tile  1 x  4 with Danger Stripes Black Pattern
+   changed to    Tile  1 x  4 with Groove and Danger Stripes Black Pattern
+
+   2431BP79.DAT  Tile  1 x  4 with 5 Red Stripes Pattern
+   changed to    Tile  1 x  4 with Groove and 5 Red Stripes Pattern
+
+   2880.DAT      Hinge Train Cantenary Holder
+   changed to    Hinge Rod  2.5L with 2 and 3 Fingers on Ends
+
+   2881.DAT      Hinge Train Cantenary
+   changed to    Hinge Train Pantograph Shoe
+
+   3010P20B.DAT  Brick  1 x  4 with Town Car Black Grille
+   changed to    Brick  1 x  4 with Town Car Grille Black 
+
+   3010P20W.DAT  Brick  1 x  4 with Town Car White Grille
+   changed to    Brick  1 x  4 with Town Car Grille White 
+
+   3039P23.DAT   Slope Brick 45  2 x  2 with computer screen front
+   changed to    Slope Brick 45  2 x  2 with Computer Screen Pattern
+
+   3069BP05.DAT  Tile  1 x  2 with Black Grille Pattern
+   changed to    Tile  1 x  2 with Groove and Black Grille Pattern               
+
+   3069BPS1.DAT  Tile  1 x  2 w/ SW Computer Pattern
+   changed to    Tile  1 x  2 with SW Computer Pattern                           
+
+   4511.DAT      Train Door Sliding - Type 1
+   changed to    Door  6 & 1/2 x  5 Sliding with Vertical Lines
+
+   6069PS1.DAT   Wedge  4 x  4 Triple w/ SW X-wing Nose Pattern
+   changed to    Wedge  4 x  4 Triple with SW X-wing Nose Pattern                  
+
+   6588.DAT      Technic Gearbox  2 x  4 x  7
+   changed to    Technic Gearbox  2 x  4 x  3 & 1/3
+
+Other Fixed Parts:
+   194.DAT       Minifig Tool Hose Nozzle with Handle
+   2408.DAT      Panel 10 x  6 x 11
+   2408P01.DAT   Panel 10 x  6 x 11 with Blacktron II Logo Pattern
+   30136.DAT     Brick  1 x  2 Log
+   30324.DAT     Wheel Hard with Treads
+   3046.DAT      Slope Brick 45  2 x  2 Double Concave
+   3660P01.DAT   Slope Brick 45  2 x  2 Inverted with Computer Screen Pattern
+   4858.DAT      Wedge  4 x  4
+   6157.DAT      Plate  2 x  2 with Wheels Holder Wide
+   973P51.DAT    Minifig Torso with Blacktron II Pattern

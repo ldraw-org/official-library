@@ -1,0 +1,12 @@
+0 Round Dish  4 x  4
+0 Name: 30065.dat
+0 Author: Steve Bliss
+0 LDRAW_ORG Cross-reference UPDATE 2002-01
+
+0 Part 30065 is the counterpart of 3960.  Visually, the two parts seem
+0 identical.  This file is provided to make it easier to locate part files
+0 when using the numbers imprinted on the actual parts.
+0 3960 is used for molding opaque parts, 30065 for transparent parts.
+
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3960.dat
+0
