@@ -1,7 +1,7 @@
-0 Slope Brick 45  2 x  2 with 12 Buttons and 3 Red Lamps, Black Panel
-0 name 3039p32.dat
-0 Created by Tore Eriksson
-0 Official LCad update 97-01
+0 Slope Brick 45  2 x  2 with 12 Buttons, 3 Red Lamps/Black Panel
+0 Name: 3039p32.dat
+0 Author: Tore Eriksson
+0 Official LCad update 98-08
 
 4 16 -18 2.8572 -12.8572 -14 2.8572 -12.8572 -14 5.7144 -15.7144 -18 5.7144 -15.7144
 4 16 -10 2.8572 -12.8572 -6 2.8572 -12.8572 -6 5.7144 -15.7144 -10 5.7144 -15.7144
@@ -103,4 +103,3 @@
  4 16 16 20 -26 16 4 -10 -16 4 -10 -16 20 -26 
  1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
  1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-0 /3039-4t Slope Brick 45  2 x  2 without sloped front

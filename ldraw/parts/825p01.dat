@@ -1,7 +1,7 @@
-0 Door  1 x  3 x  4 Left with Window and Red Cross Pattern, Lower Section
+0 Door  1 x  3 x  4 Left with Window and Red Cross Pattern, Lower
 0 Name: 825p01.dat
 0 Author: Arne Hackstein
-0 Official LCad update 98-03
+0 Official LCad update 98-08
 
  1 16 0 96 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
  2 24 6 96 10 6 96 50
@@ -74,4 +74,3 @@
  4 47 6 0 10 6 0 50 10 0 50 10 0 10
 
  1 47 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-
