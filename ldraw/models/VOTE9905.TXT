@@ -1,0 +1,146 @@
+Voting Results - L-Cad dat vote 9905
+13 vote-sheets tallied - some were partial/incomplete 
+
+-Pieces marked with an * by the number had some sort of 
+ modification to name and/or description. Details below.
+ All parts starting with an X that did not get new
+ correct numbers had the X dropped.
+ Pieces marked with an "H" are being held pending problem
+ resolution.
+
+Yes No Abstain Name     Description
+--  --  --  -------   --------------------------------
+08  00  04   30082     Arm Towball With Grab
+08  00  05   309p01    Baseplate 32 x 32 Service Station with Pattern
+11  00  02   550       Brick  1 x  2 x  2
+12  00  01   6222      Brick  4 x  4 Round with Holes
+09  00  04   6233      Cone  3 x  3 x  2
+08  00  05   2982c01   Electric Light Sensor (Complete Assembly Shortcut)
+07  00  06   2982      Electric Light Sensor Bottom
+07  00  06   881       Electric Light Sensor Glass
+07  00  06   880       Electric Light Sensor Top
+12  00  01   30364     Hinge Brick  1 x  2 Locking with 1 Finger
+12  00  01   989       Hinge Brick  1 x  2 Locking with 1 Finger On Top
+12  00  01   30365     Hinge Brick  1 x  2 Locking with 2 Fingers
+12  00  01   4491a     Minifig Saddle with One Clip
+12  00  01   4491b     Minifig Saddle with Two Clips
+12  00  01   3841      Minifig Tool Pickaxe 
+11  01  01   973p49    Minifig Torso with Forestman Blue Collar Pattern
+10  02  01   973p48    Minifig Torso with Forestman Maroon Collar Pattern
+11  00  02   973p20    Minifig Torso with Waiter Pattern
+10  00  03   30357     Plate  3 x  3 Corner Round
+11  00  01   30359     Space Star Wars Cannon
+11  00  02   4265c     Technic Bush 1/2 Smooth
+11  00  02   4265b     Technic Bush 1/2 Type II
+11  00  02   32039     Technic Connector with Axlehole
+12  00  01   2852      Technic Engine Connecting Rod
+11  00  01   2853      Technic Engine Crankshaft
+10  00  02   50        Technic Friction Peg with Towball
+10  00  02   32054     Technic Pin Long with Stop Bush
+11  00  01   2431p79   Tile  1 x  4 with 5 Red Stripes Pattern
+11  00  01   30372     Windscreen  4 x  7 x  1 2/3
+09  01  01   30384     Windscreen  4 x  7 x  2 Round
+10  00  02   30355     Wing  6 x 12 Left
+10  00  01   30356     Wing  6 x 12 Right
+
+_New Subparts added to the \S directory in this update:
+ 973p48a   ~Subpart Minifig Torso with Forestman Collar Pattern - Collar
+ SWH1      ~Subpart One - Hinge Brick  1 x  2 Locking 
+ SWH2      ~Subpart Two - Hinge Brick  1 x  2 Locking 
+ SWH3      ~Subpart Three - Hinge Brick  1 x  2 Locking 
+ SWH4      ~Subpart Windscreen  4 x  7 x  1 2/3
+
+_New Primitives:
+  1-4con1.dat 
+  1-4rin10.dat
+  1-4ring3.dat
+  stud2.dat 
+  stud2a.dat 
+  stud4.dat 
+  stud4a.dat 
+  1-4con10.dat
+  1-4con2.dat 
+  axlehol6.dat 
+  axlehol7.dat 
+ Note also that an "enhanced" primitive type has been adopted
+ by the primitives committee. These primitives will have a
+ higher resolution than their normal counterparts. These new 
+ primitive files will be placed in the subdirectory ldraw\p\48:
+  1-4cyli.dat
+  1-4disc.dat
+  1-4edge.dat
+
+_"X" numbers kept as is, with the X dropped:
+  50        Technic Friction Peg with Towball
+  550       Brick  1 x  2 x  2
+  880       Electric Light Sensor Top
+  881       Electric Light Sensor Glass
+  989       Hinge Brick  1 x  2 Locking with 1 Finger On Top
+
+_Description changes to new pieces:
+  30359  Bar  1 x  8 with Brick 1  x  2 Curved Top End
+  30082  Arm Piece with Towball and Clip
+
+_Number changes to new pieces:
+  No changes except for dropping the "X" on the 'unknown' pieces.
+
+_Pieces put on "HOLD" pending problem resolution.
+   The composite of the shock, 2909c01.dat, passed in vote 9904.
+   But the final determination of how to implement this piece has not
+   been decided. When figured out, this piece will be released.
+   UPDATE:  The method has been pretty much finalized, we just
+            need to get the proper spring parts made.   
+
+_Pieces added with minor pattern color change:
+ (minor variations not requiring a vote)
+  973p50  Minifig Torso with Forestman Black Collar Pattern 
+  4444p04 Castle Wall  2 x  5 x  6 w/ Light Gray Window Stones Pattern
+  4444p05 Castle Wall  2 x  5 x  6 w/ Light Gray Scattered Stones Pattern
+
+_New pieces added in _underscore categories:
+  80602 _Baseplate 32 x 32 Service Station with Pattern
+
+-------------------------------------------------------------------- 
+Summary of changes to existing parts:
+_~Moved To files:
+  571 ~Moved to 6629
+      Technic Liftarm  1 x  9 Bent
+
+  4265 ~Moved to 4265b
+      Technic Bush 1/2 Type II (in new vote)
+      (Original 4265 renamed to 4265a)  
+
+_Category changes:
+  NONE! (didn't feel like it!)
+
+_Description changes to existing pieces:
+  4444p01 added 'Dark Gray' to describe stone color
+  4444p02 added 'Dark Gray' to describe stone color
+
+_Modifications to the 0 CATEGORY statement line:
+
+  2680     0 CATEGORY Support
+  2681     0 CATEGORY Support
+  6246A    0 CATEGORY Minifig Accessory
+  6246B    0 CATEGORY Minifig Accessory
+  6246C    0 CATEGORY Minifig Accessory
+  6246D    0 CATEGORY Minifig Accessory
+  6246E    0 CATEGORY Minifig Accessory
+  30140    0 CATEGORY Panel
+  30159    0 CATEGORY Magnet
+  30161    0 CATEGORY Windscreen
+  30183    0 CATEGORY Slope
+  577      0 CATEGORY Minifig Accessory
+  6267     0 CATEGORY Windscreen
+  70501A   0 CATEGORY Minifig Accessory
+  70501B   0 CATEGORY Minifig Accessory
+  70501C   0 CATEGORY Minifig Accessory
+  70501D   0 CATEGORY Minifig Accessory
+  73590B   0 CATEGORY Hose
+  750      0 CATEGORY Hose
+  751      0 CATEGORY Hose
+  752      0 CATEGORY Hose
+  755      0 CATEGORY Hose
+
+
+-- fini --
