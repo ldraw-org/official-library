@@ -1,0 +1,10 @@
+0 ~Roadsign Clip-on  2 x  2 Square without Front Face
+0 Name: s\470s01.dat
+0 Author: Franklin W. Cain (fwcain@yahoo.com)
+0 LDRAW_ORG Subpart UPDATE 2003-03
+
+
+
+ 1 16 0 0 -9 20 0 0 0 0 20 0 3 0 box5.dat
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 clip4.dat
+0

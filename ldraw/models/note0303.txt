@@ -1,0 +1,289 @@
+LDraw.org Parts Update 2003-03
+---------------------------------------------------------------------------
+
+Notes created Sun Dec 14 21:07:48 2003 by the Parts Tracker.
+
+*** WARNING *** WARNING *** WARNING *** WANRING *** WARNING ***
+Whilst every effort is made to maintain backward compatibility
+of the LDraw parts library, there is one change in this parts 
+release that could have a detrimental effect on existing models. 
+If you do not update your own model files they will not render 
+as they did prior to this update. 
+
+The 9V Train wheel holder (2878.dat) was previously released
+with the wheelset included. This was an error due to lack of 
+clarity on how to handle composite parts.
+
+The 2878.dat part in this update does NOT include the wheelset, 
+but a new composite part 2878c01.dat is included. This DOES 
+include the wheelset. The wheels are hardcoded in black allowing
+easy modelling of the light grey wheel holders with black wheels.
+
+To preserve the previous functionality you must replace any uses
+of 2878.dat in you own models with 2878c01.dat.
+
+Please accept the apologies of the LDraw team for this 
+inconvenience.
+=========================================================================== 
+
+Release statistics:
+   Total files: 314
+   New files: 151
+   New parts: 111
+   New subparts: 23
+   New primitives: 16
+   New hi-res primitives: 1
+
+New 3-digit part numbers assigned:
+   208.dat ~Minifig Chain Link End (Open File for Usage Guide)
+   209.dat ~Minifig Chain Link (Open File for Usage Guide)
+   229.dat Plate  1 x  1 Round with Tabs
+   286.dat ~Minifig Suitcase Joiner Tab
+   287.dat ~Minifig Suitcase Male Half
+   288.dat ~Minifig Suitcase Female Half
+   455.dat Baseplate 16 x 24 with Rounded Corners
+   469.dat Roadsign Clip-on  2 x  2 Round
+   470.dat Roadsign Clip-on  2 x  2 Square
+   736.dat Train Base  6 x 16 Type 1
+   989.dat Hinge Brick  1 x  2 Locking with Single Finger On Top
+
+Moved Parts
+   174.DAT       ~Moved to 4081b
+   3069P01.DAT   ~Moved to 3069bp01
+   3070.DAT      ~Moved to 3070a
+   3846P43.DAT   ~Moved to 3846p45, 3846p46
+   973P15.DAT    ~Moved to 973p1d, 973p1e
+   2431BS01.DAT  ~Moved to s\2431s01
+
+Renamed Parts
+   1-4CON2.DAT   1-4 Cone 2:3
+   changed to    Cone  2 x 0.25
+
+   1-4RING3.DAT  12-48 Hi-Res Ring  3
+   changed to    Hi-Res Ring  3 x 0.25
+
+   2375.DAT      Hinge Rod with Split Rod Holder 12L
+   changed to    Hinge Bar 12 with Split Rod Holder
+
+   2434.DAT      Brick  2 x  4 x  2 with Stud on Sides
+   changed to    Brick  2 x  4 x  2 with Studs on Sides
+
+   2473.DAT      Brush Car Wash
+   changed to    Car Wash Brush
+
+   2686C01.DAT   Monorail Wheel Complete Assembly
+   changed to    Monorail Wheel Chassis Assembly (Complete)
+
+   2878.DAT      Train Wheels 2
+   changed to    Train Wheel Holder  9V
+
+   2879.DAT      Train Wheel
+   changed to    Train Wheel  9V
+
+   2880.DAT      Hinge Rod  2.5L with 2 and 3 Fingers on Ends
+   changed to    Hinge Bar  2 & 1/2 with 2 and 3 Fingers on Ends
+
+   30055.DAT     Fence spindled  1 x  4 x  2
+   changed to    Fence Spindled  1 x  4 x  2
+
+   3009P01.DAT   Brick  1 x  6 with Carfront Black
+   changed to    Brick  1 x  6 with Town Car Grille Black Pattern
+
+   3010P918.DAT  Brick  1 x  4 with "LL918" Pattern (needs work)
+   changed to    Brick  1 x  4 with "LL918" Pattern
+
+   3010P924.DAT  Brick  1 x  4 with "LL924" Pattern (needs work)
+   changed to    Brick  1 x  4 with "LL924" Pattern
+
+   3010P928.DAT  Brick  1 x  4 with "LL928" Pattern (needs work)
+   changed to    Brick  1 x  4 with "LL928" Pattern
+
+   30161.DAT     Windscreen  1 x  4 x  1.3 with Bottom Hinge
+   changed to    Windscreen  1 x  4 x  1.3 Bottom Hinge
+
+   30383.DAT     Hinge Plate  1 x  2 Locking w/ 1 Finger On Top
+   changed to    Hinge Plate  1 x  2 Locking with Single Finger On Top
+
+   30386.DAT     Hinge Brick  1 x  2 Locking Double
+   changed to    Hinge Brick  1 x  2 Locking with Single and Dual Fingers on Ends
+
+   30388.DAT     Hinge Brick  1 x  6 Locking Double
+   changed to    Hinge Brick  1 x  6 Locking with Single and Dual Fingers on Ends
+
+   30414.DAT     Brick  1 x  4  With Studs on Side
+   changed to    Brick  1 x  4 with Studs on Side
+
+   30540.DAT     Hinge Brick  1 x  2 Locking with 2 Fingers on End Horizontal
+   changed to    Hinge Brick  1 x  2 Locking with Dual Finger on End Horizontal
+
+   3062B.DAT     Brick  1 x  1 Round
+   changed to    Brick  1 x  1 Round with Hollow Stud
+
+   3069BP05.DAT  Tile  1 x  2 with Groove and Black Grille Pattern
+   changed to    Tile  1 x  2 with Black Grille Pattern
+
+   3404.DAT      Turntable  4 x  4 Top
+   changed to    ~Turntable  4 x  4 Top
+
+   3626A.DAT     Minifig Head - Stud Solid
+   changed to    Minifig Head with Solid Stud
+
+   3841.DAT      Minifig Tool Pickaxe
+   changed to    Minifig Pickaxe
+
+   3849.DAT      Castle Lance
+   changed to    Minifig Lance
+
+   3957.DAT      Antenna
+   changed to    Antenna  4L
+
+   4729.DAT      Brick  2 x  2 no Studs with Pin
+   changed to    Brick  2 x  2 no Studs with Pin Vertical
+
+   4740.DAT      Space Radar Dish  2 x  2
+   changed to    Dish  2 x  2
+
+   6177.DAT      Plate  8 x  8 Round
+   changed to    Tile  8 x  8 Round with  2 x  2 Center Studs
+
+   6205.DAT      Tile  6 x 16 with Studs on Edges
+   changed to    Tile  6 x 16 with Studs on 3 Edges
+
+   989.DAT       Hinge Brick  1 x  2 Locking with 1 Finger On Top
+   changed to    Hinge Brick  1 x  2 Locking with Single Finger On Top
+
+   2335S01.DAT   ~Subpart Flag  2 x  2
+   changed to    ~Flag  2 x  2 without Main Faces
+
+   3039S01.DAT   ~Subpart Slope Brick 45  2 x  2 w/o Front Face
+   changed to    ~Slope Brick 45  2 x  2 without Front Face
+
+   3626BS01.DAT  Minifig Head (Hollow Stud) without Face Area
+   changed to    ~Minifig Head - Stud Hollow without Face Area
+
+   3822S01.DAT   ~Door  1 x  3 x  1 Left Without Front Face
+   changed to    ~Door  1 x  3 x  1 Left without Front Face and Stud
+
+   972S01.DAT    Minifig Leg Left - No Front Surfaces
+   changed to    ~Minifig Leg Left without Front Surfaces
+
+Other Fixed Parts - mostly change for BFC compliance
+   ARM2.DAT      Hinge Arm 3 Finger
+   CLIP3.DAT     Clip 3
+   1.DAT         Container Bookcase  2 x  4 x  4
+   167.DAT       Bar  1 x  3
+   2.DAT         Container Drawers  4 x  4 x  4
+   20.DAT        ~Wheel Centre Small for Steel Axle
+   21.DAT        Windscreen  2 x  4 x  1 & 2/3
+   2341.DAT      Slope Brick 45  3 x  1 Inverted Double
+   2357.DAT      Brick  2 x  2 Corner
+   2399.DAT      Wedge  3 x  4
+   2408P04.DAT   Panel 10 x  6 x 11 with Futuron Stripes Pattern
+   2412A.DAT     Tile  1 x  2 Grille without Groove
+   2419.DAT      Plate  3 x  6 without Corners
+   2420.DAT      Plate  2 x  2 Corner
+   2429.DAT      Hinge Plate  1 x  4 Base
+   2430.DAT      Hinge Plate  1 x  4 Top
+   2436.DAT      Bracket  1 x  2 -  1 x  4
+   2437.DAT      Windscreen  3 x  4 x  1 & 1/3
+   2444.DAT      Plate  2 x  2 with Hole
+   2445.DAT      Plate  2 x 12
+   2450.DAT      Plate  3 x  3 without Corner
+   2454.DAT      Brick  1 x  2 x  5
+   2458.DAT      Brick  1 x  2 with Pin
+   2476.DAT      Plate  2 x  2 with Pin
+   2494.DAT      Glass for Window  1 x  4 x  5
+   2540.DAT      Plate  1 x  2 with Handle
+   2554.DAT      Door  1 x  3 x  6 with 1/4 Circle Top
+   2555.DAT      Tile  1 x  1 with Clip
+   2560.DAT      Boat Base  8 x 16
+   2566.DAT      Plant Tree Palm Top
+   2619.DAT      Monorail Motor Box
+   2625.DAT      Boat Bow Plate  6 x  7
+   2817.DAT      Plate  2 x  2 with Holes
+   2837.DAT      ~Electric Technic Motor  9V Shaft
+   2877.DAT      Brick  1 x  2 with Grille
+   2921.DAT      Brick  1 x  1 with Handle
+   3002.DAT      Brick  2 x  3
+   3003PE1.DAT   Brick  2 x  2 with Black Eye Pattern on Both Sides
+   3004P01.DAT   Brick  1 x  2 with Yellow Left Arrow and Black Border Pattern
+   3004P02.DAT   Brick  1 x  2 with Yellow Right Arrow and Black Border Pattern
+   3004P03.DAT   Brick  1 x  2 with Yellow Down Arrow and Black Border Pattern
+   3004P04.DAT   Brick  1 x  2 with Yellow Up Arrow and Black Border Pattern
+   3004P05.DAT   Brick  1 x  2 with Yellow Grille Pattern
+   3004P12.DAT   Brick  1 x  2 with White Grille Pattern
+   3004P20.DAT   Brick  1 x  2 with White Down Arrow Pattern
+   3004P51.DAT   Brick  1 x  2 with Three-Spot Face
+   30062.DAT     Plate  6 x  6 Octagonal Open Center
+   3009.DAT      Brick  1 x  6
+   3010P08.DAT   Brick  1 x  4 with Basic Car Headlights Pattern
+   3033.DAT      Plate  6 x 10
+   3034.DAT      Plate  2 x  8
+   3038.DAT      Slope Brick 45  2 x  3
+   3039.DAT      Slope Brick 45  2 x  2
+   3039P05.DAT   Slope Brick 45  2 x  2 with Black Grille Pattern
+   3039P10.DAT   Slope Brick 45  2 x  2 with Yellow Grille Pattern
+   3041.DAT      Slope Brick 45  2 x  4 Double
+   3048.DAT      Slope Brick 45  1 x  2 Triple
+   3049.DAT      Slope Brick 45  1 x  2 Double / Inverted
+   3062A.DAT     Brick  1 x  1 Round with Solid Stud
+   3069BP06.DAT  Tile  1 x  2 with Long Yellow Arrow with Black Border Pattern
+   3069BP07.DAT  Tile  1 x  2 with Long Red Arrow with White Border Pattern
+   3069BP09.DAT  Tile  1 x  2 with Danger Stripes Pattern
+   3069BP13.DAT  Tile  1 x  2 with Short Yellow Arrow with Black Border Pattern
+   3069BP21.DAT  Tile  1 x  2 with Short Yellow Arrow Pattern
+   32000.DAT     Technic Brick  1 x  2 with Holes
+   32018.DAT     Technic Brick  1 x 14 with Holes
+   32028.DAT     Plate  1 x  2 with Door Rail
+   32064.DAT     Technic Brick  1 x  2 with Axlehole
+   3307.DAT      Arch  1 x  6 x  2
+   3456.DAT      Plate  6 x 14
+   3464.DAT      Wheel Centre with Stub Axles
+   3582.DAT      Window  1 x  2 x  2 Shutter
+   3596.DAT      Flag on Flagpole
+   3612.DAT      Arm Piece Straight with 2 and 3 Fingers
+   3623.DAT      Plate  1 x  3
+   3644.DAT      Door  1 x  4 x  6
+   3676.DAT      Slope Brick 45  2 x  2 Inverted Double Convex
+   3688.DAT      Slope Brick 75  2 x  2 x  2 Quadruple Convex
+   3700.DAT      Technic Brick  1 x  2 with Hole
+   3701.DAT      Technic Brick  1 x  4 with Holes
+   3703.DAT      Technic Brick  1 x 16 with Holes
+   3747.DAT      Slope Brick 33  3 x  2 Inverted
+   3795.DAT      Plate  2 x  6
+   38.DAT        Minifig Harpoon
+   3821.DAT      Door  1 x  3 x  1 Right
+   3822.DAT      Door  1 x  3 x  1 Left
+   3831.DAT      Hinge Brick  1 x  4 Base
+   3832.DAT      Plate  2 x 10
+   3846.DAT      Minifig Shield Triangular
+   3855.DAT      Glass for Window  1 x  4 x  3
+   3867P01.DAT   Baseplate 16 x 16 with Island and Water Pattern
+   3899.DAT      Minifig Cup
+   3937.DAT      Hinge  1 x  2 Base
+   3938.DAT      Hinge  1 x  2 Top
+   4081B.DAT     Plate  1 x  1 with Clip Light - Type 2
+   4095.DAT      Bar  6.6L with Stop
+   4150.DAT      Tile  2 x  2 Round
+   4204.DAT      Brick  8 x 16
+   4229.DAT      Plate  2 x  2 with Jet Engine
+   4274.DAT      Technic Pin 1/2
+   4282.DAT      Plate  2 x 16
+   4477.DAT      Plate  1 x 10
+   4524.DAT      Minifig Cape
+   4528.DAT      Minifig Frypan
+   4529.DAT      Minifig Saucepan
+   4589.DAT      Cone  1 x  1
+   4733.DAT      Brick  1 x  1 with Studs on Sides
+   4861.DAT      Slope Brick 45  3 x  4 Double / 33
+   6019.DAT      Plate  1 x  1 with Clip Horizontal
+   6044.DAT      Slope Brick 53  3 x  1 x  3 & 1/3 with Studs on Slope
+   6100.DAT      Baseplate 32 x 32 with 3 Driveways
+   6182.DAT      Arch  1 x  4 x  2
+   6246D.DAT     Minifig Tool Box Wrench
+   6541.DAT      Technic Brick  1 x  1 with Hole
+   79.DAT        ~Technic Ribbed Hose End Segment 
+   7930.DAT      Door  1 x  3 x  4
+   2431S01.DAT   ~Tile  1 x  4 without Top Face
+   3070BS01.DAT  ~Tile  1 x  1 with Groove without Top Face
+   3846S01.DAT   ~Minifig Shield without Decorated Surface

@@ -1,0 +1,14 @@
+0 Minifig Suitcase Open (Shortcut)
+0 Name: 4449c01.dat
+0 Author: Franklin W. Cain (fwcain@yahoo.com)
+0 LDRAW_ORG Shortcut UPDATE 2003-03
+
+0 CATEGORY Minifig Accessory
+0 KEYWORDS Trains, Town, container, luggage, baggage, suitcase
+0 KEYWORDS briefcase, attache case, valise
+
+ 1 16   0   1   0  1  0  0  0  1  0  0  0  1  286.dat
+ 1 16   0   0  13  1  0  0  0  1  0  0  0  1  287.dat
+ 1 16   0   0 -13 -1  0  0  0  1  0  0  0 -1  288.dat
+
+0 end of file

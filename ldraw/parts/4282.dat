@@ -1,7 +1,13 @@
 0 Plate  2 x 16
 0 Name: 4282.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Original LDraw Part
+0 LDRAW_ORG Part UPDATE 2003-03
+
+0 BFC CERTIFY CCW
+
+0 // 2003-06-08 JHR BFC compliant
+
 
  1 16 140 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
  1 16 120 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -18,10 +24,11 @@
  1 16 -100 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
  1 16 -120 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
  1 16 -140 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
+0 BFC INVERTNEXT
  1 16 0 8 0 156 0 0 0 -4 0 0 0 16 box5.dat
  4 16 160 8 20 156 8 16 -156 8 16 -160 8 20
- 4 16 160 8 -20 156 8 -16 -156 8 -16 -160 8 -20
- 4 16 160 8 20 156 8 16 156 8 -16 160 8 -20
+ 4 16 160 8 -20 -160 8 -20 -156 8 -16 156 8 -16
+ 4 16 160 8 20 160 8 -20 156 8 -16 156 8 16
  4 16 -160 8 20 -156 8 16 -156 8 -16 -160 8 -20
  1 16 0 8 0 160 0 0 0 -8 0 0 0 20 box5.dat
  1 16 150 0 10 1 0 0 0 1 0 0 0 1 stud.dat

@@ -1,46 +1,43 @@
 0 Minifig Cup
-0 Name: 4899.dat
+0 Name: 3899.dat
 0 Author: James Jessiman
 0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2001-01
+0 LDRAW_ORG Part UPDATE 2003-03
 
+0 // Note: One or more STUD references in this file have been purposely
+0 // capitalized to ensure that the stud is fully visible in LEdit.
+
+0 BFC CERTIFY CCW
 0 CATEGORY Minifig Accessory
-0 KEYWORDS town, mug, utensil, cookware
+0 KEYWORDS Town, mug, coffee, cocoa, tea, drink, utensil, cookware
 
- 1 16 0 18 0 1 0 0 0 -1.5 0 0 0 1 stud4.dat
- 1 16 0 18 0 10 0 0 0 0 0 0 0 10 4-4edge.dat
- 1 16 0 16 0 8 0 0 0 0 0 0 0 8 4-4edge.dat
- 1 16 0 4 0 10 0 0 0 0 0 0 0 10 4-4edge.dat
- 1 16 0 0 0 8 0 0 0 0 0 0 0 8 4-4edge.dat
- 1 16 0 0 0 10 0 0 0 0 0 0 0 10 4-4edge.dat
- 1 16 0 18 20 4 0 0 0 0 0 0 0 4 4-4edge.dat
- 1 16 0 4 20 4 0 0 0 0 4 0 0 -4 2-4edge.dat
- 1 16 0 4 10 4 0 0 0 0 4 0 0 0 4-4edge.dat
+0 // 2003-06-08  JHR  BFC compliancy; ring subsitution
+0 // 2003-11-21  AJW  extended handle to meet cup
+0 // 2003-11-28  FWC  fixed Title; added keywords...
+0 // 2003-12-06 SEB Removed redundant cyli; capped stud4
 
- 1 16 0 18 0 10 0 0 0 0 0 0 0 10 4-4disc.dat
- 1 16 0 16 0 8 0 0 0 0 0 0 0 8 4-4disc.dat
- 1 16 0 18 20 4 0 0 0 0 0 0 0 4 4-4disc.dat
- 4 16 8 0 0 7.39 0 -3.06 9.24 0 -3.83 10 0 0
- 4 16 7.39 0 -3.06 5.66 0 -5.66 7.07 0 -7.07 9.24 0 -3.83
- 4 16 5.66 0 -5.66 3.06 0 -7.39 3.83 0 -9.24 7.07 0 -7.07
- 4 16 3.06 0 -7.39 0 0 -8 0 0 -10 3.83 0 -9.24
- 4 16 0 0 -8 -3.06 0 -7.39 -3.83 0 -9.24 0 0 -10
- 4 16 -3.06 0 -7.39 -5.66 0 -5.66 -7.07 0 -7.07 -3.83 0 -9.24
- 4 16 -5.66 0 -5.66 -7.39 0 -3.06 -9.24 0 -3.83 -7.07 0 -7.07
- 4 16 -7.39 0 -3.06 -8 0 0 -10 0 0 -9.24 0 -3.83
- 4 16 -8 0 0 -7.39 0 3.06 -9.24 0 3.83 -10 0 0
- 4 16 -7.39 0 3.06 -5.66 0 5.66 -7.07 0 7.07 -9.24 0 3.83
- 4 16 -5.66 0 5.66 -3.06 0 7.39 -3.83 0 9.24 -7.07 0 7.07
- 4 16 -3.06 0 7.39 0 0 8 0 0 10 -3.83 0 9.24
- 4 16 0 0 8 3.06 0 7.39 3.83 0 9.24 0 0 10
- 4 16 3.06 0 7.39 5.66 0 5.66 7.07 0 7.07 3.83 0 9.24
- 4 16 5.66 0 5.66 7.39 0 3.06 9.24 0 3.83 7.07 0 7.07
- 4 16 7.39 0 3.06 8 0 0 10 0 0 9.24 0 3.83
-
- 1 16 0 18 0 8 0 0 0 6 0 0 0 8 4-4cyli.dat
- 1 16 0 0 0 8 0 0 0 16 0 0 0 8 4-4cyli.dat
- 1 16 0 0 0 10 0 0 0 18 0 0 0 10 4-4cyli.dat
- 1 16 0 4 20 4 0 0 0 14 0 0 0 4 4-4cyli.dat
- 1 16 0 4 10 4 0 0 0 0 4 0 10 0 4-4cyli.dat
-
- 1 16 0 4 20 4 0 0 0 -4 0 0 0 4 2-8sphe.dat
+1 16 0 18 0 1 0 0 0 -1.5 0 0 0 1 STUD4.DAT
+1 16 0 18 0 10 0 0 0 -1 0 0 0 10 4-4edge.dat
+1 16 0 16 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 0 4 0 10 0 0 0 1 0 0 0 10 4-4edge.dat
+1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 0 0 0 10 0 0 0 1 0 0 0 10 4-4edge.dat
+1 16 0 18 20 4 0 0 0 -1 0 0 0 4 4-4edge.dat
+1 16 0 4 20 4 0 0 0 1 4 0 0 -4 2-4edge.dat
+1 16 0 18 0 10 0 0 0 -1 0 0 0 10 4-4disc.dat
+1 16 0 16 0 8 0 0 0 1 0 0 0 8 4-4disc.dat
+1 16 0 18 20 4 0 0 0 -1 0 0 0 4 4-4disc.dat
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 ring4.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 8 0 0 0 16 0 0 0 8 4-4cyli.dat
+1 16 0 0 0 10 0 0 0 18 0 0 0 10 4-4cyli.dat
+1 16 0 4 20 4 0 0 0 14 0 0 0 4 4-4cyli.dat
+1 16 0 4 20 4 0 0 0 -4 0 0 0 4 2-8sphe.dat
+1 16 0 4 10 4 0 0 0 0 4 0 10 0 4-4cyli.dat
+1 16 0 4 10 -4 0 0 0 0 -4 0 -0.77 0 1-4cyls2.dat
+1 16 0 4 10 -4 0 0 0 0 4 0 -0.77 0 1-4cyls2.dat
+1 16 0 4 10 0 0 4 -4 0 0 0 1 -0.77 2-4edge.dat
+1 16 0 4 10 4 0 0 0 0 -4 0 -0.77 0 1-4cyls2.dat
+1 16 0 4 10 4 0 0 0 0 4 0 -0.77 0 1-4cyls2.dat
+1 16 0 4 10 0 0 -4 -4 0 0 0 1 -0.77 2-4edge.dat
+0

@@ -1,7 +1,9 @@
-0 Hinge Rod with Split Rod Holder 12L
+0 Hinge Bar 12 with Split Rod Holder
 0 Name: 2375.dat
 0 Author: Thomas Burger
-0 Official LCad update 98-05
+0 LDRAW_ORG Part UPDATE 2003-03
+
+0 BFC NOCERTIFY
 
 4 16 -10 0 0 10 0 0 10 8 0 -10 8 0
 2 24 -10 0 0 10 0 0

@@ -2,12 +2,15 @@
 0 Name: 4095.dat
 0 Author: James Jessiman
 0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2001-01
+0 LDRAW_ORG Part UPDATE 2003-03
 
+0 BFC CERTIFY CCW
 0 CATEGORY Bar
 0 KEYWORDS town, umbrella, stand, small, rod, pole
 
-0 Updated 19990512 KevinB - Changed "cyli" to "disc" in lines 15 & 18
+0 // 1999-05-12 KevinB Changed "cyli" to "disc" in lines 15 & 18
+0 // 2003-06-09 JHR BFC compliance
+
 
  1 16 0 12 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
  1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
@@ -18,8 +21,8 @@
 
  1 16 0 -120 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
  1 16 0 -120 0 4 0 0 0 132 0 0 0 4 4-4cyli.dat
- 1 16 0 12 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
+ 1 16 0 12 0 4 0 0 0 -1 0 0 0 4 4-4disc.dat
  1 16 0 -4 0 6 0 0 0 1 0 0 0 6 4-4disc.dat
  1 16 0 -4 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
- 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4disc.dat
+ 1 16 0 0 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat
 0

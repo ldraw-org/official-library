@@ -1,7 +1,13 @@
 0 Glass for Window  1 x  4 x  5
 0 Name: 2494.dat
 0 Author: James Jessiman
-0 Official LCad update 99-01
+0 Original LDraw Part
+0 LDRAW_ORG Part UPDATE 2003-03
+
+0 BFC CERTIFY CCW
+
+0 // 2003-01-20 SEB Completed header, BFC'ed
+
 
  1 16 0 58 -4 36 0 0 0 54 0 0 0 2 box.dat
 0

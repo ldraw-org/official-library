@@ -1,14 +1,4 @@
-0 Tile  1 x  1
-0 Name: 3070.dat
-0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
-
-1 16 0 8 0 6 0 0 0 -4 0 0 0 6 box5.dat
-
-4 16 10 8 10 6 8 6 -6 8 6 -10 8 10
-4 16 -10 8 10 -6 8 6 -6 8 -6 -10 8 -10
-4 16 -10 8 -10 -6 8 -6 6 8 -6 10 8 -10
-4 16 10 8 -10 6 8 -6 6 8 6 10 8 10
-
-1 16 0 8 0 10 0 0 0 -8 0 0 0 10 box5.dat
-0
+0 ~Moved to 3070a
+0 WRITE Part 3070 moved to 3070a
+0 LDRAW_ORG Part UPDATE 2003-03
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3070a.dat

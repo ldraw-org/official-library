@@ -1,21 +1,24 @@
-0 Brick  2 x  2 no Studs with Pin
+0 Brick  2 x  2 no Studs with Pin Vertical
 0 Name: 4729.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Original LDraw Part
+0 LDRAW_ORG Part UPDATE 2003-03
+
+0 BFC CERTIFY CCW
+
+0 // 2003-06-09 JHR BFC compliant
+0 // 2003-11-04 OWP Fixed L3P Errors
+
 
 1 16 0 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
-
+0 BFC INVERTNEXT
 1 16 0 24 0 16 0 0 0 -20 0 0 0 16 box5.dat
-
 4 16 20 24 20 16 24 16 -16 24 16 -20 24 20
 4 16 -20 24 20 -16 24 16 -16 24 -16 -20 24 -20
 4 16 -20 24 -20 -16 24 -16 16 24 -16 20 24 -20
 4 16 20 24 -20 16 24 -16 16 24 16 20 24 20
-
 1 16 0 24 0 20 0 0 0 -24 0 0 0 20 box5.dat
-
-1 16 0 0 0 4 0 0 0 0 0 0 0 4 4-4edge.dat
-1 16 0 0 0 8 0 0 0 0 0 0 0 8 4-4edge.dat
-
+1 16 0 0 0 4 0 0 0 1 0 0 0 4  4-4edge.dat
+1 16 0 0 0 8 0 0 0 1 0 0 0 8  4-4edge.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 connect.dat
 0

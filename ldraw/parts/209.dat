@@ -1,0 +1,23 @@
+0 ~Minifig Chain Link (Open File for Usage Guide)
+0 Name: 209.dat
+0 Author: Matt Schild
+0 LDRAW_ORG Part UPDATE 2003-03
+
+0 CATEGORY Minifig Accessory
+0 KEYWORDS chainlink
+0 BFC CERTIFY CW
+
+0 // 2002-05-27  MS       completely rebuilt using primitives and corrected size
+0 // 2003-11-29  Steffen  BFCed
+
+0 // Use this file in conjuction with the file 208.dat.  This file is the 
+0 // internal segment of the chain.  For a full 17 stud long chain, use 21 
+0 // links for the body of the chain and one 208.dat for each end.
+
+1 16 3 0 0 1 0 0 0 -8 0 0 0 1 4-4cyli.dat
+1 16 -3 0 0 1 0 0 0 -8 0 0 0 1 4-4cyli.dat
+1 16 0 0 0 -3 0 0 0 0 3 0 3 0 t04q3333.dat
+1 16 0 0 0 3 0 0 0 0 3 0 -3 0 t04q3333.dat
+1 16 0 -8 0 3 0 0 0 0 -3 0 3 0 t04q3333.dat
+1 16 0 -8 0 -3 0 0 0 0 -3 0 -3 0 t04q3333.dat
+0

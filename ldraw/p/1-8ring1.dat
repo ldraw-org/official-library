@@ -1,0 +1,13 @@
+0 Ring  1 x 0.125
+0 Name: 1-8ring1.dat
+0 Author: Bernd Broich
+0 LDRAW_ORG Primitive UPDATE 2003-03
+
+0 BFC CERTIFY CCW
+
+0 // 2002-12-27 SEB Updated for BFC compliance
+
+
+4 16 1.8478 0 0.7654 0.9239 0 0.3827 1 0 0 2 0 0
+4 16 1.4142 0 1.4142 0.7071 0 0.7071 0.9239 0 0.3827 1.8478 0 0.7654
+0

@@ -1,35 +1,36 @@
 0 Cone  1 x  1
 0 Name: 4589.dat
 0 Author: James Jessiman
-0 Official LCad Part 2000-01
+0 Original LDraw Part
+0 LDRAW_ORG Part UPDATE 2003-03
 
-0 1999-Mar-01 SEB Replaced conic code with primitives. Cleaned up format.
-
-0 CATEGORY Cone
 0 KEYWORDS round, pylon, 299.dat
+0 BFC CERTIFY CCW
 
-1 16 0 19 0 1 0 0 0 2.5 0 0 0 1 peghole.dat
+0 // 1999-03-01 SEB Replaced conic code with primitives. Cleaned up format.
+0 // 2003-08-07 JHR BFC compliant
 
-1 16 0 18 0 6 0 0 0 6 0 0 0 6 4-4cyli.dat
+
+1 16 0 19 0 8 0 0 0 2.5 0 0 0 8  4-4edge.dat
+1 16 0 24 0 8 0 0 0 2.5 0 0 0 8  4-4edge.dat
+1 16 0 24 0 6 0 0 0 2.5 0 0 0 6  4-4edge.dat
+1 16 0 24 0 2 0 0 0 -2.5 0 0 0 2  ring3.dat
+1 16 0 19 0 8 0 0 0 5 0 0 0 8  4-4cyli.dat
+0 BFC INVERTNEXT
+1 16 0 24 0 -6 0 0 0 -5 0 0 0 6 4-4cyli.dat
+0 BFC INVERTNEXT
+1 16 0 18 0 6 0 0 0 1 0 0 0 6 4-4cyli.dat
 1 16 0 12 0 1 0 0 0 6 0 0 0 1 axlehole.dat
-1 16 0 12 0 1 0 0 0 0 0 0 0 1 axlehol2.dat
-1 16 0 18 0 1 0 0 0 0 0 0 0 1 axlehol3.dat
-1 16 0 12 0 4 0 0 0 0 0 0 0 4 4-4edge.dat
-1 16 0 19 0 10 0 0 0 0 0 0 0 10 4-4edge.dat
-1 16 0 0 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 axlehol2.dat
+1 16 0 18 0 1 0 0 0 1 0 0 0 1 axlehol3.dat
+1 16 0 12 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 19 0 10 0 0 0 1 0 0 0 10 4-4edge.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+0 BFC INVERTNEXT
 1 16 0 0 0 4 0 0 0 12 0 0 0 4 4-4cyli.dat
-1 16 0 12 0 2 0 0 0 0 0 0 0 2 ring2.dat
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
-
-1 16 0 9.5 0 2 0 0 0 -9.5 0 0 0 2 1-4con3.dat
-1 16 0 9.5 0 0 0 2 0 -9.5 0 -2 0 0 1-4con3.dat
-1 16 0 9.5 0 -2 0 0 0 -9.5 0 0 0 -2 1-4con3.dat
-1 16 0 9.5 0 0 0 -2 0 -9.5 0 2 0 0 1-4con3.dat
-1 16 0 19 0 2 0 0 0 -9.5 0 0 0 2 1-4con4.dat
-1 16 0 19 0 0 0 2 0 -9.5 0 -2 0 0 1-4con4.dat
-1 16 0 19 0 -2 0 0 0 -9.5 0 0 0 -2 1-4con4.dat
-1 16 0 19 0 0 0 -2 0 -9.5 0 2 0 0 1-4con4.dat
-
-1 16 0 19 0 2 0 0 0 0 0 0 0 2 ring4.dat
+1 16 0 19 0 -2 0 0 0 -1 0 0 0 2 ring4.dat
+1 16 0 12 0 -2 0 0 0 -1 0 0 0 2 ring2.dat
+1 16 0 9.5 0 -2 0 0 0 -9.5 0 0 0 2 4-4con3.dat
+1 16 0 19 0 0 0 -2 0 -9.5 0 -2 0 0 4-4con4.dat
 0

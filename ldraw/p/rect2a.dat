@@ -1,0 +1,11 @@
+0 Rectangle with 2 Adjacent Edges
+0 Name: rect2a.dat
+0 Author: Chris Dee (chris_w_dee@hotmail.com)
+0 LDRAW_ORG Primitive UPDATE 2003-03
+
+0 BFC CERTIFY CW
+
+2 24 1 0 1 -1 0 1
+2 24 1 0 -1 1 0 1
+4 16 1 0 1 1 0 -1 -1 0 -1 -1 0 1
+0

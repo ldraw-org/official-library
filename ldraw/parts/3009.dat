@@ -2,32 +2,13 @@
 0 Name: 3009.dat
 0 Author: James Jessiman
 0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2002-03
+0 LDRAW_ORG Part UPDATE 2003-03
 
 0 BFC CERTIFY CCW
 
-0 2002-05-07 KJM BFC Certification
+0 // 2002-05-07  KJM      BFC Certification
+0 // 2003-07-03  Steffen  Subfiled for patterning
 
-1 16 40 4 0 1 0 0 0 -5 0 0 0 1 stud3.dat
-1 16 20 4 0 1 0 0 0 -5 0 0 0 1 stud3.dat
-1 16 0 4 0 1 0 0 0 -5 0 0 0 1 stud3.dat
-1 16 -20 4 0 1 0 0 0 -5 0 0 0 1 stud3.dat
-1 16 -40 4 0 1 0 0 0 -5 0 0 0 1 stud3.dat
-
-0 BFC INVERTNEXT
-1 16 0 24 0 56 0 0 0 -20 0 0 0 6 box5.dat
-
-4 16 60 24 10 56 24 6 -56 24 6 -60 24 10
-4 16 -60 24 10 -56 24 6 -56 24 -6 -60 24 -10
-4 16 -60 24 -10 -56 24 -6 56 24 -6 60 24 -10
-4 16 60 24 -10 56 24 -6 56 24 6 60 24 10
-
-1 16 0 24 0 60 0 0 0 -24 0 0 0 10 box5.dat
-
-1 16 50 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 30 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -30 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -50 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3009s01.dat
+4 16 -60 0 -10 -60 24 -10 60 24 -10 60 0 -10
 0
