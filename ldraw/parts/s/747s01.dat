@@ -1,9 +1,11 @@
-0 ~Roadsign Old Warning Subpart without Pattern Area
-0 Name: s\x747s01.dat
+0 ~Roadsign Old Warning without Pattern Area
+0 Name: s\747s01.dat
 0 Author: Tore Eriksson
-0 Un-Official Subpart
+0 LDRAW_ORG Subpart UPDATE 2002-04
 
 0 CMDLINE -c15
+
+0 2002-03-02 TE Fixed missing edge
 
 2 24 -15 -44 0 -2 -44 0 
 2 24 2 -44 0 15 -44 0 
@@ -24,4 +26,5 @@
 1 16 0 -44 0 2 0 0 0 36 0 0 0 2 4-4cyli.dat
 1 16 0 -8 0 2 0 0 0 2 0 0 0 2 8-8sphe.dat
 1 16 0 -44 0 2 0 0 0 0 0 0 0 -2 2-4edge.dat
+1 16 0 -44 0  2 0 0 0 0 -2 0 0 0 2-4edge.dat
 0

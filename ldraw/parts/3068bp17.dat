@@ -1,0 +1,19 @@
+0 Tile  2 x  2 Grooved with Black Circle Pattern
+0 Name: 3068bp17.dat
+0 Author: James Jessiman
+0 Original LDraw Part
+0 LDRAW_ORG Part UPDATE 2002-04
+
+0 2002-Feb-15 DG groove, L3P compliant
+0 2002-Apr-01 FWC removed "4-4edge" reference...
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+
+1 16 0 0 0 14 0 0 0 1 0 0 0 14 4-4ndis.dat
+4 16 20 0 20 14 0 14 -14 0 14 -20 0 20
+4 16 20 0 -20 14 0 -14 -14 0 -14 -20 0 -20
+4 16 20 0 20 14 0 14 14 0 -14 20 0 -20
+4 16 -20 0 20 -14 0 14 -14 0 -14 -20 0 -20
+1 0 0 0 0 14 0 0 0 1 0 0 0 14 4-4disc.dat
+0

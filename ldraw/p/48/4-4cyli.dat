@@ -1,0 +1,12 @@
+0 Hi-Res Cylinder 1.0
+0 Name: 48\4-4cyli.dat
+0 Author: Paul Easter
+0 LDRAW_ORG Primitive UPDATE 2002-04
+
+0 BFC CERTIFY CW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 48\1-4cyli.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 48\1-4cyli.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 48\1-4cyli.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 48\1-4cyli.dat
+0

@@ -1,0 +1,13 @@
+0 Space Radar Dish  4 x  4 with Red Spiral Pattern
+0 Name: 3960p03.dat
+0 Author: Franklin W. Cain (fwcain@yahoo.com)
+0 LDRAW_ORG Part UPDATE 2002-04
+
+0 KEYWORDS Time Twisters, whirlpool, hypno-disk
+0 CMDLINE -c15
+
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s01.dat
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p2a.dat
+ 1  4 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p2b.dat
+0
+0 end of file

@@ -1,0 +1,138 @@
+LDraw.org Parts Update 2002-04
+---------------------------------------------------------------------------
+
+Notes created Sun Aug 18 05:18:23 2002 by the Parts Tracker.
+
+Release statistics:
+   Total files: 234
+   New files: 168
+   New parts: 110
+   New subparts: 44
+   New primitives: 5
+   New hi-res primitives: 9
+
+New 3-digit part numbers assigned:
+   167.dat Bar  1 x  3
+   193.dat Minifig Helmet - Type 1
+   522.dat Minifig Accessory Cape Cloth
+
+Moved Parts
+   124.DAT       ~Moved to 3876
+   133.DAT       ~Moved to 32174
+   3068P22.DAT   ~Moved to 3068bp22
+   3068P23.DAT   ~Moved to 3068bp23
+   3068P50.DAT   ~Moved to 3068bp50
+   3068P52.DAT   ~Moved to 3068bp52
+   3068P66.DAT   ~Moved to 3068bp66
+   3068P67.DAT   ~Moved to 3068bp67
+   3068P81.DAT   ~Moved to 3068bp81
+   3068P87.DAT   ~Moved to 3068bp87
+   3068PS1.DAT   ~Moved to 3068bps1
+   3069P13.DAT   ~Moved to 3069bp13
+   4215.DAT      ~Moved to 4215b
+   4215P01.DAT   ~Moved to 4215ap01
+   4215P02.DAT   ~Moved to 4215ap02
+   4215P03.DAT   ~Moved to 4215ap03
+   4215P24.DAT   ~Moved to 4215ap24
+   4215P66.DAT   ~Moved to 4215ap66
+
+Renamed Parts
+   1-4CYLS.DAT   1-4 Cylinder Sloped
+   changed to    Cylinder Sloped 0.25
+
+   1-4CYLS2.DAT  1/4 Cylinder Sloped Convex
+   changed to    Cylinder Sloped 0.25 Convex
+
+   2-4CYLS.DAT   2-4 Cylinder Sloped
+   changed to    Cylinder Sloped 0.5
+
+   CONNECT.DAT   Connector with Base Collar
+   changed to    Technic Pin with Base Collar
+
+   CONNECT2.DAT  Connector
+   changed to    Technic Pin
+
+   CONNECT3.DAT  Connector 1/2 with Base Collar
+   changed to    Technic Pin 1/2 with Base Collar
+
+   CONNECT4.DAT  Connector 1/2
+   changed to    Technic Pin 1/2
+
+   2552.DAT      Baseplate 32 x 32 Raised with Ramp (needs work)
+   changed to    Baseplate 32 x 32 Raised with Ramp and Pit
+
+   2989.DAT      Technic Brick  1  x 4 with Holes and Bumper Holder
+   changed to    Technic Brick  1 x  4 with Holes and Bumper Holder
+
+   30187C02.DAT  ~Bike  3 Wheel Motorcycle Minifig Shortcut
+   changed to    ~Bike  3 Wheel Motorcycle Minifig (Shortcut)
+
+   30187C03.DAT  Bike  3 Wheel Motorcycle with Rider Shortcut
+   changed to    Bike  3 Wheel Motorcycle with Rider (Shortcut)
+
+   792C02.DAT    Arm Holder Brick 2 x 2 with Hole and 1 Arm Shortcut
+   changed to    Arm Holder Brick  2 x  2 with Hole and 1 Arm (Shortcut)
+
+   973PS7.DAT    Minifig Torso with SW Darth Vader Pattern       
+   changed to    Minifig Torso with SW Darth Vader Pattern
+
+   2335PS1B.DAT  ~Flag  2 x  2 with SW Pod Race Circuitry Pattern (Orange Area)
+   changed to    Flag  2 x  2 with SW Pod Race Circuitry Pattern - Gold Area
+
+   2573-12.DAT   ~Subpart Space Wheel Giant,  1/12
+   changed to    Space Wheel Giant  1/12 Segment
+
+   3068B101.DAT  ~Subpart for 3068s101 subpart
+   changed to    ~Tile 2 x 2 with SW Rebel Mechanical Pattern - Darker Gray Areas
+
+   3068S101.DAT  ~Subpart Tile  2 x  2 w/ SW Rebel Mechanical Pattern
+   changed to    ~Tile  2 x  2 with SW Rebel Mechanical Pattern
+
+   3069BS01.DAT  ~Subfile Tile  1 x  2 with Groove without Face
+   changed to    Tile  1 x  2 with Groove without Face
+
+   747S01.DAT    ~Roadsign Old Warning Subpart without Pattern Area
+   changed to    ~Roadsign Old Warning without Pattern Area
+
+   890S01.DAT    ~Subpart Roadsign Clip-on  2 X  2 Octagonal
+   changed to    ~Roadsign Clip-on  2 x  2 Octagonal without Pattern Area
+
+   892S01.DAT    ~Subpart Roadsign Clip-on  2.2 X  2 2/3 Triangular
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular without Front Face
+
+   970S01.DAT    ~Subpart Minifig Hips without Decorated Surface
+   changed to    Minifig Hips without Decorated Surface
+
+   971S01.DAT    ~Subpart Minifig Leg Right without Decorated Surface
+   changed to    Minifig Leg Right - No Front Surfaces
+
+   972S01.DAT    ~Subpart Minifig Leg Left without Decorated Surface
+   changed to    Minifig Leg Left - No Front Surfaces
+
+   973P90A.DAT   ~Subpart Minifig Torso with Classic Space Logo - Gold
+   changed to    Minifig Torso with Classic Space Logo Pattern - Gold
+
+Other Fixed Parts
+   3-8CYLI.DAT   Cylinder 0.375
+   AXLEHOLE.DAT  Axle Hole
+   2335PS1.DAT   Flag  2 x  2 with SW Pod Racer Circuitry Pattern
+   2486.DAT      Bar  1 x  8 x  2
+   2736.DAT      Technic Axle Towball
+   2825.DAT      Technic Liftarm  1 x  4
+   2873.DAT      Hinge Train Gate  2 x  4
+   30044.DAT     Window  1 x  2 x  2 & 2/3 with Rounded Top
+   30046.DAT     Window  1 x  2 x  2 & 2/3 Pane Lattice Diamond with Rounded Top
+   3011.DAT      Duplo Brick  2 x  4
+   30117.DAT     Panel 10 x 10 x  2 & 1/3 Quarter Saucer Top
+   3063.DAT      Brick  2 x  2 Corner Round
+   3794.DAT      Plate  1 x  2 with 1 Stud
+   4083.DAT      Bar  1 x  4 x  2 with Studs
+   4162.DAT      Tile  1 x  8
+   4873.DAT      Bar  1 x  6 with Studs Open
+   6140.DAT      Bar  1 x  6 with Studs Closed
+   6636.DAT      Tile  1 x  6
+   971.DAT       Minifig Leg Right
+   971P63.DAT    Minifig Leg Right with Robot Pattern
+   972.DAT       Minifig Leg Left
+   972P63.DAT    Minifig Leg Left with Robot Pattern
+   973P90.DAT    Minifig Torso with Classic Space Pattern

@@ -1,0 +1,14 @@
+0 Minifig Hat Bicorne
+0 Name: 2528.dat
+0 Author: Andrew Westrate
+0 LDRAW_ORG Part UPDATE 2002-04
+
+0 CATEGORY Minifig Accessory
+0 KEYWORDS bi-corner, bicorn, bicorner, 2-corner, cap, chapeau bras, Admiral
+0 KEYWORDS chapeau-bras, fore and aft hat, cocked hat, Pirates, pirate
+0 KEYWORDS captain, Redbeard, officer, gentleman, plume, feather, Governor
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1   s\2528s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1   s\2528s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\2528s02.dat
+0

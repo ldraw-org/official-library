@@ -1,0 +1,8 @@
+0 Hi-Res Edge 0.5
+0 Name: 48\2-4edge.dat
+0 Author: Paul Easter
+0 LDRAW_ORG Primitive UPDATE 2002-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 48\1-4edge.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 48\1-4edge.dat
+0
