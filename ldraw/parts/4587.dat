@@ -1,7 +1,7 @@
-0 Horse Hitching
-0 Name 4587.dat
-0 Created by Tore Eriksson
-0 Official LCad update 97-16
+0 Horse Hitching with Hinge
+0 Name: 4587.dat
+0 Author: Tore Eriksson
+0 Official LCad update 99-02
 
 1 16  0 0 0  0 1 0  1 0 0  0 0 1 h1.dat
 1 16  0 0 0  0 0 0  4 0 0  0 0 10 rect.dat
@@ -152,3 +152,4 @@
 4 16  -104 -11  20  -108 -11  20  -108 -11  22  -104 -11  22
 1 16 -98 -15 -19  2 0 0  0 2 0  0 0 3 box.dat
 1 16 -98 -15  19  2 0 0  0 2 0  0 0 3 box.dat
+0

@@ -1,4 +1,7 @@
-0 Door  1 x  4 x  5
+0 Door  1 x  4 x  5 with 4 Panes
+0 Name: 73312.dat
+0 Author: James Jessiman
+0 Official LCad update 99-02
 
  1 16 -2 57 56 0 0 0 2 0 0 0 0 2 4-4edge.dat
  1 16 -5 57 56 0 0 0 2 0 0 0 0 -2 2-4edge.dat
@@ -378,5 +381,4 @@
  1 39 0 0 0 6 0 0 0 0 0 0 0 6 4-4disc.dat
 
  1 39 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-
-
+0

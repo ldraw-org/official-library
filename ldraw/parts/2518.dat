@@ -1,7 +1,7 @@
-0 Tree Palm Leaf Large
+0 Plants Tree Palm Leaf Large
 0 Name: 2518.dat
 0 Author: Tore Eriksson
-0 Official LCad update 98-05
+0 Official LCad update 99-02
 
 1 16 50 12 0  1 0 0  0 -3 0  0 0 1 stud4a.dat
 1 16 70 16 0  1 0 0  0 -2 0  0 0 1 stud4a.dat
@@ -416,3 +416,4 @@
 4 16 62.609 11.7 -3.062 62.609 16 -3.062 62 16 0 62 10.768 0
 5 24 62.609 16 -3.062 62.609 11.7 -3.062 62 16 0 64.343 16 -5.657
 5 24 62.609 16 -3.062 62.609 11.7 -3.062 62 16 0 64.343 16 -5.657
+0

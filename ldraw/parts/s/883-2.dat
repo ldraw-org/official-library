@@ -1,0 +1,11 @@
+0 ~Subpart Electric Ports for RCX Module
+0 Name: 883-2.dat
+0 Author: John VanZwieten
+0 Official LCad update 99-02
+
+ 1 16 0 8 0 20 0 0 0 -8 0 0 0 20 box5.dat
+ 1 16 10 0 10 0 0 -1 0 1 0 1 0 0 studel.dat
+ 1 16 -10 0 10 0 0 1 0 1 0 -1 0 0 studel.dat
+ 1 16 10 0 -10 0 0 -1 0 1 0 1 0 0 studel.dat
+ 1 16 -10 0 -10 0 0 1 0 1 0 -1 0 0 studel.dat
+0

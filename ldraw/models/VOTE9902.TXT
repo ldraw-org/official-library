@@ -1,0 +1,237 @@
+Voting Results - L-Cad dat vote 9902
+10 vote-sheets tallied - some were partial/incomplete 
+
+-READ THIS!!!!!!
+ Included in this update is the new makelist program, MKLIST.exe.
+ This program appears to work on all DOS/Win9x/WinNT platforms.
+ Please use this program instead of makelst2 or makelst3.
+ If you have any problems, please let us know!
+ Also included is the source code in the file mklist-C.zip.
+ Users of LDAO can still use that programs internal makelist
+ utility as well. 
+
+-Below is the raw data for the vote.  Be advised that not all
+ pieces listed below are included in this update!
+ 1.  Some pieces did not pass. 
+ 2.  Some pieces that nominally "passed" generated quite a
+     few questions as to their accuracy. Upon close examination, 
+     I concurred that those parts did indeed have serious problems.
+     As a result of those questions, and my examination, those pieces
+     have been removed.  Furthur info below.
+ 3.  There is an ongoing effort to widen the scope of represented parts
+     within LDraw.  Some of the pieces in the current voting need to be 
+     held briefly in order to minimize the need for later renamings
+     and/or renumberings. The held pieces are noted below.
+     Better to have some released now, right?
+
+-Pieces marked with an * by the number had some sort of 
+ modification to name and/or description. Details below.
+ All parts starting with an X that did not get new
+ correct numbers had the X dropped.
+
+Yes No Abstain Name     Description
+--  --  --  -------  --------------------------------
+ 7   0   2  2443      Hinge Window Frame  1 x  4 x  3 with Octagonal Panel            
+ 6   0   3 *2524      Minifig Backpack                                                
+ 4   4   1  2552      Baseplate 32 x 32 Raised with Ramp (needs work)                 
+ 5   0   4 *2574      [category?] Pull-Back Motor                                     
+ 8   0   1  2621      Boat Bow Plate 10 x  9                                          
+ 7   0   2  2919      Electric Train Light Prism  1 x  4                              
+ 4   3   2  3004P01   Brick  1 x  2 with Computer Screen and Buttons Pattern          
+ 8   0   1 *30086     Boat  8 x 12 Inflatable Dinghy                                  
+ 8   0   1  30092     Minifig Underwater Scooter                                      
+ 8   0   2 *30095     Bar  7 x  3 With Double Clips                                   
+ 2   7   1  30106     Castle Crystal Ball                                             
+ 3   7   0  30152     Minifig Tool Magnifying Glass                                   
+ 5   0   4  30182     Slope Brick 45  4 x  4                                          
+ 8   0   2  30208     Cylinder  4 x  4 Hemisphere Multifaceted                        
+ 6   0   3  30236     Brick  1 x  2 with Handle                                       
+ 5   2   2  3039P01   Slope Brick 45  2 x  2 with Airplane Control Panel Pattern      
+ 5   0   4  32109     Electric Mindstorms RCX  8 x 12 Bottom Cover (needs work)       
+ 4   0   5  32140     Technic Liftarm  2 x  4 L Shape                                 
+ 5   1   3  3298P66   Slope Brick 33  3 x  2 with Pink Triangles Pattern              
+ 9   0   1  3613      Arm Piece with Towball Socket                                   
+ 7   0   2  3711      Technic Link Chain                                              
+ 6   0   3  3873      Technic Link Tread                                              
+ 4   4   1  3900      Minifig Tool Signal Holder (needs work)                         
+ 5   2   2  425P01    Baseplate 32 x 32 Road 3 Lane with Road And Crosswalk Pattern   
+ 7   0   2  4497      Minifig Spear                                                   
+ 4   0   5  4698      Technic Axle Nut                                                
+ 5   2   3  606P33    Baseplate 32 x 32 Airport Runway Straight Pattern               
+ 4   2   4  608P33    Baseplate 32 x 32 Airport Runway T-Junction Pattern (needs work)
+ 5   0   4  6942      Scala Cone  5 x  5                                              
+ 4   0   5  70496     Technic Hook Large Metallic                                     
+ 8   0   1  70749     Minifig Knife                                                   
+ 8   0   1  70750     Minifig Harpoon                                                 
+ 6   0   3  71427     Electric 9V Mini-Motor                                          
+ 7   0   2 *80394     Container Box  2 x  2 x  2 Door with Slot and Fire Logo Pattern 
+ 6   1   2 *81038     Hose Reel  2 x  4 x  2 Holder with Fire Logo Pattern            
+ 7   0   2 *81155     Castle Wall  3 x  3 x  6 Corner with Blacktron I Logo Pattern   
+ 5   2   2  81174     Tile  2 x  2 Round with Archery Target Pattern                  
+ 6   0   3  81890     Tile  1 x  2 with Computer Keyboard Pattern                     
+ 4   1   4  X877      Electric Touch Sensor Brick 3 x  2 Top/Bottom Halves            
+ 4   1   4  X878      Electric Touch Sensor Brick 3 x  2 Sensor Peg                   
+ 5   0   4  X879      Electric Touch Sensor Brick 3 x  2 (Complete Assembly Shortcut) 
+ 5   0   4  X883      Electric Mindstorms RCX Module                                  
+ 5   0   4  X884      Electric Mindstorms RCX (Complete Assembly Shortcut)            
+ 7   0   2  X890      Roadsign Clip-on  2 x  2 Octagonal                              
+ 6   0   3  X891      Flag  7 x  3 with Rod                                           
+ 4   3   2  X996      Electric Brick  1 x  8 With 3 Lights Left (needs work)          
+ 2   4   3  X997      Minifig Soccer Ball (needs work)                                
+ 4   3   2  X998      Electric Brick  1 x  8 With 3 Lights Right (needs work)         
+
+Pieces that did not pass the vote:
+  2552      Baseplate 32 x 32 Raised with Ramp (needs work)
+  30106     Castle Crystal Ball                                             
+  30152     Minifig Tool Magnifying Glass
+  3900      Minifig Tool Signal Holder (needs work)
+  X997      Minifig Soccer Ball (needs work)
+
+  Note: for those eagerly waiting for the soccer ball, a _good_ one is
+        being worked on now.  I have seen an early example, and it looks
+        great.  :-)
+
+_New Subparts added to the \S directory in this update: (long list!)
+  883-1.DAT     ~Subpart Button for RCX Module
+  30208-1.DAT   ~Subpart Cylinder  4 X  4 Hemisphere Multifaceted
+  32109-1.DAT   ~Subpart Electric Mindstorms RCX Angled Bottom Stud For 32109 
+  883-2.DAT     ~Subpart Electric Ports for RCX Module
+  LETAB.DAT     ~Subpart for Mindstorms RCX Background 
+  LETBA.DAT     ~Subpart for Mindstorms RCX Background 
+  LETBB.DAT     ~Subpart for Mindstorms RCX Background 
+  LETCB.DAT     ~Subpart for Mindstorms RCX Background 
+  LETRB.DAT     ~Subpart for Mindstorms RCX Background 
+  LETXB.DAT     ~Subpart for Mindstorms RCX Background 
+  NUMB0B.DAT    ~Subpart for Mindstorms RCX Background 
+  NUMB1B.DAT    ~Subpart for Mindstorms RCX Background 
+  NUMB2B.DAT    ~Subpart for Mindstorms RCX Background 
+  NUMB3B.DAT    ~Subpart for Mindstorms RCX Background 
+  NUMB4B.DAT    ~Subpart for Mindstorms RCX Background 
+  NUMB5B.DAT    ~Subpart for Mindstorms RCX Background 
+  NUMB7B.DAT    ~Subpart for Mindstorms RCX Background 
+  LETAA.DAT     ~Subpart for Mindstorms RCX Letter 
+  LETCA.DAT     ~Subpart for Mindstorms RCX Letter 
+  LETRA.DAT     ~Subpart for Mindstorms RCX Letter 
+  LETXA.DAT     ~Subpart for Mindstorms RCX Letter 
+  NUMB0A.DAT    ~Subpart for Mindstorms RCX Number
+  NUMB1A.DAT    ~Subpart for Mindstorms RCX Number
+  NUMB2A.DAT    ~Subpart for Mindstorms RCX Number 
+  NUMB3A.DAT    ~Subpart for Mindstorms RCX Number
+  NUMB4A.DAT    ~Subpart for Mindstorms RCX Number 
+  NUMB5A.DAT    ~Subpart for Mindstorms RCX Number 
+  NUMB7A.DAT    ~Subpart for Mindstorms RCX Number
+  3626BS01.DAT  ~Subpart Minifig Head - Faceless Subpart (hollow stud) 
+  3626AS01.DAT  ~Subpart Minifig Head - Faceless Subpart (solid stud) 
+
+_New Primitives:
+  No new primitives added.
+
+------------------------------------------------------------------
+
+_The following pieces passed, but were removed for serious quality-control
+ reasons.  In retrospect, I am somewhat at fault for this, as I should
+ not have allowed these pieces into the vote without closer screening:
+  3004P01   Brick  1 x  2 with Computer Screen and Buttons Pattern
+  3298P66   Slope Brick 33  3 x  2 with Pink Triangles Pattern
+  425P01    Baseplate 32 x 32 Road 3 Lane with Road And Crosswalk Pattern
+  606P33    Baseplate 32 x 32 Airport Runway Straight Pattern
+  608P33    Baseplate 32 x 32 Airport Runway T-Junction Pattern (needs work)
+  3039P01   Slope Brick 45  2 x  2 with Airplane Control Panel Pattern
+  81890     Tile  1 x  2 with Computer Keyboard Pattern
+  81174     Tile  2 x  2 Round with Archery Target Pattern
+  X996      Electric Brick  1 x  8 With 3 Lights Left (needs work)
+  X998      Electric Brick  1 x  8 With 3 Lights Right (needs work)
+
+_Some patterned pieces had their numbers "corrected" prior to voting.
+ The pieces now being released had those numbers changed back to their
+ original xxxxPnn.dat format:
+  80394 back to 4346p01 Container Box  2 x  2 x  2 Door with Slot and Fire Logo Pattern
+  81038 back to 4209p01 Hose Reel  2 x  4 x  2 Holder with Fire Logo Pattern
+  81155 back to 2345p44 Castle Wall  3 x  3 x  6 Corner with Blacktron I Logo Pattern
+
+-"X" numbers kept as is, with the X dropped:
+  877      Electric Touch Sensor Brick 3 x  2 Top/Bottom Halves            
+  878      Electric Touch Sensor Brick 3 x  2 Sensor Peg                   
+  879      Electric Touch Sensor Brick 3 x  2 (Complete Assembly Shortcut) 
+  883      Electric Mindstorms RCX Module                                  
+  884      Electric Mindstorms RCX (Complete Assembly Shortcut)            
+  891      Flag  7 x  3 with Rod                                           
+
+_Pieces put on "HOLD" pending problem resolution.
+ The "problem" varies by piece:
+ Question on orientation:
+  2524     Minifig Backpack Non-Opening                 
+  890      Roadsign Clip-on  2 x  2 Octagonal 
+ Problems of numbering/coloring:
+  30086    Boat  8 x 12 Inflatable Dinghy
+  2574     [category?] Pull-Back Motor
+  70496    Technic Hook Large Metallic
+  70749    Minifig Knife
+  70750    Minifig Harpoon
+  71427    Electric 9V Mini-Motor
+
+_Piece formerly on "HOLD", now added:
+  767      Train Track Sleeper Plate  2 x  8 without Cable Grooves
+
+_Piece added with minor pattern color change:
+  2440p69  Hinge  6 x  3 Radar/Blade/Spoiler/Panel w/ Yellow Radar Pattern
+
+-------------------------------------------------------------------- 
+Summary of changes to existing parts:
+
+_Various tweaks and corrections:
+  3004p06       Pattern improvement to original piece.
+  3649          Improvement by author
+  2440p68       Description mod to match new 2440p69
+  4166          Description mod to match "on hold" part 767 above
+  6020          Description mod to sort better with new part 30095.dat
+
+  3626a     |   Minifig head modifications:
+  3626b      |    Corrected mis-sizing of heads,
+  3626bp01    >-  Improved patterns, and added 
+  3626bp02   |    blank face support to the \S
+  82359     |     directory.  (Thanks, Chris Dee!)
+
+  3626b-4t      ~moved to new \s directory blank face piece 3626bs01.
+  3193p01       ~moved to 3195p01 - this is a temp "~moved to" file subject
+     "             to deletion without further warning. Any uses of the part:
+     "             3193p01.dat
+     "             "Door  1 x  5 x  4 Left with Red, White and Blue Stripes Pattern"
+     "             should be updated to 3195p01.dat as soon as possible.
+
+_Category changes:
+ These are to prepare the way for the future inclusion of other
+ types of plants within the same category. (The next vote has a
+ plant that is not a tree)
+  2518          Category change from "Tree" to "Plants"
+  2536          Category change from "Tree" to "Plants"
+  2563          Category change from "Tree" to "Plants"
+  2566          Category change from "Tree" to "Plants"
+  3470          Category change from "Tree" to "Plants"
+
+_Description Mods to fix duplicate descriptions. Pieces received
+ clarifications or corrections to descriptions. This fixes _most_
+ of the duplicate descriptions in the inventory:
+  6048.DAT      Arm Piece with Pin and 2 Fingers 
+  6217.DAT      Arm Piece with Pin and 3 Fingers 
+  4083.DAT      Bar  1 x  4 x  2 with Studs 
+  4730.DAT      Brick  2 x  2 with Pin 
+  6232.DAT      Brick  2 x  2 with Pin and Axlehole
+  73312.DAT     Door  1 x  4 x  5 with 4 Panes
+  3861.DAT      Door  1 x  4 x  5 with 6 Panes
+  4587.DAT      Horse Hitching with Hinge  
+  4215P03.DAT   Panel  1 x  4 x  3 with Red Stripe Pattern 
+  6104.DAT      Wing  8 x  8 with 3 x  4 Cutout
+  4475.DAT      Wing  8 x  8 with 4 x  4 Cutout
+ Some duplicates still exist. Use the new MKLIST.exe with the -c switch
+ to see a listing of remaining duplicates.  Suggestions to fix them welcome.
+
+_In addition, these three pieces were similarly modified
+ to conform with the the changes above:
+  3612.DAT      Arm Piece Straight with 2 and 3 Fingers
+  412.DAT       Arm Piece Turned with 2 and 3 Fingers 
+  30000         Brick  2 x  2 with Pins and Axlehole
+
+I _think_ this is a complete list of what has been done. :-/
+
+-- Terry K --
