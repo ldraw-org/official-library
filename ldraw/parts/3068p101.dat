@@ -1,8 +1,4 @@
-0 Tile  2 x  2 w/ SW Rebel Mechanical Pattern
-0 Name: 3086p101.dat
-0 Author: John VanZwieten
-0 Official LCad update 99-06
-
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068s.dat
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068s101.dat
-0
+0 ~Moved to 3068ps1
+0 WRITE Part 3068p101 moved to 3068ps1
+0 LDRAW_ORG Part UPDATE 2001-03
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3068ps1.dat

@@ -2,9 +2,11 @@
 0 Name: 3839a.dat
 0 Author: Bernd Munding
 0 Author: James Jessiman, original 3839.dat
-0 LDRAW_ORG Part UPDATE 2001-01
+0 LDRAW_ORG Part UPDATE 2001-03
 
 0 KEYWORDS bar, bars
+
+0 2001-Nov-23 DG Fixed quad
 
  1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 
@@ -72,7 +74,7 @@
  4 16 20 8 -10 20 0 -10 -20 0 -10 -20 8 -10
  4 16 20 5 10 20 3 10 22 3 10 22 5 10
  4 16 -20 5 10 -20 3 10 -22 3 10 -22 5 10
- 4 16 20 5 -10 20 3 -10 22 3 -10 22 3 -10
+ 4 16 20 5 -10 20 3 -10 22 3 -10 22 5 -10
  4 16 -20 5 -10 -20 3 -10 -22 3 -10 -22 5 -10
 
  1 16 26 4 10 4 0 0 0 0 4 0 0 0 4-4edge.dat

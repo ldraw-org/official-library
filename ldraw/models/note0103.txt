@@ -1,0 +1,33 @@
+LDraw.org Parts Update 2001-03
+---------------------------------------------------------------------------
+
+Notes created Mon Dec 31 21:50:45 2001 by the Parts Tracker.
+
+Release statistics:
+   New files: 38
+   New parts: 25
+   New subparts: 5
+   New primitives: 8
+
+New 3-digit part numbers assigned:
+   780.dat Car Base  6 x  7
+   781.dat Car Base  6 x 12
+   785.dat Baseplate 24 x 32 with Studs on Edges
+   787.dat Fabuland Roof Support
+   788.dat Fabuland Roof Slope without Chimney Hole
+   789.dat Fabuland Roof Slope with Chimney Hole
+   790.dat Fabuland Roof Chimney
+
+Moved Parts
+   3068P101.DAT  ~Moved to 3068ps1
+   3228.DAT      ~Moved to 3228a
+
+Renamed Parts
+   4215P77.DAT   Panel  1 x  4 x  3 with 1\2 Black Pattern (Right Side)
+   changed to    Panel  1 x  4 x  3 with 1/2 Black Pattern (Right Side)
+
+Other Fixed Parts
+   30384.DAT     Windscreen  4 x  7 x  2 Round
+   3839A.DAT     Plate  1 x  2 with Handles Type 1
+   4858P01.DAT   Wedge  4 x  4 with Blacktron I Logo
+   6003.DAT      Plate  6 x  6 with Round Corner
