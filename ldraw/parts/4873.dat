@@ -1,7 +1,4 @@
-0 Bar  1 x  6
-0 Name: 4873.dat
-0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Bar  1 x  6 with Studs Open
 
  1 16 50 16 0 1 0 0 0 4 0 0 0 1 peghole.dat
  1 16 -50 16 0 1 0 0 0 4 0 0 0 1 peghole.dat
@@ -94,4 +91,6 @@
  2 24 24 0 -2 26 2 -4
  2 24 26 2 -4 26 6 -4
  2 24 26 6 -4 24 8 -2
-0
+
+
+
