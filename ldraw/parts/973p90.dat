@@ -1,9 +1,12 @@
 0 Minifig Torso with Classic Space Pattern
 0 Name: 973p90.dat
 0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 Official LCad Part 2000-01
+0 LDRAW_ORG Part UPDATE 2001-01
+
+0 2000-11-05 CWD Moved neck mark from s\973s01.dat
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.DAT
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 4 16 -19 32 10 19 32 10 19 29 10 -19 29 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 12 0 10 -12 0 10 -14.345 2 10 14.345 2 10

@@ -1,0 +1,102 @@
+LDraw.org Parts Update 2001-01
+---------------------------------------------------------------------------
+
+Notes created Friday, October 26, 2001 by the Parts Tracker.
+Notes edited  Friday, October 26, 2001 by Steve Bliss.
+
+Release statistics:
+   New files: 25
+
+New 3-digit part numbers assigned:
+   112 Car Air Horn
+
+Moved Parts
+   3839.DAT      ~Moved to 3839b
+   3945.DAT      ~Moved to 3839b
+   4081.DAT      ~Moved to 4081b
+   973A101.DAT   ~Moved to 973as1
+   973P101.DAT   ~Moved to 973ps1
+
+General Fixes
+1. Minifig Torsos.  The 'neck mark' tag was removed from the 'plain' 
+   minifig torso subfile, 973S01.DAT.  This required modification to all 
+   existing torso part files, but allowed us to correct the neckmark from 
+   using color 24 (which L3P and L3Lab report as an error) to a more-correct
+   color, specific to each torso pattern.  This is especially important for 
+   the plain torso, since it should have no neck mark.
+
+2. Town parts renamed.  All the parts in the 'town category' were renamed, 
+   most of them to the Minifig Accessory category.  Not all these parts
+   are included in this update; some files had other changes and were not
+   certified in time for the release.
+
+   3899.DAT      Town Cup
+   changed to    Minifig Cup
+
+   4528.DAT      Town Frypan
+   changed to    Minifig Frypan
+
+   4529.DAT      Town Saucepan
+   changed to    Minifig Saucepan
+
+   4079.DAT      Town Seat  2 x  2
+   changed to    Minifig Seat  2 x  2
+
+   4095.DAT      Town Umbrella Stand Small
+   changed to    Bar  6.6L with Stop
+
+3. Propellors and Rotors renamed.  To provide better naming and grouping,
+   various propellor parts were renamed, moving all to the propellor 
+   category.  Not all these parts are included in this update; some were 
+   not certified in time for the release.
+
+   4745.DAT      Propellor  2 Blade
+   changed to    Propellor  2 Blade  5.5 Diameter
+
+   2479.DAT      Rotor  4 Blade
+   changed to    Propellor  4 Blade  5 Diameter
+
+4. Bad byte removed from files.  A number of basic part files had a non-
+   printing byte, ctl-X, at the end of the file.  This byte was removed 
+   from the following files:
+   3005.DAT      Brick  1 x  1
+   3004.DAT      Brick  1 x  2
+   3004PRC.DAT   Brick  1 x  2 with Red Cross Pattern
+   3010.DAT      Brick  1 x  4
+   3009.DAT      Brick  1 x  6
+   3008.DAT      Brick  1 x  8
+   3003.DAT      Brick  2 x  2
+   2357.DAT      Brick  2 x  2 Corner
+   3002.DAT      Brick  2 x  3
+   3007.DAT      Brick  2 x  8
+   3006.DAT      Brick  2 x 10
+   3024.DAT      Plate  1 x  1
+   3023.DAT      Plate  1 x  2
+   3022.DAT      Plate  2 x  2
+   3021.DAT      Plate  2 x  3
+   3020.DAT      Plate  2 x  4
+   3034.DAT      Plate  2 x  8
+   3031.DAT      Plate  4 x  4
+   3032.DAT      Plate  4 x  6
+   3035.DAT      Plate  4 x  8
+   3030.DAT      Plate  4 x 10
+   3029.DAT      Plate  4 x 12
+   3036.DAT      Plate  6 x  8
+   3033.DAT      Plate  6 x 10
+   3028.DAT      Plate  6 x 12
+   3027.DAT      Plate  6 x 16
+   3026.DAT      Plate  6 x 24
+
+Other Renamed Parts
+   973P34.DAT    Minifig Torso with Open Jacket over Striped Vest
+   changed to    Minifig Torso with Open Jacket over Striped Vest Pattern
+
+   973P44.DAT    Minifig Torso with Wolfman Pattern
+   changed to    Minifig Torso with Wolfpack Pattern
+
+Other Fixed Parts
+   977.DAT       Minifig Hand
+   4617.DAT      Propellor  3 Blade  5.5 Diameter
+   590.DAT       Electric Train Motor
+   976.DAT       Minifig Arm Left
+   975.DAT       Minifig Arm Right

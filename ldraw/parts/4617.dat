@@ -1,8 +1,9 @@
 0 Propellor  3 Blade  5.5 Diameter
 0 Name: 4617.dat
-0 Author: Paul Easter, pneaster@aol.com
-0 Official LCad Part 2000-01a
+0 Author: Paul Easter
+0 LDRAW_ORG Part UPDATE 2001-01
 
+0 CATEGORY Propellor
 0 KEYWORDS adventurers
 
 1 16 0 0 8 8 0 0 0 0 8 0 -16 0 4-4cyli.dat

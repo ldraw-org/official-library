@@ -1,12 +1,13 @@
 0 ~Subpart Minifig Torso without Front or Back
-0 Name: 973s01.dat
+0 Name: s\973s01.dat
 0 Author: Steve Bliss
 0 used for plain & decorated torsos
 0 put decoration bitmap in Z = -10
-0 Official LCad update 99-03
+0 LDRAW_ORG Subpart UPDATE 2001-01
 
 0 1999-04-16 SEB Moved to s\973s01.dat; removed back area; updated comment code
 0 1999-04-19 SEB Fixed internal surface error
+0 2000-11-05 CWD Removed hard-coded neck mark; now required in main part
 
 0 Uncomment for front shell
 0 4 16 -19 32 -10   19 32 -10  -19     29 -10   19     29 -10
@@ -17,6 +18,9 @@
 0 4 16  19 32  10  -19 32  10   19     29  10  -19     29  10
 0 4 16 -19 29  10   19 29  10  -14.345  2  10   14.345  2  10
 0 4 16 -12  0  10   12  0  10  -14.345  2  10   14.345  2  10
+
+0 Uncomment for neck mark
+0 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 
 2 24 -19 32 -10 19 32 -10
 2 24 19 32 -10 19 32 10
@@ -147,8 +151,8 @@
 1 16 0 0 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
 1 16 0 -12 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
 1 16 0 0 0 6 0 0 0 -4 0 0 0 6 4-4cyli.dat
-1 24 0 -4 0 6 0 0 0 -8 0 0 0 -6 2-4cyli.dat
-1 16 0 -4 0 6 0 0 0 -8 0 0 0 6 2-4cyli.dat
+1 16 0 -4 0 4.243 0 4.243 0 -8 0 -4.243 0 4.243 3-4cyli.dat
+
 1 16 0 -12 0 6 0 0 0 0 0 0 0 6 4-4disc.dat
 1 16 15.528 8.881 0 0.85 0 0 4.925 0 0 0 0 5 4-4edge.dat
 1 16 13.558 9.221 0 0.85 0 0 4.925 0 0 0 0 5 4-4edge.dat

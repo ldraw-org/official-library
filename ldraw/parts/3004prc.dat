@@ -1,7 +1,7 @@
 0 Brick  1 x  2 with Red Cross Pattern
-0 name 3004prc.dat
-0 Created by Tore Eriksson
-0 Official LCad update 97-01
+0 Name: 3004prc.dat
+0 Author: Tore Eriksson
+0 LDRAW_ORG Part UPDATE 2001-01
 
  4 16  -20   0 -10   20   0 -10   20   3 -10  -20   3 -10
  4 16  -20   3 -10   -3   3 -10   -3   9 -10  -20   9 -10
@@ -26,4 +26,3 @@
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 0 /3004-4t Brick  1 x  2 without front
-

@@ -1,13 +1,16 @@
 0 Minifig Torso with Blacktron I Pattern
 0 Name: 973p52.dat
 0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 Official LCad update 99-03
+0 LDRAW_ORG Part UPDATE 2001-01
 
 0 1999-04-16 SEB Updated 973-4t.dat to s\973s01.dat; added back surface
+0 2000-11-05 CWD Moved neck mark from s\973s01.dat
 0 CW compliant
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 
+0 Neck mark
+1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 0 Plain back
 4 16 -19 32 10 19 32 10 -19 29 10 19 29 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
