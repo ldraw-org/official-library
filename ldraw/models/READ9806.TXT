@@ -1,0 +1,464 @@
+This is the result of several months of research by several members of
+L-Cad.  Their efforts are much appreciated.
+
+Caveat: two files with number changes could not have corresponding
+"~moved to" files included. This was because their former numbers are
+in use by other parts. So references to these two files, if you have 
+used them in a model, must be manually changed in your model files:
+Change 3193.dat to 3195.dat in any models using 3193.dat
+Change 3193p01.dat to 3195p01.dat in any models using 3195p01.dat
+
+These are the plain and patterned versions of Door  1 x  5 x  4 Left.
+
+Remember, this only affects you if you have used the above 3193 pieces 
+in one or more of YOUR OWN models.
+If you have never used any 3193 pieces, ignore this change.
+
+What is included in this update:
+--------------------------------
+Old Number    ~ Where moved to
+Correct No.   Description
+--------------------------------
+100.DAT       ~Moved to 3665                                                  
+3665.DAT      Slope Brick 45  2 x  1 Inverted                                 
+
+102.DAT       ~Moved to 3644                                                  
+3644.DAT      Door  1 x  4 x  6                                               
+
+103.DAT       ~Moved to 73037                                                 
+73037.DAT     Winch  2 x  4 x  2                                              
+
+11.DAT        ~Moved to 3579                                                  
+3579.DAT      Door  1 x  3 x  4 Frame                                         
+
+114.DAT       ~Moved to 3848                                                  
+3848.DAT      Castle Pike                                                     
+
+117.DAT       ~Moved to 3846                                                  
+3846.DAT      Castle Shield                                                   
+
+117P47.DAT    ~Moved to 3846p47                                               
+3846P47.DAT   Castle Shield with Red and Gray Pattern, Blue Frame             
+
+12.DAT        ~Moved to 7930                                                  
+7930.DAT      Door  1 x  3 x  4                                               
+
+123.DAT       ~Moved to 3641                                                  
+3641.DAT      Tyre                                                            
+
+13.DAT        ~Moved to 7026                                                  
+7026.DAT      Window  1 x  2 x  2                                             
+
+132.DAT       ~Moved to 3483                                                  
+3483.DAT      Tyre Small                                                      
+
+138.DAT       ~Moved to 3855                                                  
+3855.DAT      Window  1 x  4 x  3 Glass                                       
+
+140.DAT       ~Moved to 3821                                                  
+3821.DAT      Door  1 x  3 x  1 Right                                         
+
+141.DAT       ~Moved to 3822                                                  
+3822.DAT      Door  1 x  3 x  1 Left                                          
+
+142.DAT       ~Moved to 3741                                                  
+3741.DAT      Flower Stem                                                     
+
+143.DAT       ~Moved to 3742                                                  
+3742.DAT      Flower (needs work)                                             
+
+144.DAT       ~Moved to 3854                                                  
+3854.DAT      Window  1 x  2 x  3 Pane                                        
+
+145.DAT       ~Moved to 3856                                                  
+3856.DAT      Window  1 x  2 x  3 Shutter                                     
+
+148.DAT       ~Moved to 3957                                                  
+3957.DAT      Antenna                                                         
+
+149.DAT       ~Moved to 3962                                                  
+3962.DAT      Town Radio                                                      
+
+150.DAT       ~Moved to 3899                                                  
+3899.DAT      Town Cup                                                        
+
+157.DAT       ~Moved to 4070                                                  
+4070.DAT      Brick  1 x  1 with Headlight                                    
+
+158.DAT       ~Moved to 3189                                                  
+3189.DAT      Door  1 x  3 x  2 Left                                          
+
+159.DAT       ~Moved to 3188                                                  
+3188.DAT      Door  1 x  3 x  2 Right                                         
+
+16.DAT        ~Moved to 3596                                                  
+3596.DAT      Flag on Flagpole                                                
+
+161.DAT       ~Moved to 4085                                                  
+4085.DAT      Plate  1 x  1 with Clip Vertical                                
+
+163.DAT       ~Moved to 3315                                                  
+3315.DAT      Plate  2 x  4 with Digger Bucket Holder                         
+
+174.DAT       ~Moved to 4081                                                  
+4081.DAT      Plate  1 x  1 with Clip Light                                   
+
+175.DAT       ~Moved to 4178                                                  
+4178.DAT      Train Base  6 x 16                                              
+
+176.DAT       ~Moved to 4023
+4023.DAT      Train Coupling                                                  
+
+177.DAT       ~Moved to 73092                                                 
+73092.DAT     Train Magnet                                                    
+
+178.DAT       ~Moved to 4175                                                  
+4175.DAT      Plate  1 x  2 with Ladder                                       
+
+179.DAT       ~Moved to 4073                                                  
+4073.DAT      Plate  1 x  1 Round                                             
+
+18.DAT        ~Moved to 3626a                                                 
+3626A.DAT     Minifig Head Old                                                
+
+180.DAT       ~Moved to 4161                                                  
+4161.DAT      Slope Brick 33  3 x  3                                          
+
+19.DAT        ~Moved to 3624                                                  
+3624.DAT      Minifig Police Hat                                              
+
+195.DAT       ~Moved to 4170                                                  
+4170.DAT      Train Light Prism  1 x  6 Holder                                
+
+196.DAT       ~Moved to 4171                                                  
+4171.DAT      Train Light Prism  1 x  3                                       
+
+197.DAT       ~Moved to 73090                                                 
+73090.DAT     Train Weight  2 x  6 x  2                                       
+
+198.DAT       ~Moved to 4176                                                  
+4176.DAT      Windscreen  2 x  6 x  2                                         
+
+199.DAT       ~Moved to 3675                                                  
+3675.DAT      Slope Brick 33  3 x  3 Double Convex                            
+
+206.DAT       ~Moved to 73071                                                 
+73071.DAT     Technic Differential                                            
+
+211.DAT       ~Moved to 6100                                                  
+6100.DAT      Baseplate 32 x 32 with 3 Driveways                              
+
+212.DAT       ~Moved to 4229                                                  
+4229.DAT      Plate  2 x  2 with Jet Engine                                   
+
+216.DAT       ~Moved to 3612                                                  
+3612.DAT      Arm Piece                                                       
+
+217.DAT       ~Moved to 4228                                                  
+4228.DAT      Windscreen  6 x  6 Inverted                                     
+
+22.DAT        ~Moved to 3581                                                  
+3581.DAT      Brick  1 x  1 x  2 with Shutter Holder                          
+
+231.DAT       ~Moved to 4349                                                  
+4349.DAT      Town Loudhailer                                                 
+
+234.DAT       ~Moved to 4286                                                  
+4286.DAT      Slope Brick 33  3 x  1                                          
+
+236.DAT       ~Moved to 73312                                                 
+73312.DAT     Door  1 x  4 x  5                                               
+
+238.DAT       ~Moved to 3048                                                  
+3048.DAT      Slope Brick 45  1 x  2 Triple                                   
+
+239.DAT       ~Moved to 4528                                                  
+4528.DAT      Town Frypan                                                     
+
+240.DAT       ~Moved to 4287                                                  
+4287.DAT      Slope Brick 33  3 x  1 Inverted                                 
+
+241.DAT       ~Moved to 4529                                                  
+4529.DAT      Town Saucepan                                                   
+
+246.DAT       ~Moved to 73435   (see also 247b below)                                              
+73435.DAT     Door  1 x  4 x  5 Right                                         
+
+247.DAT       ~Moved to 73436                                                 
+73436.DAT     Door  1 x  4 x  5 Left                                          
+
+247B.DAT      ~Moved to 73435                                                 
+73435.DAT     Door  1 x  4 x  5 Right                                         
+
+248.DAT       ~Moved to 3676                                                  
+3676.DAT      Slope Brick 45  2 x  2 Inverted Double Convex                   
+
+249.DAT       ~Moved to 4495                                                  
+4495.DAT      Flag  4 x  1                                                    
+
+25.DAT        ~Moved to 3582                                                  
+3582.DAT      Window  1 x  2 x  2 Shutter                                     
+
+252.DAT       ~Moved to 4599                                                  
+4599.DAT      Tap  1 x  1                                                     
+
+256.DAT       ~Moved to 3058
+3058.DAT      Plate  6 x 16 with Motor Cutout                                 
+
+257.DAT       ~Moved to 4476                                                  
+4476.DAT      Space Leg                                                       
+
+258.DAT       ~Moved to 4169                                                  
+4169.DAT      Train Signal Stand                                              
+
+259.DAT       ~Moved to 4168                                                  
+4168.DAT      Train Signal Mast                                               
+
+26.DAT        ~Moved to 3497                                                  
+3497.DAT      Baseplate  8 x 24                                               
+
+262.DAT       ~Moved to 3811                                                  
+3811.DAT      Baseplate 32 x 32                                               
+
+262P01.DAT    ~Moved to 3811p01                                               
+3811P01.DAT   Baseplate 32 x 32 with Set 7838 Dots Pattern                    
+
+274.DAT       ~Moved to 4590                                                  
+4590.DAT      Plate  1 x  4 Offset                                            
+
+275.DAT       ~Moved to 4460                                                  
+4460.DAT      Slope Brick 75  2 x  1 x  3                                     
+
+278.DAT       ~Moved to 4490                                                  
+4490.DAT      Arch  1 x  3                                                    
+
+291.DAT       ~Moved to 4868                                                  
+4868.DAT      Plane Jet Engine                                                
+
+292.DAT       ~Moved to 4869                                                  
+4869.DAT      Plane Jet Engine Centre                                         
+
+294.DAT       ~Moved to 4447                                                  
+4447.DAT      Window  4 x  4 x  3 Roof                                        
+
+295.DAT       ~Moved to 4448                                                  
+4448.DAT      Window  4 x  4 x  3 Roof Glass                                  
+
+296.DAT       ~Moved to 4740                                                  
+4740.DAT      Space Radar Dish  2 x  2                                        
+
+302.DAT       ~Moved to 4872                                                  
+4872.DAT      Windscreen  3 x  4 x  4 Inverted                                
+
+305.DAT       ~Moved to 2335                                                  
+2335.DAT      Flag  2 x  2                                                    
+
+3062.DAT      ~Moved to 3062b                                                 
+3062B.DAT     Brick  1 x  1 Round                                             
+
+307.DAT       ~Moved to 4735                                                  
+4735.DAT      Space Robot Arm                                                 
+
+321.DAT       ~Moved to 2412                                                  
+2412.DAT      Tile  1 x  2 Grille                                             
+
+324.DAT       ~Moved to 2458                                                  
+2458.DAT      Brick  1 x  2 with Pin                                          
+
+338.DAT       ~Moved to 2433                                                  
+2433.DAT      Lever Control                                                   
+
+339.DAT       ~Moved to 4474                                                  
+4474.DAT      Space Windscreen                                                
+
+340.DAT       ~Moved to 2583                                                  
+2583.DAT      Bar  1 x  8 x  3                                                
+
+3626-4T.DAT   ~Moved to 3626b-4t                                              
+3626B-4T.DAT  ~Minifig Head New without Face Area                             
+
+3626.DAT      ~Moved to 3626b                                                 
+3626B.DAT     Minifig Head New                                                
+
+3626P01.DAT   ~Moved to 3626bp01                                              
+3626BP01.DAT  Minifig Head New with Standard Grin Pattern                     
+
+3626P02.DAT   ~Moved to 3626bp02                                              
+3626BP02.DAT  Minifig Head New with Standard Woman Pattern (needs work)       
+
+368.DAT       ~Moved to 2569                                                  
+2569.DAT      Antenna Whip                                                    
+
+369.DAT       ~Moved to 3187                                                  
+3187.DAT      Gate  1 x  4 x  2 Base                                          
+
+370.DAT       ~Moved to 3186                                                  
+3186.DAT      Gate  1 x  4 x  2                                               
+
+371.DAT       ~Moved to 2920                                                  
+2920.DAT      Train Coupling New                                              
+
+372.DAT       ~Moved to 2337                                                  
+2337.DAT      Space Windscreen Extender                                       
+
+373.DAT       ~Moved to 6019                                                  
+6019.DAT      Plate  1 x  1 with Clip Horizontal                              
+
+376.DAT       ~Moved to 4733                                                  
+4733.DAT      Brick  1 x  1 with Studs on Sides                               
+
+380.DAT       ~Moved to 6016                                                  
+6016.DAT      Bar  1 x  4 x  3 Window                                         
+
+381.DAT       ~Moved to 6048                                                  
+6048.DAT      Arm Piece with Pin                                              
+
+386.DAT       ~Moved to 6020                                                  
+6020.DAT      Bar  7 x  3                                                     
+
+387.DAT       ~Moved to 6060                                                  
+6060.DAT      Arch  1 x  6 x  3 & 1/3 with Curved Top                         
+
+388.DAT       ~Moved to 6070                                                  
+6070.DAT      Windscreen  5 x  2 x  1 & 2/3                                   
+
+395.DAT       ~Moved to 3587                                                  
+3587.DAT      Tail Plane Old                                                  
+
+396.DAT       ~Moved to 4595                                                  
+4595.DAT      Brick  1 x  2 x  2/3 with Studs on Sides                        
+
+4.DAT         ~Moved to 3193                                                  
+3193.DAT      Door  1 x  3 x  3 Left                                          
+
+40.DAT        ~Moved to 3046                                                  
+3046.DAT      Slope Brick 45  2 x  2 Double Concave                           
+
+401.DAT       ~Moved to 2516                                                  
+2516.DAT      Space Chainsaw Body                                             
+
+407.DAT       ~Moved to 71076                                                 
+71076.DAT     Exhaust Pipe Straight                                           
+
+408.DAT       ~Moved to 71075                                                 
+71075.DAT     Exhaust Pipe Elbow                                              
+
+415.DAT       ~Moved to 6217                                                  
+6217.DAT      Arm Piece with Pin                                              
+
+427.DAT       ~Moved to 6046                                                  
+6046.DAT      Bar  9 x 13                                                     
+
+428.DAT       ~Moved to 75535                                                 
+75535.DAT     Technic Pin Joiner Round                                        
+
+432.DAT       ~Moved to 6126                                                  
+6126.DAT      Castle Dragon Flame                                             
+
+461.DAT       ~Moved to 3688                                                  
+3688.DAT      Slope Brick 75  2 x  2 x  2 Quadruple Convex                    
+
+47.DAT        ~Moved to 3659                                                  
+3659.DAT      Arch  1 x  4                                                    
+
+48.DAT        ~Moved to 3049                                                  
+3049.DAT      Slope Brick 45  1 x  2 Double / Inverted                        
+
+497.DAT       ~Moved to 7039                                                  
+7039.DAT      Wheel Old with  4 Studs                                         
+
+5.DAT         ~Moved to 3192                                                  
+3192.DAT      Door  1 x  3 x  3 Right                                         
+
+56.DAT        ~Moved to 3660                                                  
+3660.DAT      Slope Brick 45  2 x  2 Inverted                                 
+
+57.DAT        ~Moved to 3045                                                  
+3045.DAT      Slope Brick 45  2 x  2 Double Convex                            
+
+583.DAT       ~Moved to 30031                                                 
+30031.DAT     Space Handlebars                                                
+
+588.DAT       ~Moved to 71137                                                 
+71137.DAT     Exhaust Pipe                                                    
+
+605.DAT       ~Moved to 6152                                                  
+6152.DAT      Windscreen  6 x  4 x  1 & 1\3 (Airplane)                        
+
+64.DAT        ~Moved to 3359                                                  
+3359.DAT      Gate  1 x  3 x  2 Base                                          
+
+65.DAT        ~Moved to 3358                                                  
+3358.DAT      Gate  1 x  3 x  2                                               
+
+708.DAT       ~Moved to 3062a                                                 
+3062A.DAT     Brick  1 x  1 Round with Solid Stud                             
+
+720.DAT       ~Moved to 3218                                                  
+3218.DAT      Train Direction Switch - 4.5 Volt                               
+
+860.DAT       ~Moved to 6120                                                  
+6120.DAT      Minifig Ski                                                     
+
+89.DAT        ~Moved to 9244                                                  
+9244.DAT      Technic Universal Joint (Complete Assembly Shortcut)            
+
+93.DAT        ~Moved to 3479                                                  
+3479.DAT      Tail  4 x  2 x  2                                               
+
+96.DAT        ~Moved to 3831                                                  
+3831.DAT      Hinge Brick  1 x  4 Base                                        
+
+97.DAT        ~Moved to 3830                                                  
+3830.DAT      Hinge Brick  1 x  4 Top                                         
+
+98.DAT        ~Moved to 3685                                                  
+3685.DAT      Slope Brick 75  2 x  2 x  3 Double Convex                       
+
+99.DAT        ~Moved to 3684                                                  
+3684.DAT      Slope Brick 75  2 x  2 x  3                                     
+--------------------------------
+Additional files included:
+
+READ9806.txt  Your reading it now. This file may be deleted.
+
+TEST9806.DAT  Moved Numbers Test File - render this file in LDraw to show
+              all files with comments in the upper left corner of screen.
+              This file may be deleted.
+
+These four files had to have number changes to correct them: 
+3194.DAT      Door  1 x  5 x  4 Right                                         
+3194P01.DAT   Door  1 x  5 x  4 Right with Red, White and Blue Stripes Pattern
+3195.DAT      Door  1 x  5 x  4 Left                                          
+3195P01.DAT   Door  1 x  5 x  4 Left with Red, White and Blue Stripes Pattern 
+
+These two files were formerly subfiles of the Technic Universal Joint,
+new number 9244.dat. I split them out so they may more easily be used.
+The 9244.dat is now shown as a shortcut file.
+90.DAT        Technic Universal Joint End                                     
+91.DAT        Technic Universal Joint Centre 
+----
+More info:
+
+After the number update is installed, these files may be deleted from 
+your ldraw\parts directory as they are no longer needed: 
+89a
+89b
+206a
+206b
+236a
+236b
+247a
+497a
+
+Finally, if you have Win95 and LDrawAddon (LDAO), you can use LDAO's
+'Update Moved Parts' function in the 'Tools' menu to update these
+moved parts in your own model files.
+Each model file must be processed individually, and you should BACK-UP
+the file before updating it. 
+I have had no problems using this feature of LDAO, but it is always
+better to be safe than sorry.
+Hopefully, we will get a DOS program written to do the same function
+for those without Win95.
+
+-- Terry K --
