@@ -1,0 +1,9 @@
+0 Train Level Crossing Gate - Type 2
+0 Name: 4512.dat
+0 Author: Chris Dee (chris_w_dee@hotmail.com)
+0 Official LCad update 98-10
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4512s01.dat
+4 16 5 -8 -10  5 -8 -382   5  8 -382 5 8 -10
+4 16 10 -8 -10  10 -8 -382   10  8 -382 10 8 -10
+0

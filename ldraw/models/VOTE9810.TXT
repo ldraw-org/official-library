@@ -1,0 +1,149 @@
+Voting Results - L-Cad dat vote 9810 
+10 vote-sheets tallied - some were partial/incomplete 
+
+-Pieces marked with an * by the number had some sort of 
+ modification to name and/or description. Details below.
+ All parts starting with an X that did not get new
+ correct numbers had the X dropped.
+-Some existing numbers were changed. Details below.
+
+Yes No Abstain Name     Description
+--- --- ----   ----     --------------------------------
+06   01  02    4186P01  Baseplate 48 x 48 with Playing Field Pattern
+06   00  03    4461     Box  4 x  4 x  2 with Hollowed-Out Semi-Circle
+06   00  03    3005-0   Brick  1 x  1 with Blue "0" Pattern
+06   00  03    3005-1   Brick  1 x  1 with Blue "1" Pattern
+06   00  03    3005-2   Brick  1 x  1 with Blue "2" Pattern
+06   00  03    3005-3   Brick  1 x  1 with Blue "3" Pattern 
+06   00  03    3005-4   Brick  1 x  1 with Blue "4" Pattern
+06   00  03    3005-5   Brick  1 x  1 with blue "5" pattern
+06   00  03    3005-7   Brick  1 x  1 with Blue "7" Pattern
+06   00  03    3005-A   Brick  1 x  1 with Blue "A" Pattern 
+06   00  03    3005-B   Brick  1 x  1 with Blue "B" Pattern
+06   00  03    3005-C   Brick  1 x  1 with Blue "C" Pattern
+06   00  03    3005-D   Brick  1 x  1 with Blue "D" Pattern
+06   00  03    3005-E   Brick  1 x  1 with Blue "E" Pattern
+06   00  03    3005-F   Brick  1 x  1 with Blue "F" Pattern
+06   00  03    3005-G   Brick  1 x  1 with Blue "G" Pattern
+06   00  03    3005-H   Brick  1 x  1 with Blue "H" Pattern 
+06   00  03    3005-I   Brick  1 x  1 with Blue "I" Pattern 
+06   00  03    3005-J   Brick  1 x  1 with Blue "J" Pattern
+06   00  03    3005-K   Brick  1 x  1 with Blue "K" Pattern 
+06   00  03    3005-L   Brick  1 x  1 with Blue "L" Pattern
+06   00  03    3005-M   Brick  1 x  1 with Blue "M" Pattern
+06   00  03    3005-N   Brick  1 x  1 with Blue "N" Pattern
+06   00  03    3005-O   Brick  1 x  1 with Blue "O" Pattern
+06   00  03    3005-P   Brick  1 x  1 with Blue "P" Pattern
+06   00  03    3005-Q   Brick  1 x  1 with Blue "Q" Pattern
+06   00  03    3005-R   Brick  1 x  1 with Blue "R" Pattern
+06   00  03    3005-S   Brick  1 x  1 with Blue "S" Pattern
+06   00  03    3005-T   Brick  1 x  1 with Blue "T" Pattern
+06   00  03    3005-U   Brick  1 x  1 with Blue "U" Pattern
+06   00  03    3005-V   Brick  1 x  1 with Blue "V" Pattern
+06   00  03    3005-W   Brick  1 x  1 with Blue "W" Pattern
+06   00  03    3005-X   Brick  1 x  1 with Blue "X" Pattern
+06   00  03    3005-Y   Brick  1 x  1 with Blue "Y" Pattern
+06   00  03    3005-Z   Brick  1 x  1 with Blue "Z" Pattern
+06   00  03  * 3005-1B  Brick  1 x  1 with Lightblue "1" Pattern (Needs work)
+06   00  03  * 3005-6B  Brick  1 x  1 with Lightblue "6" Pattern  (Needs work)
+07   00  01  * 777P01   Flag on Flagpole Old with German Pattern 
+09   00  00  * 3844     Minifig Castle Helmet with Neck Protector
+09   00  00  * 3833     Minifig Construction Helmet 
+09   00  00    9326P61  Minifig Torso New with Gold Ice Planet Pattern 
+09   00  00    9326P63  Minifig Torso New with Robot Pattern
+09   00  00    3649     Technic Gear 40 Tooth 
+09   00  00  * 3650A    Technic Gear 24 Tooth Crown 
+06   00  03    4512     Train Level Crossing Gate - Type 2 
+06   00  03  * 70163    Train Level Crossing Gate Counterweight - Type 2
+06   00  03  * 80276    Train Level Crossing Gate with Red Stripes - Type 2 
+06   00  03    3231     Train Track Crossing - 4.5 V
+09   00  00  * 3634     Tyre 17 x 43
+
+_New Subparts added to the \S directory in this update:
+  777S01.DAT    ~Subpart Stripe 1/3 from Flag Pattern
+  9326P61A.DAT  ~Subpart Minifig Torso New with Gold Ice Planet Pattern - Gold
+  9326P63A.DAT  ~Subpart Minifig Torso New with Robot Design - Silver
+  4512S01.DAT   ~Subpart Train Level Crossing Gate (without decorated surfaces)
+  3634A.DAT     ~Subpart Tyre 17 x 43 - Inside Tooth 
+  3634C.DAT     ~Subpart Tyre 17 x 43 back hole 
+  3634B.DAT     ~Subpart Tyre 17 x 43 outer teeth 
+  4186P01R.DAT  ~Subpart for 4186p01.dat; 1 row of stud-tops 
+  4186P01E.DAT  ~Subpart for 4186p01; Playing Field lines
+  4186P01A.DAT  ~Subpart for 4186p01; Row of 48 studs w/o tops 
+  4186P01L.DAT  ~Subpart for 4186p01; Stud-top w/ white line pattern
+  4186P01S.DAT  ~Subpart for 4186p01; Studs along side of field
+
+-------------------------------------------------------------------- 
+Other diabolical doings with the new parts:
+
+_During and after voting, and prior to release of this update, many
+ of the parts here were improved by their respective authors.
+ Those improvements have been incorporated in the update so as to give
+ you, the consumer, full value for your money.
+
+-"X" numbers kept as is, with the X dropped:
+  777P01.DAT    Flag on Flagpole Old with German Pattern
+
+-"X" numbers changed: 
+  x764 renamed to 3844   Minifig Castle Helmet with Neck Protector
+  x765 renamed to 3833   Minifig Construction Helmet
+  x610 renamed to 3634   Tyre 17x43
+  
+_Other renumberings:
+  4512p01 renamed to  80276 (correct patterned number)
+  3650    renamed to  3650a ("a" to allow for future "b" variant of same piece)
+  3005-1a renamed to 3005-1b At authors request, to avoid future conflicts
+  3005-6a renamed to 3005-6b At authors request, to avoid future conflicts
+
+_Descriptions changes to new parts
+  Following 3 files had "Type 2" appended to differentiate them from older,
+  similar pieces already in existence:
+  4512     Train Level Crossing Gate - Type 2 
+  70163    Train Level Crossing Gate Counterweight - Type 2
+  80276    Train Level Crossing Gate with Red Stripes - Type 2
+
+_New and/or Improved Primitive files, approved and submitted by
+ the L-Cad Primitives Committee:
+  1-4CON3.DAT
+  1-4CON4.DAT
+  1-4CYLS.DAT 
+  1-8DISC.DAT  
+  2-4RING3.DAT 
+  2-4CYLS.DAT  
+  3-8CYLS.DAT  
+  4-4CON12.DAT 
+  2-4DISC.DAT
+  4-4DISC.DAT 
+  BOX3#8P.DAT 
+  4-4EDGE.DAT 
+  RING1.DAT 
+  RING10.DAT 
+  RING2.DAT 
+  RING3.DAT 
+  RING4.DAT 
+  RING7.DAT  
+  4-4CYLI.DAT 
+
+-------------------------------------------------------------------- 
+Summary of changes to existing parts:
+
+-Another deferral of action on creating a new "Container" category, or of
+ moving several pieces into the "Box" category. I lost the list of items to 
+ move.  
+
+-I once again deferred action on the move to drop the "New" from a whole slew
+ of parts.    
+
+-Fixes by authors to their parts:
+ 2335p03  Flag  2 x  2 with Chequered Pattern
+
+-Stuff I fiddled with:
+  Following 3 pieces had "Type 1" appended on the description to
+  differentiate them from the similar "Type 2" new pieces above.
+    814 Train Level Crossing Gate Base - Type 1
+    815 Train Level Crossing Gate Crossbar - Type 1
+    816 Train Level Crossing Gate Handle - Type 1
+  "~Moved To" files:
+  205  ~Moved To number 32073 Technic Axle 5L
+
+-- Terry K --

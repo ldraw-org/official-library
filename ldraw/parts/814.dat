@@ -1,7 +1,7 @@
-0 Train Level Crossing Gate Base
+0 Train Level Crossing Gate Base - Type 1
 0 Name: 814.dat
 0 Author: Arne Hackstein
-0 Official LCad update 98-03
+0 Official LCad update 98-10
 
  1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
  1 16 0 8 0 16 0 0 0 -4 0 0 0 6 box5.dat
