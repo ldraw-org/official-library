@@ -1,0 +1,11 @@
+0 Monorail Wheel Complete Assembly
+0 Name: 2686c01.dat
+0 Author: Bernd Broich
+0 LDRAW_ORG Shortcut UPDATE 2002-06
+
+1 16 0 16 0 1 0 0 0 1 0 0 0 1 2686.dat
+0 Connector: z-axis: from -15 to +15 degrees
+1 16 0 31 0 1 0 0 0 1 0 0 0 1 2697.dat
+1 16 -25 28 0 1 0 0 0 1 0 0 0 1 2688.dat
+1 16 25 28 0 1 0 0 0 1 0 0 0 1 2688.dat
+0

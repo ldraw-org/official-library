@@ -1,7 +1,10 @@
 0 Wing  4 x  4 Left
 0 Name: 3936.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Original LDraw Part 
+0 LDRAW_ORG Part UPDATE 2002-06
+
+0 2002-11-09 Hafhead: Fixed overhanging quad
 
  1 16 -20 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
  1 16 0 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -103,7 +106,7 @@
  4 16 -1 4 -17 16 4 0 16 8 0 -1 8 -17
  4 16 16 4 0 16 4 36 16 8 36 16 8 0
 
- 4 16 32 4 16 19 4 16 19 8 16 32 9 16
+ 4 16 32 4 16 19 4 16 19 8 16 32 8 16
  4 16 19 4 16 19 4 3 19 8 3 19 8 16
  4 16 19 4 3 32 4 16 32 8 16 19 8 3
 

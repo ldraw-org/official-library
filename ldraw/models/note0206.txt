@@ -1,0 +1,58 @@
+LDraw.org Parts Update 2002-06
+---------------------------------------------------------------------------
+
+Notes created Tue Dec 31 22:47:59 2002 by the Parts Tracker.
+
+Release statistics:
+   Total files: 54
+   New files: 35
+   New parts: 22
+   New subparts: 9
+   New primitives: 4
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   4215P04.DAT   ~Moved to 4215ap04
+   973P37.DAT    ~Moved to 973p3r, 973p3s
+   973P4A.DAT    ~Moved to 973p4n, 973p4q
+
+Renamed Parts
+   3004P90.DAT   Brick  1 x  2 with Classic Space Logo Pattern
+   changed to    Brick 1 x  2 with Classic Space Logo Pattern
+
+   30189.DAT     Bike  3 Wheel Motorcycle Forks 
+   changed to    ~Bike 3 Wheel Motorcycle Forks 
+
+   32185.DAT     Technic Gear Rack 1 x 14 with Holes
+   changed to    Technic Gear Rack  1 x 14 with Holes
+
+   3403.DAT      Turntable  4 x  4 Base
+   changed to    ~Turntable  4 x  4 Base
+
+   3680.DAT      Turntable  2 x  2 Plate Base
+   changed to    ~Turntable  2 x  2 Plate Base
+
+   983.DAT       Minifig Hand Improved
+   changed to    Minifig Hand
+
+   3004P90A.DAT  ~Subpart Brick  1 x  2 with Classic Space Logo Pattern - Gold
+   changed to    ~Brick  1 x  2 with Classic Space Logo - Frontside
+
+   3939P90A.DAT  ~Subpart Slope Brick 33  3 x  6 with Classic Space Pattern Small - gold
+   changed to    ~Subpart Slope Brick 33  3 x  6 with Classic Space Small - Gold
+
+   973P37A.DAT   ~Subpart - Minifig Torso with Imperial Guard Officer Pattern - silver
+   changed to    Minifig Torso with Imperial Guard Officer Pattern - Silver
+
+   973P37B.DAT   ~Subpart - Minifig Torso with Imperial Guard Officer Pattern - gold
+   changed to    Minifig Torso with Imperial Guard Officer Pattern - Gold
+
+Other Fixed Parts
+   T04Q0625.DAT  Torus Tube    1 x 0.0625 x 0.25
+   3678.DAT      Slope Brick 65  2 x  2 x  2
+   3678P01.DAT   Slope Brick 65  2 x  2 x  2 with Witch's Dress Pattern
+   3936.DAT      Wing  4 x  4 Left
+   3939P90.DAT   Slope Brick 33  3 x  6 with Classic Space Small Pattern
+   770PH1.DAT    Minifig Shield Ovoid with Golden Lion
