@@ -1,0 +1,10 @@
+0 Plate  2 x  3 with Helicopter Rotor Holder (needs work)
+0 Name: 3462.dat
+0 Author: Christian M. Angele (c.m.angele@t-online.de)
+0 Official LCad update 97-17
+
+0 3021
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3021.DAT
+0 connect4
+ 1 16 0 0 0 1.25 0 0 0 2 0 0 0 1.25 connect4.DAT
+0

@@ -1,7 +1,7 @@
 0 Train Contact Wheel
-0 Name 2879a.dat
-0 Creator: Thomas Burger
-0 Official LCad update 97-16
+0 Name: 2879a.dat
+0 Author: Thomas Burger
+0 Official LCad update 97-17
 
  1 16 0 0 5 3 0 0 0 0 3 0 0 0 4-4edge.dat
  1 16 0 0 8 6 0 0 0 0 6 0 0 0 4-4edge.dat
@@ -17,7 +17,7 @@
  1 16 0 0 0 6 0 0 0 0 6 0 0 0 4-4edge.dat
  1 16 0 0 -2 6 0 0 0 0 6 0 0 0 4-4edge.dat
  1 16 0 0 0 3 0 0 0 0 3 0 0 0 4-4edge.dat
- 1 16 0 0 8 3 0 0 0 0 3 0 -10 0 o.DAT
+
  1 16 0 0 2 1 0 0 0 0 -1 0 1 0 stud.DAT
  1 16 0 0 8 6 0 0 0 0 6 0 -2 0 4-4cyli.dat
  1 16 0 0 0 6 0 0 0 0 6 0 -2 0 4-4cyli.dat
