@@ -1,0 +1,8 @@
+0 Ring 0.5   Radius  4
+0 Name: 2-4ring4.dat
+0 Author: Paul Easter
+0 Official LCAD Primitive - 2000-02 Update
+0
+1 16 0 0 0  1 0 0  0 1 0  0 0 1  1-4ring4.dat
+1 16 0 0 0  -1 0 0  0 1 0  0 0 1  1-4ring4.dat
+0

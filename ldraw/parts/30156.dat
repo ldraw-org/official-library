@@ -1,11 +1,10 @@
 0 Panel  4 x  6 x  6 Sloped
 0 Name: 30156.dat
 0 Author: Steve Bliss
-0 Official LCad Part 2000-01
+0 Official LCAD Part - 2000-02 Update
 
-0 CATEGORY Panel Sloped
 0 KEYWORDS ninja, spud, castle, rock, base
-0 not CW-compliant
+0 BFC NOCERTIFY
 
 1 16 -40 140 -10 -1 0 0 0 -1 0 0 0 1 stud3.DAT
 1 16 -20 140 -10 -1 0 0 0 -1 0 0 0 1 stud3.DAT

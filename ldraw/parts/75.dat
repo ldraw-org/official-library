@@ -1,0 +1,25 @@
+0 Technic Flex-System Hose 120LDU Long (open file for usage guide) 
+0 Name: 75.dat 
+0 Author: Fredrik Glöckner 
+0 Official LCAD Part - 2000-02 Update
+
+0 HINT Open file for usage guide
+
+0 A Technic Flex-System Hose is typically seen curved in a model.  In 
+0 those cases, some part of the ends are normally fixed inside another 
+0 element, while the rest of the hose is bent.  The parts "76.DAT" are 
+0 meant to model the straight parts of the hose ends.  To achieve this, 
+0 scale them to have the correct length (ie. 20LDU if they are fixed 
+0 inside a unit length connector) and place them at the end points.  The 
+0 parts "77.DAT" are meant to model the rest of the hose.  If the rest 
+0 of the hose is curved, you would typically scale the "77.DAT" to a 
+0 have a short length, eg. 4LDU, and use many of them along the path of 
+0 the curved hose.  
+0 In the example below, the end points are scaled to 20LDU length, while 
+0 the centre part of the hose is scaled to have 80LDU length, thus 
+0 filling out the rest of the hose.   
+
+1 16 -40 1 0 0 -20 0 1 0 0 0 0 1 76.DAT  
+1 16 40 1 0 0 -80 0 1 0 0 0 0 1 77.DAT  
+1 16 40 1 0 0 20 0 1 0 0 0 0 -1 76.DAT 
+0  

@@ -1,7 +1,9 @@
 0 Minifig Tool Mallet
 0 Name: 4522.dat
 0 Author: John VanZwieten
-0 Official LCad update 99-06
+0 Official LCAD Part - 2000-02 Update
+
+0 CATEGORY Minifig Accessory
 
  1 16 0 47.5 0 4 0 0 0 1 0 0 0 4 4-4edge.DAT
  1 16 0 0 0 4 0 0 0 1 0 0 0 4 2-4edge.DAT
@@ -42,8 +44,8 @@
  2 24 2.5 -12.5 12.5 -2.5 -12.5 12.5
  1 16 0 0 0 4 0 0 0 47.5 0 0 0 4 4-4cyli.DAT
  1 16 0 47.5 0 4 0 0 0 1 0 0 0 4 4-4disc.DAT
- 1 1 0 0 0 0 0 -4 0 -2 0 4 0 0 1-4cyls2.DAT
- 1 1 0 0 0 0 0 4 0 -2 0 4 0 0 1-4cyls2.DAT
+ 1 16 0 0 0 0 0 -4 0 -2 0 4 0 0 1-4cyls2.DAT
+ 1 16 0 0 0 0 0 4 0 -2 0 4 0 0 1-4cyls2.DAT
  4 16 -4 0 0 4 0 0 4 -5.54 -11.08 -4 -5.54 -11.08
  4 16 -4 -12.5 0 4 -12.5 0 4 -6.96 -11.08 -4 -6.96 -11.08
  1 16 -4 -6.25 -10.37 0 8 0 0.71 0 -0.71 -0.71 0 -0.71 1-4cyli.DAT

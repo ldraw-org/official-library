@@ -1,0 +1,43 @@
+0 Technic Ribbed Hose 120LDU Long (open file for usage guide) 
+0 Name: 78.dat
+0 Author: Fredrik Glöckner 
+0 Official LCAD Part - 2000-02 Update
+
+0 HINT Open file for usage guide 
+
+0 If you have a Ribbed Technic Hose you want to model in LDraw, you may 
+0 want to start by counting the number of "notches" on it.  Each subpart 
+0 "79.DAT" and "80.DAT" is used to model one single notch, the former 
+0 one at the end and the latter an arbitrary one in the middle.  The 
+0 distance between each notch should be 6.2LDU, and each subpart has the 
+0 notch centered in the origin.  For the end segments "79.DAT", the 
+0 distance from the origin to the very end of the hose is 2.5LDU.  This 
+0 way, the example hose below has a total length of 116.6LDU: Each of 
+0 the 17 segments have a length of 6.2LDU, while the end segments have a 
+0 length of 3.1LDU+2.5LDU each.  
+
+0 Note that the actual length of each hose segment is slightly longer 
+0 than 6.2LDU.  This is chosen so that the segments overlap if used to 
+0 model a curved hose.   
+
+ 1 16 55.8 0 0 0 1 0 1 0 0 0 0 -1 79.DAT  
+ 1 16 49.6 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 43.4 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 37.2 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 31 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 24.8 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 18.6 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 12.4 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 6.2 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 0 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 -6.2 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 -12.4 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 -18.6 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 -24.8 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 -31 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 -37.2 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 -43.4 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 -49.6 0 0 0 -1 0 1 0 0 0 0 1 80.DAT  
+ 1 16 -55.8 0 0 0 -1 0 1 0 0 0 0 1 79.DAT 
+0  
+

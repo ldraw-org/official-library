@@ -1,7 +1,9 @@
 0 Window  1 x  2 x  2 Plane
 0 Name: 2377.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Original LDraw Part - 2000-02 Update
+
+0 2000-Aug Axel Poque, Manfred Moolhuysen - fixes to resolve L3P error messages
 
  1 16 0 44 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 
@@ -113,7 +115,7 @@
  4 16 -20 40 -2 -20 4 -2 -16 4 -2 -16 40 -2
  4 16 16 4 -6 12 4 -6 12 32 -6 16 40 -6
  4 16 -16 4 -6 -12 4 -6 -12 32 -6 -16 40 -6
- 4 16 16 40 -6 -12 32 -6 12 32 -6 16 40 -6
+ 4 16 16 40 -6 12 32 -6 -12 32 -6 -16 40 -6
  4 16 20 0 -10 12 4 -10 12 32 -10 20 48 -10
  4 16 -20 0 -10 -12 4 -10 -12 32 -10 -20 48 -10
  4 16 20 48 -10 12 32 -10 -12 32 -10 -20 48 -10
@@ -121,6 +123,4 @@
 
  1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
  1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
-
-
-
+0

@@ -1,0 +1,395 @@
+Notes about the 2000-02 LCAD Parts Update
+September 23, 2000
+
+New Primitive Names
+-------------------
+Terry Keller is working on a cleaned-up version of the original LDraw 
+archive.  This update will be released soon, and among other changes, 
+standard headers have been added to the primitive files, located in the 
+ldraw\p\ directory.  The descriptive names have been reformatted, to 
+more closely match the naming style used for LDraw/LCAD part files.
+
+In order to get a jump on the changes, the primitives added or fixed 
+for this update have the new-style descriptive names.
+
+
+---------------------------------------------------------------------
+Voting Results - L-Cad dat vote 2000-02
+30 vote-sheets tallied - some may have been partial or incomplete
+
+-Pieces marked with an * by the number had some sort of
+ modification to name and/or description. Details below.
+ All parts starting with an X that did not get new
+ correct numbers had the X dropped.
+ Pieces marked with an 'H' are being held pending problem
+ resolution.
+
+Yes No Abstain Name     Description
+--  --  --  -------    --------------------------------
+22   2   4  2546       Animal Bird
+22   1   5  6029a      Animal Cattlehorns (needs work)
+16      11  309p02     Baseplate 32 x 32 Island with River Pattern
+20       7  2622       Boat Base  8 x 10
+18       9  3622p02    Brick  1 x  3 with Control Panel Pattern
+15   1  11  3010p03    Brick  1 x  4 with Garage Tools Pattern
+12   2  12  3067p01    Brick  1 x  6 without Centre Studs with 'Hotel' Pattern
+13   2  11  6216       Brick  2 x  4  x 2 with Curved Top (needs work)
+13   3   9  6214       Brick  2 x  8 x  4 with Curved Ends
+23   1   4  30149      Car Base  4 x  5 with 2 Seats
+18   1   8  30200      Cockpit  6 x  6 Octagonal Canopy Base
+21   1   5  6085       Cockpit  8 x  5 x  3
+20       7  30299      Cockpit 10 x 14 x  2 & 2/3
+15   1   9  749        Container Side Bags
+24       5  553        Cylinder  2 x  2 with Dome Top
+21   3   5  30361      Cylinder  2 x  2 x  2 Robot Body
+21       6  30223      Door  1 x  5 x  7 & 1/2
+23       5  2847c01    Electric 9V Battery Box  4 x 14 x  4 (Complete Shortcut)
+14   1  10  2847       Electric 9V Battery Box  4 x 14 x  4 Bottom (Needs Work)
+13   2  10  72         Electric 9V Battery Box  4 x 14 x  4 Buttons (Needs Work)
+15   2   8  2846       Electric 9V Battery Box  4 x 14 x  4 Cover
+19       9  2500c01    Electric Light & Sound Brick  1 x  8 with 3 Front Lights
+17      11  2977c01    Electric Rotation Sensor (Complete Assembly Shortcut)
+12   1  14  2977       Electric Rotation Sensor Bottom
+12   1  14  885        Electric Rotation Sensor Rotation Element
+13   1  13  886        Electric Rotation Sensor Top
+20       8  6216m      Electric Technic Motor  4.5V
+23       5  2335p43    Flag  2 x  2 with Black Falcon Pattern
+24       5  2335p44    Flag  2 x  2 with Wolfman Pattern
+23       5  43p01      Flag  6 x  4 with Jolly Roger Pattern
+17      11  4448p01    Glass for Window  4 x  4 x  3 Roof
+26       3  30090      Minifig Diver Mask
+18   4   5  2562       Minifig Gun Flintlock Pistol
+22   1   5  2561       Minifig Gun Musket
+22   2   3  30132      Minifig Gun Revolver
+23   2   3  30141      Minifig Gun Rifle
+22   2   5  3629       Minifig Hat Cowboy
+20   3   6  3626bp63   Minifig Head with Silver Robot Pattern
+22       7  773        Minifig Leg Wooden
+25       4  30362      Minifig Robot Leg
+24   1   4  30091      Minifig Scuba Tank
+24       5  3846p43    Minifig Shield Triangular with Black Falcon Pattern
+23       6  3846p44    Minifig Shield Triangular with Wolfpack Pattern
+23       5  2530       Minifig Sword Cutlass
+21       7  59         Minifig Sword Greatsword
+21   1   6  30173      Minifig Sword Katana
+22       7  30304      Minifig Tool Binoculars Space
+25       4  30162      Minifig Tool Binoculars Town
+22   1   5  2542       Minifig Tool Oar
+22   2   5  3836       Minifig Tool Pushbroom
+21   1   5  3878       Minifig Top Hat
+18   1   9  973p27     Minifig Torso with Autoroute Pattern
+21   1   7  973p43     Minifig Torso with Black Falcon Pattern
+20   1   8  973p37     Minifig Torso with Imperial Guard Officer Pattern
+21   1   7  973p35     Minifig Torso with Imperial Guard Pattern
+21   1   7  973p28     Minifig Torso with Leather Jacket Pattern
+20   1   8  973p26     Minifig Torso with Patch Pocket Pattern
+20   1   8  973p36     Minifig Torso with Pirate Captain Pattern
+22   2   5  973p66     Minifig Torso with Spyrius Pattern
+18   1  10  973p45     Minifig Torso with Studded Armor Pattern
+22   1   6  973p44     Minifig Torso with Wolfman Pattern
+19   1   8  30201      Panel 10 x 10 x  2 1/3 Corner Base
+20       9  30246      Panel Wall  3 x  4 x  6
+17   1  10  737        Plate  2 x  4 with Coupling, Female
+22       6  30042      Plate  4 x  5 Trap Door
+21       5  30041      Plate  6 x  8 Trap Door Frame
+10   3  13  745        Roadsign Base Old Type I
+11   3  12  746        Roadsign Base Old Type II
+12   3  11  747        Roadsign Old Warning
+11   3  12  747p01     Roadsign Old with Generic Warning Pattern
+24       5  52         Rock  1 x  1 Crystal  5 Point
+21       8  4515p03    Slope Brick 10  6 x  8 with Slate Roof Pattern
+17   2  10  3298p19    Slope Brick 33  3 x  2 with Freestyle Pattern
+16   1  10  2336p36    Space Nose with V Pattern
+21       8  4784       Staircase  4 x  6 x  7 1/3 Enclosed Straight
+18   3   7  30211      Support Insectoid Leg Small
+25       4  69c01      Tap  1 x  2
+24       6  32184      Technic Axle Joiner Perpendicular  3L
+21       9  32137      Technic Connector Block  3 x  2 x  2
+25       5  111        Technic Connector Block  3 x  3 Triangular
+23       7  32310      Technic Connector Block  3 x  5 x  1 & 2/3
+23       6  32165      Technic Connector Block  3 x  6 x  1 & 2/3
+22   1   7  32166      Technic Connector Block  3 x  6 x  1 & 2/3 Gearbox
+25       4  75         Technic Flex-System Hose 120LDU Long (open file for usage guide)
+21       8  32270      Technic Gear 12 Tooth Double Bevel
+21       8  32198      Technic Gear 20 Tooth Bevel
+19      10  32296      Technic Gear 20 Tooth Double Bevel
+16   2   8  742        Technic Gear 21 Tooth
+21       8  60c01      Technic Gear 24 Tooth Clutch
+15   1   9  743        Technic Gear 35 Tooth
+21       8  32185      Technic Gear Rack 1 x 14 with Holes
+25       5  151        Technic Liftarm  1 x  5 Straight
+26       4  32348      Technic Liftarm  1 x  7 Bent
+26       4  152        Technic Liftarm  1 x  9 Bent
+20       9  32079      Technic Liftarm  1 x  9 Offset Cross
+25       5  32278      Technic Liftarm  1 x 15 Straight
+25       4  32249      Technic Liftarm  3 x  3 L Shape with Quarter Circle
+27       3  153        Technic Liftarm  3 x  5 L Shape
+24       6  32250      Technic Liftarm  3 x  5 L Shape with Quarter Oval
+23       6  32190      Technic Panel Fairing #1
+23       6  32191      Technic Panel Fairing #2
+23       6  32188      Technic Panel Fairing #3
+23       6  32189      Technic Panel Fairing #4
+23       6  32136      Technic Pin 3L Double
+23       6  67c01      Technic Pneumatic Airtank
+26       3  3736       Technic Pulley Large
+26       3  78         Technic Ribbed Hose 120LDU Long (open file for usage guide)
+24       4  2909c01    Technic Shock Absorber  9.5L, (Complete Assembly Shortcut)
+21   2   3  2909       Technic Shock Absorber  9.5L, Cylinder
+21   2   3  109        Technic Shock Absorber  9.5L, Piston Rod
+21   2   3  110        Technic Shock Absorber  9.5L, Spring
+20   1   6  32181c02   Technic Shock Absorber 10L Damped, (Complete Assembly Shortcut)
+18   1   7  32181      Technic Shock Absorber 10L Damped, Cylinder
+17   1   7  32182      Technic Shock Absorber 10L Damped, Cylinder Cap
+19   1   6  32181c01   Technic Shock Absorber 10L Damped, Cylinder with Cap Shortcut
+17   1   8  32040      Technic Shock Absorber 10L Damped, Gasket
+15   1   8  32183      Technic Shock Absorber 10L Damped, Piston Rod
+18   1   7  32183c01   Technic Shock Absorber 10L Damped, Piston Rod w/ Gasket Shortcut
+17   1   8  108        Technic Shock Absorber 10L Damped, Spring
+22       5  6641       Technic Transmission Changeover Catch
+20   1   6  6631       Technic Transmission Changeover Plate  2 x  6
+20       6  6539       Technic Transmission Driving Ring
+17       9  32187      Technic Transmission Driving Ring Extension
+22   1   5  680c01     Technic Tread (Complete Shortcut)
+21   1   6  32007      Technic Tread Sprocket Wheel
+24       4  4150p01    Tile  2 x  2 Round with Grille Pattern
+19       9  4181p07    Train Door  1 x  4 x  5 Left with Yellow Stripe Pattern
+19       9  4182p07    Train Door  1 x  4 x  5 Right with Yellow Stripe Pattern
+19       8  3229b      Train Track Slotted Rail Curved Outside
+20       7  3228b      Train Track Slotted Rail Straight
+21       7  3230a      Train Track Tapered Rail Curved Inside
+21       7  3229a      Train Track Tapered Rail Curved Outside
+21       7  3228a      Train Track Tapered Rail Straight
+19       9  2902       Tyre 81.6 x 15 Motorcycle
+22       5  30382      Wedge  2 x 12 Triple
+18      10  2903       Wheel 81.6 x 15 Motorcycle
+21       7  39c01      Window  1 x  1 x  1 with Glass
+20       7  29c01      Window  1 x  1 x  2 with Glass
+21   2   4  6084       Windscreen Top  8 x  3 & 3/5 x  4 & 1/2 Octagonal Canopy Half
+
+_New Subparts added to the \S directory in this update:
+30173s01.dat  Minifig Sword Katana Grip Segment
+3736c.dat     Technic Pulley Large Center
+3736r.dat     Technic Pulley Large Round Segment
+3736s.dat     Technic Pulley Large Segment
+3846p43a.dat  ~Black Falcon Pattern - Dark Side
+3846p43b.dat  ~Black Falcon Pattern - Light Side
+553s01.dat    ~Cylinder 2 x  2 with Dome Top Subpart
+30223a.dat    ~Door  1 x  5 x  7 & 1/2 - Tooth subpart 1
+30223b.dat    ~Door  1 x  5 x  7 & 1/2 - Tooth subpart 2
+6216ma.dat    ~Electric Technic Motor  4.5V Casing
+6216mb.dat    ~Electric Technic Motor  4.5V Core
+6216mc.dat    ~Electric Technic Motor  4.5V Shaft
+3846p44c.dat  ~Minifig Shield with Wolfpack Pattern - Border
+3846s01.dat   ~Minifig Shield without Decorated Surface
+973p45s1.dat  ~Minifig Torso Armor Stud Subpart
+973p43c.dat   ~Minifig Torso with Black Falcon Pattern - silver
+973p66a.dat   ~Minifig Torso with Spyrius Pattern - Silver
+973p44c.dat   ~Minifig Torso with Wolfman Pattern - maroon
+747s01.dat    ~Roadsign Old Warning Subpart without Pattern Area
+973p37b.dat   ~Subpart - Minifig Torso with Imperial Guard Officer Pattern - g
+973p37a.dat   ~Subpart - Minifig Torso with Imperial Guard Officer Pattern - s
+973p36a.dat   ~Subpart - Minifig Torso with Pirate Captain Pattern - Belt
+309p02a.dat   ~Subpart Baseplate 32 x 32 Island with River Pattern
+3626p63a.dat  ~Subpart Minifig Head with Silver Robot Pattern - Silver
+973p35a.dat   ~Subpart Minifig Torso with Imperial Guard Pattern - Gold subpar
+973p35b.dat   ~Subpart Minifig Torso with Imperial Guard Pattern - silver subp
+3736sp.dat    ~Technic Pulley Large Fillet Subpart
+32007s2.dat   ~Technic Tread Hub Subpart
+2902s01.dat   ~Tyre 81.6 x 15 Motorcycle Subpart
+2903s01.dat   ~Wheel 81.6 x 15 Motorcycle Subpart 1
+3846p44b.dat  ~Wolfpack Pattern - Background
+3846p44a.dat  ~Wolfpack Pattern - Wolf Head
+
+_New Primitives:
+4-4con8.dat   Cone 1.0   Radius  8
+1-4ring4.dat  Ring 0.25  Radius  4
+1-4rin18.dat  Ring 0.25  Radius 18
+1-4rin19.dat  Ring 0.25  Radius 19
+2-4ring1.dat  Ring 0.5   Radius  1
+2-4ring4.dat  Ring 0.5   Radius  4
+stu25.dat     Scala Stud (Fast-Draw)
+stud6.dat     Stud Open For Round 2x2 Parts
+stu26.dat     Stud Open For Round 2x2 Parts (Fast-Draw)
+stud6a.dat    Stud Open For Round 2x2 Parts No Bottom Edges
+stu26a.dat    Stud Open For Round 2x2 Parts without Base Edges (Fast-Draw)
+48\1-8edge.d  Circle  48 0.125
+48\1-4ndis.d  Disc Negative  48 0.25
+
+_New pieces added in _underscore (hard-coded color) categories:
+81048.dat     _Brick  1 x  3 with Control Panel Pattern
+80400.dat     _Brick  1 x  4 with Garage Tools Pattern
+74650.dat     _Electric 9V Battery Box  4 x 14 x  4 (Complete Shortcut)
+75192.dat     _Electric Rotation Sensor (Complete Assembly Shortcut)
+80581.dat     _Flag  2 x  2 with Black Falcon Pattern
+81427.dat     _Flag  6 x  4 with Jolly Roger Pattern
+74330.dat     _Minifig Leg Wooden (Complete Assembly Shortcut)
+80298.dat     _Minifig Shield Triangular with Black Falcon Pattern
+81714.dat     _Minifig Shield Triangular with Wolfpack Pattern
+71014.dat     _Minifig Sword Greatsword
+70770.dat     _Rock  1 x  1 Crystal  5 Point
+81772.dat     _Slope Brick 10  6 x  8 with Slate Roof Pattern
+9567.dat      _Tap  1 x  2 Blue/Grey
+9044.dat      _Tap  1 x  2 White/Grey
+73593.dat     _Tap  1 x  2 Yellow/Grey
+4107539.dat   _Technic Gear 24 Tooth Clutch
+4107073.dat   _Technic Pneumatic Airtank
+4107488.dat   _Technic Tread (Complete Shortcut)
+
+--------------------------------------------------------------------
+Summary of changes to existing files for update 2000-02
+
+== 0 CATEGORY Errors ==
+
+80672.dat     _Baseplate 32 x 32 Road 9-Stud T Intersection with Green Octagon
+   0 CATEGORY Baseplate
+
+   Should be:
+   0 CATEGORY _Baseplate
+
+4523.dat       Minifig Container D-Basket
+   0 CATEGORY Minifig Accessories
+
+   Should be:
+   0 CATEGORY Minifig Accessory
+
+30156.dat      Panel  4 x  6 x  6 Sloped
+   0 CATEGORY Panel Sloped
+
+   Should be:
+   0 CATEGORY Panel
+
+== Category Reorganizations ==
+
+To create a new "Animal Parts" category, along with part
+X51.DAT, Animal Cattlehorns, the following files:
+   2397.DAT      Horse Hitching                                                  
+   4587.DAT      Horse Hitching with Hinge                                       
+   4491A.DAT     Minifig Saddle with One Clip                                    
+   4491B.DAT     Minifig Saddle with Two Clips                                   
+
+   were renamed:
+   2397.DAT      Animal Horse Hitching                                           
+   4587.DAT      Animal Horse Hitching with Hinge                                
+   4491A.DAT     Animal Horse Saddle with One Clip                               
+   4491B.DAT     Animal Horse Saddle with Two Clips                              
+
+Along with other changes, parts:
+   3846.DAT      Castle Shield                                                   
+   3846P47.DAT   Castle Shield with Red and Gray Pattern, Blue Frame             
+
+   were renamed/recategorized to:
+   3846.DAT      Minifig Shield Triangular                                       
+   0 CATEGORY Minifig Accessory
+
+   3846P01.DAT   Minifig Shield Triangular with Black Falcon Pattern             
+   0 CATEGORY Minifig Accessory
+
+Since there will now be a second staircase part, and the word 'Stairs' 
+violates the LCAD approach of singular names for parts and categories, 
+part:
+   30134.DAT     Stairs  7 x  4 x  6
+
+   was renamed: 
+   30134.DAT     Staircase  7 x  4 x  6 Open
+
+As part of the new Cockpit category, part:
+   6058.DAT      Space Cabin Nose Base                                           
+
+   was renamed: 
+   6058.DAT      Cockpit  4 x 11 x  2 & 1/3                                            
+
+== Fixes to DAT Code ==
+
+32056.DAT     Technic Liftarm  3 x  3 L Shape
+   Lines 224 and 225 were incorrectly:
+
+      2 24 31.42 -5 2 31.42 -5 2
+      2 24 31.42 -5 -2 31.42 -5 -2
+
+   Corrected to:
+
+      2 24 31.42 -5 2 31.42 5 2
+      2 24 31.42 -5 -2 31.42 5 -2
+
+2447.DAT      Minifig Helmet Visor
+   Polygons on faceplate replaced with references to primitive files.
+
+979.DAT       Minifig (Complete Figure Shortcut)                              
+980.DAT       Minifig (Complete Figure Shortcut, Sitting)                     
+   Position of hat corrected.
+
+3040P32.DAT   Slope Brick 45  2 x  1 with 9 + 3 Black Buttons Pattern         
+   Corrected a comment line which was formatted like an LDLite meta-statement.
+
+4095.DAT      Town Umbrella Stand Small
+   Corrected swapped parameters 
+
+4522.DAT      Minifig Tool Mallet                                             
+   Lines were coded as color 1.  Should be color 16.
+
+Following files all had various fixes, primarily to resolve errors reported
+by L3P.
+   Primitives:
+   1-8SPHE.DAT   1/8 sphere
+   AXLEHOL7.DAT  Axle Hole 7 - Area between teeth
+
+   Parts:
+   2339.DAT      Arch  1 x  5 x  4
+   2539.DAT      Boat Mast Platform
+   2345.DAT      Castle Wall  3 x  3 x  6 Corner
+   2345P44.DAT   Castle Wall  3 x  3 x  6 Corner with Blacktron I Logo Pattern
+   2345P01.DAT   Castle Wall  3 x  3 x  6 Corner with Lines Pattern
+   3942.DAT      Cone  2 x  2 x  2
+   3861.DAT      Door  1 x  4 x  5 with 4 Panes
+   2349.DAT      Hinge Car Roof  4 x  4 Sunroof
+   2467.DAT      Panel  4 x  4 x  6 Corner Concave
+   2417.DAT      Plant Leaves  6 x  5
+   3651.DAT      Technic Connector
+   3648.DAT      Technic Gear 24 Tooth
+   3649.DAT      Technic Gear 40 Tooth
+   2696.DAT      Tyre Model Team
+   2695.DAT      Wheel Model Team
+   2377.DAT      Window  1 x  2 x  2 Plane
+   206B.DAT      ~Technic Differential Gear
+
+
+== Primitives ==
+
+STU25.DAT
+   This file should have been added when stud5.dat was added.
+
+48\1-8EDGE.DAT
+   This file was accidently left out of the 2000-01 update.
+
+== Descriptive Name ==
+
+30180.DAT     Slope Brick 45  6 x  2 x  2 Double                              
+was changed to
+30180.DAT     Slope Brick 45 10 x  2 x  2 Double                              
+
+30183.DAT     Slope Brick 45  4 x  6 Double Inverted                          
+was changed to
+30183.DAT     Slope Brick 45  6 x  4 Double Inverted                          
+
+731.DAT       Technic Shock Absorber Small, Lower Half with Spring            
+was changed to
+731.DAT       Technic Shock Absorber  6.5L, Piston Rod with Spring            
+
+732.DAT       Technic Shock Absorber Small, Upper Half                        
+was changed to
+732.DAT       Technic Shock Absorber  6.5L, Cylinder                          
+
+973P14.DAT    Minifig Torso with 'S' Logo Pattern
+was changed to                             
+973P14.DAT    Minifig Torso with 'S' Red / Black Logo Pattern
+
+973P23.DAT    Minifig Torso with 'S' Logo Yellow / Blue Pattern               
+was changed to                             
+973P23.DAT    Minifig Torso with 'S' Logo Grey / Blue Pattern               
+
+== Subpart created so plain pieces and patterned pieces can share code ==
+
+3846.DAT      Minifig Shield                                                   
+3846P47.DAT   Minifig Shield Triangular with Red and Gray Pattern, Blue Frame             
+   had most of their code for the shield moved to sub-part s\3846s01.dat
+

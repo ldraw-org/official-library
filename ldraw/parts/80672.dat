@@ -1,13 +1,13 @@
 0 _Baseplate 32 x 32 Road 9-Stud T Intersection with Green Octagon
 0 Name: 80672.dat
 0 Shortcut for Official TLG Color/Number
-0 Official LCad update 99-03
+0 Official LCAD Part - 2000-02 Update
 
 0 This file is "shortcut" with the correct TLG number
 0 and has the actual coloring of the piece.
 0 Its category is preceded by an underscore character.
 
-0 CATEGORY Baseplate
+0 CATEGORY _Baseplate
 0 KEYWORDS airport, helipad, runway, accessory pack, Tee-plate, Space
 0 not CW-compliant
 
