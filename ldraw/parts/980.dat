@@ -1,12 +1,13 @@
 0 Minifig (Complete Figure Shortcut, Sitting)
 0 Name: 980.dat
-0 Official LCad update 99-01
+0 Official LCad update 99-03
+
 0 legs & hip
  1 1 0 -9 0 1 0 0 0 0 1 0 -1 0 972.dat
  1 1 0 -9 0 1 0 0 0 0 1 0 -1 0 971.dat
  1 1 0 -21 0 1 0 0 0 1 0 0 0 1 970.dat
 0 torso
- 1 4 0 -53 0 1 0 0 0 1 0 0 0 1 9326.dat
+ 1 4 0 -53 0 1 0 0 0 1 0 0 0 1 973.dat
 0 head
  1 14 0 -81 0 1 0 0 0 1 0 0 0 1 3626bp01.dat
 0 hat

@@ -1,7 +1,7 @@
-0 Leaves  6 x  5
+0 Plants Leaves  6 x  5
 0 Name: 2417.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Official L-Cad update 99-03
 
  1 16 40 3 40 1 0 0 0 -1.25 0 0 0 1 stud4a.dat
  1 16 -40 3 40 1 0 0 0 -1.25 0 0 0 1 stud4a.dat
@@ -456,5 +456,4 @@
  1 16 20 0 -40 1 0 0 0 1 0 0 0 1 stud2a.dat
  1 16 -20 0 -40 1 0 0 0 1 0 0 0 1 stud2a.dat
  1 16 0 0 -60 1 0 0 0 1 0 0 0 1 stud2a.dat
-
-
+0

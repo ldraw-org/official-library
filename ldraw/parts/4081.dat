@@ -1,4 +1,11 @@
 0 Plate  1 x  1 with Clip Light
+0 Name: 4081.dat
+0 Author: James Jessiman
+0 Official L-Cad update 99-03
+
+0 Note: One or more STUD references in this file
+0 have been purposely capitalized to ensure that
+0 the stud is fully visible in LEdit
 
  1 16 0 8 0 6 0 0 0 -4 0 0 0 6 box5.dat
 
@@ -66,8 +73,8 @@
  4 16 4 0 -10 4 0 -12.40 -4 0 -12.40 -4 0 -10
 
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16 4 2 -20 0 -1 0 1 0 0 0 0 1 stud2a.dat
- 1 16 -4 2 -20 0 1 0 1 0 0 0 0 1 stud2a.dat
+ 1 16 4 2 -20 0 -1 0 1 0 0 0 0 1 STUD2a.dat
+ 1 16 -4 2 -20 0 1 0 1 0 0 0 0 1 STUD2a.dat
 
  4 16 4 2 -14 4 -0.30 -14.46 4 -1.06 -12.61 4 2 -12
  4 16 -4 2 -14 -4 -0.30 -14.46 -4 -1.06 -12.61 -4 2 -12
@@ -101,3 +108,4 @@
  4 16 -4 6.24 -15.76 -4 4.30 -14.46 -4 5.06 -12.61 -4 7.66 -14.34
  4 16 4 4.30 -14.46 4 2 -14 4 2 -12 4 5.06 -12.61
  4 16 -4 4.30 -14.46 -4 2 -14 -4 2 -12 -4 5.06 -12.61
+0

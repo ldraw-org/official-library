@@ -1,9 +1,3 @@
-0 Electric Technic 9V Motor
-0 Name: 2837a.dat
-0 Author: James Jessiman
-0 Official LCad update 99-01
-
- 1 0 0 26 -50 1 0 0 0 1 0 0 0 1 2837.dat
- 1 8 0 0 0 1 0 0 0 1 0 0 0 1 2838.dat
- 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2839.dat
-0
+0 ~Moved to 2838c01
+0 WRITE Part 2837a moved to 2838c01
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2838c01.dat

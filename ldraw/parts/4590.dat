@@ -1,9 +1,16 @@
 0 Plate  1 x  4 Offset
+0 Name: 4590.dat
+0 Author: James Jessiman
+0 Official L-Cad update 99-03
+
+0 Note: One or more STUD references in this file
+0 have been purposely capitalized to ensure that
+0 the stud is fully visible in LEdit
 
  1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 
- 1 16 30 12 10 1 0 0 0 -1 0 0 0 1 stud4a.dat
- 1 16 -30 12 10 1 0 0 0 -1 0 0 0 1 stud4a.dat
+ 1 16 30 12 10 1 0 0 0 -1 0 0 0 1 STUD4a.dat
+ 1 16 -30 12 10 1 0 0 0 -1 0 0 0 1 STUD4a.dat
  1 16 30 12 10 6 0 0 0 0 0 0 0 6 4-4edge.dat
  1 16 -30 12 10 6 0 0 0 0 0 0 0 6 4-4edge.dat
  1 16 30 12 10 4 0 0 0 0 0 0 0 4 4-4edge.dat
@@ -180,9 +187,9 @@
  4 16 -20 8 -6 -20 0 -6 -20 0 -10 -20 8 -10
  4 16 20 8 -10 20 0 -10 -20 0 -10 -20 8 -10
 
- 1 16 30 8 10 1 0 0 0 3 0 0 0 1 stud2.dat
- 1 16 -30 8 10 1 0 0 0 3 0 0 0 1 stud2.dat
+ 1 16 30 8 10 1 0 0 0 3 0 0 0 1 STUD2.dat
+ 1 16 -30 8 10 1 0 0 0 3 0 0 0 1 STUD2.dat
 
  1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
  1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-
+0

@@ -1,0 +1,187 @@
+Fixes as of May 17, 1999 and released
+as an entire update, lcad9903:
+
+(see also file part9903.txt for a description
+list of pieces contained in this update)
+
+-Annoying change ALERT.   **** READ THIS ****
+ In order to correct both incorrect numbers and to conform
+ to the numbering scheme, the following files were changed.
+ The problem is that no corresponding "~Moved to" files 
+ could be created to make the change painless.  So, ANY MODEL
+ YOU HAVE THAT USES NUMBERS FROM THE LEFT SIDE OF THIS LIST
+ MUST BE CHANGED BY HAND.  Failure to do so will cause the model
+ to have the wrong piece in it:
+
+OLD NUMBER                NEW NUMBER
+   3137    was changed to   3137c01   with NO ~moved to file.
+   3149    was changed to   3149c01   with NO ~moved to file.
+   3324    was changed to   3324c01   with NO ~moved to file.
+   3939    was changed to   3942      with NO ~moved to file.
+   3942    was changed to   3943      with NO ~moved to file.
+
+      What these pieces were:
+         3137 WAS Brick  2 x  2 with Wheels
+         3149 WAS Hinge Plate  2 x  5
+         3324 WAS Hinge Plate  2 x  9
+         3939 WAS Cone  2 x  2 x  2
+         3942 WAS Cone  4 x  4 x  2
+
+ Note that the last two 3939/3942 directly conflict with each other.
+ My sincerest apologies for this. But in order to fix things,
+ we have to bite the bullet sometime. 
+
+               *******************
+
+-Parts from last vote held, and added now.
+
+  Parts added in #16 default gray (holdovers from vote 9902):
+  2524      Minifig Backpack Non-Opening
+  2574      Wheel Pull-Back Motor
+  890       Roadsign Clip-on  2 X  2 Octagonal
+  30        Technic Hook Large Metallic
+  37        Minifig Knife
+  38        Minifig Harpoon
+  71427c01  Electric Technic Mini-Motor  9v
+
+ Shortcuts added with correct color/number in "_" underscore type category
+ (holdovers from vote 9902):
+  70496   _Technic Hook Large Metallic
+             (uses 30.dat in #0 black)
+  71427   _Electric 9V Mini-Motor
+             (uses 71427c01.dat in #7 gray)
+  80394   _Container Box  2 x  2 x  2 Door with Slot and Fire Logo Pattern
+             (uses 4346p01.dat in #15 white)
+  81038   _Hose Reel  2 x  4 x  2 Holder with Fire Logo Pattern
+             (uses 4209p01.dat in #4 red)
+  81155   _Castle Wall  3 x  3 x  6 Corner with Blacktron I Logo Pattern
+             (uses 2345p44.dat in #0 black)
+
+-Existing parts modified to to be TLG Color-Correct:
+  80120   _Panel  1 x  4 x  3 with Red Bar and White Grille Pattern
+             (uses 4215p01.dat in #47 trans-white)
+  80671   _Baseplate 32 x 32 Road 9-Stud Landing Pad with Green Octagon
+             (uses 6099p02.dat in #0 black)
+  80672   _Baseplate 32 x 32 Road 9-Stud T Intersection with Green Octagon
+             (uses 608p02.dat in #0 black)
+
+-Fixed small yellow spot on end, and incorrect primitive references:
+  6042      Brick  2 x  2 x  3 & 1/3 Octagonal With Side Studs
+
+-Changed "STUD" references to "stud".
+ Having the capitalized "STUD" caused LEdit to not
+ display studs as lines.
+  2463      Brick  3 x  3 x  2 Facet Top                                    
+  2598      Windscreen 10 x 10 x  4 Bubble Top (Aquanaut)                   
+  3005-AE   Brick  1 x  1 with Blue Danish "AE" Pattern                     
+  3008P21   Brick  1 x  8 with Light Blue Squares Pattern                   
+  3009P21   Brick  1 x  6 with Light Blue Squares Pattern                   
+  3010P21   Brick  1 x  4 with Light Blue Squares Pattern                   
+  30185     Window Bay  3 x  8 x  6                                         
+  30195     Plate  2 x  6 with Half Saucer                                  
+  3231      Train Track Crossing - 4.5 V                                    
+  4082      Container Box  6 x  8 x  1 & 1/3                                
+  4461      Container Box  4 x  4 x  2 with Hollowed-Out Semi-Circle        
+  6063      Plate 10 x 10 Octagonal Open Center                             
+  6084      Windscreen Top (Aquanaut Sub)                                   
+  721       Garage  4 x  8 x  3                                             
+
+-Contrary to the above - changed "stud" to "STUD" so
+ that the stud end is *finally* visible in LEdit even when
+ the [Line-as-Stud] option is (ON):
+  4735      Space Robot Arm
+  4599      Tap  1 x  1                                                 
+  2569      Antenna Whip 8H
+  4081      Plate  1 x  1 with Clip Light
+  6140      Bar  1 x  6 with Studs Closed
+  4873      Bar  1 x  6 with Studs Open
+  4590      Plate  1 x  4 Offset
+  4596      Space Wing 4 x 2
+  2566      Plants Tree Palm Top
+
+-Pattern enhancements.
+  3626BP02  Minifig Head with Standard Woman Pattern
+  9326P14   Minifig Torso with 'S' Logo Pattern
+  2345p44   Castle Wall  3 x  3 x  6 Corner with Blacktron I Logo Pattern
+            (also re-aligned this part to match original)
+
+-Description changes (for sorting or consolidation of categories).
+   2837A     Electric Technic Motor  9V
+   2837        Part of above
+   2838        Part of above
+   2839        Part of above
+   2598      Windscreen 10 x 10 x  4 Octagonal Canopy
+   2418b     Windscreen  6 x  6 Octagonal Canopy with Axlehole
+   2417      Plants Leaves  6 x  5
+   2423      Plants Leaves  4 x  3
+   3741      Plants Flower Stem
+   3742      Plants Flower (needs work)
+   6118      Wheel Hard-Plastic Small
+   2583      Wheel Hard-Plastic Medium
+   2573      Wheel Hard-Plastic Giant
+   4474      Windscreen  6 x  4 x  2 Canopy
+   2337      Windscreen  4 x  4 x  2 Canopy Extender
+   2507      Windscreen 10 x  4 x  2 & 1/3 Canopy
+   80671     Baseplate 32 x 32 Road 9-Stud Landing Pad with Green Octagon
+   80672     Baseplate 32 x 32 Road 9-Stud T Intersection with Green Octagon
+
+-Description changes for clarification.
+   20     ~Wheel Centre Small for Steel Axle
+   3482   Wheel Centre Large
+   4624   Wheel Centre Small
+   30027  Wheel Centre Small Wide for Slick Tyre
+
+- "~Moved to" files.
+   2418  ~Moved to 2418b due to added version of part - 2418a.
+   6     ~Moved To 3464
+   146   ~Moved To 2529
+   352   ~Moved To 4095
+   829   ~Moved To 3433
+   2748  ~Moved To 3857
+   2837a ~Moved To 2838c01
+   3944  ~Moved To 3961
+   3945  ~Moved To 3839
+   3946  ~Moved To 3963
+   3950  ~Moved To 3959
+   3137a ~Moved To 3137
+   3137b ~Moved To 20
+   3149a ~Moved To 313
+   3149b ~Moved To 314
+   3149c ~Moved To 3149
+   3324a ~Moved To 3324
+   3951  ~Moved To 3939
+   122   ~Moved To 122c01
+   3951p68  ~Moved To 3939p68
+
+- Minor corrections to account for an internal
+  reference to a moved file.
+   122 mod to use 20.dat
+   817 mod to use 20.dat 
+
+-Major revisions to minifig torsos.  All torsos were
+  modified to use a new s\ directory subfile. 17 files
+  were modified. This is to simplify and improve future 
+  torso patterns.
+
+  In addition, all torsos have been moved to the 973 number.
+  9326 is *not* the correct number for an armless torso.
+  ~Moved to files for all affected pieces ARE included.
+
+-Change to the design of the hose end/cup section
+  755  Hose Flexible Segment End Section
+  Plus the other pieces in this range (754 & 756) had
+  internal documentation changes.
+
+-Fixed minor header error
+  970p63a
+  971p63a
+  972p63a
+
+-Added optional lines to primitives
+  1-4con3.dat
+  1-4con4.dat
+
+All files in this release have their date/time
+set to: 17 May 1999 3:00:00 (99-03)
+
+--end--

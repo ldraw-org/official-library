@@ -1,4 +1,7 @@
-0 Space Windscreen
+0 Windscreen  6 x  4 x  2 Canopy
+0 Name: 4474.dat
+0 Author: James Jessiman
+0 Official L-Cad update 99-03
 
  1 16 36 0 0 0 0 0 4 0 0 0 0 4 2-4edge.dat
  1 16 22 0 0 0 0 0 4 0 0 0 0 4 2-4edge.dat
@@ -267,3 +270,4 @@
  4 16 -36 8 -4 -32 4 -4 -32 4 -8 -36 8 -8
  4 16 36 38 -108 36 0 -32 -36 0 -32 -36 38 -108
  4 16 40 38 -116 40 -4 -32 -40 -4 -32 -40 38 -116
+0

@@ -1,8 +1,3 @@
-0 Hinge Plate  2 x  5 Pivot
-0 Name: 3149a.dat
-0 Author: James Jessiman
-0 Official LCad update 99-01
-
- 1 16 0 0 0 0 4 0 1 0 0 0 0 1 stud2a.dat
- 1 16 0 0 0 0 -4 0 1 0 0 0 0 1 stud2a.dat
-0
+0 ~Moved to 313
+0 WRITE Part 3149a moved to 313
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 313.dat

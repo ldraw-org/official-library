@@ -1,7 +1,7 @@
-0 Windscreen 10 x 10 x  4 Bubble Top (Aquanaut)
+0 Windscreen 10 x 10 x  4 Octagonal Canopy
 0 Name: 2598.dat
 0 Author: Luis E. Fernandez
-0 Official LCad update 98-03
+0 Official LCad update 99-03
 
 4 16 -60 96 -80 -60 96 -75 -63 96 -72 -65.5 96 -74.5
 4 16 -65.5 96 -74.5 -63 96 -72 -63 92 -72 -65.5 92 -74.5
@@ -753,11 +753,11 @@
 1 16 0 0 0 -8.5 0 0 0 20 0 0 0 -8.5 2-4NDIS.dat
 1 16 0 0 0 -6 0 0 0 6 0 0 0 -6 RING1.dat
 0
-1 16 0 4 0 1 0 0 0 -1 0 0 0 -1 STUD4.dat
-1 16 10 0 10 1 0 0 0 1 0 0 0 1 STUD.dat
-1 16 -10 0 10 1 0 0 0 1 0 0 0 1 STUD.dat
-1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 STUD.dat
-1 16 10 0 -10 1 0 0 0 1 0 0 0 1 STUD.dat
+1 16 0 4 0 1 0 0 0 -1 0 0 0 -1 stud4.dat
+1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
 0
 4 16 24 4 -8.5 -24 4 -8.5 -8.5 4 -24 8.5 4 -24
 4 16 -24 4 8.5 24 4 8.5 8.5 4 24 -8.5 4 24

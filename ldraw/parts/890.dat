@@ -1,0 +1,13 @@
+0 Roadsign Clip-on  2 X  2 Octagonal
+0 Name: 890.dat
+0 Author: John VanZwieten
+0 Official LCad update 99-03
+
+0 Front Face
+ 4 16 -20 -8 -9 20 -8 -9 20 8 -9 -20 8 -9
+ 4 16 -20 -8 -9 -8 -20 -9 8 -20 -9 20 -8 -9
+ 4 16 -20 8 -9 -8 20 -9 8 20 -9 20 8 -9
+
+0 Rest of Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\890s01.dat
+0

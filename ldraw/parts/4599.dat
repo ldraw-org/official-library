@@ -1,4 +1,11 @@
 0 Tap  1 x  1
+0 Name: 4599.dat
+0 Author: James Jessiman
+0 Official L-Cad update 99-03
+
+0 Note: One or more STUD references in this file
+0 have been purposely capitalized to ensure that
+0 the stud is fully visible in LEdit
 
  1 16 0 24 0 1 0 0 0 1 0 0 0 1 stud.dat
  1 16 0 24 0 8 0 0 0 0 0 0 0 8 4-4edge.dat
@@ -14,7 +21,7 @@
  1 16 0 4 16 4 0 0 0 0 4 0 0 0 4-4disc.dat
  1 16 0 4 20 4 0 0 0 0 4 0 0 0 4-4disc.dat
  1 16 0 4 16 4 0 0 0 0 4 0 4 0 4-4cyli.dat
- 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 STUD.dat
 
  4 16 0 24 6 -2.30 24 5.54 -3.06 24 7.39 0 24 8
  4 16 0 20 8 -3.06 20 7.39 -2.61 17.17 6.31 0 17.17 6.83
@@ -144,3 +151,4 @@
  5 24 2.61 17.17 6.31 0 17.17 6.83 1.53 16 3.70 3.06 20 7.39
  4 16 3.70 5.53 10 4 4 10 3 4 16 2.77 5.15 16
  5 24 3.70 5.53 10 2.77 5.15 16 4 4 10 2.83 6.83 10
+0

@@ -1,4 +1,11 @@
 0 Bar  1 x  6 with Studs Closed
+0 Name: 6140.dat
+0 Author: James Jessiman
+0 Official L-Cad update 99-03
+
+0 Note: One or more STUD references in this file
+0 have been purposely capitalized to ensure that
+0 the stud is fully visible in LEdit
 
  1 16 50 16 0 1 0 0 0 4 0 0 0 1 peghole.dat
  1 16 -50 16 0 1 0 0 0 4 0 0 0 1 peghole.dat
@@ -48,10 +55,10 @@
  1 16 -10 0 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
  1 16 -30 0 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
 
- 1 16 30 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
- 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
- 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
- 1 16 -30 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+ 1 16 30 0 0 1 0 0 0 1 0 0 0 1 STUD2a.dat
+ 1 16 10 0 0 1 0 0 0 1 0 0 0 1 STUD2a.dat
+ 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 STUD2a.dat
+ 1 16 -30 0 0 1 0 0 0 1 0 0 0 1 STUD2a.dat
 
  2 24 36 8 2 34 6 4
  2 24 34 6 4 34 2 4
@@ -116,6 +123,4 @@
  2 24 24 0 -2 26 2 -4
  2 24 26 2 -4 26 6 -4
  2 24 26 6 -4 24 8 -2
-
-
-
+0

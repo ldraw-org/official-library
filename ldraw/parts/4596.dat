@@ -1,7 +1,11 @@
 0 Space Wing 4 x 2
 0 Name: 4596.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Official L-Cad update 99-03
+
+0 Note: One or more STUD references in this file
+0 have been purposely capitalized to ensure that
+0 the stud is fully visible in LEdit
 
  1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
  1 16 0 8 0 16 0 0 0 -4 0 0 0 6 box5.dat
@@ -275,7 +279,7 @@
  1 16 0 2 -66 2 0 0 0 0 2 0 0 0 ring2.dat
  1 16 0 2 -62 4 0 0 0 0 4 0 -4 0 4-4cyli.dat
  1 16 0 2 -62 8 0 0 0 0 8 0 -4 0 4-4cyli.dat
- 1 16 0 2 -66 1 0 0 0 0 1 0 1 0 stud4a.dat
+ 1 16 0 2 -66 1 0 0 0 0 1 0 1 0 STUD4a.dat
 
  1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
  1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat

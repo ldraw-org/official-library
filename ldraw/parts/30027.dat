@@ -1,7 +1,7 @@
-0 Wheel Slick Centre
+0 Wheel Centre Small Wide for Slick Tyre
 0 Name: 30027.dat
 0 Author: Thomas Burger
-0 Official LCad update 98-02
+0 Official LCad update 99-03
 
 1 16 -5 0 0 0 0 0 4 0 0 0 0 4 4-4edge.dat
 1 16 -5 0 0 0 0 0 6 0 0 0 0 6 4-4edge.dat
@@ -347,4 +347,4 @@
 4 16 -5 7.39 -3.06 -5 5.66 -5.66 -5 7.07 -7.07 -5 9.24 -3.83 
 4 16 -5 5.66 -5.66 -5 3.06 -7.39 -5 3.83 -9.24 -5 7.07 -7.07 
 4 16 -5 3.06 -7.39 15 0 -8 15 0 -10 15 3.83 -9.24 
-
+0

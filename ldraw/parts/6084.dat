@@ -1,8 +1,7 @@
 0 Windscreen Top (Aquanaut Sub)
 0 Name: 6084.dat
 0 Author: Luis E. Fernandez (lfernand@super.zippo.com)
-0 Official LCad update 98-02
-
+0 Official LCad update 99-03
 
 1 16 -36 40 -26 0 0 0 0 0 4 4 0 0 2-4edge.dat
 1 16 -22 40 -26 0 0 0 0 0 4 4 0 0 2-4edge.dat
@@ -374,8 +373,8 @@
 2 24 -27 -29 -15 -40 27 -28
 2 24 -40 24 -27 -40 36 -27
 
-1 16 10 -56 30 0 0 -1 0 1 0 1 0 0 STUD2.DAT
-1 16 -10 -56 30 0 0 -1 0 1 0 1 0 0 STUD2.DAT
+1 16 10 -56 30 0 0 -1 0 1 0 1 0 0 stud2.DAT
+1 16 -10 -56 30 0 0 -1 0 1 0 1 0 0 stud2.DAT
 
 0 first long FILL
 4 16 80 44 40 80 44 11 77 44 40 77 44 11

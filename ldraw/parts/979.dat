@@ -1,13 +1,14 @@
 0 Minifig (Complete Figure Shortcut)
 0 Name: 979.dat
 0 Author: Leonardo Zide
-0 Official LCad update 99-01
+0 Official LCad update 99-03
+
 0 legs & hip
  1 0 0 -28 0 1 0 0 0 1 0 0 0 1 972.dat
  1 0 0 -28 0 1 0 0 0 1 0 0 0 1 971.dat
  1 0 0 -40 0 1 0 0 0 1 0 0 0 1 970.dat
 0 torso
- 1 1 0 -72 0 1 0 0 0 1 0 0 0 1 9326.dat
+ 1 1 0 -72 0 1 0 0 0 1 0 0 0 1 973.dat
 0 head
  1 14 0 -100 0 1 0 0 0 1 0 0 0 1 3626bp01.dat
 0 hat

@@ -1,7 +1,7 @@
-0 Flower (needs work)
+0 Plants Flower (needs work)
 0 Name: 3742.dat
 0 Author: Tore Eriksson from a James Jessiman original
-0 Official LCad update 98-06
+0 Official L-Cad update 99-03
 
 1 16 0 0 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
 1 16 0 -4 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
@@ -54,3 +54,4 @@
 1 16 0 2 0  4.35 0 0  0 0 0  0 0 4.35 ring1.dat
 1 16 0 2 0  2 0 0  0 0 0  0 0 2 ring2.dat
 1 16 0 2 0  2 0 0  0 0 0  0 0 2 ring2.dat
+0
