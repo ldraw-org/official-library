@@ -1,0 +1,20 @@
+0 Box with 4 Parallel Faces without Bottom Edges
+0 Name: box4o4a.dat
+0 Author: Donald Sutter
+0 LDRAW_ORG Primitive UPDATE 2003-02
+
+0 BFC CERTIFY CW
+
+2 24 1 0 1 -1 0 1
+2 24 -1 0 1 -1 0 -1
+2 24 -1 0 -1 1 0 -1
+2 24 1 0 -1 1 0 1
+2 24 1 0 1 1 1 1
+2 24 -1 0 1 -1 1 1
+2 24 1 0 -1 1 1 -1
+2 24 -1 0 -1 -1 1 -1
+4 16 1 1 1 1 0 1 -1 0 1 -1 1 1
+4 16 -1 1 1 -1 0 1 -1 0 -1 -1 1 -1
+4 16 -1 1 -1 -1 0 -1 1 0 -1 1 1 -1
+4 16 1 1 -1 1 0 -1 1 0 1 1 1 1
+0

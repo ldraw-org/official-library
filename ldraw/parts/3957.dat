@@ -1,14 +1,29 @@
 0 Antenna
+0 Name: 3957.dat
+0 Author: James Jessiman
+0 Original LDraw Part
+0 LDRAW_ORG Part UPDATE 2003-02
 
- 1 16 0 0 0 1 0 0 0 4 0 0 0 1 peghole.dat
- 1 16 0 4 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
- 1 16 0 4 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
- 1 16 0 4 0 6 0 0 0 0 0 0 0 6 4-4disc.dat
- 1 16 0 0 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
- 1 16 0 0 0 8 0 0 0 0 0 0 0 8 4-4disc.dat
+0 // Note: One or more STUD references in this file have been purposely 
+0 // capitalized to ensure that the stud is fully visible in LEdit.
+
+0 KEYWORDS bar, flagpole
+0 BFC CERTIFY CCW
+
+0 2003-01-28 SEB Completed header; BFC'ed; changed some primitives
+
+1 16 0 4 0 -1 0 0 0 -1 0 0 0 1 STUD4A.DAT
+ 1 16 0 0 0 8 0 0 0 4 0 0 0 8 4-4cyli.dat
+ 1 16 0 4 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+ 1 16 0 4 0 -6 0 0 0 -1 0 0 0 6 4-4disc.dat
+ 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+ 1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4disc.dat
  1 16 0 -4 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
- 1 16 0 -4 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
- 1 16 0 -4 0 4 0 0 0 0 0 0 0 4 4-4edge.dat
- 1 16 0 -4 0 6 0 0 0 0 0 0 0 6 4-4disc.dat
+ 1 16 0 -4 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+ 1 16 0 -4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+ 1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+ 1 16 0 -4 0 6 0 0 0 1 0 0 0 6 4-4disc.dat
  1 16 0 -84 0 4 0 0 0 80 0 0 0 4 4-4cyli.dat
- 1 16 0 -84 0 4 0 0 0 -4 0 0 0 4 4-8sphe.dat
+ 1 16 0 -84 0 -4 0 0 0 -4 0 0 0 4 4-8sphe.dat
+0
+

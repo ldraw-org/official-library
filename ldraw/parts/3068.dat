@@ -1,13 +1,4 @@
-0 Tile  2 x  2
-0 Name: 3068.dat
-0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
-
- 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
- 1 16 0 8 0 16 0 0 0 -4 0 0 0 16 box5.dat
- 4 16 20 8 20 16 8 16 -16 8 16 -20 8 20
- 4 16 20 8 -20 16 8 -16 -16 8 -16 -20 8 -20
- 4 16 20 8 20 16 8 16 16 8 -16 20 8 -20
- 4 16 -20 8 20 -16 8 16 -16 8 -16 -20 8 -20
- 1 16 0 8 0 20 0 0 0 -8 0 0 0 20 box5.dat
-0
+0 ~Moved to 3068b
+0 WRITE Part 3068 moved to 3068b
+0 LDRAW_ORG Part UPDATE 2003-02
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3068b.dat

@@ -1,0 +1,59 @@
+0 LDraw.org Configuration File
+0 Name:  ldconfig.ldr
+0 Author: LDraw.org
+0 Unofficial Configuration File Version 0.02
+
+0 //   Code ColorName        EdgeColor    R   G   B   A   DR  DG  DB  DA
+0 COLOR   0 Black                    8   33  33  33 255   33  33  33 255
+0 COLOR   1 Blue                     0    0  51 178 255    0  51 178 255
+0 COLOR   2 Green                    0    0 140  20 255    0 140  20 255
+0 COLOR   3 Teal                     0    0 153 159 255    0 153 159 255
+0 COLOR   4 Red                      0  196   0  38 255  196   0  38 255
+0 COLOR   5 DkPink                   0  223 102 149 255  223 102 149 255
+0 COLOR   6 Brown                    8   92  32   0 255   92  32   0 255
+0 COLOR   7 Gray                     0  193 194 193 255  193 194 193 255
+0 COLOR   8 DkGray                   0   99  95  82 255   99  95  82 255
+0 COLOR   9 LtBlue                   0  107 171 220 255  107 171 220 255
+0 COLOR  10 LtGreen                  0  107 238 144 255  107 238 144 255
+0 COLOR  11 Turquoise                0   51 166 167 255   51 166 167 255
+0 COLOR  12 LtRed                    4  255 133 122 255  255 133 122 255
+0 COLOR  13 Pink                     0  249 164 198 255  249 164 198 255
+0 COLOR  14 Yellow                   0  255 220   0 255  255 220   0 255
+0 COLOR  15 White                    0  255 255 255 255  255 255 255 255
+0 COLOR  17 MintGreen                0  186 255 206 255  186 255 206 255
+0 COLOR  18 LtYellow                 0  253 232 150 255  253 232 150 255
+0 COLOR  19 Tan                      6  232 207 161 255  232 207 161 255
+0 COLOR  20 LtPurple                 0  215 196 230 255  215 196 230 255
+0 COLOR  21 GlowDark         0x47c07c0  224 255 176 255  224 255 176 196
+0 COLOR  22 Purple                   0  129   0 123 255  129   0 123 255
+0 COLOR  23 VioletBlue               0   71  50 176 255   71  50 176 255
+0 COLOR  25 Orange           0x4000000  249  96   0 255  249  96   0 255
+0 COLOR  26 Magenta          0x4000000  216  27 109 255  216  27 109 255
+0 COLOR  27 YellowGreen              0  215 240   0 255  215 240   0 255
+0 COLOR  28 DarkTan                  6  197 151  80 255  197 151  80 255
+0 COLOR  33 TransBlue        0x4026026    0  32 160 255    0   0   0   0
+0 COLOR  34 TransGreen       0x4042042    6 100  50 255    0   0   0   0
+0 COLOR  36 TransRed         0x4601601  196   0  38 255    0   0   0   0
+0 COLOR  37 TransPurple              0  100   0  97 255    0   0   0   0
+0 COLOR  40 TransGray                0   99  95  82 255    0   0   0   0
+0 COLOR  41 TransLtCyan              0  174 239 236 255    0   0   0   0
+0 COLOR  42 TransYellowGreen         0  192 255   0 255    0   0   0   0
+0 COLOR  45 TransPink                0  223 102 149 255    0   0   0   0
+0 COLOR  46 TransYellow              0  202 176   0 255    0   0   0   0
+0 COLOR  47 Clear                    0  255 255 255 255    0   0   0   0
+0 COLOR  57 TransOrange              0  249  96   0 255    0   0   0   0
+0 COLOR 256 RubberBlack      0x4000000   33  33  33 255   33  33  33 255
+0 COLOR 272 DkBlue           0x4000000    0  29 104 255    0  29 104 255
+0 COLOR 320 DkRed            0x4000000  120   0  28 255  120   0  28 255
+0 COLOR 334 ChromeGold              15  196   0  38 255  255 220   0 255
+0 COLOR 335 SandRed                  0  191 135 130 255  191 135 130 255
+0 COLOR 366 EarthOrange              0  209 131   4 255  209 131   4 255
+0 COLOR 373 SandViolet               0  132  94 132 255  132  94 132 255
+0 COLOR 375 RubberGray               8  193 194 193 255  193 194 193 255
+0 COLOR 378 SandGreen                0  160 188 172 255  160 188 172 255
+0 COLOR 379 SandBlue                 0  106 122 150 255  106 122 150 255
+0 COLOR 383 ChromeSilver             8  255 255 255 255  193 194 193 255
+0 COLOR 462 LtOrange                 0  254 159   6 255  254 159   6 255
+0 COLOR 484 DkOrange                 0  179  62   0 255  179  62   0 255
+0 COLOR 503 LtGray                   0  230 227 218 255  230 227 218 255
+0

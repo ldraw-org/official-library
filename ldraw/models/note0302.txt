@@ -1,0 +1,319 @@
+LDraw.org Parts Update 2003-02
+---------------------------------------------------------------------------
+
+Notes created Fri Aug  1 00:24:47 2003 by the Parts Tracker.
+
+Special Features in this update:
+   - First release of ldconfig.ldr, a standard configuration file.
+   - New version of mklist.exe, with additional command line options.
+
+Release statistics:
+   Total files: 164
+   New files: 79
+   New parts: 54
+   New subparts: 16
+   New primitives: 8
+   New hi-res primitives: 1
+
+New 3-digit part numbers assigned:
+   300.dat Technic Axle  7
+   353.dat Duplo Baseplate 24 x 24
+   354.dat Glass for Panel  3 x  6 x  6 with Window
+   500.dat Slope Brick Round  1 x  6 Inverted
+   529.dat Minifig Hat Samurai Horn
+   554.dat Bracket  1 x  1 -  1 x  1
+   683.dat ~Fabuland Wheel Type II
+   740.dat Roadsign Old Square
+   774.dat Minifig Tool Handaxe
+
+Moved Parts
+   BOX3#8P.DAT   ~Moved to box3u8p
+   161.DAT       ~Moved to 4085c
+   3068.DAT      ~Moved to 3068a
+   3069.DAT      ~Moved to 3069a
+   3962.DAT      ~Moved to 3962b
+   578.DAT       ~Moved to 30374
+   6538.DAT      ~Moved to 6538a
+   973P11.DAT    ~Moved to 973p1a, 973p1b, 973p1c
+
+Renamed Parts
+   1-4CON1.DAT   1/4 Cone Section 1:2 Radius
+   changed to    Cone  1 x 0.25
+
+   1-4CON3.DAT   1/4 Cone 3:4 Radii
+   changed to    Cone  3 x 0.25
+
+   1-4RING3.DAT  1/4 Ring Radius 3:4
+   changed to    Ring  3 x 0.25
+
+   1-4RING4.DAT  Ring 0.25  Radius  4
+   changed to    Ring  4 x 0.25
+
+   2-4RING1.DAT  Ring 0.5   Radius  1 
+   changed to    Ring  1 x 0.5 
+
+   2-4RING4.DAT  Ring 0.5   Radius  4
+   changed to    Ring  4 x 0.5
+
+   3-8CYLS.DAT   3-8 Cylinder Sloped
+   changed to    Cylinder Sloped 0.375
+
+   4-4CON1.DAT   4/4 Cone 1:2 radii
+   changed to    Cone  1 x 1.0
+
+   4-4CON12.DAT  Cone 1:2 Ratio
+   changed to    ~Obsolete primitive
+
+   BOX4T.DAT     Box4t
+   changed to    Box with 4 Adjacent Faces and All Edges
+
+   1.DAT         Homemaker Bookcase  2 x  4 x  4
+   changed to    Container Bookcase  2 x  4 x  4
+
+   2.DAT         Homemaker Drawers  4 x  4 x  4
+   changed to    Container Drawers  4 x  4 x  4
+
+   30187.DAT     Bike  3 Wheel Motorcycle Body Upper
+   changed to    ~Bike 3 Wheel Motorcycle Body Upper
+
+   30188.DAT     Bike  3 Wheel Motorcycle Body Lower
+   changed to    ~Bike 3 Wheel Motorcycle Body Lower
+
+   3963.DAT      Space Positioning Rockets
+   changed to    Brick  2 x  1 with Positioning Rockets
+
+   4854.DAT      Slope Brick 45  4 x  4 Double Inverted
+   changed to    Slope Brick 45  4 x  4 Double Inverted with Open Center
+
+   4871.DAT      Slope Brick 45  4 x  2 Double Inverted
+   changed to    Slope Brick 45  4 x  2 Double Inverted with Open Center
+
+   43S01.DAT     ~Subpart Flag  6 x  4 without Front or Back
+   changed to    ~Flag  6 x  4 without Front and Back
+
+Other Fixed Parts
+   2-4RING3.DAT  Ring  3 x 0.5
+   2-8SPHE.DAT   Sphere 0.25
+   4-8SPHE.DAT   Sphere 0.5
+   ARM1.DAT      Hinge Arm 2 Finger
+   BUSHLOC2.DAT  Bush Lock 2
+   BUSHLOC3.DAT  Bush Lock 3
+   BUSHLOC4.DAT  Bush Lock 4
+   BUSHLOCK.DAT  Bush Lock
+   CONNECT5.DAT  Connector 1/2 with Base Collar and Friction Lip
+   H1.DAT        Hinge Plate 2 Fingers
+   H2.DAT        Hinge Plate 3 Fingers
+   STU26A.DAT    Stud Open For Round 2x2 Parts without Base Edges (Fast-Draw)
+   STUD3A.DAT    Stud Tube Solid without Base Edges 
+   STUD6.DAT     Stud Open For Round 2x2 Parts
+   STUD6A.DAT    Stud Open For Round 2x2 Parts without Base Edges
+   STUDEL.DAT    Stud with Electric Contact
+   TRI3.DAT      Triangle 3
+   2408.DAT      Panel 10 x  6 x 11
+   2408P01.DAT   Panel 10 x  6 x 11 with Blacktron II Logo Pattern
+   2408P02.DAT   Panel 10 x  6 x 11 with Blacktron I Pattern
+   2423.DAT      Plant Leaves  4 x  3
+   2452.DAT      Hinge Plate  1 x  2 with 3 Fingers On Side
+   2479.DAT      Propellor  4 Blade  5 Diameter
+   2496.DAT      Wheel Trolley
+   2582.DAT      Hinge Panel  2 x  4 x  3 & 1/3 
+   2639.DAT      Plate  4 x  4 Corner
+   2730.DAT      Technic Brick  1 x 10 with Holes
+   2736.DAT      Technic Axle Towball
+   3010.DAT      Brick  1 x  4
+   3483.DAT      Tyre Small
+   3579.DAT      Door  1 x  3 x  4 Frame
+   3581.DAT      Brick  1 x  1 x  2 with Shutter Holder
+   3624.DAT      Minifig Police Hat
+   3641.DAT      Tyre
+   3665.DAT      Slope Brick 45  2 x  1 Inverted
+   3691.DAT      Technic Holder Block  4 x  4 x  3
+   3702.DAT      Technic Brick  1 x  8 with Holes
+   3787.DAT      Car Mudguard  2 x  4 without Studs
+   3854.DAT      Window  1 x  2 x  3 Pane
+   3894.DAT      Technic Brick  1 x  6 with Holes
+   3895.DAT      Technic Brick  1 x 12 with Holes
+   3957.DAT      Antenna
+   4070.DAT      Brick  1 x  1 with Headlight
+   4073.DAT      Plate  1 x  1 Round
+   4085C.DAT     Plate  1 x  1 with Clip Vertical - Type 3
+   4161.DAT      Slope Brick 33  3 x  3
+   4175.DAT      Plate  1 x  2 with Ladder
+   4176.DAT      Windscreen  2 x  6 x  2
+   4228.DAT      Slope Brick 33  5 x  6 x  2 Inverted
+   4286.DAT      Slope Brick 33  3 x  1
+   4287.DAT      Slope Brick 33  3 x  1 Inverted
+   43.DAT        Flag  6 x  4
+   4445.DAT      Slope Brick 45  2 x  8
+   4499.DAT      Minifig Bow with Arrow
+   73037.DAT     Winch  2 x  4 x  2
+   972P3J.DAT    Minifig Leg Left with Grass Skirt Pattern
+   973PSE.DAT    Minifig Torso with SW Scout Trooper Pattern
+
+Changes Log
+================================================================================
+retitle p/1-4con1.dat
+new p/1-4con3.dat
+retitle p/1-4ring3.dat
+retitle p/1-4ring4.dat
+retitle p/2-4ring1.dat
+fix p/2-4ring3.dat
+retitle p/2-4ring4.dat
+fix p/2-8sphe.dat
+retitle p/3-8cyls.dat
+retitle p/4-4con1.dat
+retitle p/4-4con12.dat
+new p/4-4con3.dat
+new p/4-4con4.dat
+new p/4-4cyls.dat
+new p/48/1-8sphe.dat
+fix p/4-8sphe.dat
+fix p/arm1.dat
+move p/box3#8p.dat p/box3u8p.dat
+new p/box3u8p.dat
+new p/box4o4a.dat
+fix p/box4t.dat
+fix p/bushloc2.dat
+fix p/bushloc3.dat
+fix p/bushloc4.dat
+fix p/bushlock.dat
+new p/clh4.dat
+fix p/connect5.dat
+fix p/h1.dat
+fix p/h2.dat
+new p/rect2p.dat
+new p/rect3.dat
+fix p/stu26a.dat
+fix p/stud3a.dat
+fix p/stud6.dat
+fix p/stud6a.dat
+fix p/studel.dat
+fix p/tri3.dat
+retitle parts/1.dat
+move parts/161.dat parts/4085c.dat
+retitle parts/2.dat
+new parts/2340p90.dat
+fix parts/2408.dat
+fix parts/2408p01.dat
+fix parts/2408p02.dat
+fix parts/2423.dat
+fix parts/2452.dat
+new parts/2454ps5.dat
+fix parts/2479.dat
+fix parts/2496.dat
+fix parts/2582.dat
+fix parts/2639.dat
+fix parts/2730.dat
+fix parts/2736.dat
+new parts/300.dat
+new parts/30083.dat
+fix parts/3010.dat
+new parts/30116.dat
+new parts/30144p01.dat
+new parts/30154.dat
+new parts/30174.dat
+retitle parts/30187.dat
+retitle parts/30188.dat
+new parts/30288.dat
+new parts/30361ps1.dat
+new parts/30361ps2.dat
+retitle parts/30365.dat
+new parts/30374.dat
+new parts/3067p11.dat
+move parts/3068.dat parts/3068b.dat
+new parts/3068a.dat
+move parts/3069.dat parts/3069b.dat
+new parts/3069a.dat
+new parts/3069bp54.dat
+new parts/31111.dat
+new parts/32172.dat
+new parts/33029.dat
+fix parts/3483.dat
+new parts/353.dat
+new parts/354.dat
+fix parts/3579.dat
+fix parts/3581.dat
+fix parts/3624.dat
+fix parts/3641.dat
+fix parts/3665.dat
+fix parts/3691.dat
+fix parts/3702.dat
+fix parts/3787.dat
+new parts/3846p4c.dat
+fix parts/3854.dat
+fix parts/3894.dat
+fix parts/3895.dat
+fix parts/3957.dat
+move parts/3962.dat parts/3962b.dat
+new parts/3962a.dat
+new parts/3962b.dat
+retitle parts/3963.dat
+fix parts/4070.dat
+fix parts/4073.dat
+new parts/4085c.dat
+fix parts/4161.dat
+fix parts/4175.dat
+fix parts/4176.dat
+new parts/41854.dat
+new parts/4222a.dat
+fix parts/4228.dat
+fix parts/4286.dat
+fix parts/4287.dat
+fix parts/43.dat
+fix parts/4445.dat
+retitle parts/4460.dat
+fix parts/4499.dat
+new parts/4796c01.dat
+retitle parts/4854.dat
+retitle parts/4871.dat
+new parts/500.dat
+new parts/529.dat
+new parts/554.dat
+move parts/578.dat parts/30374.dat
+move parts/6538.dat parts/6538a.dat
+new parts/6538a.dat
+fix parts/68.dat
+new parts/683.dat
+new parts/6965.dat
+fix parts/73037.dat
+new parts/740.dat
+new parts/740p01.dat
+new parts/747p02.dat
+new parts/747p03.dat
+new parts/747p05.dat
+new parts/770pw1.dat
+new parts/774.dat
+new parts/890p01.dat
+new parts/892p01.dat
+fix parts/972p3j.dat
+move parts/973p11.dat parts/973p1a.dat parts/973p1b.dat parts/973p1c.dat parts/973p1j.dat
+new parts/973p1a.dat
+new parts/973p1b.dat
+new parts/973p1c.dat
+new parts/973p1j.dat
+new parts/973p2c.dat
+new parts/973p4r.dat
+new parts/973p4u.dat
+new parts/973p74.dat
+new parts/973p7b.dat
+new parts/973paj.dat
+new parts/973pn5.dat
+new parts/973pn6.dat
+fix parts/973pse.dat
+new parts/s/2408s01.dat
+new parts/s/2454ps5a.dat
+new parts/s/2454ps5b.dat
+new parts/s/3010s01.dat
+new parts/s/30361s01.dat
+new parts/s/30361s1a.dat
+new parts/s/30361s1b.dat
+new parts/s/3069p54a.dat
+new parts/s/3069p54b.dat
+new parts/s/41854s01.dat
+retitle parts/s/43s01.dat
+new parts/s/973p11a.dat
+new parts/s/973p11b.dat
+new parts/s/973p7ba.dat
+new parts/s/973pn5a.dat
+new parts/s/973pn6a.dat
+new parts/s/973pse1.dat

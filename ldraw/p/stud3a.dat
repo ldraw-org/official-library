@@ -1,9 +1,15 @@
 0 Stud Tube Solid without Base Edges 
-0 Name: STUD3A.dat
+0 Name: stud3a.dat
 0 Author: James Jessiman
-0 Original LDraw Primitive - LDraw beta 0.27 Archive
+0 Original LDraw Primitive
+0 LDRAW_ORG Primitive UPDATE 2003-02
 
-1 16 0 -4 0 4 0 0 0 0 0 0 0 4 4-4edge.dat
-1 16 0 -4 0 4 0 0 0 0 0 0 0 4 4-4disc.dat
+0 BFC CERTIFY CCW
+
+0 2002-08-31 ZAN Modified with WINDZ for BFC compliance
+
+1 16 0 -4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 -4 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
 1 16 0 -4 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
 0
+

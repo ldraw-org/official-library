@@ -1,7 +1,10 @@
 0 Technic Holder Block  4 x  4 x  3
 0 Name: 3691.dat
 0 Author: Ross Crawford (rcrawford@csi.com)
-0 LDRAW_ORG Part UPDATE 2002-05
+0 LDRAW_ORG Part UPDATE 2003-02
+
+0 // 2002-12-11  CWD      Changed 4-4con12.dat to 4-4con1.dat
+0 // 2003-07-31  Steffen  added 4 missing 4-4edges on front connectors
 
 1 16 30 0 30 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 10 0 30 1 0 0 0 1 0 0 0 1 stud2.dat
@@ -441,15 +444,19 @@
 1 16 -32 59 -40 4 0 0 0 0 -4 0 1 0 4-4edge.dat
 1 16 32 8 -40 0.67 0 0 0 0 -0.67 0 0.75 0 connect4.dat
 1 16 -32 8 -40 0.67 0 0 0 0 -0.67 0 0.75 0 connect4.dat
+1 16 -32 8 -40 3 0 0 0 0 3 0 -1 0 4-4edge.dat
+1 16 32 8 -40 3 0 0 0 0 3 0 -1 0 4-4edge.dat
+1 16 32 59 -40 3 0 0 0 0 3 0 -1 0 4-4edge.dat
+1 16 -32 59 -40 3 0 0 0 0 3 0 -1 0 4-4edge.dat
 1 16 32 59 -40 0.67 0 0 0 0 -0.67 0 0.75 0 connect4.dat
 1 16 -32 59 -40 0.67 0 0 0 0 -0.67 0 0.75 0 connect4.dat
 0 mounds
 1 16 10 4 10 4.5 0 0 0 1 0 0 0 4.5 4-4edge.dat
 1 16 10 4 10 0.5 0 0 0 0.3 0 0 0 0.5 4-4con8.dat
-1 16 10 4.3 10 2 0 0 0 0.3 0 0 0 2 4-4con12.dat
+1 16 10 4.3 10 2 0 0 0 0.3 0 0 0 2 4-4con1.dat
 1 16 10 4.6 10 2 0 0 0 1 0 0 0 2 4-4disc.dat
 1 16 -10 4 -10 4.5 0 0 0 1 0 0 0 4.5 4-4edge.dat
 1 16 -10 4 -10 0.5 0 0 0 0.3 0 0 0 0.5 4-4con8.dat
-1 16 -10 4.3 -10 2 0 0 0 0.3 0 0 0 2 4-4con12.dat
+1 16 -10 4.3 -10 2 0 0 0 0.3 0 0 0 2 4-4con1.dat
 1 16 -10 4.6 -10 2 0 0 0 1 0 0 0 2 4-4disc.dat
 0
