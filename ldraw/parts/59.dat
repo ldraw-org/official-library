@@ -1,27 +1,41 @@
 0 Minifig Sword Greatsword
 0 Name: 59.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2002-03
+0 Author: Franklin W. Cain
+0 LDRAW_ORG Part UPDATE 2004-02
 
+0 BFC CERTIFY CW
 0 CATEGORY Minifig Accessory
-0 KEYWORDS weapon, blade, claymore, two-handed sword, broadsword, Castle, Belville
-0 KEYWORDS silver, chrome, treasure
-0 CMDLN -c383
+0 KEYWORDS weapon, edge, blade, sword, claymore, two-handed sword
+0 KEYWORDS broadsword, silver, chrome, treasure, Castle, Belville
 
- 1 16  0 -1  0  1  0  0  0  1  0  0  0  1  s\59s01.dat
- 1 16  0  1  0  1  0  0  0  1  0  0  0  1  s\59s01.dat
- 1 16  0 -3  0  1  0  0  0  1  0  0  0  1  s\59s01.dat
- 1 16  0  3  0  1  0  0  0  1  0  0  0  1  s\59s01.dat
- 1 16  0 -5  0  1  0  0  0  1  0  0  0  1  s\59s01.dat
- 1 16  0  5  0  1  0  0  0  1  0  0  0  1  s\59s01.dat
+0 // 2003-12-29  FWC  revised...
+0 // 2004-02-08  OWP  BFC'd
+
+ 1 16 0 -1 0 1 0 0 0 1 0 0 0 1 s\59s01.dat
+ 1 16 0  1 0 1 0 0 0 1 0 0 0 1 s\59s01.dat
+ 1 16 0 -3 0 1 0 0 0 1 0 0 0 1 s\59s01.dat
+ 1 16 0  3 0 1 0 0 0 1 0 0 0 1 s\59s01.dat
+ 1 16 0 -5 0 1 0 0 0 1 0 0 0 1 s\59s01.dat
+ 1 16 0  5 0 1 0 0 0 1 0 0 0 1 s\59s01.dat
 0
- 1 16  0 -16  0  1  0  0  0  1  0  0  0  1  s\59s02.dat
+ 1 16 0 -16 0 -1 0 0 0 1 0 0 0 -1 s\59s02.dat
+ 1 16 0 -16 0  1 0 0 0 1 0 0 0 -1 s\59s02.dat
+ 1 16 0 -16 0 -1 0 0 0 1 0 0 0  1 s\59s02.dat
+ 1 16 0 -16 0  1 0 0 0 1 0 0 0  1 s\59s02.dat
 0
- 1 16  0  0  0  1  0  0  0  1  0  0  0  1  s\59s03.dat
-0
-0 quillions
+ 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\59s03.dat
+ 1 16 0 0 0  1 0 0 0 1 0 0 0 -1 s\59s03.dat
+ 1 16 0 0 0 -1 0 0 0 1 0 0 0  1 s\59s03.dat
+ 1 16 0 0 0  1 0 0 0 1 0 0 0  1 s\59s03.dat
 0
  1 16 0 -14 -12 4 0 0 0 4 0 0 0 4 8-8sphe.dat
  1 16 0 -14  12 4 0 0 0 4 0 0 0 4 8-8sphe.dat
+0
+0
+0
+ 1 16 -2 14 0 0 1 0 4 0 0 0 0 4 4-4disc.dat
+ 1 16  2 14 0 0 -1 0 4 0 0 0 0 4 4-4disc.dat
+0
+0
 0
 0 end of file

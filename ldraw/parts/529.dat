@@ -1,11 +1,13 @@
-0 Minifig Hat Samurai Horn
+0 Minifig Helmet Samurai Horn
 0 Name: 529.dat
 0 Author: Paul Easter
-0 LDRAW_ORG Part UPDATE 2003-02
+0 LDRAW_ORG Part UPDATE 2004-02
 
 0 BFC CERTIFY CW
 0 CATEGORY Minifig Accessory
+0 KEYWORDS Castle, Ninja, samurai, shogun, decoration, crest, gold, chrome
 
+0 // 2003-11-04 FWC added CMDLINE, KEYWORDS; fixed Title...  
 
 1 16 8 0 0 0 -16 0 4 0 0 0 0 4 4-4cyli.dat
 1 16 8 0 0 0 -1 0 4 0 0 0 0 4 4-4disc.dat
@@ -145,4 +147,5 @@
 3 16 -12.4062 -17.3238 2.5 -17 -18 2.5 -12.4062 -13.3238 2.5
 3 16 -12.7654 -19.8478 2.5 -12.4062 -17.3238 2.5 -11.2346 -16.1522 2.5
 3 16 -12.4062 -17.3238 2.5 -12.7654 -19.8478 2.5 -17 -18 2.5
+
 0 end of file

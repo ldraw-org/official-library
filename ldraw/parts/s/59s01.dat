@@ -1,19 +1,21 @@
-0 ~Minifig Greatsword - Grip Segment
+0 ~Minifig Sword Greatsword - Grip Segment
 0 Name: s\59s01.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
+0 Author: Franklin W. Cain
 0 Author: Steve Bliss
-0 LDRAW_ORG Subpart UPDATE 2002-03
+0 LDRAW_ORG Subpart UPDATE 2004-02
 
- 1 16 0 0 0 -3 0  0 0 -3 0  0 0  3 t04o3333.dat
- 1 16 0 0 0  3 0  0 0 -3 0  0 0 -3 t04o3333.dat
- 1 16 0 0 0  0 0 -3 0 -3 0 -3 0  0 t04o3333.dat
- 1 16 0 0 0  0 0  3 0 -3 0  3 0  0 t04o3333.dat
- 1 16 0 0 0 -3 0  0 0  3 0  0 0 -3 t04o3333.dat
- 1 16 0 0 0  3 0  0 0  3 0  0 0  3 t04o3333.dat
- 1 16 0 0 0  0 0 -3 0  3 0  3 0  0 t04o3333.dat
- 1 16 0 0 0  0 0  3 0  3 0 -3 0  0 t04o3333.dat
+0 BFC CERTIFY CW
+
+0 // 2003-12-03  Steffen  BFCed
+
+1 16 0 0 0 -3 0 0 0 -3 0 0 0 3 t04o3333.dat
+1 16 0 0 0 3 0 0 0 -3 0 0 0 -3 t04o3333.dat
+1 16 0 0 0 0 0 -3 0 -3 0 -3 0 0 t04o3333.dat
+1 16 0 0 0 0 0 3 0 -3 0 3 0 0 t04o3333.dat
+1 16 0 0 0 -3 0 0 0 3 0 0 0 -3 t04o3333.dat
+1 16 0 0 0 3 0 0 0 3 0 0 0 3 t04o3333.dat
+1 16 0 0 0 0 0 -3 0 3 0 3 0 0 t04o3333.dat
+1 16 0 0 0 0 0 3 0 3 0 -3 0 0 t04o3333.dat
+1 16 0 -1 0 3 0 0 0 1 0 0 0 3 4-4edge.dat
+1 16 0 1 0 3 0 0 0 1 0 0 0 3 4-4edge.dat
 0
- 1 16 0 -1 0 3 0 0 0 1 0 0 0 3 4-4edge.dat
- 1 16 0  1 0 3 0 0 0 1 0 0 0 3 4-4edge.dat
-0
-0 end of file

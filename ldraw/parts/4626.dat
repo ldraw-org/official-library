@@ -1,16 +1,18 @@
-0 Hinge Scoop Bucket
+0 Excavator Bucket  2 x  3
 0 Name: 4626.dat
 0 Author: Thomas Burger
-0 LDRAW_ORG Part UPDATE 2001-02
+0 LDRAW_ORG Part UPDATE 2004-02
+
+0 // Rotation Center: -34 -8 0
 
 0 KEYWORDS excavation, digger, town, heavy equipment, construction
+0 KEYWORDS 2 finger hinge
 0 BFC CERTIFY CCW
 
-0 0 ROTATION CENTER -34 -8 0 1 "Custom" 
-0 0 ROTATION CONFIG 0 1
-
-0 2001-10-16 PNE adjusted a few quads, rearranged quad winding, Added bfc and rotation.
-0 2001-11-23 PNE corrected BFC primitive use
+0 // 2001-10-16 PNE adjusted a few quads, rearranged quad winding, Added bfc 
+0 //                and rotation.
+0 // 2001-11-23 PNE corrected BFC primitive use
+0 // 2003-07-09 SEB Updated name to align with similar parts
 
 1 16 -20 20 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT

@@ -1,0 +1,16 @@
+0 Brick  1 x  1 with Lightblue "I" Pattern
+0 Name: 3005pvi.dat
+0 Author: Tore Eriksson
+0 LDRAW_ORG Part UPDATE 2004-02
+
+0 KEYWORDS letters, numbers
+0 BFC CERTIFY CW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3005s01.dat
+
+4 9 -1.75 6 -10 1.75 6 -10 1.75 20 -10 -1.75 20 -10 
+4 16 10 24 -10 1.75 20 -10 1.75 6 -10 10 0 -10 
+4 16 -10 24 -10 -1.75 20 -10 1.75 20 -10 10 24 -10 
+4 16 -10 0 -10 -1.75 6 -10 -1.75 20 -10 -10 24 -10 
+4 16 -10 0 -10 10 0 -10 1.75 6 -10 -1.75 6 -10 
+0

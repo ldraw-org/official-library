@@ -1,0 +1,18 @@
+0 Tile  2 x  2 with MTron Logo Pattern
+0 Name: 3068bp68.dat
+0 Author: John VanZwieten
+0 LDRAW_ORG Part UPDATE 2004-02
+
+0 BFC CERTIFY CW
+
+0 // 2003-07-18  Steffen  BFCed, added groove, made use of existing subfiles for
+0 //                      tile and pattern
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068p68a.dat
+4 16 18.5 0 18.5 20 0 20 20 0 -20 18.5 0 -18.5
+4 16 -18.5 0 18.5 -20 0 20 20 0 20 18.5 0 18.5
+4 16 -18.5 0 -18.5 -20 0 -20 -20 0 20 -18.5 0 18.5
+4 16 18.5 0 -18.5 20 0 -20 -20 0 -20 -18.5 0 -18.5
+0

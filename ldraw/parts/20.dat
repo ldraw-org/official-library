@@ -1,45 +1,30 @@
 0 ~Wheel Centre Small for Steel Axle
 0 Name: 20.dat
 0 Author: James Jessiman
-0 LDRAW_ORG Part UPDATE 2003-03
+0 LDRAW_ORG Part UPDATE 2004-02
 
 0 BFC CERTIFY CCW
 
-0 // 2003-01-23 SEB Completed header, BFC'ed, replaced quads/edges with primitives
+0 // 2003-09-04  M Kennedy  optimized with cones, BFC
+0 // 2004-01-14  Steffen    un-mirrored stud logo, removed L3P warnings
 
-
-1 16 0 0 -8 0 0 6 6 0 0 0 1 0 4-4edge.dat
-1 16 0 0 -5 0 0 6 6 0 0 0 1 0 4-4edge.dat
-1 16 0 0 -5 0 0 10 10 0 0 0 1 0 4-4edge.dat
-1 16 0 0 -4 0 0 10 10 0 0 0 1 0 4-4edge.dat
-1 16 0 0 -2 0 0 6 6 0 0 0 1 0 4-4edge.dat
-1 16 0 0 2 0 0 6 6 0 0 0 1 0 4-4edge.dat
-1 16 0 0 4 0 0 10 10 0 0 0 1 0 4-4edge.dat
-1 16 0 0 5 0 0 10 10 0 0 0 1 0 4-4edge.dat
-1 16 0 0 8 0 0 6 6 0 0 0 1 0 4-4edge.dat
-1 16 0 0 -8 0 0 6 6 0 0 0 1 0 4-4disc.dat
+1 16 0 0 -5 0 0 10 10 0 0 0 10 0 4-4edge.dat
+1 16 0 0 -4 0 0 10 10 0 0 0 10 0 4-4edge.dat
+1 16 0 0 -2 0 0 6 6 0 0 0 6 0 4-4edge.dat
+1 16 0 0 2 0 0 6 6 0 0 0 6 0 4-4edge.dat
+1 16 0 0 4 0 0 10 10 0 0 0 10 0 4-4edge.dat
+1 16 0 0 5 0 0 10 10 0 0 0 10 0 4-4edge.dat
+1 16 0 0 8 0 0 6 6 0 0 0 6 0 4-4edge.dat
 1 16 0 0 -5 0 0 10 10 0 0 0 1 0 4-4disc.dat
-1 16 0 0 8 0 0 -6 6 0 0 0 -1 0 4-4disc.dat
- 1 16 0 0 -8 0 0 6 6 0 0 0 3 0 4-4cyli.dat
- 1 16 0 0 -5 0 0 10 10 0 0 0 1 0 4-4cyli.dat
- 1 16 0 0 -2 0 0 6 6 0 0 0 4 0 4-4cyli.dat
- 1 16 0 0 5 0 0 10 10 0 0 0 -1 0 4-4cyli.dat
-
-1 16 0 0 6.5 2 0 0 0 0 2 0 1.5 0 4-4con3.dat
-1 16 0 0 5 2 0 0 0 0 2 0 1.5 0 1-4con4.dat
-1 16 0 0 5 0 0 -2 2 0 0 0 1.5 0 1-4con4.dat
-1 16 0 0 5 -2 0 0 0 0 -2 0 1.5 0 1-4con4.dat
-1 16 0 0 5 0 0 2 -2 0 0 0 1.5 0 1-4con4.dat
-
+1 16 0 0 8 0 0 6 6 0 0 0 -1 0 4-4disc.dat
+1 16 0 0 -5 0 0 10 10 0 0 0 1 0 4-4cyli.dat
+1 16 0 0 -2 0 0 6 6 0 0 0 4 0 4-4cyli.dat
+1 16 0 0 5 0 0 10 10 0 0 0 -1 0 4-4cyli.dat
+1 16 0 0 -4 2 0 0 0 0 2 0 1 0 4-4con4.dat
 1 16 0 0 -3 2 0 0 0 0 2 0 1 0 4-4con3.dat
-1 16 0 0 -4 2 0 0 0 0 2 0 1 0 1-4con4.dat
-1 16 0 0 -4 0 0 -2 2 0 0 0 1 0 1-4con4.dat
-1 16 0 0 -4 -2 0 0 0 0 -2 0 1 0 1-4con4.dat
-1 16 0 0 -4 0 0 2 -2 0 0 0 1 0 1-4con4.dat
-
-1 16 0 0 3 -2 0 0 0 0 2 0 -1 0 4-4con3.dat
-1 16 0 0 4 -2 0 0 0 0 2 0 -1 0 1-4con4.dat
-1 16 0 0 4 0 0 2 2 0 0 0 -1 0 1-4con4.dat
-1 16 0 0 4 2 0 0 0 0 -2 0 -1 0 1-4con4.dat
-1 16 0 0 4 0 0 -2 -2 0 0 0 -1 0 1-4con4.dat
+1 16 0 0 4 2 0 0 0 0 2 0 -1 0 4-4con4.dat
+1 16 0 0 3 2 0 0 0 0 2 0 -1 0 4-4con3.dat
+1 16 0 0 5 2 0 0 0 0 2 0 1.5 0 4-4con4.dat
+1 16 0 0 6.5 2 0 0 0 0 2 0 1.5 0 4-4con3.dat
+1 16 0 0 -5 1 0 0 0 0 -1 0 0.75 0 stud.dat
 0

@@ -1,0 +1,288 @@
+LDraw.org Parts Update 2004-02
+---------------------------------------------------------------------------
+
+Notes created Thu Apr 22 13:30:15 2004 by the Parts Tracker.
+
+Release statistics:
+   Total files: 408
+   New files: 227
+   New parts: 122
+   New subparts: 54
+   New primitives: 21
+   New hi-res primitives: 29
+
+New 3-digit part numbers assigned:
+   203.dat Technic Ball Joint
+   268.dat ~Glass for Door  1 x  3 x  4
+   289.dat Brick  1 x  1 x   2/3 Round with Scala Base
+   375.dat Minifig Ice Axe
+   378.dat Animal Tail Section End
+   464.dat Slope Rounded  1 x  6
+   524.dat Minifig Helmet Darth Vader
+   526.dat Minifig Helmet Samurai
+   527.dat Minifig Helmet with Chinstrap and Wide Brim
+   530.dat Minifig Hat Knit Cap
+   723.dat Streetlight Old
+   778.dat Tractor Trailer Chassis  4 x 13
+   782.dat Baseplate 50 x 50
+   784.dat Excavator Bucket  2 x  4
+
+Moved Parts
+   193.DAT       ~Moved to 193a
+   3005-1.DAT    ~Moved to 3005pt1
+   3005-1B.DAT   ~Moved to 3005pv1
+   3005-2.DAT    ~Moved to 3005pt2
+   3005-3.DAT    ~Moved to 3005pt3
+   3005-4.DAT    ~Moved to 3005pt4
+   3005-6B.DAT   ~Moved to 3005pv6
+   3005-7.DAT    ~Moved to 3005pt7
+   3005-E.DAT    ~Moved to 3005pte
+   3005-F.DAT    ~Moved to 3005ptf
+   3005-H.DAT    ~Moved to 3005pth
+   3005-I.DAT    ~Moved to 3005pti
+   3005-J.DAT    ~Moved to 3005ptj
+   3005-L.DAT    ~Moved to 3005ptl
+   3005-M.DAT    ~Moved to 3005ptm
+   3005-N.DAT    ~Moved to 3005ptn
+   3005-O.DAT    ~Moved to 3005pto
+   3005-Q.DAT    ~Moved to 3005ptq
+   3005-R.DAT    ~Moved to 3005ptr
+   3005-T.DAT    ~Moved to 3005ptt
+   3005-U.DAT    ~Moved to 3005ptu
+   3005-V.DAT    ~Moved to 3005ptv
+   3005-W.DAT    ~Moved to 3005ptw
+   3005-Y.DAT    ~Moved to 3005pty
+   3005-Z.DAT    ~Moved to 3005ptz
+   3068BP50.DAT  ~Moved to 3068bp05
+   3068P10.DAT   ~Moved to 3068bp10
+   3068P17.DAT   ~Moved to 3068ap17
+   3068P51.DAT   ~Moved to 3068bp51
+   3068P57.DAT   ~Moved to 3068bp57
+   3068P68.DAT   ~Moved to 3068bp68
+   3068PLC.DAT   ~Moved to 3068bp16
+   3068WARN.DAT  ~Moved to 3068bp06
+   4150P07.DAT   ~Moved to 4150c07
+   4345.DAT      ~Moved to 4345b
+   4688.DAT      ~Moved to 4866
+   SWH3.DAT      ~Moved to s\30364s01
+
+Renamed Parts
+   105.DAT       Antenna Whip with Flag
+   changed to    Antenna  8H with Flag
+
+   2345.DAT      Castle Wall  3 x  3 x  6 Corner
+   changed to    Panel Wall  3 x  3 x  6 Corner
+
+   2345P01.DAT   Castle Wall  3 x  3 x  6 Corner with Lines Pattern
+   changed to    Panel Wall  3 x  3 x  6 Corner with Lines Pattern
+
+   2345P44.DAT   Castle Wall  3 x  3 x  6 Corner with Blacktron I Logo Pattern
+   changed to    Panel Wall  3 x  3 x  6 Corner with Blacktron I Logo Pattern
+
+   2431P12.DAT   Tile  1 x  4 with Sonar Pattern
+   changed to    Tile  1 x  4 with Radar Pattern
+
+   2654.DAT      Boat  2 x  2 Stud
+   changed to    Dish  2 x  2
+
+   2711.DAT      Technic Rotor 2 Blade with 2 Studs
+   changed to    Technic Rotor  2 Blade with 2 Studs
+
+   2714.DAT      Technic Ski Pole
+   changed to    Bar  7.6L with Stop
+
+   298.DAT       Lever Small Base
+   changed to    Hinge Control Stick Base
+
+   3.DAT         Homemaker Drawer  4 x  4 x  2
+   changed to    Container Drawer  4 x  4 x  2
+
+   30028.DAT     Tyre Slick Smooth
+   changed to    Tyre 14 x  8 Slick Smooth
+
+   30060.DAT     Container Box  2 x  2 x  2
+   changed to    Container Box  2 x  2 x  2 with Hollow Studs
+
+   30364.DAT     Hinge Brick  1 x  2 Locking with 1 Finger On End
+   changed to    Hinge Brick  1 x  2 Locking with Single Finger On End
+
+   3039P32.DAT   Slope Brick 45  2 x  2 with 12 Buttons, 3 Red Lamps/Black Panel
+   changed to    Slope Brick 45  2 x  2 with 12 Buttons 3 Lamps on Black Pattern
+
+   3039P33.DAT   Slope Brick 45  2 x  2 with 12 Buttons, 3 Red Lamps/Yellow Panel
+   changed to    Slope Brick 45  2 x  2 with 12 Buttons 3 Lamps on Yellow Pattern
+
+   3040P58.DAT   Slope Brick 45  2 x  1 with Targetting Screen Pattern
+   changed to    Slope Brick 45  2 x  1 with Targeting Screen Pattern
+
+   32296.DAT     Technic Gear 20 Tooth Double Bevel
+   changed to    Tyre Technic Racing
+
+   3480.DAT      Rotor  2 Blade Helicopter Tail
+   changed to    Propellor  2 Blade  4 Diameter Helicopter Tail
+
+   3626B.DAT     Minifig Head - Stud Hollow
+   changed to    Minifig Head with Hollow Stud
+
+   3822P03.DAT   Door  1 x  3 x  1 Left with Yellow / Red Stripe Pattern
+   changed to    Door  1 x  3 x  1 Left with Yellow/Red Stripe Pattern
+
+   3846P43.DAT   ~Moved to 3846p45, 3846p46
+   changed to    Minifig Shield Triangular with Black Falcon Pattern
+
+   3848.DAT      Castle Pike
+   changed to    Minifig Battleaxe
+
+   3939P91.DAT   Slope Brick 33  3 x  6 with Classic Space Logo Pattern Large
+   changed to    Slope Brick 33  3 x  6 with Classic Space Large Pattern
+
+   3961.DAT      Space Radar Dish  8 x  8
+   changed to    Dish  8 x  8 Inverted
+
+   4593.DAT      Lever Small
+   changed to    Hinge Control Stick
+
+   4597.DAT      Space Cabin Base  6 x  6
+   changed to    Cockpit  6 x  6
+
+   4598.DAT      Space Seat  3 x  2
+   changed to    Bracket  2 x  3 -  2 x  2
+
+   4607.DAT      Plate  4 x 16 with 24 studs
+   changed to    Tile  4 x 16 with 24 studs
+
+   4626.DAT      Hinge Scoop Bucket
+   changed to    Excavator Bucket  2 x  3
+
+   481.DAT       Hinge Arm Locking with Single Finger and Axle Hole
+   changed to    Hinge Arm Locking with Single Finger and Axlehole
+
+   482.DAT       Hinge Arm Locking with Dual Finger and Axle Hole
+   changed to    Hinge Arm Locking with Dual Finger and Axlehole
+
+   483.DAT       Hinge Arm Locking with single Finger and Peg
+   changed to    Hinge Arm Locking with Single Finger and Friction Pin
+
+   529.DAT       Minifig Hat Samurai Horn
+   changed to    Minifig Helmet Samurai Horn
+
+   6126.DAT      Castle Dragon Flame
+   changed to    Minifig Flame 
+
+   7.DAT         Tyre Single Smooth
+   changed to    Tyre 14 x 10 Single Smooth
+
+   71075.DAT     Exhaust Pipe Elbow
+   changed to    Cylinder  2 x  2 Elbow
+
+   791.DAT       Window  1 x  6 x  5 Shutter
+   changed to    Window  1 x  3 x  5 Shutter
+
+   825.DAT       Door  1 x  3 x  4 Left with Window 
+   changed to    Door  1 x  3 x  4 Left with Window
+
+   825P01.DAT    Door  1 x  3 x  4 Left with Window and Red Cross Pattern, Lower
+   changed to    Door  1 x  3 x  4 Left with Window & Lower 1/2 Red Cross Pattern
+
+   973P11.DAT    ~Moved to 973p1a, 973p1b, 973p1c
+   changed to    ~Minifig Torso with Dungarees Pattern
+
+   973P15.DAT    ~Moved to 973p1d, 973p1e
+   changed to    ~Minifig Torso with Horizontal Stripes Pattern
+
+   973P35.DAT    ~Moved to 973p3n, 973p3q
+   changed to    ~Minifig Torso with Imperial Guard Pattern
+
+   973P37.DAT    ~Moved to 973p3r, 973p3s
+   changed to    ~Minifig Torso with Imperial Guard Officer Pattern
+
+   973P39.DAT    Minifig Torso with Pirate Open Jacket over Brown Shirt Pattern
+   changed to    Minifig Torso with Pirate Open Jacket over Brown Vest Pattern
+
+   973P4A.DAT    ~Moved to 973p4n, 973p4q
+   changed to    ~Minifig Torso with Castle Bodice Pattern
+
+   973P65.DAT    ~Moved to 973p6b, 973p6c, 973p6d, 973p6e
+   changed to    ~Minifig Torso with Futuron Pattern
+
+   3297S01.DAT   ~Slope Brick 33  3 x  4 without Face
+   changed to    ~Slope Brick 33  3 x  4 without Top Face
+
+   3678S01.DAT   Slope Brick 65  2 x  2 x  2 without Front or Back
+   changed to    ~Slope Brick 65  2 x  2 x  2 without Front and Back Faces
+
+   3939P91A.DAT  ~Slope Brick 33  3 x  6 with Classic Space Logo Large - Gold
+   changed to    ~Classic Space Logo Pattern - Gold Detail
+
+   4186A.DAT     ~Subpart Baseplate 48 x 48
+   changed to    ~Baseplate 48 x 48 - 48 Studs
+
+   59S01.DAT     ~Minifig Greatsword - Grip Segment
+   changed to    ~Minifig Sword Greatsword - Grip Segment
+
+   59S02.DAT     ~Minifig Greatsword - Blade
+   changed to    ~Minifig Sword Greatsword - 1/4 Blade
+
+   59S03.DAT     ~Minifig Greatsword - Guard and Pommel
+   changed to    ~Minifig Sword Greatsword - 1/4 Guard and Pommel
+
+   921A.DAT      ~Subpart Technic Axle Connector Center
+   changed to    ~Technic Axle Connector Center
+
+Other Fixed Parts
+   STEEREND.DAT  Steering End
+   20.DAT        ~Wheel Centre Small for Steel Axle
+   2377.DAT      Window  1 x  2 x  2 Plane
+   2507.DAT      Windscreen 10 x  4 x  2 & 1/3 Canopy
+   2582.DAT      Hinge Panel  2 x  4 x  3 & 1/3 
+   2582P68.DAT   Hinge Panel  2 x  4 x  3 & 1/3 with MTron Pattern
+   2583.DAT      Bar  1 x  8 x  3
+   2921.DAT      Brick  1 x  1 with Handle
+   3039P68.DAT   Slope Brick 45  2 x  2 with MTron Logo Pattern
+   3042.DAT      Slope Brick 45  2 x  3 Double
+   3068BP67.DAT  Tile  2 x  2 with Red Quarter Rings Pattern
+   3069BP02.DAT  Tile  1 x  2 with Tape Reels Pattern
+   3297P01.DAT   Slope Brick 33  3 x  4 with Red Stripes Pattern
+   3297P02.DAT   Slope Brick 33  3 x  4 with Yellow Triangles Pattern
+   3297P03.DAT   Slope Brick 33  3 x  4 with White Stripes Pattern
+   3297P90.DAT   Slope Brick 33  3 x  4 with Classic Space Pattern
+   3298.DAT      Slope Brick 33  3 x  2
+   3298P10.DAT   Slope Brick 33  3 x  2 with Explorien Logo Pattern
+   3298P17.DAT   Slope Brick 33  3 x  2 with Red Stripes Pattern
+   3298P18.DAT   Slope Brick 33  3 x  2 with Yellow Triangles Pattern
+   3298P20.DAT   Slope Brick 33  3 x  2 with White Stripes Pattern
+   3298P66.DAT   Slope Brick 33  3 x  2 with Pink Triangles Pattern
+   3298P68.DAT   Slope Brick 33  3 x  2 with MTron Logo Pattern
+   3298P90.DAT   Slope Brick 33  3 x  2 with Classic Space Logo Pattern
+   36.DAT        Tyre Large
+   3622.DAT      Brick  1 x  3
+   3622P02.DAT   Brick  1 x  3 with Control Panel Pattern
+   3626BP3J.DAT  Minifig Head with Islander White/Red Painted Face Pattern
+   3626BP3K.DAT  Minifig Head with Islander White/Blue Painted Face Pattern
+   3678.DAT      Slope Brick 65  2 x  2 x  2
+   3678P01.DAT   Slope Brick 65  2 x  2 x  2 with Witch's Dress Pattern
+   3685.DAT      Slope Brick 75  2 x  2 x  3 Double Convex
+   3754.DAT      Brick  1 x  6 x  5
+   3939P68.DAT   Slope Brick 33  3 x  6 with MTron Logo Pattern
+   3939P90.DAT   Slope Brick 33  3 x  6 with Classic Space Small Pattern
+   3941.DAT      Brick  2 x  2 Round
+   3943.DAT      Cone  4 x  4 x  2
+   4150P02.DAT   Tile  2 x  2 Round with Pizza Pattern
+   4150P04.DAT   Tile  2 x  2 Round with Yellow Arrow with Black Border Pattern
+   4150P40.DAT   Tile  2 x  2 Round with Archery Target Pattern
+   4150PS3.DAT   Tile  2 x  2 Round with SW Dejarik Hologame Board Pattern
+   4150PS5.DAT   Tile  2 x  2 Round with SW Imperial Pattern
+   4346P01.DAT   Container Box  2 x  2 x  2 Door with Slot and Fire Logo Pattern
+   4485.DAT      Minifig Cap
+   4590.DAT      Plate  1 x  4 Offset
+   4744.DAT      Brick  2 x  4 x  2 with Curved Top
+   4864P66.DAT   Panel  1 x  2 x  2 with Red Cross Pattern
+   4865.DAT      Panel  1 x  2 x  1
+   4865P06.DAT   Panel  1 x  2 x  1 with Black Grille Pattern
+   59.DAT        Minifig Sword Greatsword
+   600.DAT       Freestyle Door  1 x  6 x  6
+   6564.DAT      Wedge  3 x  2 Right
+   6565.DAT      Wedge  3 x  2 Left
+   6632.DAT      Technic Liftarm  1 x  3
+   700.DAT       Brick 10 x 20
+   973P68.DAT    Minifig Torso with MTron Logo Pattern

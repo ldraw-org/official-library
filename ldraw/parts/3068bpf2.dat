@@ -1,0 +1,11 @@
+0 Tile  2 x  2 with White Top Pattern
+0 Name: 3068bpf2.dat
+0 Author: damien.guichard@wanadoo.fr, from James Jessiman's 3068.dat
+0 Author: Niels Karsdorp, pattern
+0 LDRAW_ORG Part UPDATE 2004-02
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+4 15 -20 0 -20 20 0 -20 20 0 20 -20 0 20
+0

@@ -1,12 +1,13 @@
-0 ~Moved to 973p3n, 973p3q
+0 ~Minifig Torso with Imperial Guard Pattern, Obsolete
 0 Name: 973p35.dat
 0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2003-01
-
-0 2000-11-05 CWD Moved neck mark from s\973s01.dat
-0 2002-07-23 CWD Separated pattern to make true colour parts 
+0 LDRAW_ORG Part UPDATE 2004-02
 
 0 BFC CERTIFY CW
+
+0 // 2000-11-05 CWD Moved neck mark from s\973s01.dat
+0 // 2002-07-23 CWD Separated pattern to make true colour parts
+0 //                Replaced by 973p3n, 973p3q 
 
 1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

@@ -1,8 +1,13 @@
-0 Hinge Brick  1 x  2 Locking with 1 Finger On End
+0 Hinge Brick  1 x  2 Locking with Single Finger On End
 0 Name: 30364.dat
 0 Author: John VanZwieten
-0 Official LCad update 99-05
+0 LDRAW_ORG Part UPDATE 2004-02
 
- 1 16 30 9 0 1 0 0 0 1 0 0 0 1 s/swh3.dat
- 1 16 30 9 0 0 0 -1 0 1 0 1 0 0 s/swh2.dat
+0 BFC CERTIFY CW
+
+0 // 2003-04-30 DS, BFC'd and switch to primitive
+0 // 2003-08-29 CWD rename swh3 subpart to 30364s01
+
+1 16 30 9 0 1 0 0 0 1 0 0 0 1 s\30364s01.dat
+1 16 20 10 0 0 0 -1 0 1 0 1 0 0 clh1.dat
 0

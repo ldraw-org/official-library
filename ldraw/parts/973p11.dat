@@ -1,15 +1,16 @@
-0 ~Moved to 973p1a, 973p1b, 973p1c
+0 ~Minifig Torso with Dungarees Pattern, Obsolete
 0 Name: 973p11.dat
 0 Author: Chris Dee <chris_w_dee@hotmail.com>
-0 LDRAW_ORG Part UPDATE 2003-02
+0 LDRAW_ORG Part UPDATE 2004-02
 
 0 BFC CERTIFY CW
 
-0 Hardcoded background colour white (15) use part colour to define decoration
-0 1999-04-16 SEB Changed 973 reference to s\973s01; added back surface
-0 1999-04-19 SEB Filled in white area on front surface
-0 2000-11-05 CWD Moved neck mark from s\973s01.dat
-0 2002-07-23 CWD Separated pattern to make true colour parts 
+0 // Hardcoded background colour white (15) use part colour to define decoration
+0 // 1999-04-16 SEB Changed 973 reference to s\973s01; added back surface
+0 // 1999-04-19 SEB Filled in white area on front surface
+0 // 2000-11-05 CWD Moved neck mark from s\973s01.dat
+0 // 2002-07-23 CWD Separated pattern to make true colour parts 
+0 //                Replaced by 973p1a, 973p1b, 973p1c
 
 1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 Plain back

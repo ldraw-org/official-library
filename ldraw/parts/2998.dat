@@ -1,0 +1,16 @@
+0 Wheel 81.6 x 34 ZR for Large Wheel Hub
+0 Name: 2998.dat
+0 Author: Donald Sutter
+0 LDRAW_ORG Part UPDATE 2004-02
+
+0 KEYWORDS 8880 Super Car, Technic, spokes
+0 CMDLINE -c15
+
+1 16 0 0 13 0 1 0 -1 0 0 0 0 1 s\2998a.dat
+1 16 -40 0 0 0 1 0 -1 0 0 0 0 1 s\2998b.dat
+1 16 -20 -34.64 0 0.866 0.5 0 -0.5 0.866 0 0 0 1 s\2998b.dat
+1 16 20 -34.64 0 0.866 -0.5 0 0.5 0.866 0 0 0 1 s\2998b.dat
+1 16 40 0 0 0 -1 0 1 0 0 0 0 1 s\2998b.dat
+1 16 20 34.64 0 -0.866 -0.5 0 0.5 -0.866 0 0 0 1 s\2998b.dat
+1 16 -20 34.64 0 -0.866 0.5 0 -0.5 -0.866 0 0 0 1 s\2998b.dat
+0

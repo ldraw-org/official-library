@@ -1,12 +1,14 @@
 0 Slope Brick 65  2 x  2 x  2
 0 Name: 3678.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2002-06
+0 LDRAW_ORG Part UPDATE 2004-02
 
-0 2002-06-21 MS: modified to use subpart
+0 BFC CERTIFY CCW
 
-4 16 20 48 10 20 0 10 -20 0 10 -20 48 10
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3678s01.dat
-4 16 20 44 -30 20 0 -10 -20 0 -10 -20 44 -30
+0 // 2003-09-22 FWC Used subfile...  
+
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3678s01.dat
+0
+ 4 16 20 44 -30 20 0 -10 -20 0 -10 -20 44 -30
+ 4 16 20 48 10 -20 48 10 -20 0 10 20 0 10
 0

@@ -1,14 +1,14 @@
-0 Hinge Arm Locking with Single Finger and Axle Hole
+0 Hinge Arm Locking with Single Finger and Axlehole
 0 Name: 481.dat
 0 Author: Franklin W. Cain
-0 LDRAW_ORG Part UPDATE 2004-01
+0 LDRAW_ORG Part UPDATE 2004-02
 
 0 BFC CERTIFY CW
 0 KEYWORDS click-hinge, Life on Mars, Studio, Technic, Star Wars
 
 0 // 2003-07-02 DS  created new subpart, added BFC
 0 // 2003-11-13 FWC disintegrated obsolete subfile...
-
+0 // 2004-03-11 CWD corrected axle hole to axlehole
 
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 clh3.dat
 0

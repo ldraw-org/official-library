@@ -1,0 +1,16 @@
+0 Brick  1 x  1 with Lightblue Subtraction Pattern
+0 Name: 3005pwm.dat
+0 Author: Tore Eriksson
+0 LDRAW_ORG Part UPDATE 2004-02
+
+0 KEYWORDS letters, numbers, dash, minus
+0 BFC CERTIFY CW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3005s01.dat
+
+4 9 -3 11 -10 3 11 -10 3 14 -10 -3 14 -10 
+4 16 10 24 -10 3 14 -10 3 11 -10 10 0 -10 
+4 16 -10 24 -10 -3 14 -10 3 14 -10 10 24 -10 
+4 16 -10 0 -10 -3 11 -10 -3 14 -10 -10 24 -10 
+4 16 -10 0 -10 10 0 -10 3 11 -10 -3 11 -10 
+0

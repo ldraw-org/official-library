@@ -1,0 +1,17 @@
+0 Tile  2 x  2 with Black Large Circle Pattern
+0 Name: 3068bp16.dat
+0 Author: Tore Eriksson
+0 LDRAW_ORG Part UPDATE 2004-02
+
+0 BFC CERTIFY CCW
+
+0 // 2003-11-23  Niels Karsdorp  Reworked to use subfile and BFCd
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+1 0 0 0 0 18 0 0 0 1 0 0 0 18 4-4disc.dat
+1 16 0 0 0 18 0 0 0 1 0 0 0 18 4-4ndis.dat
+4 16 18 0 18 18 0 -18 20 0 -20 20 0 20
+4 16 -20 0 20 -20 0 -20 -18 0 -18 -18 0 18
+4 16 20 0 20 -20 0 20 -18 0 18 18 0 18
+4 16 18 0 -18 -18 0 -18 -20 0 -20 20 0 -20
+0

@@ -1,21 +1,13 @@
 0 Brick  1 x  3
 0 Name: 3622.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 Original LDraw Part
+0 LDRAW_ORG Part UPDATE 2004-02
 
-1 16 10 4 0 1 0 0 0 -5 0 0 0 1 stud3.dat
-1 16 -10 4 0 1 0 0 0 -5 0 0 0 1 stud3.dat
+0 BFC CERTIFY CCW
 
-1 16 0 24 0 26 0 0 0 -20 0 0 0 6 box5.dat
+0 // 2003-10-15 AJW Subfiled, BFC'd
 
-4 16 30 24 10 26 24 6 -26 24 6 -30 24 10
-4 16 -30 24 10 -26 24 6 -26 24 -6 -30 24 -10
-4 16 -30 24 -10 -26 24 -6 26 24 -6 30 24 -10
-4 16 30 24 -10 26 24 -6 26 24 6 30 24 10
-
-1 16 0 24 0 30 0 0 0 -24 0 0 0 10 box5.dat
-
-1 16 20 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -20 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3622s01.dat 
+4 16 30 0 -10 -30 0 -10 -30 24 -10 30 24 -10
 0

@@ -1,11 +1,16 @@
-0 Container Box  2 x  2 x  2
+0 Container Box  2 x  2 x  2 with Hollow Studs
 0 Name: 30060.dat
 0 Author: Steve Bliss
-0 LDRAW_ORG Alias UPDATE 2002-02
+0 LDRAW_ORG Part UPDATE 2004-02
 
-0 Part 30060 is a counterpart of 4345.  Visually, the two parts seem
-0 identical.  This file is provided to make it easier to locate part files
-0 when using the numbers imprinted on the actual parts.
+0 BFC CERTIFY CW
 
- 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4345.dat
+0 // Part 30060 is a counterpart of 4345b.  Visually, the two parts seem
+0 // identical. This file is provided to make it easier to locate part files
+0 // when using the numbers imprinted on the actual parts.
+
+0 // 2003-01-20  CWD      changed in line with splitting of 4345 into 4345a and 4345b
+0 // 2004-01-23  Steffen  added BFC statement
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4345b.dat
 0
