@@ -1,26 +1,5 @@
-0 Technic Axle  5.5 With Stop
-0 Name: 552.dat
-0 Author: Steve Bliss
-0 Official LCad Part 2000-01a
-
-1 16 -55 0 0 0 1 0 -1 0 0 0 0 1 axlehol2.dat
-1 16 -55 0 0 0 1 0 -1 0 0 0 0 1 axlehol9.dat
-1 16 -37 0 0 0 1 0 -1 0 0 0 0 1 axlehol9.dat
-1 16 -37 0 0 0 1 0 -1 0 0 0 0 1 axlehol2.dat
-1 16 -55 0 0 0 1 0 -1 0 0 0 0 1 axleend.dat
-1 16 -37 0 0 0 -18 0 1 0 0 0 0 1 axlehol8.dat
-1 16 -37 0 0 0 1 0  8 0 0 0 0 8 4-4edge.dat
-1 16 -35 0 0 0 1 0  8 0 0 0 0 8 4-4edge.dat
-1 16 -35 0 0 0 1 0  6 0 0 0 0 6 4-4edge.dat
-1 16 -37 0 0 0 1 0 -8 0 0 0 0 8 4-4disc.dat
-1 16 -37 0 0 0 2 0 -8 0 0 0 0 8 4-4cyli.dat
-1 16 -35 0 0 0 -1 0 8 0 0 0 0 8 4-4disc.dat
-1 16 -27 0 0 0 1 0 -1 0 0 0 0 1 axlehol9.dat
-1 16 -27 0 0 0 1 0 -1 0 0 0 0 1 axlehol3.dat
-1 16 -35 0 0 0 8 0 -6 0 0 0 0 6 4-4cyli.dat
-1 16 -27 0 0 0 -1 0 6 0 0 0 0 6 4-4disc.dat
-1 16 55 0 0 0 -1 0 1 0 0 0 0 1 axlehol2.dat
-1 16 55 0 0 0 -1 0 1 0 0 0 0 1 axlehol9.dat
-1 16 -27 0 0  0 82 0 -1 0 0 0 0 1 axlehol8.dat
-1 16 55 0 0 0 -1 0 1 0 0 0 0 1 axleend.dat
-0
+0 ~Moved to 32209
+0 WRITE Part 552 moved to 32209
+0 LDRAW_ORG Part UPDATE 2005-01
+0 BFC CERTIFY CCW
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 32209.dat

@@ -2,6 +2,23 @@
 0 Name: 3935.dat
 0 Author: James Jessiman
 0 Original LDraw Part - LDraw beta 0.27 Archive
+0 LDRAW_ORG Part UPDATE 2005-01
+0 BFC CERTIFY CCW
 
- 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3936.dat
+0 // 2004-07-26  GuyVivan  Made BFC Compliant
+0 // 2004-09-30  GuyVivan  Use subpart 3936s01.dat
+0 // 2004-10-14  Steffen   corrected studs orientation
+
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3936s01.dat
+
+1 16 -10 0 30 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 10 0 30 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 30 0 30 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -10 0 10 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 10 0 10 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 30 0 10 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 10 0 -10 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 30 0 -10 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 30 0 -30 0 0 -1 0 1 0 1 0 0 stud.dat
 0

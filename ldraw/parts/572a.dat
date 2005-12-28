@@ -1,0 +1,15 @@
+0 ~String End Stud
+0 Name: 572a.dat
+0 Author: Steve Bliss
+0 LDRAW_ORG Part UPDATE 2005-01
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 0 4 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 4 0 -6 0 0 0 -4 0 0 0 6 4-4disc.dat
+1 16 0 0 0 8 0 0 0 4 0 0 0 8 4-4cyli.dat
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 ring3.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 0 4 0 -1 0 0 0 -1 0 0 0 1 stud4a.dat
+0

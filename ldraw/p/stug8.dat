@@ -1,0 +1,12 @@
+0 Stud Group  8 x  8
+0 Name: stug8.dat
+0 Author: Tore Eriksson
+0 LDRAW_ORG Primitive UPDATE 2005-01
+
+0 BFC CERTIFY CCW
+
+1 16 -40 0 -40 1 0 0 0 1 0 0 0 1 stug4.dat
+1 16 -40 0  40 1 0 0 0 1 0 0 0 1 stug4.dat
+1 16  40 0 -40 1 0 0 0 1 0 0 0 1 stug4.dat
+1 16  40 0  40 1 0 0 0 1 0 0 0 1 stug4.dat
+0

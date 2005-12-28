@@ -1,14 +1,13 @@
 0 Minifig Helmet Modern
 0 Name: 2446.dat
 0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2004-01
+0 LDRAW_ORG Part UPDATE 2005-01
 
 0 BFC CERTIFY CW
 0 KEYWORDS motorcycle helmet, police helmet, space helmet, full face, crash helmet
 
-0 // 2003-01-25 DS BFC'd, closed gaps, corrected coplanarity
-
-
+0 // 2003-01-25 DS           BFC'd, closed gaps, corrected coplanarity
+0 // 2005-08-29 Dean Earley: Removed erroneous BFC Certifys
 
 
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -30,18 +29,18 @@
 4 16 12.01 3 -4.975 7.391 -4 -3.061 5.656 -4 -5.656 9.191 3 -9.191
 4 16 13 3 0 8 -4 0 7.391 -4 -3.061 12.01 3 -4.975
 1 16 0 3 0 13 0 0 0 1 0 0 0 13 4-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 3 0 13 0 0 0 2.5 0 0 0 13 4-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 5.5 0 13 0 0 0 15 0 0 0 13 2-4CYLI.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 20.5 0 0 0 -13 0 2 0 13 0 0 4-4cyls.dat
 1 16 0 22.5 0 0 0 -13 -2 1 0 13 0 0 4-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 20.5 0 13 0 0 0 -3.52 0 0 0 -13 2-4CYLI.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 16.976 0 0 0 -13 0 -5.54 0 -13 0 0 1-4cyls.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 16.976 0 0 0 13 0 -5.54 0 -13 0 0 1-4cyls.dat
 1 16 0 5.5 0 -9.191 0 9.191 0 1 0 -9.191 0 -9.191 1-4edge.dat
 2 24 9.989 5.5 -8 9.191 5.5 -9.191
@@ -499,8 +498,8 @@
 1 16 -14.5 6.5 0 0 1 0 -1.5 0 0 0 0 1.5 4-4edge.dat
 1 16 14.5 6.5 0 0 -1 0 1.5 0 0 0 0 1.5 4-4ndis.dat
 1 16 -14.5 6.5 0 0 1 0 -1.5 0 0 0 0 1.5 4-4ndis.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 14.5 6.5 0 0 -1 0 1.5 0 0 0 0 1.5 4-8sphe.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -14.5 6.5 0 0 1 0 -1.5 0 0 0 0 1.5 4-8sphe.dat
 0

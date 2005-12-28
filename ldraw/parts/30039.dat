@@ -1,0 +1,11 @@
+0 Tile  1 x  1 with Groove
+0 Name: 30039.dat
+0 Author: Chris Dee
+0 LDRAW_ORG Part UPDATE 2005-01
+
+0 // Part 30039 is the counterpart of 3070b. Visually, the two parts seem
+0 // identical.  This file is provided to make it easier to locate part files
+0 // when using the numbers used in LEGO Digital Designer.
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3070b.dat
+0

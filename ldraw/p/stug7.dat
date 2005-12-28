@@ -1,0 +1,21 @@
+0 Stud Group  7 x  7
+0 Name: stug7.dat
+0 Author: Michael Heidemann <mikeheide@web.de>
+0 LDRAW_ORG Primitive UPDATE 2005-01
+0 // 2004-11-03 initial version
+0 BFC CERTIFY CCW
+1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stug6.dat
+1 16 60 0 -40 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 60 0 -20 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 60 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 60 0 20 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 60 0 40 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 60 0 60 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -60 0 -60 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -40 0 -60 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -20 0 -60 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 0 0 -60 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 20 0 -60 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 40 0 -60 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 60 0 -60 1 0 0 0 1 0 0 0 1 stud.dat
+0

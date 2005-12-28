@@ -1,10 +1,5 @@
-0 Technic Axle  7
-0 Name: 300.dat
-0 Author: Dan Boger
-0 LDRAW_ORG Part UPDATE 2003-02
-
+0 ~Moved to 44294
+0 WRITE Part 300 moved to 44294
+0 LDRAW_ORG Part UPDATE 2005-01
 0 BFC CERTIFY CCW
-
-1 16 70 0 0 0 -140 0 1 0 0 0 0 1 axle.dat
-0
-
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 44294.dat

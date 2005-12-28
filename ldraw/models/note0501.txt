@@ -1,0 +1,254 @@
+LDraw.org Parts Update 2005-01
+---------------------------------------------------------------------------
+
+Notes created Tue Dec 27 12:21:49 2005 by the Parts Tracker.
+
+Release statistics:
+   Total files: 276
+   New files: 117
+   New parts: 74
+   New subparts: 22
+   New primitives: 20
+   New hi-res primitives: 1
+
+New 3-digit part numbers assigned:
+   263.dat Train Steam Cylinder  2 x  2 x  1 & 2/3
+   276.dat Fabuland Wheelbarrow
+   405.dat Flag  2 x  2 Trapezoid
+
+Moved Parts
+   2476.DAT      ~Moved to 2476a
+   298.DAT       ~Moved to 4592
+   298C01.DAT    ~Moved to 4592c01
+   300.DAT       ~Moved to 44294
+   30359.DAT     ~Moved to 30359a
+   4738.DAT      ~Moved to 4738a
+   480.DAT       ~Moved to 30554
+   4864P35.DAT   ~Moved to 4864ap01
+   530.DAT       ~Moved to 41334
+   552.DAT       ~Moved to 32209
+   554.DAT       ~Moved to 42446
+   6238.DAT      ~Moved to 6238a
+   770.DAT       ~Moved to 2586
+   770P4B.DAT    ~Moved to 2586p4b
+   770P4C.DAT    ~Moved to 2586p4c
+   770P4D.DAT    ~Moved to 2586p4d
+   770PH1.DAT    ~Moved to 2586ph1
+   770PS1.DAT    ~Moved to 2586ps1
+   770PW1.DAT    ~Moved to 2586pw1
+   770PH1A.DAT   ~Moved to s\2586ph1a
+   770PH1B.DAT   ~Moved to s\2586ph1b
+   770PS1A.DAT   ~Moved to s\2586ps1a
+   770S01.DAT    ~Moved to s\2586s01
+
+Renamed Parts
+   5-8EDGE.DAT   Edge 0.625
+   changed to    Circle 0.625
+
+   CONNECT.DAT   Technic Pin with Base Collar
+   changed to    Technic Pin 1.0 with Base Collar
+
+   CONNECT2.DAT  Technic Pin
+   changed to    Technic Pin 1.0 without Base Collar
+
+   CONNECT3.DAT  Technic Pin 1/2 with Base Collar
+   changed to    Technic Pin 0.5 with Base Collar
+
+   CONNECT4.DAT  Technic Pin 1/2
+   changed to    Technic Pin 0.5 without Base Collar
+
+   CONNECT5.DAT  Connector 1/2 with Base Collar and Friction Lip
+   changed to    Technic Pin 1.0 with Base Collar and Slots
+
+   3010PT6.DAT   Brick  1 x  4 with White "TRANSPORT" Pattern
+   changed to    Brick  1 x  4 with White "TRANSPORT" Stencil Pattern
+
+   30372.DAT     Windscreen  4 x  7 x  1 2/3
+   changed to    Windscreen  4 x  7 x  1 & 2/3
+
+   3626BPS5.DAT  Minifig Head with SW Smirk and Brown Eyebrows pattern
+   changed to    Minifig Head with SW Smirk and Brown Eyebrows Pattern
+
+   3933.DAT      Wing  8 x  4 Left
+   changed to    Wing  4 x  8 Left
+
+   3934.DAT      Wing  8 x  4 Right
+   changed to    Wing  4 x  8 Right
+
+   41855.DAT     Slope Rounded  2 x  2 x  2/3
+   changed to    Slope Brick Round  2 x  2 x  2/3
+
+   4319.DAT      Hinge Rod with Split Rod Holder  8L
+   changed to    Hinge Bar  8 with Split Bar Holder
+
+   4444P01.DAT   Castle Wall  2 x  5 x  6 w/ Dark Gray Window Stones Pattern
+   changed to    Panel  2 x  5 x  6 Wall with Dark Gray Stones Pattern
+
+   4444P02.DAT   Castle Wall  2 x  5 x  6 w/ Dark Gray Scattered Stones Pattern
+   changed to    Panel  2 x  5 x  6 Wall with Dark Gray Scattered Stones Pattern
+
+   4444P04.DAT   Castle Wall  2 x  5 x  6 w/ Light Gray Window Stones Pattern
+   changed to    Panel  2 x  5 x  6 Wall with Light Gray Window Stones Pattern
+
+   4444P05.DAT   Castle Wall  2 x  5 x  6 w/ Light Gray Scattered Stones Pattern
+   changed to    Panel  2 x  5 x  6 Wall with Light Gray Scattered Stones Pattern
+
+   4859.DAT      Wedge  3 x  4 Plate
+   changed to    Wing  3 x  4 with  1 x  2 Cutout
+
+   6082.DAT      Rock Piece Rectangular
+   changed to    Panel  4 x 10 x  6 Rock Rectangular
+
+   649P02.DAT    Roadsign Triangle with Road Crossing Sign 
+   changed to    Roadsign Triangle with Road Crossing Sign
+
+   7284.DAT      Roadsign Round with No Thoroughfare Sign
+   changed to    Roadsign Round with No Entry Sign Pattern
+
+   729.DAT       Container Storage  8 x 11 x  3 Clear
+   changed to    Container Storage  8 x 11 x  3
+
+   911.DAT       Baseplate Train-Ferry Set 343
+   changed to    Baseplate 10 x 48 Train-Ferry Set 343
+
+   915P01.DAT    Baseplate 24 x 32 Fire-House with Set EU357/US570 Dot Pattern 
+   changed to    Baseplate 24 x 32 with Driveways and Set EU357/US570 Dot Pattern 
+
+   915P02.DAT    Baseplate 24 x 32 Fire-House with Set 350 Dot Pattern 
+   changed to    Baseplate 24 x 32 with Driveways and Set 347 Dot Pattern
+
+   973P4R.DAT    Minifig Torso with Tri-Colored Shield Pattern
+   changed to    Minifig Torso with Tri-Coloured Shield Large Pattern
+
+   973P4S.DAT    Minifig Torso with Suzerain Goldcrest Pattern
+   changed to    Minifig Torso with Tri-Coloured Shield and Gold Trim Pattern
+
+   14S01.DAT     ~Subpart Roadsign Round
+   changed to    ~Roadsign Round without Front Face
+
+   649S01.DAT    ~Subpart Roadsign Triangle
+   changed to    ~Roadsign Triangle without Front Face
+
+   973P4SA.DAT   ~Minifig Torso with Suzerain Goldcrest Pattern - Gold Detail
+   changed to    ~Minifig Torso with Tri-Coloured Shield and Gold Trim - Gold
+
+   973PSB1.DAT   ~Minifig Torso with SW Blast Armor Detail Area
+   changed to    ~Minifig Torso - SW Blast Armor (Detail; 1/2)
+
+   973PSB2.DAT   ~Minifig Torso with SW Blast Armor Plates
+   changed to    ~Minifig Torso - SW Blast Armor (Plates; 1/2)
+
+   FAXLE1.DAT    ~Subpart Flexible Axle Segment #1
+   changed to    ~Flexible Axle Segment #1
+
+   FAXLE2.DAT    ~Subpart Flexible Axle Segment #2
+   changed to    ~Flexible Axle Segment #2
+
+   FAXLE3.DAT    ~Subpart Flexible Axle Segment #3
+   changed to    ~Flexible Axle Segment #3
+
+   FAXLE4.DAT    ~Subpart Flexible Axle Segment #4
+   changed to    ~Flexible Axle Segment #4
+
+   FAXLE5.DAT    ~Subpart Flexible Axle Segment #5
+   changed to    ~Flexible Axle Segment #5
+
+Other Fixed Parts
+   1-16CYLI.DAT  Cylinder 0.0625
+   1-4CON10.DAT  Cone 10 x 0.25
+   1-8CYLI.DAT   Cylinder 0.125
+   2-4CYLI.DAT   Cylinder 0.5
+   3-16CYLI.DAT  Cylinder 0.1875
+   3-4CYLI.DAT   Cylinder 0.75
+   3-8CYLI.DAT   Cylinder 0.375
+   4-4CYLI.DAT   Cylinder 1.0
+   5-8CYLI.DAT   Cylinder 0.625
+   AXLEHO10.DAT  Technic Axle Hole Tooth Surface
+   AXLEHOL4.DAT  Technic Axle Hole Open One Side
+   AXLEHOL5.DAT  Technic Axle Hole Open Two Opposite Sides
+   AXLEHOL6.DAT  Technic Axle Hole Tooth
+   AXLEHOLE.DAT  Technic Axle Hole Closed
+   14.DAT        Roadsign Round
+   2440.DAT      Hinge  6 x  3 Radar/Blade/Spoiler/Panel
+   2446.DAT      Minifig Helmet Modern
+   2449.DAT      Slope Brick 75  2 x  1 x  3 Inverted
+   247A.DAT      ~Door  1 x  4 x  5 Frame
+   2529.DAT      Window  1 x  2 x  3 Pane Latticed
+   2717.DAT      Technic Seat  3 x  2 Base
+   2852.DAT      Technic Engine Connecting Rod
+   2904.DAT      Technic Motorcycle Pivot
+   30134.DAT     Staircase  7 x  4 x  6 Open
+   30388.DAT     Hinge Brick  1 x  6 Locking Double
+   3045.DAT      Slope Brick 45  2 x  2 Double Convex
+   3137.DAT      Brick  2 x  2 with Wheels Holder
+   32073.DAT     Technic Axle  5
+   3299.DAT      Slope Brick 33  2 x  4 Double
+   3300.DAT      Slope Brick 33  2 x  2 Double
+   3455.DAT      Arch  1 x  6
+   3626B.DAT     Minifig Head with Hollow Stud
+   3626BP01.DAT  Minifig Head with Standard Grin Pattern
+   3626BP02.DAT  Minifig Head with Standard Woman Pattern
+   3626BP03.DAT  Minifig Head with Standard Grin and Pointed Moustache Pattern
+   3626BP04.DAT  Minifig Head with Standard Grin and Sunglasses Pattern
+   3626BP05.DAT  Minifig Head with Standard Grin and Eyebrows Pattern
+   3626BP06.DAT  Minifig Head with Standard Grin, Eyebrows and Microphone Pattern
+   3626BP61.DAT  Minifig Head with Ice Planet Moustache and Eyebrows Pattern
+   3626BP6F.DAT  Minifig Head with Red Lips and Black Upswept Eyelashes Pattern
+   3626BP7B.DAT  Minifig Head with Blue Sunglasses Pattern
+   3626BP7C.DAT  Minifig Head with Blue Wrap-Around Sunglasses Pattern
+   3626BPA2.DAT  Minifig Head with Adventurers Mummy Pattern
+   3626BPA7.DAT  Minifig Head with Monocle, Scar, and Moustache Pattern
+   3626BPAC.DAT  Minifig Head with Tribal Paint and Frown Pattern
+   3626BPS2.DAT  Minifig Head with SW Brown Eyebrows Pattern
+   3626BPS3.DAT  Minifig Head with SW Small Black Eyebrows Pattern
+   3626BPSC.DAT  Minifig Head with SW Grey Eyebrows & Implant Pattern
+   3626BPSE.DAT  Minifig Head with SW Scout Trooper Black Visor Pattern
+   3659.DAT      Arch  1 x  4
+   3675.DAT      Slope Brick 33  3 x  3 Double Convex
+   3704.DAT      Technic Axle  2
+   3705.DAT      Technic Axle  4
+   3706.DAT      Technic Axle  6
+   3707.DAT      Technic Axle  8
+   3708.DAT      Technic Axle 12
+   3709B.DAT     Technic Plate  2 x  4 with Holes
+   3737.DAT      Technic Axle 10
+   3738.DAT      Technic Plate  2 x  8 with Holes
+   374.DAT       Baseplate 16 x 32 with Rounded Corners
+   3743.DAT      Technic Gear Rack  1 x  4
+   3749.DAT      Technic Axle Pin
+   3755.DAT      Brick  1 x  3 x  5
+   3811.DAT      Baseplate 32 x 32
+   3867.DAT      Baseplate 16 x 16
+   3935.DAT      Wing  4 x  4 Right
+   4150P01.DAT   Tile  2 x  2 Round with Grille Pattern
+   4150PS2.DAT   Tile  2 x  2 Round with SW Sith Infiltrator Pattern
+   4169.DAT      Train Signal Stand
+   41769.DAT     Wing  2 x  4 Right
+   41770.DAT     Wing  2 x  4 Left
+   4262.DAT      Technic Plate  1 x  6 with Holes
+   4263.DAT      Technic Plate  1 x  4 with Holes
+   4265A.DAT     Technic Bush 1/2 Type I
+   4265B.DAT     Technic Bush 1/2 Type II
+   4315.DAT      Hinge Plate  1 x  4 with Car Roof Holder
+   4442.DAT      Technic Plate  1 x  8 with Holes
+   4490.DAT      Arch  1 x  3
+   4504.DAT      Hinge Plate  1 x  6 with 2 and 3 Fingers On Ends
+   4519.DAT      Technic Axle  3
+   4531.DAT      Hinge Tile  1 x  2 with 2 Fingers
+   4591.DAT      Brick  2 x  2 x  2 Round with Fins
+   4599.DAT      Tap  1 x  1
+   6016.DAT      Bar  1 x  4 x  3 Window
+   6134.DAT      Hinge  2 x  2 Top
+   649.DAT       Roadsign Triangle
+   649P01.DAT    Roadsign Triangle with Level Crossing Pattern
+   6587.DAT      Technic Axle  3 with Stud
+   7.DAT         Tyre 14 x 10 Single Smooth
+   733.DAT       Brick 10 x 10
+   739.DAT       Roadsign Octagonal
+   739P01.DAT    Roadsign Octagonal with Stop Sign Pattern
+   80039.DAT     Roadsign Round with Left Turn Prohibited Sign
+   80045.DAT     Roadsign Round with No Parking Sign
+   81294.DAT     Roadsign Triangle with Dangerous Intersection Sign
+   912.DAT       Baseplate 16 x 16 Control Tower Set 340
+   973P18.DAT    Minifig Torso with Suit and Tie Pattern
+   973PSB.DAT    Minifig Torso with SW Blast Armor (Green Plates) Pattern

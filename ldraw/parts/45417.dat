@@ -1,0 +1,16 @@
+0 Brick  2 x  2 Corner Round
+0 Name: 45417.dat
+0 Author: Chris Dee
+0 LDRAW_ORG Part UPDATE 2005-01
+
+0 BFC CERTIFY CCW
+0 KEYWORDS macaroni
+
+0 // Part 45417 is the counterpart of 3063. Visually, the two parts seem
+0 // identical.  This file is provided to make it easier to locate part files
+0 // when using the numbers imprinted on the actual parts.
+0 // 3063 is used for molding opaque parts, 45417 for transparent parts.
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3063.dat
+0

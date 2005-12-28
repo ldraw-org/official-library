@@ -1,0 +1,17 @@
+0 Single Tooth for Technic Gear Racks
+0 Name: toothr.dat
+0 Author: Mark Kennedy
+0 LDRAW_ORG Primitive UPDATE 2005-01
+
+0 BFC CERTIFY CW
+
+0 // 2002-07-11 SEB Inlined rect2a.dat
+0 // 2003-11-16 DS; BFC'd, standardize size, re-titled
+
+
+1 16 2 2.5 0 1 -1 0 -2.5 0 0 0 0 10 rect.dat
+1 16 0 5 0 1 0 0 0 -1 0 0 0 10 rect2p.dat
+1 16 -2 2.5 0 1 1 0 2.5 0 0 0 0 10 rect.dat
+4 16 -3 0 10 -1 5 10 1 5 10 3 0 10
+4 16 3 0 -10 1 5 -10 -1 5 -10 -3 0 -10
+0

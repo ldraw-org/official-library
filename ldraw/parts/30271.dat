@@ -1,0 +1,18 @@
+0 Baseplate 32 x 48 Raised with Corner Pits
+0 Name: 30271.dat
+0 Author: William Howard
+0 LDRAW_ORG Part UPDATE 2005-01
+
+0 BFC CERTIFY CW
+0 KEYWORDS Castle, Adventurers
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\30271s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30271s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30271s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\30271s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\30271s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30271s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30271s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\30271s02.dat
+0

@@ -1,0 +1,20 @@
+0 Technic Beam Hole 1.0 with Adjacent Hole Negative
+0 Name: beamhole.dat
+0 Author: GuyVivan
+0 LDRAW_ORG Primitive UPDATE 2005-01
+
+0 BFC CERTIFY CCW
+
+0 // 2004-11-07  GuyVivan  Initial Version
+
+
+
+1 16 0 -10 10 1 0 0 0 8 0 0 0 1 npeghol2.dat
+1 16 0 10 10 -1 0 0 0 -8 0 0 0 1 npeghol2.dat
+0 BFC CERTIFY INVERTNEXT
+1 16 0 -8 0 6 0 0 0 16 0 0 0 6 4-4cyli.dat
+1 16 0 -10 0 1 0 0 0 1 0 0 0 1 peghole.dat
+1 16 0 10 0 -1 0 0 0 -1 0 0 0 1 peghole.dat
+1 16 0 -10 0 1 0 0 0 1 0 0 0 1 4-4ring8.dat
+1 16 0 10 0 -1 0 0 0 -1 0 0 0 1 4-4ring8.dat
+0

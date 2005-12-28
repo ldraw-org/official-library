@@ -1,0 +1,13 @@
+0 Plate  1 x  1 Round
+0 Name: 6141.dat
+0 Author: Chris Dee
+0 LDRAW_ORG Part UPDATE 2005-01
+
+0 BFC CERTIFY CCW
+
+0 // Part 6141 is the counterpart of 4073. Visually, the two parts seem
+0 // identical.  This file is provided to make it easier to locate part files
+0 // when using the numbers used in LEGO Digital Designer.
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4073.dat
+0

@@ -1,12 +1,17 @@
-0 Minifig Torso with Tri-Colored Shield Pattern
+0 Minifig Torso with Tri-Coloured Shield Large Pattern
 0 Name: 973p4r.dat
 0 Author: Andrew Westrate
-0 LDRAW_ORG Part UPDATE 2003-02
+0 LDRAW_ORG Part UPDATE 2005-01
 
 0 CMDLINE -C4
 0 KEYWORDS Castle, LEGOLAND Castle, Guard, Tournament
 
+0 // 2004-12-09 CWD Description change only
+
 0 Torso
+
+
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -19 32 10 19 32 10 -19 29 10 19 29 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10

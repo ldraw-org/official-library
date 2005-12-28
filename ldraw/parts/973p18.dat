@@ -1,20 +1,22 @@
 0 Minifig Torso with Suit and Tie Pattern
 0 Name: 973p18.dat
 0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2002-02
+0 LDRAW_ORG Part UPDATE 2005-01
 
 0 BFC CERTIFY CW
 0 KEYWORDS Town, Trains, business, corporate, professional
 0 CMDLINE -c1
 
-0 1999-04-16 SEB Updated 973-4t.dat to s\973s01.dat; added back surface
-0 2000-11-05 CWD Moved neck mark from s\973s01.dat
-0 2002-02-16 CSC Closed small gaps in front part
-0 2002-02-19 SEB Made it all BFC compliant
+0 // 1999-04-16 SEB Updated 973-4t.dat to s\973s01.dat; added back surface
+0 // 2000-11-05 CWD Moved neck mark from s\973s01.dat
+0 // 2002-02-16 CSC Closed small gaps in front part
+0 // 2002-02-19 SEB Made it all BFC compliant
+0 // 2004-09-11 TLC Fixed bow-tie quad
+
 
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 Plain back
- 4 16 -19 32 10 19 32 10 -19 29 10 19 29 10
+4 16 -19 32 10 19 32 10 19 29 10 -19 29 10 
  4 16 -14.345 2 10 -19 29 10 19 29 10 14.345 2 10
  4 16 12 0 10 -12 0 10 -14.345 2 10 14.345 2 10
 0 Neck mark
