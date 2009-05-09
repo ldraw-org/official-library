@@ -1,10 +1,15 @@
 0 Minifig Head with Villainous Glasses & Black Facial Hair Pattern
 0 Name: 3626bpa9.dat
-0 Author: George Barnes (glbarnes@gdi.net)
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: George Barnes [glbarnes]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c14
-0 KEYWORDS face, moustache, beard, eyebrows, villian, slyboots, adventurers
+0 !KEYWORDS face, moustache, beard, eyebrows, villian, slyboots, adventurers
+0 !CMDLINE -c14
+
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs01.dat
 1 0 -3.3347 9.4 -12.3367 0 -0.2439 -1.226 1.25 0 0 0 -1.226 0.2439 4-4disc.dat

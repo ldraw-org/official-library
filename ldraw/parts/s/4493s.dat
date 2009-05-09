@@ -1,9 +1,14 @@
-0 Animal Horse Side
+0 ~Animal Horse Side
 0 Name: s\4493s.dat
 0 Author: Sascha Broich
-0 LDRAW_ORG Subpart UPDATE 2002-02
+0 !LDRAW_ORG Subpart UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 breast inner frame
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // breast inner frame
 2 24 10 -92 -22.6 10 -91.25 -20.7
 2 24 10 -92.75 -24.5 10 -92 -22.6
 2 24 10 -93.5 -26.4 10 -92.75 -24.5

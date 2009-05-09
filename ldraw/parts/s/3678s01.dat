@@ -1,20 +1,22 @@
 0 ~Slope Brick 65  2 x  2 x  2 without Front and Back Faces
 0 Name: s\3678s01.dat
-0 Author: James Jessiman, DAT Code
-0 Author: Matt Schild, File Prep
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 Author: Matt Schild [mschild]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2002-06-21 MS  removed back (Z = 10) and slope faces
-0 // 2003-09-22 OWP BFC'd
+0 !HISTORY 2002-06-21 [mschild] removed back (Z = 10) and slope faces
+0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06
+0 !HISTORY 2003-09-22 [OrionP] BFC'd
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 Uncomment for front shell
-0 4 16 20 44 -30 20 0 -10 -20 0 -10 -20 44 -30
-
-0 Uncomment for back shell
-0 4 16 20 48 10 20 0 10 -20 0 10 -20 48 10
-
+0 // Uncomment for front shell
+0 // 4 16 20 44 -30 20 0 -10 -20 0 -10 -20 44 -30
+0 // Uncomment for back shell
+0 // 4 16 20 48 10 20 0 10 -20 0 10 -20 48 10
 
 2 24 16 48 6 -16 48 6
 2 24 -16 48 6 -16 48 -26

@@ -1,12 +1,15 @@
 0 Slope Brick Round  3 x  8 x  2 Right
 0 Name: 41749.dat
-0 Author: Brent Jackson <bmj813@grics.net>
-0 LDRAW_ORG Part UPDATE 2004-03
+0 Author: Brent Jackson [bjackson]
+0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 CATEGORY Slope
-0 KEYWORDS round, curve, star wars, Jango Fett, Slave I
+0 !KEYWORDS round, curve, star wars, Jango Fett, Slave I
 
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 1 48 -124 1 39 -124 -1 39 -124 -1 48 -124
 4 16 1 48 -116 -1 48 -116 -1 33.75 -116 1 33.75 -116
@@ -29,13 +32,13 @@
 1 16 -10 4 0 0 0.406131 -6.00011 0 0.913815 2.66666 6 0 0 2-4edge.dat
 1 16 -10 4 0 0 0 8 0 1 0 -8 0 0 2-4edge.dat
 1 16 -10 4 0 0 0.406131 -7.99954 0 0.913815 3.55527 8 0 0 2-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -10 6.667 0 -6 0 0 0 -2.667 0 0 0 -6 1-4cyls.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -10 6.667 0 -6 0 0 0 -2.667 0 0 0 6 1-4cyls.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -10 7 0 0 0 6 0 16 0 6 0 0 2-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -10 6.667 0 0 0 -6 0 13.667 0 -6 0 0 2-4cyli.dat
 1 16 -10 7.556 0 -8 0 0 0 -3.556 0 0 0 -8 1-4cyls.dat
 1 16 -10 7.556 0 -8 0 0 0 -3.556 0 0 0 8 1-4cyls.dat
@@ -45,10 +48,10 @@
 1 16 -10 20 0 0 0 -1 0 -1 0 1 0 0 stud4a.dat
 1 16 -30 13 0 6.00011 0.406131 0 -2.66666 0.913815 0 0 0 6 4-4edge.dat
 1 16 -30 13 0 7.99999 0.406131 0 -3.55547 0.913815 0 0 0 8 4-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -30 13 0 0 0 6 0 10 -2.667 -6 0 0 2-4cyli.dat
 1 16 -30 13 0 0 0 8 0 11 -3.556 -8 0 0 2-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -30 13 0 0 0 -6 0 8 2.667 -6 0 0 2-4cyli.dat
 1 16 -30 13 0 0 0 -8 0 7 3.556 -8 0 0 2-4cyli.dat
 4 16 10 0 20 -10 0 20 -10 0 -20 10 0 -20

@@ -1,9 +1,12 @@
 0 Technic Liftarm  1 x  3 Straight
 0 Name: 32523.dat
-0 Author: ISHINO Keiichiro
-0 Author: William J. Wood
-0 Created: 2001/10/27
-0 LDRAW_ORG Part UPDATE 2001-03
+0 Author: Ishino Keiichiro
+0 !LDRAW_ORG Part UPDATE 2001-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 10 -20 10 0 0 0 0 0 0 0 -10 2-4edge.dat
 1 16 0 -10 -20 10 0 0 0 0 0 0 0 -10 2-4edge.dat

@@ -1,15 +1,16 @@
 0 Technic Axle Joiner Perpendicular Double Split
 0 Name: 41678.dat
-0 Author: Orion Pobursky
-0 LDRAW_ORG Part UPDATE 2004-04
-0 CATEGORY Technic
-0 KEYWORDS Star Wars, Darth Vader, R2-D2, Droid
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !KEYWORDS Star Wars, Darth Vader, R2-D2, Droid
 
-0 // 2004-05-15 GuyVivan Made BFC compliant, moved origin, used Box3u2p.dat 
-0 //                     and rect3.dat, reduced size from 20LDU to 18LDU,
-0 //                     added missing quads and triangles between cylinder
+0 !HISTORY 2004-05-15 [guyvivan] Made BFC compliant, moved origin, used Box3u2p.dat and rect3.dat, reduced size from 20LDU to 18LDU, added missing quads and triangles between cylinder
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 -10 -10 -20 1 0 0 0 1 0 0 0 1 peghole.dat
 1 16 -10 10 -20 1 0 0 0 -1 0 0 0 -1 peghole.dat

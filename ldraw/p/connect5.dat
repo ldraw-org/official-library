@@ -1,13 +1,18 @@
 0 Technic Pin 1.0 with Base Collar and Slots
 0 Name: connect5.dat
-0 Author: Kevin Bane,  02/19/2000
-0 LDRAW_ORG Primitive UPDATE 2005-01
+0 Author: Kevin Bane
+0 !LDRAW_ORG Primitive UPDATE 2005-01
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2002-08-31  ZAN       Modified with WINDZ for BFC compliance
-0 // 2004-12-19  GuyVivan  Improve holes and use more primitives
-
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2002-08-31 [izanette] Modified with WINDZ for BFC compliance
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2004-12-19 [guyvivan] Improve holes and use more primitives
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-10-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 5.801 -18 1 5.543 -18 2.296
 2 24 -5.543 -18 2.296 -5.801 -18 1

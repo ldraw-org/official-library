@@ -1,9 +1,13 @@
 0 Animal Bird
 0 Name: 2546.dat
-0 Author: DENNIS OSBORN
-0 Official LCAD Part - 2000-02 Update
+0 Author: Dennis Osborn
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 COMMENT BACK FEATHERS LINE BOTTOM
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 2 24 2.18 24 13.25 -2.18 24 13.25
 2 24 -2.18 24 13.25 -2.18 24 10.46
 2 24 -2.18 24 10.46 2.18 24 10.46                 

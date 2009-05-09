@@ -1,15 +1,16 @@
 0 ~Roadsign Octagonal without front face
 0 Name: s\739s01.dat
-0 Author: Franklin W. Cain, file prep
-0 LDRAW_ORG Subpart UPDATE 2005-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // ????-??-??         Roadsign by Arne Hackstein
-0 //                    Octagonal Sign by John VanZwieten
-0 // 2003-08-01 Steffen BFCed; made use of "stand" subfile
-0 // 2004-10-16 CWD     Add lines at top of post removed from 674s00
-
+0 !HISTORY 2003-08-01 [Steffen] BFCed; made use of "stand" subfile
+0 !HISTORY 2004-10-16 [cwdee] Add lines at top of post removed from 674s00
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 18 -86 0 0 -1 0 0 0 -7 2 0 0 rect.dat
  1 16 -18 -86 0 0 1 0 0 0 7 2 0 0 rect.dat

@@ -1,4 +1,12 @@
 0 Gate  1 x  4 x  2
+0 Name: 3186.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 1998-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 0 40 6 -2.30 40 5.54 -3.83 40 9.24 0 40 10
  4 16 -2.30 40 5.54 -4.24 40 4.24 -7.07 40 7.07 -3.83 40 9.24

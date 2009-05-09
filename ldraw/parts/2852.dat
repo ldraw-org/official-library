@@ -1,14 +1,16 @@
 0 Technic Engine Connecting Rod
 0 Name: 2852.dat
 0 Author: Fredrik Glöckner
-0 LDRAW_ORG Part UPDATE 2005-01
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2004-07-02  GuyVivan  Made BFC Compliant
-0 // 2004-07-02  GuyVivan  Corrected Bad Vertex Sequence
-0 // 2004-07-02  GuyVivan  Add optional lines
-
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2004-07-02 [guyvivan] Made BFC Compliant, Corrected Bad Vertex Sequence, Add optional lines
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -3.04 -33.96 4 -4 -34.63 4
 2 24 0 -33.25 4 -3.04 -33.96 4

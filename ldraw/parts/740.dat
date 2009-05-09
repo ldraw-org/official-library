@@ -1,9 +1,14 @@
 0 Roadsign Old Square
 0 Name: 740.dat
-0 Author: Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2003-02
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c15
+0 !CMDLINE -c15
+
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -15 -44 0 -2 -44 0 
 2 24 2 -44 0 15 -44 0 

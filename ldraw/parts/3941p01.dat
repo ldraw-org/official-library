@@ -1,9 +1,15 @@
 0 Brick  2 x  2 Round with Buttons Pattern
 0 Name: 3941p01.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2002-03
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2002-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Original Part
+0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
+0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Original Part
+
 1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 0 0 0 1 0 0 0 0 0 0 0 1 axlehol2.dat

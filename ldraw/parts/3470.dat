@@ -1,12 +1,17 @@
 0 Plant Tree Fruit
 0 Name: 3470.dat
-0 Author: Christian M. Angele (c.m.angele@t-online.de)
-0 Official LCad update 99-04
+0 Author: Christian M. Angele [cma_1971]
+0 !LDRAW_ORG Part UPDATE 1999-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Date: 19971229
-0
-0 y-axis: base plate
-0
+0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
+0 !HISTORY 1998-01-12 [PTadmin] Official Update 1998-01
+0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // y-axis: base plate
  1 16    0.00    4.00    0.00    1.00    0.00    0.00    0.00   -1.00    0.00    0.00    0.00   -1.00 stud4.dat
  1 16    0.00    8.00    0.00   20.00    0.00    0.00    0.00    1.00    0.00    0.00    0.00   20.00 4-4edge.dat
  1 16    0.00    8.00    0.00   24.00    0.00    0.00    0.00    1.00    0.00    0.00    0.00   24.00 4-4edge.dat

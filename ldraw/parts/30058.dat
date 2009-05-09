@@ -1,11 +1,13 @@
 0 Windscreen 10 x  4 x  2 & 1/3 Canopy
 0 Name: 30058.dat
-0 Author: Steve Bliss
-0 LDRAW_ORG Part UPDATE 2002-03
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part Alias UPDATE 2002-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Part 30058 is a counterpart of 2507.  Visually, the two parts seem
-0 identical.  This file is provided to make it easier to locate part files
-0 when using the numbers imprinted on the actual parts.
+0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
+0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Alias of 2507
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 2507.dat
 0

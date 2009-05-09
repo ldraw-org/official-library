@@ -1,12 +1,15 @@
 0 Torus Outside  1 x 1 x 0.25
 0 Name: t04ounit.dat
-0 Author: John Riley  <Rohnjiley@yahoo.com>
-0 LDRAW_ORG Primitive UPDATE 2005-01
+0 Author: John Riley [jriley]
+0 !LDRAW_ORG Primitive UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2004-Oct-30  Mkennedy, Removed POV code
-
+0 !HISTORY 2004-10-30 [mkennedy] Removed POV code
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-10-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 0 1 1 0.383 1 0.924 0.5295 0.9239 1.2776 0 0.9239 1.3827
 4 16 0.383 1 0.924 0.707 1 0.707 0.9776 0.9239 0.9776 0.5295 0.9239 1.2776

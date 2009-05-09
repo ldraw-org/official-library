@@ -1,9 +1,13 @@
 0 Technic Connector Toggle Joint Toothed
 0 Name: 4273.dat
 0 Author: James Jessiman
-0 Original LDraw Part 2000-01
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2000-Feb-08 SEB Changed part name from Technic Connector Locking
+0 !HISTORY 2000-02-08 [sbliss] Changed part name from Technic Connector Locking
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 -1 0 -20 0 -0.5 0 1 0 0 0 0 1 peghole.dat
  1 16 -10 0 -20 0 1 0 1 0 0 0 0 1 peghole.dat

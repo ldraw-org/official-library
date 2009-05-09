@@ -1,10 +1,14 @@
 0 Baseplate 48 x 48 with Playing Field Pattern
-0 Name: 4186.dat
-0 Author: Steve Bliss (blisses@worldnet.att.net)
-0 Official LCad update 98-10
+0 Name: 4186p01.dat
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 1998-10
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Baseplate
-0 KEYWORDS soccer, football, promotion, playing field, sports, World Cup
+0 !KEYWORDS soccer, football, promotion, playing field, sports, World Cup
+
+0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -480 4 -476 -480 4 476 -476 4 476 -476 4 -476
 4 16 -476 4 -480 -476 4 480 476 4 480 476 4 -480

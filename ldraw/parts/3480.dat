@@ -1,14 +1,18 @@
 0 Propellor  2 Blade  4 Diameter Helicopter Tail
 0 Name: 3480.dat
-0 Author: Christian M. Angele (c.m.angele@t-online.de)
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Christian M. Angele [cma_1971]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 1997-12-11  CMA  Initial version.
-0 // 2001-10-??  PNE  Replaced quads with primitives, rearranged quad winding.
-0 // 2003-03-20  PNE  Reworked blades to cylinder.
-0 // 2003-12-16  PNE  Reworked center.
+0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
+0 !HISTORY 2001-10-01 [pneaster] Replaced quads with primitives, rearranged quad winding.
+0 !HISTORY 2003-03-20 [pneaster] Reworked blades to cylinder.
+0 !HISTORY 2003-12-16 [pneaster] Reworked center.
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 36 -8 0 0 -1 0 8 0 0 0 0 8 4-4edge.dat
 1 16 36 -8 0 0 -1 0 10 0 0 0 0 10 4-4edge.dat

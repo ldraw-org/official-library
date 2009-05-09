@@ -1,31 +1,33 @@
 0 ~Windscreen  6 x  4 x  2 Canopy without Outside Faces
 0 Name: s\4474s01.dat
-0 Author: James Jessiman, DAT Code
-0 Author: Orion Pobursky, File Prep
-0 LDRAW_ORG Subpart UPDATE 2004-04
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Subpart UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 Uncomment For Front
-0 4 16 -40 -4 -34 -40 39 -116 40 39 -116 40 -4 -34
-0 4 16 -40 -4 -4 -40 -4 -34 40 -4 -34 40 -4 -4
-0 4 16 -40 44 -116 40 44 -116 40 39 -116 -40 39 -116
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 Uncomment For Right Side
-0 4 16 -40 44 -116 -40 39 -116 -40 41.5 1.5 -40 44 1.5
-0 4 16 -40 4 -4 -40 41.5 1.5 -40 39 -116 -40 -4 -34
-0 4 16 -40 4 -4 -40 4 4 -40 41.5 4 -40 41.5 1.5
-0 3 16 -40 -4 -34 -40 -4 -4 -40 4 -4
-0 1 16 -40 41.5 1.5 0 1 0 2.5 0 0 0 0 2.5 1-4disc.dat
+0 // Uncomment For Front
+0 // 4 16 -40 -4 -34 -40 39 -116 40 39 -116 40 -4 -34
+0 // 4 16 -40 -4 -4 -40 -4 -34 40 -4 -34 40 -4 -4
+0 // 4 16 -40 44 -116 40 44 -116 40 39 -116 -40 39 -116
+0 // Uncomment For Right Side
+0 // 4 16 -40 44 -116 -40 39 -116 -40 41.5 1.5 -40 44 1.5
+0 // 4 16 -40 4 -4 -40 41.5 1.5 -40 39 -116 -40 -4 -34
+0 // 4 16 -40 4 -4 -40 4 4 -40 41.5 4 -40 41.5 1.5
+0 // 3 16 -40 -4 -34 -40 -4 -4 -40 4 -4
+0 // 1 16 -40 41.5 1.5 0 1 0 2.5 0 0 0 0 2.5 1-4disc.dat
+0 // Uncomment For Left Side
+0 // 4 16 40 44 -116 40 44 1.5 40 41.5 1.5 40 39 -116
+0 // 4 16 40 4 -4 40 -4 -34 40 39 -116 40 41.5 1.5
+0 // 4 16 40 4 -4 40 41.5 1.5 40 41.5 4 40 4 4
+0 // 3 16 40 -4 -4 40 -4 -34 40 4 -4
+0 // 1 16 40 41.5 1.5 0 -1 0 2.5 0 0 0 0 2.5 1-4disc.dat
 
-0 Uncomment For Left Side
-0 4 16 40 44 -116 40 44 1.5 40 41.5 1.5 40 39 -116
-0 4 16 40 4 -4 40 -4 -34 40 39 -116 40 41.5 1.5
-0 4 16 40 4 -4 40 41.5 1.5 40 41.5 4 40 4 4
-0 3 16 40 -4 -4 40 -4 -34 40 4 -4
-0 1 16 40 41.5 1.5 0 -1 0 2.5 0 0 0 0 2.5 1-4disc.dat
-
-0 Hinge End
+0 // Hinge End
 1 16 -18 0 0 0 1 0 4 0 0 0 0 4 2-4disc.dat
 1 16 -18 0 0 0 1 0 4 0 0 0 0 4 2-4edge.dat
 1 16 -2 0 0 0 -16 0 4 0 0 0 0 4 2-4cyli.dat

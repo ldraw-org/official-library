@@ -1,9 +1,14 @@
-0 ~Subpart Wheel Technic 24 x 43
-0 Name: 3739a.dat
-0 Author: Chris Moseley  moz1@ihug.co.nz
-0 Official LCad update 98-09
+0 ~Wheel Technic 24 x 43
+0 Name: s\3739a.dat
+0 Author: Chris Moseley
+0 !LDRAW_ORG Subpart UPDATE 1998-09
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 1/6 rim segment
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // 1/6 rim segment
  4 16 53.8 0 0 52.9 0 9.33 53.8 60 0 52.9 60 9.33
  5 24 52.9 0 9.33 52.9 60 9.33 53.8 0 0 50.5 0 18.4
  4 16 52.9 0 9.33 50.5 0 18.4 52.9 60 9.33 50.5 60 18.4

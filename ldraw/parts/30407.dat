@@ -1,10 +1,14 @@
 0 Hinge Plate  1 x  8 with Angled Side Extensions
 0 Name: 30407.dat
-0 Author: Kevin M Bane 5/28/99
-0 Official LCad update 99-06
+0 Author: Kevin M Bane
+0 !LDRAW_ORG Part UPDATE 1999-06
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 CATEGORY Hinge
-0 KEYWORDS pod, racer, podracer, SW, Star Wars, steering, vane
+0 !KEYWORDS pod, racer, podracer, SW, Star Wars, steering, vane
+
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 4 -110 6 0 0 0 0 0 0 0 -6 2-4disc.dat
 1 16 0 4 -110 -6 0 0 0 4 0 0 0 -6 2-4cyli.dat

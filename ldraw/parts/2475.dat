@@ -1,9 +1,14 @@
 0 Brush Holder Car Wash
 0 Name: 2475.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2002-04
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Left End
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-05-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Left End
 1 16 63.5 0 0 0 -1 0 0 0 -0.5 -0.5 0 0 1-4rin12.dat
 1 16 63.5 0 0 0 -1 0 0 0 -0.5 0.5 0 0 1-4rin12.dat
 1 16 63.5 0 0 0 -1 0 0 0 -6.5 6.5 0 0 2-4edge.dat

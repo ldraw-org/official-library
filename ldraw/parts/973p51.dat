@@ -1,13 +1,19 @@
 0 Minifig Torso with Blacktron II Pattern
 0 Name: 973p51.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2002-01
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 1999-04-16 SEB Updated 973.dat to s\973s01.dat; added back surface
-0 1999-04-19 SEB Filled in plain areas on front
-0 2000-11-05 CWD Moved neck mark from s\973s01.dat
-0 2001-01-20 CWD Corrected L3P -check errors
-0 2001-02-03 CWD Corrected minor mis-alignments of logo detail
+0 !HISTORY 1999-04-16 [sbliss] Updated 973.dat to s\973s01.dat; added back surface
+0 !HISTORY 1999-04-19 [sbliss] Filled in plain areas on front
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2000-11-05 [cwdee] Moved neck mark from s\973s01.dat
+0 !HISTORY 2001-01-20 [cwdee] Corrected L3P -check errors
+0 !HISTORY 2001-02-03 [cwdee] Corrected minor mis-alignments of logo detail
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 

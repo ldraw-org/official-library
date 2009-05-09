@@ -1,9 +1,12 @@
-0 Technic Pulley Large Round Segment
+0 ~Technic Pulley Large Round Segment
 0 Name: s\3736r.dat
-0 Author: Marc Klein
-0 Official LCAD Subpart - 2000-02 Update
+0 Author: Marc Klein [marckl]
+0 !LDRAW_ORG Subpart UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Created with stl2dat conversion tool
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 4.667 -5 -36.32 3.061 -5 -37.39
 2 24 3.061 5 -37.39 4.667 5 -36.32

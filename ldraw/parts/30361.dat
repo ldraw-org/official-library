@@ -1,11 +1,17 @@
 0 Cylinder  2 x  2 x  2 Robot Body
 0 Name: 30361.dat
-0 Author: Marc Klein & Marc Schickelé
-0 Official LCAD Part - 2000-02 Update
+0 Author: Marc Klein [marckl]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS r2d2, star wars, droid, round, torso, minifig
+0 !KEYWORDS r2d2, star wars, droid, round, torso, minifig
 
-0 Created with stl2dat conversion tool
+0 !HISTORY 2000-09-29 [samrotule] Secondary author
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Created with stl2dat conversion tool
 
 1 16 -2 0 0 0 -16 0 6 0 0 0 0 6 4-4cyli.dat
 1 16 -2 0 0 0 -1 0 6 0 0 0 0 6 4-4edge.dat

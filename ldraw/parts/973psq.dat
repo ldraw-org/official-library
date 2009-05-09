@@ -1,13 +1,17 @@
 0 Minifig Torso with SW Imperial Officer Pattern
 0 Name: 973psq.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Part UPDATE 2002-04
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c7
-0 KEYWORDS Star Wars, Classic Trilogy, Imperial, Empire, Death Star, set 7201
-0 KEYWORDS military, uniform, tunic, jacket, rank insignia
-0 KEYWORDS Captain, Major, Commander, General, Admiral, Governor, Grand Moff
+0 !KEYWORDS Star Wars, Classic Trilogy, Imperial, Empire, Death Star, set 7201
+0 !KEYWORDS military, uniform, tunic, jacket, rank insignia
+0 !KEYWORDS Captain, Major, Commander, General, Admiral, Governor, Grand Moff
+0 !CMDLINE -c7
 
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1  16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
  1 383 0 0 0 1 0 0 0 1 0 0 0 1 s\973psq1.dat

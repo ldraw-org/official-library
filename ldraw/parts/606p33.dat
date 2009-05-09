@@ -1,10 +1,15 @@
 0 Baseplate 32 x 32 Road 9-Stud Straight Runway
 0 Name: 606p33.dat
 0 Author: Leonardo Zide
-0 Modified by: Jonathan Wilson
-0 Official LCad Part 2000-01
- 
-0 2000-Jan-02 Kevin Bane: quick fixes applied
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Not redistributable : see NonCAreadme.txt
+
+0 !HISTORY 1999-12-30 [jonwil] Modified
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2000-01-02 {Kevin Bane} quick fixes applied
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 15 133 0 320 133 0 -320 117 0 -320 117 0 320
  4 15 -117 0 320 -117 0 -320 -133 0 -320 -133 0 320

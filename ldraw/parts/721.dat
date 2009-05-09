@@ -1,9 +1,15 @@
 0 Garage  4 x  8 x  3
 0 Name: 721.dat
-0 Author: Tore Eriksson
-0 Official LCad update 99-03
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 1999-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Fits to Door 722.dat
+0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Fits to Door 722.dat
 1 16 -40 66 0 0 0 0 0 0 6 -80 0 0 RECT.DAT
 1 16 40 66 0 0 0 0 0 0 6 -80 0 0 RECT.DAT
 2 24 -40 72 80 40 72 80

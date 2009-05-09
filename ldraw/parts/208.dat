@@ -1,18 +1,24 @@
 0 ~Minifig Chain Link End (Open File for Usage Guide)
 0 Name: 208.dat
-0 Author: Matt Schild
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: Matt Schild [mschild]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Use this file in conjuction with the file 
+0 !HELP 209.dat.  This file is the end segment of
+0 !HELP the chain.  For a full 17 stud long chain,
+0 !HELP use one of these for each end and 21 links
+0 !HELP in the middle.
 
 0 BFC CERTIFY CW
-0 CATEGORY Minifig Accessory
-0 KEYWORDS Plate  1 x  1 Round with Chain Link, chainlink, padlock, lock
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Plate  1 x  1 Round with Chain Link, chainlink, padlock, lock
 
-0 // 2002-05-27  MS       rebuilt link connector using primitives and corrected its size
-0 // 2003-07-23  Steffen  BFCed
-
-0 // Use this file in conjuction with the file 209.dat.  This file is the end 
-0 // segment of the chain.  For a full 17 stud long chain, use one of these for 
-0 // each end and 21 links in the middle.
+0 !HISTORY 2002-05-27 [mschild] rebuilt link connector using primitives and corrected its size
+0 !HISTORY 2003-07-23 [Steffen] BFCed
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 BFC INVERTNEXT
 1 16 0 0 0 1 0 0 0 4 0 0 0 1 peghole.dat

@@ -1,9 +1,14 @@
-0 Minifig Head without Vertical Faces with Edge Lines
+0 ~Minifig Head without Vertical Faces with Edge Lines
 0 Name: s\3626bs00.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 For use with heads printed on front and back.
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // For use with heads printed on front and back.
 
  1 16 0 0 0 2 0 0 0 1 0 0 0 2 ring3.dat
 0

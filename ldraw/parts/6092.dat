@@ -1,14 +1,18 @@
 0 Baseplate 32 x 32 Raised with Ramp, Pit and Stairs
 0 Name: 6092.dat
-0 Author: Bernd Broich (bernd.broich@online.de)
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Swimming Pool, Pharaoh, Tomb, Sphinx, Ogel
-0 KEYWORDS Paradisa, Adventurer, Alpha Team, driveway
 0 BFC CERTIFY CCW
+0 !KEYWORDS Swimming Pool, Pharaoh, Tomb, Sphinx, Ogel
+0 !KEYWORDS Paradisa, Adventurer, Alpha Team, driveway
 
-0 Bottom (needs work)
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Bottom (needs work)
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3811s01.dat
 
 0 Studs Level 0
@@ -557,13 +561,13 @@
 1 16 49 -64 229 6 0 0 0 1 0 0 0 6 1-4ndis.dat
 1 16 49 -64 91 6 0 0 0 1 0 0 0 -6 1-4edge.dat
 1 16 49 -64 91 6 0 0 0 1 0 0 0 -6 1-4ndis.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -129 -64 229 -6 9 0 0 64 0 0 -9 6 1-4con0.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -129 -64 91 -6 9 0 0 64 0 0 9 -6 1-4con0.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 49 -64 229 6 -9 0 0 64 0 0 -9 6 1-4con0.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 49 -64 91 6 -9 0 0 64 0 0 9 -6 1-4con0.dat
 2 24 -120 0 220 -120 0 100
 2 24 -135 -64 91 -135 -64 229
@@ -631,21 +635,21 @@
 1 16 -80 -48 -160 80 0 0 0 1 0 0 0 -80 48\1-4edge.dat
 1 16 -80 0 -160 0 0 60 0 1 0 -60 0 0 48\1-4disc.dat
 1 16 -80 0 -160 0 0 60 0 1 0 -60 0 0 48\1-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -140 -40 -20 0 -5 5 0 40 0 5 -5 0 1-4con1.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -160 -40 -160 -10 0 0 0 40 0 0 0 -10 48\1-4con6.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -160 -40 -80 0 0 -10 0 40 0 10 0 0 48\1-4con6.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -20 -40 -140 5 -5 0 0 40 0 0 -5 5 1-4con1.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -80 -40 -160 0 0 10 0 40 0 -10 0 0 48\1-4con6.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -160 -48 -160 -80 0 0 0 8 0 0 0 -80 48\1-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -80 -48 -160 80 0 0 0 8 0 0 0 -80 48\1-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -160 -48 -80 0 0 -80 0 8 0 80 0 0 48\1-4cyli.dat
 2 24 -10 -40 -140 -10 -40 -160
 2 24 -120 -40 -120 -120 -40 0

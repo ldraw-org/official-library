@@ -1,7 +1,13 @@
 0 Tile  1 x  2 with Telemetry Computer Pattern
 0 Name: 3069p52.dat
-0 Author: Thomas Burger
-0 Official LCad update 99-01
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Part UPDATE 1999-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
   1 4 -2.05 0 6.35 2.45 0 0 0 0 0 0 0 -2.45 4-4disc.dat
   1 16 -2.05 0 6.35 2.45 0 0 0 0 0 0 0 -2.45 4-4ndis.dat

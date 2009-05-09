@@ -1,10 +1,15 @@
 0 Support  6 x  6 x 10 Stanchion 
 0 Name: 2681.dat
-0 Author: Steve Bliss
-0 Official LCad update 99-05
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 1999-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Support
-0 KEYWORDS monorail, girder, stand, space, leg, stanchion, support
+0 !KEYWORDS monorail, girder, stand, space, leg, stanchion, support
+
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -56 240 -56 56 240 -56
 2 24 56 240 -56 56 240 56

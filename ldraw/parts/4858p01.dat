@@ -1,11 +1,17 @@
 0 Wedge  4 x  4 with Blacktron I Logo
 0 Name: 4858p01.dat
-0 Author: Thomas Burger
-0 LDRAW_ORG Part UPDATE 2001-03
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Part UPDATE 2001-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2001-11-30 CWD corrected error on underside and removed pattern outline
-0 2001-12-17 CWD corrected erroneous line
-0 2001-12-18 CWD reworked pattern to correct poor fit
+0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
+0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
+0 !HISTORY 2001-11-30 [cwdee] corrected error on underside and removed pattern outline
+0 !HISTORY 2001-12-17 [cwdee] corrected erroneous line
+0 !HISTORY 2001-12-18 [cwdee] reworked pattern to correct poor fit
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 30 4 -8 1 0 0 0 20 0 0 0 2 box5.dat
 1 16 -30 4 -8 1 0 0 0 20 0 0 0 2 box5.dat

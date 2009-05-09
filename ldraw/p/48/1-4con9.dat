@@ -1,9 +1,14 @@
 0 Hi-Res Cone  9 x 0.25
 0 Name: 48\1-4con9.dat
-0 Author: Paul Easter
-0 LDRAW_ORG Primitive UPDATE 2002-04
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG 48_Primitive UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 9 1 0 8.923 1 1.1747 9.9144 0 1.3053 10 0 0
 4 16 8.923 1 1.1747 8.6933 1 2.3294 9.6593 0 2.5882 9.9144 0 1.3053

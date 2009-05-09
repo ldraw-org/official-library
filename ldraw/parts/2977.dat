@@ -1,13 +1,19 @@
 0 Electric Rotation Sensor Bottom
 0 Name: 2977.dat
-0 Author: JP Brown
-0 Official LCAD Part - 2000-02 Update
+0 Author: Jonathan P. Brown
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-05-23 [PTadmin] Replaced box3#8p references with box3u8p
+0 !HISTORY 2007-05-23 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 20 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -20 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -40 4 12 0 0 0 4 0 0 0 0 8 rect.dat
-1 16 -40 4 0 0 4 0 4 0 0 0 0 4 box3#8p.dat
+1 16 -40 4 0 0 4 0 4 0 0 0 0 4 box3u8p.dat
 2 24 -40 0 4 -36 0 4
 2 24 -36 0 4 -36 0 -4
 2 24 -36 0 -4 -40 0 -4
@@ -139,7 +145,7 @@
 4 16 -36 8 -18 -36 8 -16 -26 8 -16 -26 8 -18
 4 16 -14 8 -18 -14 8 -16 -6 8 -16 -6 8 -18
 4 16 6 8 -18 6 8 -16 36 8 -16 36 8 -18
-1 16 0 4 16 0 0 6 4 0 0 0 2 0 box3#8p.dat
+1 16 0 4 16 0 0 6 4 0 0 0 2 0 box3u8p.dat
 1 16 0 2 16 6 0 0 0 0 2 0 0 0 rect.dat
 2 24 -6 0 16 -6 0 18
 2 24 -6 0 18 6 0 18
@@ -148,7 +154,7 @@
 2 24 -6 8 18 6 8 18
 2 24 6 8 18 6 8 16
 
-1 16 0 4 -16 0 0 6 -4 0 0 0 -2 0 box3#8p.dat
+1 16 0 4 -16 0 0 6 -4 0 0 0 -2 0 box3u8p.dat
 1 16 0 2 -16 6 0 0 0 0 2 0 0 0 rect.dat
 2 24 -6 0 -16 -6 0 -18
 2 24 -6 0 -18 6 0 -18
@@ -156,7 +162,7 @@
 2 24 -6 8 -16 -6 8 -18
 2 24 -6 8 -18 6 8 -18
 2 24 6 8 -18 6 8 -16
-1 16 -20 4 16 0 0 6 4 0 0 0 2 0 box3#8p.dat
+1 16 -20 4 16 0 0 6 4 0 0 0 2 0 box3u8p.dat
 1 16 -20 2 16 6 0 0 0 0 2 0 0 0 rect.dat
 2 24 -26 0 16 -26 0 18
 2 24 -26 0 18 -14 0 18
@@ -164,7 +170,7 @@
 2 24 -26 8 16 -26 8 18
 2 24 -26 8 18 -14 8 18
 2 24 -14 8 18 -14 8 16
-1 16 -20 4 -16 0 0 6 -4 0 0 0 -2 0 box3#8p.dat
+1 16 -20 4 -16 0 0 6 -4 0 0 0 -2 0 box3u8p.dat
 1 16 -20 2 -16 6 0 0 0 0 2 0 0 0 rect.dat
 2 24 -26 0 -16 -26 0 -18
 2 24 -26 0 -18 -14 0 -18
@@ -173,7 +179,7 @@
 2 24 -26 8 -18 -14 8 -18
 2 24 -14 8 -18 -14 8 -16
 
-1 16 36 4 0 0 2 0 4 0 0 0 0 -6 box3#8p.dat
+1 16 36 4 0 0 2 0 4 0 0 0 0 -6 box3u8p.dat
 1 16 36 2 0 0 0 0 2 0 0 0 0 6 rect.dat
 2 24 36 0 -6 38 0 -6
 2 24 38 0 -6 38 0 6

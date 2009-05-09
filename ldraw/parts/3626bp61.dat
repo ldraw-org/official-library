@@ -1,9 +1,15 @@
 0 Minifig Head with Ice Planet Moustache and Eyebrows Pattern
 0 Name: 3626bp61.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 // 2004-04-15 AJW added torus primitives
+
+0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
+0 !HISTORY 2004-04-15 [westrate] added torus primitives
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 // replacing s\3626bs01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat

@@ -1,7 +1,12 @@
-0 ~Subpart Train Level Crossing Gate (without decorated surfaces)
-0 Name: 4512s01.dat
-0 Author Chris Dee (chris_w_dee@hotmail.com)
-0 Official LCad update 98-10
+0 ~Train Level Crossing Gate without decorated surfaces
+0 Name: s\4512s01.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Subpart UPDATE 1998-10
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 10 0 0  0 -5 0  1 0 0  0 0 1 axlehole.dat
 1 16 10 0 0  0 0 0  1 0 0  0 0 1 axlehol2.dat

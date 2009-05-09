@@ -1,7 +1,12 @@
-0 ~Subpart Minifig Torso New with Silver Ice Planet pattern - silver colour subpart
-0 Name: 973p62a.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 Official LCad update 99-04
+0 ~Minifig Torso with Silver Ice Planet pattern - silver 
+0 Name: s\973p62a.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Subpart UPDATE 1999-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 5 10.5 -10 5 9 -10 6.5 12 -10 5.5 11.5 -10 
 4 16 5.5 11.5 -10 6.5 12 -10 3.5 12 -10 4.5 11.5 -10 

@@ -1,11 +1,16 @@
 0 Minifig Head with SW Darth Maul Pattern
 0 Name: 3626bps8.dat
-0 Author: Daniel Crichton (danielc@helio.co.uk)
-0 LDRAW_ORG Part UPDATE 2002-02
+0 Author: Daniel Crichton
+0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 KEYWORDS Star Wars, Episode One, Sith Lord, apprentice, villian
-0 KEYWORDS Sith Infiltrator
-0 CMDLINE -c0
+0 !KEYWORDS Star Wars, Episode One, Sith Lord, apprentice, villian
+0 !KEYWORDS Sith Infiltrator
+0 !CMDLINE -c0
+
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs01.dat
 4 4 0 12.1042 -13 0.23494 11.8125 -12.9533 1.40964 12.25 -12.7195 0 13.5625 -13

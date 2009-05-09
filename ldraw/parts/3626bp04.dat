@@ -1,10 +1,16 @@
 0 Minifig Head with Standard Grin and Sunglasses Pattern
 0 Name: 3626bp04.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 // 2003-11-02 Hmick corrected overlapping quads
-0 // 2004-07-13 AJW added torus primitives
+
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2003-11-02 [hmick] corrected overlapping quads
+0 !HISTORY 2004-07-13 [westrate] added torus primitives
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 // replacing s\3626bs00.dat
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat

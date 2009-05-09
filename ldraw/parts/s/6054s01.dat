@@ -1,7 +1,12 @@
 0 ~Boat Base  8 x 12 Quarter Section
 0 Name: s\6054s01.dat
-0 Author: Mark Kennedy, modified from 2560 by Steve Bliss
-0 LDRAW_ORG Subpart UPDATE 2003-03
+0 Author: Mark Kennedy [mkennedy]
+0 !LDRAW_ORG Subpart UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 80 56 0 80 56 80 
  2 24 80 56 80 60 56 80 

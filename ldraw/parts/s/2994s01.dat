@@ -1,9 +1,15 @@
 0 ~Wheel 30.4 x 14 VR Segment
-0 Name: 2994s01.dat
+0 Name: s\2994s01.dat
 0 Author: William J. Wood
-0 Created: 2001/11/24
-0 LDRAW_ORG Subpart UPDATE 2001-03
-0 Created with stl2dat conversion tool
+0 !LDRAW_ORG Subpart UPDATE 2001-03
+0 !LICENSE Not redistributable : see NonCAreadme.txt
+
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Created with stl2dat conversion tool
+
 1 16 0 -15 0 0 0 -4 -4 0 0 0 5 0 4-4cyli.dat
 1 16 0 -15 0 0 0 -4 -4 0 0 0 1 0 4-4edge.dat
 1 16 0 -15 5 0 0 -4 -4 0 0 0 1 0 4-4edge.dat

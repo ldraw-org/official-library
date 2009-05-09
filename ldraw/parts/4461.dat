@@ -1,7 +1,14 @@
 0 Container Box  4 x  4 x  2 with Hollowed-Out Semi-Circle
 0 Name: 4461.dat
-0 Author: Tore Eriksson
-0 Official LCad update 99-03
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 1999-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 48 0 36 0 0 0 -4 0 0 0 36 BOX5.DAT
 1 16 0 44 0 1 0 0 0 -1 0 0 0 1 stud4.DAT

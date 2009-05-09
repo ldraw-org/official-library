@@ -1,9 +1,14 @@
 0 Monorail Track Straight  4 x  8
 0 Name: 2670.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Top
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Top
 2 24 36 20 -36 -36 20 -36
 2 24 36 20 36 -36 20 36
 2 24 36 5 -36 -36 5 -36

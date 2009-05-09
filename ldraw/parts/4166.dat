@@ -1,7 +1,14 @@
 0 Train Track Sleeper Plate  2 x  8 with Cable Grooves
-0 Name: 4166.DAT
+0 Name: 4166.dat
 0 Author: Leonardo Zide
-0 Official LCad update 99-02
+0 !LDRAW_ORG Part UPDATE 1999-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
+0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 60 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 40 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat

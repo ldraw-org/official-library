@@ -1,13 +1,17 @@
 0 Brick  2 x  2 with Black Eye Pattern on Both Sides
 0 Name: 3003pe1.dat
-0 Author: Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2003-07-11  Steffen  re-worked pattern to have black ring instead of 4-4edge
-0 //                      pattern now also looks OK when rendered
-
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2003-07-11 [Steffen] re-worked pattern to have black ring instead of 4-4edge : pattern now also looks OK when rendered
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-05-07 [PTadmin] Removed POV code per LSC decision 
+0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 8 14 20 8 0 0 0 0 8 0 -8 0 4-4ndis.dat
 1 16 8 14 -20 8 0 0 0 0 8 0 8 0 4-4ndis.dat
@@ -23,7 +27,7 @@
 4 16 -20 24 20 0 22 20 0 6 20 -20 0 20
 4 16 -20 0 20 0 6 20 16 6 20 20 0 20
 4 16 20 0 20 16 6 20 16 22 20 20 24 20
-0 L3P IFNOTPOV
+0
 1 16 8 17 -20 -5 0 0 0 0 -5 0 5 0 2-4ndis.dat
 1 16 8 17 20 -5 0 0 0 0 -5 0 -5 0 2-4ndis.dat
 3 16 12.3093 19.3777 -20 12.6195 18.9135 -20 12.9497 18.9497 -20
@@ -58,16 +62,7 @@
 3 16 12.9497 9.0503 20 10.6789 7.5327 20 8 12 20
 4 16 14.4673 11.3211 20 12.9497 9.0503 20 8 12 20 13 12 20
 4 16 15 14 20 14.4673 11.3211 20 13 12 20 13 17 20
-0 L3P ELSEPOV
-0 object { _4_dash_4disc_dot_dat matrix <7,0,0,0,0,1,0,7,0,8,14,-20>
-0    // the following cylinder is a copy of _4_dash_4disc_dot_dat with added height
-0    clipped_by { cylinder { <0,-1,0>, <0,1,0>, 1 matrix <-5,0,0, 0,0,-1, 0,-5,0, 8,17,-20> inverse } }
-0 }
-0 object { _4_dash_4disc_dot_dat matrix <7,0,0,0,0,1,0,7,0,8,14,20>
-0    // the following cylinder is a copy of _4_dash_4disc_dot_dat with added height
-0    clipped_by { cylinder { <0,-1,0>, <0,1,0>, 1 matrix <-5,0,0, 0,0,-1, 0,-5,0, 8,17,20> inverse } }
-0 }
-0 L3P ENDPOV
+0
 4 16 -20 24 20 -16 24 16 16 24 16 20 24 20
 4 16 -20 24 -20 -16 24 -16 -16 24 16 -20 24 20
 4 16 20 24 -20 16 24 -16 -16 24 -16 -20 24 -20

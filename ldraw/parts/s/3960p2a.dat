@@ -1,7 +1,12 @@
-0 Space Radar Dish  4 x  4 with Spiral Pattern - Outline
+0 ~Space Radar Dish  4 x  4 with Spiral Pattern - Outline
 0 Name: s\3960p2a.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 9.914 0 1.305 21.811 2 2.871 22 2 0 10 0 0
  4 16 9.659 0 2.588 21.250 2 5.694 21.811 2 2.871 9.914 0 1.305

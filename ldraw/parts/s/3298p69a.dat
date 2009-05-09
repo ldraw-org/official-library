@@ -1,10 +1,14 @@
 0 ~Slope Brick 33  3 x  2 with Space Police II Pattern - Silver
 0 Name: s\3298p69a.dat
-0 Author: Carsten Schmitz (casz@gmx.de)
-0 LDRAW_ORG Subpart UPDATE 2003-01
+0 Author: Carsten Schmitz [Deckard]
+0 !LDRAW_ORG Subpart UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Note: "Needs Work"
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Note: "Needs Work"
 4 16 -0.289855 4.73684 -19.4737 3.18841 4.73684 -19.4737 3.18841 4.86842 -19.7368 -0.289855 4.86842 -19.7368
 4 16 0.57971 4.60526 -19.2105 2.31884 4.60526 -19.2105 2.31884 4.73684 -19.4737 0.57971 4.73684 -19.4737
 4 16 -0.869565 4.86842 -19.7368 3.76812 4.86842 -19.7368 3.76812 5 -20 -0.869565 5 -20

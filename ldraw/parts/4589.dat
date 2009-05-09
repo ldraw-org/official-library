@@ -1,15 +1,19 @@
 0 Cone  1 x  1
 0 Name: 4589.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2003-03
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS round, pylon, 299.dat
 0 BFC CERTIFY CCW
+0 !KEYWORDS round, pylon, 299.dat
 
-0 // 1999-03-01 SEB Replaced conic code with primitives. Cleaned up format.
-0 // 2003-08-07 JHR BFC compliant
-
+0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
+0 !HISTORY 1999-03-01 [sbliss] Replaced conic code with primitives. Cleaned up format.
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2003-08-07 [jriley] BFC compliant
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 19 0 8 0 0 0 2.5 0 0 0 8  4-4edge.dat
 1 16 0 24 0 8 0 0 0 2.5 0 0 0 8  4-4edge.dat

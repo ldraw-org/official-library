@@ -1,10 +1,15 @@
 0 Barrel  4 & 1/2 x  4 & 1/2 
 0 Name: 4424.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2003-01
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Container
-0 KEYWORDS Pirates, crow's nest, tub, washtub
+0 !CATEGORY Container
+0 !KEYWORDS Pirates, crow's nest, tub, washtub
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4424s01.dat
 1 16 0 0 0 0.939693 0 0.34202 0 1 0 -0.34202 0 0.939693 s\4424s01.dat

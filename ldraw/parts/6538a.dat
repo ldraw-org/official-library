@@ -1,12 +1,15 @@
 0 Technic Axle Joiner
 0 Name: 6538a.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2003-02
+0 !LDRAW_ORG Part UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 2003-7-4  Modified with WINDZ for BFC compliance
+0 !HISTORY 2003-07-04 [unknown] Modified with WINDZ for BFC compliance
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 -20 1 0 0 0 0 1 0 40 0 axlehole.dat
  1 16 0 0 20 1 0 0 0 0 1 0 1 0 axlehol2.dat

@@ -1,10 +1,14 @@
 0 Cylinder  2 x  2 x  1 & 2/3 with Dome Top
 0 Name: 30151.dat
-0 Author: Steve Bliss, (C) 1998, blisses@worldnet.att.net
-0 Official LCad update 99-01
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 1999-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Cylinder
-0 KEYWORDS container, adventurers, bell jar, crystal, glass
+0 !KEYWORDS container, adventurers, bell jar, crystal, glass
+
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
 2 24 4 0 0 3.696 0 1.531

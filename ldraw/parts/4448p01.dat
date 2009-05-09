@@ -1,11 +1,14 @@
 0 Glass for Window  4 x  4 x  3 Roof
 0 Name: 4448p01.dat
-0 Author: Kevin M Bane 9/17/99
-0 Author: James Jessiman, 4448.dat
-0 Official LCAD Part - 2000-02 Update
+0 Author: Kevin M Bane
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 Decoration is sticker, applied as per set instructions
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Decoration is sticker, applied as per set instructions
 2 24 36 64 -60 -36 64 -60
 2 24 36 60 -60 -36 60 -60
 2 24 36 64 -56 -36 64 -56

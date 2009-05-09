@@ -1,10 +1,14 @@
 0 ~Tile  8 x  8 Round with  2 x  2 Center Studs & SW Grille - Grey
 0 Name: s\6177ps1a.dat
-0 Author: Steve Bliss
-0 LDRAW_ORG Subpart UPDATE 2004-01
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Subpart UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 0 0 26 2 0 25.868 2 0 66.901 0 0 67
 4 16 63.5 0 0 64.75 0 0 64.489 0 3.965 63.239 0 3.965

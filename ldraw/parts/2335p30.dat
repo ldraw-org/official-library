@@ -1,14 +1,18 @@
 0 Flag  2 x  2 with Jolly Roger Pattern
 0 Name: 2335p30.dat
-0 Author: Andrew Westrate
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c15
-0 KEYWORDS Pirates, Jolly Roger, Skull and Crossbones
 0 BFC CERTIFY CW
+0 !KEYWORDS Pirates, Jolly Roger, Skull and Crossbones
+0 !CMDLINE -c15
 
-0 Skull pattern borrowed from 4215ap30 by Bernd Broich
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Skull pattern borrowed from 4215ap30 by Bernd Broich
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335s01.dat
 

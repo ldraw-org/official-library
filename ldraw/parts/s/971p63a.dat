@@ -1,7 +1,13 @@
-0 ~Subpart Minifig Leg Right with Robot Pattern - Silver Colour
-0 Name: 971p63a.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 Official LCad update 99-03
+0 ~Minifig Leg Right with Robot Pattern - Silver Colour
+0 Name: s\971p63a.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Subpart UPDATE 1999-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2007-09-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -16 -3.42 -8.28  -16 -5.5 -6.85  -10.5 -5.5 -6.85  -10.5 -3.42 -8.28
 4 16 -10.5 -3.42 -8.28  -10.5 -6.3 -6.3  -8.5 -6.3 -6.3  -8.5 -3.42 -8.28

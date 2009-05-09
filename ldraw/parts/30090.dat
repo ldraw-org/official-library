@@ -1,17 +1,20 @@
 0 Minifig Diver Mask
 0 Name: 30090.dat
-0 Author: Chris Alano (calano@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2004-01
+0 Author: Chris Alano
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 CATEGORY Minifig Accessory
-0 KEYWORDS diver, mask, goggles, snorkel
 0 BFC CERTIFY CCW
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS diver, mask, goggles, snorkel
 
-0 // 2003-02-04 DS  Fixed BFC and header, repositioned to match helmet
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2003-02-04 [technog]  Fixed BFC and header, repositioned to match helmet
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 inside of faceplate
-
-
+0 // inside of faceplate
 
 1 16 0 15.5 -18 2.121 0 -2.121 -2.121 0 -2.121 0 -1 0 1-4edge.dat
 1 16 0 15.5 -18 2.121 0 -2.121 -2.121 0 -2.121 0 -1 0 1-4ndis.dat
@@ -203,13 +206,13 @@
 2 24 -2.121 13.379 -20 -2.749 14.3 -20
 2 24 -2.749 14.3 -20 -3.865 15.933 -20
 1 16 0 15.5 -20 -2.121 0 2.121 -2.121 0 -2.121 0 0.75 0 1-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 8 9.5 -20 5 0 0 0 0 -5 0 0.75 0 1-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 7.649 12.149 -20 -3.784 0 3.784 3.784 0 3.784 0 0.75 0 3-8cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -8 9.5 -19.25 -5 0 0 0 0 -5 0 -0.75 0 1-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -7.649 12.149 -20 -5.351 0 0 0 0 5.351 0 0.75 0 3-8cyli.dat
 4 16 8 4.5 -19.25 8 4.5 -20 -8 4.5 -20 -8 4.5 -19.25
 4 16 13 12.149 -20 13 9.5 -20 13 9.5 -19.25 13 12.149 -19.25
@@ -265,7 +268,7 @@
 4 16 -15 9.5 -20 -15 12.149 -20 -13 12.149 -20 -13 9.5 -20
 0 nose rise
 1 16 0 15.5 -19.25 -0.707 0 0.707 -0.707 0 -0.707 0 1 0 1-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 15.5 -19.25 -0.707 0 0.707 -0.707 0 -0.707 0 -0.75 0 1-4cyli.dat
 2 24 2.451 17.347 -19.25 4.836 18.941 -19.25
 2 24 4.836 18.941 -19.25 6.541 19.185 -19.25
@@ -530,7 +533,7 @@
 3 16 13.858 2.5 -8.74 13.858 5.336 -8.74 13.577 5.101 -9.161
 4 16 13.858 2.5 -8.74 13.577 5.101 -9.161 12.224 4.708 -11.186 10.607 2.5 -13.607
 3 16 10.607 2.5 -13.607 12.224 4.708 -11.186 10.607 4.5 -13.607
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 2.5 -3 -10.607 0 10.607 0 2 0 -10.607 0 -10.607 1-4cyli.dat
 3 16 -10.607 4.5 -13.607 -12.224 4.708 -11.186 -10.607 2.5 -13.607
 4 16 -12.224 4.708 -11.186 -13.577 5.101 -9.161 -13.858 2.5 -8.74 -10.607 2.5 -13.607

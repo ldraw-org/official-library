@@ -1,7 +1,12 @@
 0 Electric Train Light Prism  1 x  4 Holder
 0 Name: 2928.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 Official LCad update 99-01
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 1999-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2007-05-22 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 40 0 -10 -40 0 -10 -40 0 10 40 0 10
 4 16 20 0 10 -20 0 10 -20 0 30 20 0 30

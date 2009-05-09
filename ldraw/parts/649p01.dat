@@ -1,9 +1,14 @@
 0 Roadsign Triangle with Level Crossing Pattern
 0 Name: 649p01.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 // 2003-08-01  Steffen  made use of primitives and subfiles
+0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
+0 !HISTORY 2003-08-01 [Steffen] made use of primitives and subfiles
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 4 0 -108.1 -2 1 0 -1.732 -1.732 0 -1 0 4 0 1-4disc.dat
 1 4 0 -108.1 -2 1.732 0 -1 -1 0 -1.732 0 4 0 1-4disc.dat

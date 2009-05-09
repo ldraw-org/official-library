@@ -1,14 +1,16 @@
 0 Train Wheel Holder  9V
 0 Name: 2878.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2003-03
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
 0 BFC CERTIFY CW
 
-0 // 2002-12-12 CWD Updated header, removed wheels, BFC compliance
-0 // 2003-01-02 DS  Added mock springs
-
-
+0 !HISTORY 2002-12-12 [cwdee] Updated header, removed wheels, BFC compliance
+0 !HISTORY 2003-01-02 [technog] Added mock springs
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 20 20 20 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 0 20 20 1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -516,7 +518,7 @@
 4 16 58 23 26 60 23 26 60 30 16.5 58 30 16.5
 4 16 58 16 26 60 16 26 60 23 26 58 23 26
 4 16 58 16 18 60 16 18 60 16 26 58 16 26
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 60 20 18 0 -2 0 -4 0 0 0 0 -4 1-4cyli.dat
 4 16 54 24 -30 58 24 -30 58 40 -10 54 40 -10
 4 16 58 24 -30 60 24 -30 60 34 -17.5 58 34 -17.5
@@ -526,7 +528,7 @@
 4 16 60 30 -16.5 60 23 -26 58 23 -26 58 30 -16.5
 4 16 60 23 -26 60 16 -26 58 16 -26 58 23 -26
 4 16 60 16 -26 60 16 -18 58 16 -18 58 16 -26
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 60 20 -18 0 -2 0 -4 0 0 0 0 4 1-4cyli.dat
 4 16 -54 24 30 -58 24 30 -58 40 10 -54 40 10
 4 16 -58 24 30 -60 24 30 -60 34 17.5 -58 34 17.5
@@ -536,7 +538,7 @@
 4 16 -60 30 16.5 -60 23 26 -58 23 26 -58 30 16.5
 4 16 -60 23 26 -60 16 26 -58 16 26 -58 23 26
 4 16 -60 16 26 -60 16 18 -58 16 18 -58 16 26
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -60 20 18 0 2 0 -4 0 0 0 0 -4 1-4cyli.dat
 4 16 -58 40 -10 -58 24 -30 -54 24 -30 -54 40 -10
 4 16 -60 34 -17.5 -60 24 -30 -58 24 -30 -58 34 -17.5
@@ -546,7 +548,7 @@
 4 16 -58 23 -26 -60 23 -26 -60 30 -16.5 -58 30 -16.5
 4 16 -58 16 -26 -60 16 -26 -60 23 -26 -58 23 -26
 4 16 -58 16 -18 -60 16 -18 -60 16 -26 -58 16 -26
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -60 20 -18 0 2 0 -4 0 0 0 0 4 1-4cyli.dat
 4 16 58 34 -17.5 58 34 17.5 58 40 10 58 40 -10
 4 16 58 30 -8 58 30 8 58 34 8 58 34 -8

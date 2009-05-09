@@ -1,11 +1,16 @@
 0 Plate  4 x  4 Corner Round
 0 Name: 30565.dat
-0 Author: Mark Chittenden <Mdublade@aol.com>, from part 2577.dat
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Mark Chittenden [mdublade]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 // 2004-01-16 Hafhead: Fixed origin, bad geometry, and many l3p errors
+0 !HISTORY 2004-01-16 [hafhead] Fixed origin, bad geometry, and many l3p errors
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-06-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 Top Studs
+0 // Top Studs
+
 1 16 -30 0 30 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 30 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 10 0 30 1 0 0 0 1 0 0 0 1 stud.dat

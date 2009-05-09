@@ -1,16 +1,20 @@
 0 Minifig Skeleton Arm
 0 Name: 6265.dat
-0 Author: Franklin W. Cain <fwcain@yahoo.com>
-0 LDRAW_ORG Part UPDATE 2001-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2001-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS bone, castle, dragon masters, time cruisers, time twisters
-0 KEYWORDS fright knights, undead
+0 !HELP Center of "hand" is (0,0,-30). 
+
 0 BFC CERTIFY CW
+0 !KEYWORDS bone, castle, dragon masters, time cruisers, time twisters
+0 !KEYWORDS fright knights, undead
 
-0 Note: Center of "hand" is (0,0,-30). 
-0
-0 shoulder
-0
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // shoulder
 0 BFC INVERTNEXT
  1 16 0 -2 0 2 0 0 0 -1 0 0 0 2 4-8sphe.dat
 0 BFC INVERTNEXT

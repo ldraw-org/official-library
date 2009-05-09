@@ -1,9 +1,15 @@
 0 Brick  1 x  4 with Studs on Side
 0 Name: 30414.dat
-0 Author: R. M. (Bob) Rodinsky (dublar2@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: R. M. Rodinsky [dublar]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -40 24 10 -40 0 10
 2 24 -40 24 10 40 24 10

@@ -1,9 +1,15 @@
 0 Fence Spindled  4 x  4 x  2 Quarter Round
 0 Name: 30056.dat
 0 Author: Don Heyse
-0 Official LCad Part 2000-01
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 notch level surface edges  
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // notch level surface edges
+
 2 24 75.845 44 -4 75.350 44 -9.920  
 2 24 75.350 44 -9.920 73.410 44 -19.670  
 2 24 73.410 44 -19.670 71.943 44 -24.4  

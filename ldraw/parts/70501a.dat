@@ -1,20 +1,27 @@
 0 Minifig Coin with 10 Mark
 0 Name: 70501a.dat
-0 Author: Steve Bliss <sbliss@ldraw.org>
-0 Author: Franklin W. Cain <fwcain@yahoo.com>, raised numbers
-0 LDRAW_ORG Part UPDATE 2001-02
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2001-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -C334
-0 CATEGORY Minifig Accessory
-0 KEYWORDS coins, money, treasure, cash, pirates, divers, adventurers
-0 KEYWORDS gold, chrome
 0 BFC NOCERTIFY
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS coins, money, treasure, cash, pirates, divers, adventurers
+0 !KEYWORDS gold, chrome
+0 !CMDLINE -C334
 
-0 Uncomment following line to get POV-RAY engraving on reverse side of coin.
-0 1 16 0 1 0 1.3333 0 0 0 -0.5 0 0 0 1.3333 stud.dat
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2001-11-29 [fwcain] raised numbers
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2007-10-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 one (1)
-0
+0 // Uncomment following line to get POV-RAY engraving on reverse side of coin.
+0 // 1 16 0 1 0 1.3333 0 0 0 -0.5 0 0 0 1.3333 stud.dat
+
+0 // one (1)
+
  2 24 -1.50 0.50 -4 -1.50 0.50 4
  2 24 -1.50 0.50 4 -3.50 0.50 1.50
 0

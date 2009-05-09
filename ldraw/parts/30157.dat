@@ -1,11 +1,16 @@
 0 Plate  2 x  4 with Pins
 0 Name: 30157.dat
-0 Author: Paul Easter
-0 Official LCad Part 2000-01
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS plate, pins, wheel, hub
-0 CATEGORY plate
-0
+0 !KEYWORDS plate, pins, wheel, hub
+
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-06-06 [PTadmin] Replaced box3#8p references with box3u8p
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 4 16 40 8 20 36 8 16 -36 8 16 -40 8 20
 4 16 40 8 -20 36 8 -16 -36 8 -16 -40 8 -20
@@ -38,7 +43,7 @@
 4 16 -36 4 -16 -36 8 -16 36 8 -16 36 4 -16
 4 16 36 4 -16 36 8 -16 36 8 16 36 4 16
 0
-1 16 0 8 0 40 0 0 0 -8 0 0 0 20 box3#8p.dat
+1 16 0 8 0 40 0 0 0 -8 0 0 0 20 box3u8p.dat
 2 24 -40 0 20 -40 0 -20
 2 24 40 0 -20 40 0 20
 2 24 -40 8 20 -40 8 12

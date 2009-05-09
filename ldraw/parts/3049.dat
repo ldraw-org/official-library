@@ -1,14 +1,16 @@
 0 Slope Brick 45  1 x  2 Double / Inverted
 0 Name: 3049.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2003-03
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2002-9-13 ZAN Modified with WINDZ for BFC compliance
-
-
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 2002-09-13 [izanette] Modified with WINDZ for BFC compliance
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-06-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 20 0 1 0 0 0 -1 0 0 0 1 stud3a.dat
  1 16 0 4 0 0 -0.707 4 0 0.707 4 4 0 0 2-4edge.dat

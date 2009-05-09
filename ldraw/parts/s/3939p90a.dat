@@ -1,9 +1,14 @@
-0 ~Subpart Slope Brick 33  3 x  6 with Classic Space Small - Gold
+0 ~Slope Brick 33  3 x  6 with Classic Space Small - Gold
 0 Name: s\3939p90a.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Subpart UPDATE 2002-06
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Subpart UPDATE 2002-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2002-08-19 Willy Tschager - refined pattern, added missing craters
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2002-08-19 [Holly-Wood] refined pattern, added missing craters
+0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06
+0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -4.363 4.904 -19.811 -4.103 5.052 -20.108 -4.494 5.1 -20.203 -4.806 5.002 -20.007
 3 16 -2.21 5.028 -20.058 -2.577 5.187 -20.377 -2.601 5.017 -20.037

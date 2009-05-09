@@ -1,13 +1,16 @@
 0 Panel  1 x  2 x  1 with Black Grille Pattern
 0 Name: 4865p06.dat
-0 Author: James Jessiman  (Part)
-0 Author: Lars C. Hassing (Pattern)
-0 Author: Jonathan Wilson (Placement)
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Jonathan Wilson [jonwil]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2004-??-?? Steffen replaced guts with subfile; BFC'ed
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2004-04-21 [Steffen] replaced guts with subfile; BFC'ed
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4865s01.dat
 

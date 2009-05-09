@@ -1,12 +1,15 @@
 0 ~Tile  8 x 16 without Top Face
 0 Name: s\48288s01.dat
-0 Author: Michael Heidemann <mikeheide@web.de>
-0 LDRAW_ORG Subpart UPDATE 2005-01
-
-0 // 2005-01-16 MikeHeide initial version
-0 // 2005-03-22 AJW subparted, added groove
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Subpart UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
+0 !HISTORY 2005-03-22 [westrate] subparted, added groove
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 140 4 60 1 0 0 0 -1 0 0 0 1 stud4.dat
  1 16 120 4 60 1 0 0 0 -1 0 0 0 1 stud4.dat

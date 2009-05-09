@@ -1,12 +1,16 @@
 0 Ring 10 x 1.0
 0 Name: ring10.dat
 0 Author: James Jessiman
-0 Original LDraw Primitive
-0 LDRAW_ORG Primitive UPDATE 2002-02
+0 !LDRAW_ORG Primitive UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 2002-04-08 DG Modified for BFC compliance
+0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10
+0 !HISTORY 2002-04-08 [BrickCaster] Modified for BFC compliance
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 0 0 10 -3.827 0 9.239 -4.2097 0 10.1629 0 0 11
  4 16 -3.827 0 9.239 -7.071 0 7.071 -7.7781 0 7.7781 -4.2097 0 10.1629

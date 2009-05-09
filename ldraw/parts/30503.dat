@@ -1,13 +1,16 @@
 0 Plate  4 x  4 without Corner
 0 Name: 30503.dat
-0 Author: Ronald Scott Moody & Ildefonso Junior Zanette
-0 LDRAW_ORG Part UPDATE 2003-01
-
-0 KEYWORDS wing
+0 Author: Ronald Scott Moody [rmoody]
+0 !LDRAW_ORG Part UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !KEYWORDS wing
 
-0 2002-10-6 ZAN Modified with WINDZ for BFC compliance
+0 !HISTORY 2003-03-11 [izanette] Secondary author
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-06-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 40 8 40 -40 8 40
  2 24 -40 8 40 -40 8 -40

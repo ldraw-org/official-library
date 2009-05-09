@@ -1,14 +1,16 @@
 0 Train Base  6 x 16 Type 1
 0 Name: 736.dat
-0 Author: Tore Eriksson, as complete part
-0 Author: Damien Guichard, file prep
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC NOCERTIFY
 
-0 // 2002-10-28 DG : Moved code from 736c01 to 736
-0 // 2002-11-05 DG : Added 2 missing quads, 8 missing edges
-
+0 !HISTORY 2002-10-28 [BrickCaster] Moved code from 736c01 to 736
+0 !HISTORY 2002-11-05 [BrickCaster] Added 2 missing quads, 8 missing edges
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 60 0 -160 60 0 160
 2 24 -60 0 -160 -60 0 160

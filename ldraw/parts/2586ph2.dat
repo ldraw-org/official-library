@@ -1,16 +1,18 @@
 0 Minifig Shield Ovoid with Silver Snake Pattern
 0 Name: 2586ph2.dat
-0 Author: Andrew Westrate
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Harry Potter, Hogwarts School of Witchcraft and Wizardry
+0 !KEYWORDS Slytherin House, Salazar Slytherin, Snake, Green and Silver
+0 !CMDLINE -C0
 
-0 CMDLINE -C0
-
-0 CATEGORY Minifig Accessory
-0 KEYWORDS Harry Potter, Hogwarts School of Witchcraft and Wizardry
-0 KEYWORDS Slytherin House, Salazar Slytherin, Snake, Green and Silver
-
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2586s01.dat
 1 383 0 0 0 1 0 0 0 1 0 0 0 1 s\2586ph2a.dat

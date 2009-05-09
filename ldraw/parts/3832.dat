@@ -1,13 +1,15 @@
 0 Plate  2 x 10
 0 Name: 3832.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2003-03
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2003-06-08 JHR BFC compliant
-
+0 !HISTORY 2003-06-08 [jriley] BFC compliant
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 80 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
  1 16 60 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat

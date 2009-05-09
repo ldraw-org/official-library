@@ -1,11 +1,16 @@
 0 Slope Brick 33  3 x  4 with SW Grille Pattern
 0 Name: 3297ps1.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Part UPDATE 2003-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c15
-0 KEYWORDS "Star Wars", "Imperial Shuttle", Tyderian, "Emperor Palpatine"
-0 KEYWORDS "Death Star"
+0 !KEYWORDS "Star Wars", "Imperial Shuttle", Tyderian, "Emperor Palpatine"
+0 !KEYWORDS "Death Star"
+0 !CMDLINE -c15
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1  16 0 0 0 1 0 0 0 1 0 0 0 1 s\3297s01.dat
  1 392 0 0 0 1 0 0 0 1 0 0 0 1 s\3297ps1a.dat

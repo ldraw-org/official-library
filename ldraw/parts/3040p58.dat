@@ -1,15 +1,20 @@
 0 Slope Brick 45  2 x  1 with Targeting Screen Pattern
 0 Name: 3040p58.dat
-0 Author: Orion Pobursky
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !KEYWORDS Star Wars, Space, TIE Interceptor, computer, controls, crosshairs
+0 !KEYWORDS Insectoids
+
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2004-03-11 [cwdee] Corrected title spelling 
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 // Note: "Needs Work".  There's a background green area that's missing from 
 0 // the pattern.
-
-0 KEYWORDS Star Wars, Space, TIE Interceptor, computer, controls, crosshairs
-0 KEYWORDS Insectoids
-
-0 // 2004-03-11 CWD Corrected title spelling 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3040s01.dat
 4 2 -8 16.2635 -26.2635 -6 16.2635 -26.2635 -6 17.6777 -27.6777 -8 17.6777 -27.6777

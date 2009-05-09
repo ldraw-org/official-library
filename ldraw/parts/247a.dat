@@ -1,10 +1,15 @@
 0 ~Door  1 x  4 x  5 Frame
 0 Name: 247a.dat
 0 Author: James Jessiman
-0 LDRAW_ORG Part UPDATE 2005-01
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
 0 BFC CERTIFY CW
 
-0 // 2004-01-04  M Kennedy, Optimised with primitives, BFC
+0 !HISTORY 2004-01-04 [mkennedy] Optimised with primitives, BFC
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-05-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 -2 114 70 -2 114 10 
  2 24 2 114 10 2 114 -10 

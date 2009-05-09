@@ -1,13 +1,17 @@
 0 ~Minifig Torso with Castle Bodice Pattern, Obsolete
 0 Name: 973p4a.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS castle, princess, dress
-0 BFC CERTIFY
+0 !KEYWORDS castle, princess, dress
 
-0 // 2002-07-23 CWD Separated pattern to make true colour parts 
-0 //                Replaced by 973p4n, 973p4q
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2002-07-23 [cwdee] Separated pattern to make true colour parts; Replaced by 973p4n, 973p4q 
+0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 15 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 4 15 -19 29 10 -14.345 2 10 14.345 2 10 19 29 10

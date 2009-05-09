@@ -1,10 +1,15 @@
 0 Technic Ball Joint
 0 Name: 203.dat
-0 Author: Marc Schickele
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Marc Schickele [samrotule]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS bionicle, throwbot
-0 BFC NOCERTIFY NOWIND NOCLIP
+0 BFC NOCERTIFY
+0 !KEYWORDS bionicle, throwbot
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 5.25 0 1 0 0 0 -15.25 0 0 0 1 axleho11.dat
 1 16 0 -10 0 6 0 0 0 1 0 0 0 6 4-4disc.dat

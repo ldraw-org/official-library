@@ -1,13 +1,17 @@
 0 Slope Brick 45  2 x  1 with 3 Buttons 3 Lamps on Yellow Pattern
 0 Name: 3040p01.dat
-0 Author: Kevin M Bane  06/18/99
-0 LDRAW_ORG Part UPDATE 2004-01
+0 Author: Kevin M Bane
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2002-9-13 ZAN Modified with WINDZ for BFC compliance
-
-
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2002-09-13 [izanette] Modified with WINDZ for BFC compliance
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3040s01.dat
 

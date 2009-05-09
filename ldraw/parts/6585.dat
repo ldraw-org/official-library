@@ -1,10 +1,14 @@
 0 Technic Gearbox  4 x  4 x 1 & 2/3
 0 Name: 6585.dat
-0 Author: Marc Klein
-0 Created with stl2dat conversion tool
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Marc Klein [marckl]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 BFC INVERTNEXT
 1 16 0 18 -22 6 0 0 0 0 6 0 -16 0 4-4cyli.dat

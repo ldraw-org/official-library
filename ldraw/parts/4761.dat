@@ -1,8 +1,13 @@
 0 Electric 9V Battery Box Small Lid (needs work)
 0 Name: 4761.dat
-0 Author: Jonathan Wilson
-0 Official LCad update 99-06
- 
+0 Author: Jonathan Wilson [jonwil]
+0 !LDRAW_ORG Part UPDATE 1999-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
  4 16 -38 2 -78 38 2 -78 -38 0 -78 38 0 -78
  4 16 -38 2 74 -38 8 74 -38 8 -74 -38 2 -74
  4 16 -40 0 74 -40 8 74 -40 8 -74 -40 0 -74

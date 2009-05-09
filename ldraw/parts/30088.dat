@@ -1,16 +1,22 @@
 0 Minifig Speargun
 0 Name: 30088.dat
-0 Author: Chris Alano (calano@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Chris Alano
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 CATEGORY Minifig Accessory
-0 KEYWORDS diver spear gun harpoon
 0 BFC CERTIFY CCW
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS diver spear gun harpoon
 
-0 Centerline of handle wrt housing intersects at z=13.5
-0 Angle of handle/housing is 26.8136
-0
-0 handle/housing wireframe i/f
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Centerline of handle wrt housing intersects at z=13.5
+0 // Angle of handle/housing is 26.8136
+
+0 // handle/housing wireframe i/f
+
 2 24 0 7.601 3.954 -1.531 7.107 3.654
 2 24 -1.531 7.107 3.654 -1.913 6.893 3.399
 2 24 -1.913 6.893 3.399 -2.828 5.903 2.794

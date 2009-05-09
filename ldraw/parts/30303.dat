@@ -1,11 +1,15 @@
 0 Plate  6 x  6 x  2/3 Cross with Dome
 0 Name: 30303.dat
-0 Author: Paul Easter, pneaster@aol.com
-0 Official LCad Part 2000-01
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Plate
-0 KEYWORDS: wing, cross, foot, round, circle, space, rock, raiders,
-0 KEYWORDS: rockraiders, underground, starwars, star, wars, sith, infiltrator
+0 !KEYWORDS wing, cross, foot, round, circle, space, rock, raiders,
+0 !KEYWORDS rockraiders, underground, starwars, star, wars, sith, infiltrator
+
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 40 3 0 1 0 0 0 -1.25 0 0 0 1 stud4a.dat
 1 16 40 1.5 0 6 0 0 1.5 0 0 0 0 6 4-4disc.dat

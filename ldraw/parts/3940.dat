@@ -1,7 +1,11 @@
 0 Space Stand  2 x  2 x  2
 0 Name: 3940.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 !LDRAW_ORG Part ORIGINAL
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 20    48  0    18.48 48  7.65
  2 24 18.48 48  7.65 16    48 11.36

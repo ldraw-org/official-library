@@ -1,16 +1,14 @@
 0 Sphere 0.175 x  1.1414 Cut Off
 0 Name: 1-8sphc.dat
-0 Author: Franklin W. Cain <fwcain@yahoo.com>
-0 LDRAW_ORG Primitive UPDATE 2001-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Primitive UPDATE 2001-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 COMMENT This figure is the intersection of
-0 COMMENT a) One octant (1/8th) of a sphere with radius = (2 ^ 0.5) and centered
-0 COMMENT    at the origin (0,0,0).
-0 COMMENT b) A cube with side length=1, and with (0,0,0) and (1,1,1) as 
-0 COMMENT    opposing corners.
-0 COMMENT Each edge is circular and fits with a 1-4edge.dat.
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2007-10-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 3 16 .7071 .8660 .8660 .8660 .7071 .8660 .8660 .8660 .7071
 

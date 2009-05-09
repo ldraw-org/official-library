@@ -1,7 +1,12 @@
 0 ~Technic Gearbox  4.5V Casing
 0 Name: 170.dat
-0 Author: Ross Crawford (rcrawford@csi.com)
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Ross Crawford [rosco]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-05-05 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud2.dat

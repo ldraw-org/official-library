@@ -1,12 +1,17 @@
 0 Tile  2 x  2 with Magic Scroll Pattern
 0 Name: 3068bp40.dat
-0 Author: Andrew Westrate
-0 LDRAW_ORG Part UPDATE 2004-01
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Castle, Dragon Master, Fright Knights, Majisto, Willa
-0 KEYWORDS wizard, witch, wand, runes, spell, spellbook, spellcaster
 0 BFC CERTIFY CCW
-0 CMDLINE -c15 
+0 !KEYWORDS Castle, Dragon Master, Fright Knights, Majisto, Willa
+0 !KEYWORDS wizard, witch, wand, runes, spell, spellbook, spellcaster
+0 !CMDLINE -c15 
+
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 3 4 -12.25 0 11.75 -13 0 13.75 -14 0 11.75

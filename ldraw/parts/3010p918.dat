@@ -1,12 +1,16 @@
 0 Brick  1 x  4 with "LL918" Pattern
 0 Name: 3010p918.dat
-0 Author: Tony Hafner <www.hafhead.com>
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2002-12-15 Original file by Tore Eriksson, 97-01 update.
-
+0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
+0 !HISTORY 2002-12-15 [hafhead] Rewritten
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 16 -40 0 -10 40 0 -10 38 6 -10 -38 6 -10

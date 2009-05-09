@@ -1,14 +1,17 @@
 0 Brick  2 x  3 x  3 with Lion's Head Carving and Cutout
 0 Name: 30274.dat
-0 Author: Andrew Westrate
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 // Comes in tan and dark gray
-0 CMDLINE -C19
-0 CATEGORY Brick
-0 KEYWORDS Castle, Knight's Kingdom, Studios, Harry Potter
-0 KEYWORDS Capital, Pediment, Frieze, Entablature, Gargoyle
 0 BFC CERTIFY CW
+0 !KEYWORDS Castle, Knight's Kingdom, Studios, Harry Potter
+0 !KEYWORDS Capital, Pediment, Frieze, Entablature, Gargoyle
+0 !CMDLINE -C19
+
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 10 0 20 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -10 0 20 1 0 0 0 1 0 0 0 1 stud2.dat
@@ -19,7 +22,7 @@
 0 Ledge Brick
 1 16 0 24 20 20 0 0 0 -24 0 0 0 10 box4-4a.dat
 1 16 0 4 10 20 0 0 0 0 -4 0 1 0 rect3.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 24 20 16 0 0 0 -20 0 0 0 6 box5.dat
 1 16 0 20 20 1 0 0 0 -1 0 0 0 1 stud3a.dat
 1 16 0 20 20 4 0 0 0 -16 0 0 0 4 4-4cyli.dat
@@ -31,7 +34,7 @@
 0 Back
 1 16 0 48 10 20 0 0 0 0 24 0 -1 0 rect.dat
 0 Bottom brick
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 72 0 16 0 0 0 -30 0 0 0 6 box5.dat
 1 16 0 68 0 1 0 0 0 -1 0 0 0 1 stud3a.dat
 1 16 0 68 0 4 0 0 0 -26 0 0 0 4 4-4cyli.dat
@@ -44,9 +47,9 @@
 2 24 -20 72 -10 -20 72 10
 0 Well
 1 16 10 8 0 6 0 0 0 32 0 0 0 6 4-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 10 8 0 4 0 0 0 32 0 0 0 4 4-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 10 8 -20 4 0 0 0 18 0 0 0 4 4-4cyli.dat
 1 16 10 26 -20 4 0 0 0 1 0 0 0 4 4-4disc.dat
 1 16 10 8 -20 6 0 0 0 12 0 0 0 6 4-4cyli.dat
@@ -99,22 +102,22 @@
 3 16 20 8 10 20 21 5 20 20 -17.5
 4 16 20 38 5 20 21 5 20 8 10 20 43 10
 1 16 20 24 5 0 0 -2.25 3 0 0 0 4 0 2-4disc.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 20 24 -17.5 0 0 -3 4 0 0 0 -1.5 0 2-4cyls.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 20 24 -17.5 0 0 -0.75 -1 0 0 0 22.5 0 1-4con3.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 20 24 -17.5 0 0 -0.75 1 0 0 0 22.5 0 1-4con3.dat
 1 16 20 24 5 0 0 -2.25 3 0 0 0 4 0 2-4edge.dat
 2 24 20 27 5 20 21 5
 4 16 20 28 -17.5 20 27 5 20 31 -13.5 20 31 -16.5
 3 16 20 27 5 20 32 5 20 31 -13.5
 1 16 20 35 5 0 0 -2.25 3 0 0 0 4 0 2-4disc.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 20 35 -13.5 0 0 -3 4 0 0 0 -1.5 0 2-4cyls.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 20 35 -13.5 0 0 -0.75 -1 0 0 0 18.5 0 1-4con3.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 20 35 -13.5 0 0 -0.75 1 0 0 0 18.5 0 1-4con3.dat
 1 16 20 35 5 0 0 -2.25 3 0 0 0 4 0 2-4edge.dat
 2 24 20 38 5 20 32 5
@@ -364,9 +367,9 @@
 5 24 18 16 -28 15.5 18 -28 19 13 -29 18 18 -24
 0 Well, Camera Left
 1 16 -10 8 0 -6 0 0 0 32 0 0 0 6 4-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -10 8 0 -4 0 0 0 32 0 0 0 4 4-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -10 8 -20 -4 0 0 0 18 0 0 0 4 4-4cyli.dat
 1 16 -10 26 -20 -4 0 0 0 1 0 0 0 4 4-4disc.dat
 1 16 -10 8 -20 -6 0 0 0 12 0 0 0 6 4-4cyli.dat
@@ -405,22 +408,22 @@
 3 16 -20 20 -17.5 -20 21 5 -20 8 10
 4 16 -20 8 10 -20 21 5 -20 38 5 -20 43 10
 1 16 -20 24 5 0 0 2.25 3 0 0 0 4 0 2-4disc.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -20 24 -17.5 0 0 3 4 0 0 0 -1.5 0 2-4cyls.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -20 24 -17.5 0 0 0.75 -1 0 0 0 22.5 0 1-4con3.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -20 24 -17.5 0 0 0.75 1 0 0 0 22.5 0 1-4con3.dat
 1 16 -20 24 5 0 0 2.25 3 0 0 0 4 0 2-4edge.dat
 2 24 -20 27 5 -20 21 5
 4 16 -20 31 -13.5 -20 27 5 -20 28 -17.5 -20 31 -16.5
 3 16 -20 31 -13.5 -20 32 5 -20 27 5
 1 16 -20 35 5 0 0 2.25 3 0 0 0 4 0 2-4disc.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -20 35 -13.5 0 0 3 4 0 0 0 -1.5 0 2-4cyls.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -20 35 -13.5 0 0 0.75 -1 0 0 0 18.5 0 1-4con3.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -20 35 -13.5 0 0 0.75 1 0 0 0 18.5 0 1-4con3.dat
 1 16 -20 35 5 0 0 2.25 3 0 0 0 4 0 2-4edge.dat
 2 24 -20 38 5 -20 32 5

@@ -1,9 +1,14 @@
 0 Cone 19 x 1.0
 0 Name: 4-4con19.dat
-0 Author: Niels Karsdorp
-0 LDRAW_ORG Primitive UPDATE 2004-04
+0 Author: Niels Karsdorp [nielsk]
+0 !LDRAW_ORG Primitive UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  5 24 19 1 0 20 0 0 17.5541 1 7.2713 17.5541 1 -7.2713
  5 24 17.5541 1 7.2713 18.4780 0 7.6540 13.4349 1 13.4349 19 1 0

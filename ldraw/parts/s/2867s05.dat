@@ -1,9 +1,14 @@
 0 ~Train Track  9V Curved Metal Track
 0 Name: s\2867s05.dat
-0 Author: Soete Ludo <ludo.soete@village.uunet.be>
-0 LDRAW_ORG Subpart UPDATE 2004-04
-0 COMMENT : Binnenste MetaalRail / Inner metal rail
+0 Author: Ludo Soete [ludo]
+0 !LDRAW_ORG Subpart UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Inner metal rail
  2 24 -137.1433 -11 -59.2733 -134.854 -11 -58.9197
  2 24 -137.1433 -16 -59.2733 -134.854 -16 -58.9197
  4 16 -136.4604 -16 -62.706 -133.0276 -16 -62.0232 -133.7105 -16 -58.5904 -137.1433 -16 -59.2733

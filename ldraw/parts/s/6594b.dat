@@ -1,16 +1,14 @@
-0 ~Subpart 6594 Tire 12-Sections
-0 Name: 6594b.dat
-0 Author: ONYX (J Boen) onyx@flash.net
-0 Official LCad update 99-04
+0 ~6594 Tyre 12-Sections
+0 Name: s\6594b.dat
+0 Author: Jeff Boen
+0 !LDRAW_ORG Subpart UPDATE 1999-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 This element was modeled using 3DSMAX 2.x, exported to ASCII
-0 and converted to .DAT format by MAX2DAT
-0 
-0 3DSMAX ASCII output file: 6594 tire 12 sections.ase
-0
-0
-0 3DSMAX Object: 49.6x28 VR Tire
-0 Faces (Quads and Triangles)
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Faces (Quads and Triangles)
  4 16 -28 -31.86 2.19 -24 -31.86 -2.19 -28 -31.86 -2.19 -24 -31.86 2.19 
  4 16 -24 -31.86 2.19 -27 -38.85 -2.67 -24 -31.86 -2.19 -27 -38.86 2.66 
  4 16 -27 -38.86 2.66 -32 -38.85 -2.67 -27 -38.85 -2.67 -32 -38.86 2.66 

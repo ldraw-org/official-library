@@ -1,12 +1,16 @@
 0 ~Brick  1 x  8 with "GARAGE" - Text
 0 Name: s\3008p03b.dat
-0 Author: Tore Ericksson
-0 Author: Andy Westrate, file prep
-0 LDRAW_ORG Subpart UPDATE 2004-03
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Subpart UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 'G'
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // 'G'
 3 16 -51.2 13.5 -10 -46 17.8 -10 -46 9.2 -10
 3 16 -42 17.8 -10 -38.9 17.385 -10 -37.4 15.8 -10
 3 16 -44 19 -10 -38.9 17.385 -10 -42 17.8 -10

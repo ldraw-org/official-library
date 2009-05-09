@@ -1,12 +1,14 @@
 0 ~Wedge  4 x  4 Triple without Angled Faces and Lines
 0 Name: s\6069s02.dat
-0 Author: James Jessiman, original DAT code
-0 Author: Donald Sutter, file prep
-0 LDRAW_ORG Subpart UPDATE 2004-04
+0 Author: Donald Sutter [technog]
+0 !LDRAW_ORG Subpart UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2003-06-15 Donald Sutter Created subpart
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 18 4 0 0 0 -2 0 4 0 1 0 0 box4-1.dat
@@ -44,10 +46,10 @@
 1 16 0 7.68 -20 1 0 0 0 -2.08 0 0 0 1 stud3a.dat
 1 16 0 16.45 -50 6 0 0 0 1 -1.95 0 0 6 4-4edge.dat
 1 16 0 16.45 -50 8 0 0 0 1 -2.55 0 0 8 4-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 18.45 -50 0 0 6 0 -1.95 0 -6 0 0 4-4cyls.dat
 1 16 0 19.12 -50 0 0 8 0 -2.55 0 -8 0 0 4-4cyls.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 18.45 -50 6 0 0 0 0.67 0 0 0 6 4-4cyli.dat
 1 16 0 19.12 -50 1 0 0 0 -1.22 0 0 0 1 stud4a.dat
 2 24 40 24 10 20 24 10

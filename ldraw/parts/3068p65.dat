@@ -1,7 +1,12 @@
 0 Tile  2 x  2 with Stove Pattern
 0 Name: 3068p65.dat
-0 Author: Thomas Burger
-0 Official LCad update 98-08
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Part UPDATE 1998-08
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
+0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
   1 0 0 0 -6.20 11 0 0 0 0 0 0 0 -11 4-4disc.dat
   1 16 0 0 -6.20 11 0 0 0 0 0 0 0 -11 4-4ndis.dat

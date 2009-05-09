@@ -1,10 +1,15 @@
 0 Minifig Torso with Royal Knights Lion Head & Neck-Chain Pattern
 0 Name: 973p4e.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2002-02
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS King Richard, tunic, coat of arms, Castle, red and white
-0 CMDLINE -c4
+0 !KEYWORDS King Richard, tunic, coat of arms, Castle, red and white
+0 !CMDLINE -c4
+
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 

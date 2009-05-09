@@ -1,15 +1,19 @@
 0 Minifig Cap Aviator
 0 Name: 30171.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2002-03
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2002-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
-0 KEYWORDS hat, helmet, skullcap, pilot, barnstormer, Adventurers, "Alpha Team"
-0 KEYWORDS "Star Wars", "Mos Espa", "pod race", "Naboo fighter"
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS hat, helmet, skullcap, pilot, barnstormer, Adventurers, Alpha Team
+0 !KEYWORDS Star Wars, Mos Espa, pod race, Naboo fighter
 
-0 COMMENT To put the minifig helmet visor on this cap, use the following line:
-0 1 6 0 1.072 4 1 0 0 0 0.866 0.5 0 -0.5 0.866 2447.dat
+0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // To put the minifig helmet visor on this cap, use the following line:
+0 // 1 6 0 1.072 4 1 0 0 0 0.866 0.5 0 -0.5 0.866 2447.dat
  4 16 -2 -10 -2 -2 -10 2 2 -10 2 2 -10 -2
 0
  1 16 -2 4 -2 0 4 0 -14 0 0 0 0 -14 1-4cyli.dat

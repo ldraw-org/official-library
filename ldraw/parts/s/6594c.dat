@@ -1,16 +1,14 @@
-0 ~Subpart 49 x 28 treads
-0 Name: 6594c.dat
-0 Author: ONYX (J Boen) onyx@flash.net
-0 Official LCad update 99-04
+0 ~6594 Tyre 49 x 28 treads
+0 Name: s\6594c.dat
+0 Author: Jeff Boen
+0 !LDRAW_ORG Subpart UPDATE 1999-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 This element was modeled using 3DSMAX,
-0 exported to ASCII with 3DXExp 1.1 and
-0 converted to .DAT format by MAX2DAT
-0 
-0 3DSMAX ASCII output file: 49x28 tread only.3dx
-0
-0 3DSMAX Object: Outer Tread Blocks
-0 Faces (Quads and Triangles)
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Faces (Quads and Triangles)
  4 16 25 0 62 19 6.36 61.57 25 6.36 61.57 19 0 62 
  4 16 19 0 62 19 6.16 59.58 19 6.36 61.57 19 0 60 
  4 16 25 0 60 25 6.36 61.57 25 6.16 59.58 25 0 62 

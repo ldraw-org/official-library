@@ -1,9 +1,14 @@
 0 Plate  2 x  2 with Pin Type 2
 0 Name: 2476b.dat
-0 Author: Chris Dee
-0 LDRAW_ORG Part UPDATE 2004-04
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-05-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 8 0 1 0 0 0 -1 0 0 0 1 connect.dat
 1 16 0 4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat

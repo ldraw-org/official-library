@@ -1,9 +1,14 @@
 0 Bar  7 x  3 with Quadruple Clips
 0 Name: 30095.dat
 0 Author: James Jessiman
-0 Author: Extra Clips Added by Jonathan Wilson
-0 Official LCad update 99-02
- 
+0 !LDRAW_ORG Part UPDATE 1999-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-03-25 [jonwil] Extra Clips Added
+0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 2 24 20 8 -4 12 8 -4
 2 24 12 8 -4 12 4 -4
 2 24 12 4 -4 20 4 -4

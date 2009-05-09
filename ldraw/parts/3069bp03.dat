@@ -1,11 +1,16 @@
 0 Tile  1 x  2 with Dynamite Pattern
 0 Name: 3069bp03.dat
 0 Author: Dennis Osborn
-0 LDRAW_ORG Part UPDATE 2002-03
+0 !LDRAW_ORG Part UPDATE 2002-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2002-01-31 SEB Converted to grooved-tile
+0 !HISTORY 2002-01-31 [sbliss] Converted to grooved-tile
+0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
+0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 COMMENT Basic Box
+0 // Basic Box
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 
 0 1 16 0 8 0 16 0 0 0 -4 0 0 0 6 box5.dat

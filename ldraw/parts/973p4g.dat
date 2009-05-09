@@ -1,14 +1,18 @@
 0 Minifig Torso with Castle Female Armor Pattern       
 0 Name: 973p4g.dat
-0 Author: Matt Schild           
-0 LDRAW_ORG Part UPDATE 2003-01
+0 Author: Matt Schild [mschild]
+0 !LDRAW_ORG Part UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c8            
-0 KEYWORDS breastplate, plate armor, plate mail, silver, gold, chrome    
-0 KEYWORDS warrior, shield-maiden, princess, Knights Kingdom, Joan of Arc     
-0 KEYWORDS Princess Storm           
+0 !KEYWORDS breastplate, plate armor, plate mail, silver, gold, chrome    
+0 !KEYWORDS warrior, shield-maiden, princess, Knights Kingdom, Joan of Arc     
+0 !KEYWORDS Princess Storm           
+0 !CMDLINE -c8            
 
-0 Neck mark
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 Light Gray subpart           

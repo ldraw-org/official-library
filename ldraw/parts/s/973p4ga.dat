@@ -1,7 +1,12 @@
 0 ~Minifig Torso with Castle Female Armor Light Gray Area
 0 Name: s\973p4ga.dat
-0 Author: Matt Schild
-0 LDRAW_ORG Subpart UPDATE 2003-01
+0 Author: Matt Schild [mschild]
+0 !LDRAW_ORG Subpart UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 5.5 1.5 -10 6.25 3.125 -10 7 2.875 -10 7.5 1.5 -10
 4 16 7 7.5 -10 6.25 4.875 -10 7 5.125 -10 7.25 6.25 -10

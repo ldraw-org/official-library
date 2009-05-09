@@ -1,9 +1,15 @@
-0 Animal Horse Tail
+0 ~Animal Horse Tail
 0 Name: s\4494t.dat
 0 Author: Sascha Broich
-0 LDRAW_ORG Subpart UPDATE 2002-02
+0 !LDRAW_ORG Subpart UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 outer groove outer line
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // outer groove outer line
+
 2 24 0.7 -89.659 42.802 0 -89.659 42.802
 2 24 0.7 -89.659 42.802 1.3 -89 44.3
 2 24 1.3 -89 44.3 1.393 -88 47.276

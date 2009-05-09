@@ -1,16 +1,15 @@
 0 Technic Cam
 0 Name: 6575.dat
-0 Author: ONYX (J Boen) onyx@flash.net
-0 Official LCad update 99-04
-0
-0 This element was modeled using 3DSMAX 2.x, exported to ASCII
-0 and converted to .dat format by MAX2DAT
-0 
-0 3DSMAX ASCII output file: 6575 technic cam.ase
-0
-0
-0 3DSMAX Object: Main Cam Outer Faces
-0 Faces (Quads and Triangles)
+0 Author: Jeff Boen [onyx]
+0 !LDRAW_ORG Part UPDATE 1999-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Faces (Quads and Triangles)
+
  4 16 0 -29 -5 4.92 -28.35 5 0 -29 5 4.92 -28.35 -5 
  4 16 4.92 -28.35 -5 9.50 -26.45 5 4.92 -28.35 5 9.50 -26.45 -5 
  4 16 9.50 -26.45 -5 13.43 -23.43 5 9.50 -26.45 5 13.43 -23.43 -5 

@@ -1,9 +1,14 @@
 0 ~Minifig Shield Ovoid with Bull Head - Tan Detail
 0 Name: s\2586p4gb.dat
-0 Author: Andrew Westrate
-0 LDRAW_ORG Subpart UPDATE 2005-01
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Subpart UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 3 16 0 28.75 -8 1.25 12.25 -8 0 12 -8
 3 16 0 -12 -8 1.5 -13 -8 0 -27 -8

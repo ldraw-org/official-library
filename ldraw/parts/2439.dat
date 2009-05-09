@@ -1,11 +1,16 @@
 0 Container  2 x  2 Rubbish Bin 
 0 Name: 2439.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2002-01
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS trash, ashbin, dustbin, refuse, garbage, can, cylinder
+0 !KEYWORDS trash, ashbin, dustbin, refuse, garbage, can, cylinder
 
-0 Bottom
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Bottom
 2 24 -1 43 -19.5 -1 43 -18.9349
 2 24 -1 43 18.9349 -4.9172 43 18.3523
 2 24 -1 43 19.5 -1 43 18.9349

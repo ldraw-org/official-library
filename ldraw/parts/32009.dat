@@ -1,7 +1,12 @@
 0 Technic Liftarm  1 x 11.5 Double Bent
 0 Name: 32009.dat
-0 Author: Steve Bliss
-0 Official LCad update 98-01
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 1998-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-01-12 [PTadmin] Official Update 1998-01
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 10 -160 9 0 0 0 0 0 0 0 -9 2-4edge.dat
 2 24 9 10 -160 9 10 -43.73

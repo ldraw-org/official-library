@@ -1,12 +1,16 @@
 0 ~Minifig Ovoid Shield without Decorated Surface
 0 Name: s\2586s01.dat
-0 Author: Chris Dee
-0 LDRAW_ORG Subpart UPDATE 2005-01
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Subpart UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2004-11-22  AJW  BFCed, fixed l3p errors
-0 // 2004-12-06  CWD  Added concave type5 lines on handle
+0 !HISTORY 2004-11-22 [westrate] BFCed, fixed l3p errors
+0 !HISTORY 2004-12-06 [cwdee] Added concave type5 lines on handle
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 -14.5 -5 20 0 0 0 0 -20 0 -1 0 2-4disc.dat
  4 16 -20 -14.5 -5 20 -14.5 -5 19 -2.5 -5 -19 -2.5 -5

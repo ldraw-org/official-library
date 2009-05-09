@@ -1,10 +1,13 @@
 0 Boat Mast  2 x  2
 0 Name: 4289.dat
-0 Author: Christian M. Angele (c.m.angele@t-online.de)
-0 Official LCad update 98-09
+0 Author: Christian M. Angele [cma_1971]
+0 !LDRAW_ORG Part UPDATE 1998-09
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Date: 19980813
-0 plate: line0
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 2 24 20 8 -20 20 8 20
 2 24 20 8 20 16 8 20
 2 24 16 8 20 16 8 -16

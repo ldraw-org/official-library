@@ -1,14 +1,17 @@
 0 Plant Tree Cedar  4 x  4 x 11 & 1/2
 0 Name: 688.dat
-0 Author: Tore Eriksson
-0 Author: Christian M. Angele (c.m.angele@t-online.de) (Bottom Plate and Trunk)
-0 LDRAW_ORG Part UPDATE 2004-03
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 CATEGORY Plant
-0 CMDLINE -c2
+0 !CMDLINE -c2
 
-0 // 2004-03-23 AJW Quartered, fixed non-coplanar quads, BFC'ed
+0 !HISTORY 2004-01-01 [cma_1971] Secondary author
+0 !HISTORY 2004-03-23 [westrate] Quartered, fixed non-coplanar quads, BFC'ed
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\688s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\688s01.dat

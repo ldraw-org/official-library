@@ -1,12 +1,16 @@
 0 Wedge  6 x  4 Triple Curved
 0 Name: 43712.dat
-0 Author: Guy Vivan
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Guy Vivan [guyvivan]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2004-03-17  GuyVivan  Initial Version
-0 // 2004-09-11  GuyVivan  Improve detail underside stud (use more primitives)
+0 !HISTORY 2004-03-17 [guyvivan] Initial Version
+0 !HISTORY 2004-09-11 [guyvivan] Improve detail underside stud (use more primitives)
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -20 24 20 -20 24 -60
 2 24 -20 4 16 -20 4 -20

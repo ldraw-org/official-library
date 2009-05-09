@@ -1,9 +1,14 @@
 0 Brick  2 x  6 x  3 with Green Yellow and Blue Dots Pattern
 0 Name: 6213p02.dat
-0 Author: damien.guichard@wanadoo.fr
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Damien Guichard [BrickCaster]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 40 4 0 1 0 0 0 -17 0 0 0 1 stud4.dat
 1 16 20 4 0 1 0 0 0 -17 0 0 0 1 stud4.dat
@@ -21,7 +26,7 @@
 1 16 40 4 12 0 0 -1 0 44 0 4 0 0 box5.dat
 1 16 40 4 -12 0 0 -1 0 44 0 4 0 0 box5.dat
 
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 72 0 56 0 0 0 -68 0 0 0 16 box5.dat
 
 4 16 60 72 20 56 72 16 -56 72 16 -60 72 20

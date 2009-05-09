@@ -1,8 +1,12 @@
 0 ~Windscreen  6 x  8 x  3 without Printable Surfaces
 0 Name: s\551s01.dat
-0 Author: Steve Bliss, DAT code
-0 Author: Franklin W. Cain, file prep
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 -60 72 -40 -60 72 80
  2 24 -60 72 80 -56 72 80

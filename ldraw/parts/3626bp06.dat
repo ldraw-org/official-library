@@ -1,14 +1,18 @@
 0 Minifig Head with Standard Grin, Eyebrows and Microphone Pattern
 0 Name: 3626bp06.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS town, launch command, spaceport, headset
+0 !KEYWORDS town, launch command, spaceport, headset
 
-0 // 2004-04-15 AJW added torus primitives
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2004-04-15 [westrate] added torus primitives
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 eyebrows
-0
+0 // eyebrows
  4 0 -1 7.7 -12.801 -1.400 8.25 -12.722 -2.025 7.8 -12.597 -2.025 7.05 -12.597
  4 0 1 7.7 -12.801 1.400 8.25 -12.722 2.025 7.8 -12.597 2.025 7.05 -12.597
  4 0 -2.025 7.05 -12.597 -2.025 7.8 -12.597 -3.500 7.5 -12.304 -3.500 6.75 -12.304

@@ -1,15 +1,18 @@
 0 Technic Pin 1.0 with Base Collar
 0 Name: connect.dat
 0 Author: James Jessiman
-0 Original LDraw Primitive
-0 LDRAW_ORG Primitive UPDATE 2005-01
+0 !LDRAW_ORG Primitive UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2002-06-30  Orion Pobursky  Applied lip code from connect5.dat
-0 // 2002-07-03  SEB             Made BFC compliant, replaced quads with ring3
-0 // 2004-12-18  GuyVivan        Improve holes and use more primitives
-
+0 !HISTORY 2002-06-30 [OrionP] Applied lip code from connect5.dat
+0 !HISTORY 2002-07-03 [sbliss] Made BFC compliant, replaced quads with ring3
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2004-12-18 [guyvivan] Improve holes and use more primitives
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 5.801 -18 1 5.543 -18 2.296
 2 24 -5.543 -18 2.296 -5.801 -18 1

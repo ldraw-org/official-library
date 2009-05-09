@@ -1,10 +1,14 @@
 0 ~Minifig Head with Gold Robot Pattern - Gold Details
 0 Name: s\3626p64a.dat
-0 Author: Chris Dee, original s\3626p63a.dat
-0 Author: Steve Bliss, modifications
-0 LDRAW_ORG Subpart UPDATE 2005-01
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Subpart UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -9.009 3.5 -9.01 -9.192 4 -9.193 -4.975 4 -12.01 -4.876 3.5 -11.771
 4 16 -4.876 3.5 -11.771 -4.975 4 -12.01 0 4 -13 0 3.5 -12.741

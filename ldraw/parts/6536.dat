@@ -1,13 +1,16 @@
 0 Technic Axle Joiner Perpendicular
 0 Name: 6536.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2002-05
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 Updated 2002-07-12 Philo: Fixed bad quad, added 2 missing ones, added BFC
-0 2002-10-7 OWP Made some primitive subtitutions
+0 !HISTORY 2002-07-12 [Philo] Fixed bad quad, added 2 missing ones, added BFC
+0 !HISTORY 2002-10-07 [OrionP] Made some primitive subtitutions
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 10 0 0 0 -20 0 1 0 0 0 0 1 axlehol5.dat
 2 24 10 2 5.58 10 0 6
@@ -102,7 +105,7 @@
 1 16 7 0 0 0 1 0 0 0 9 9 0 0 2-4ndis.dat
 1 16 -7 0 0 0 -1 0 0 0 9 9 0 0 2-4ndis.dat
 1 16 -9 0 0 0 1 0 0 0 9 9 0 0 2-4ndis.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 20 8 6 0 0 0 0 6 0 -16 0 4-4cyli.dat
 1 16 0 20 10 1 0 0 0 0 1 0 -1 0 peghole.dat
 1 16 0 20 -10 1 0 0 0 0 1 0 1 0 peghole.dat

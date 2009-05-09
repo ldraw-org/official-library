@@ -1,21 +1,23 @@
 0 Click Lock Hinge Half Dual Finger
 0 Name: clh4.dat
-0 Author: Donald Sutter
-0 LDRAW_ORG Primitive UPDATE 2004-01
+0 Author: Donald Sutter [technog]
+0 !LDRAW_ORG Primitive UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
+0 !HELP Requires 2 halves rotated 180 degrees apart on Z-axis.
+0 !HELP Placement on side of bricks; rotate pair accordingly, place 10 Ldu 
+0 !HELP below top surface and 6 Ldu off side surface, fill as needed - 
+0 !HELP box4o4a.dat's recommended.
+0 !HELP Placement off side of plates and windscreens; rotate pair accordingly, 
+0 !HELP place center origin 2 Ldu below top surface and 6 Ldu off side surface, 
+0 !HELP fill as needed.
 0 BFC CERTIFY CW
 
-0 // 2003-12-29 DS Corrected width
-
-0 // requires 2 halves rotated 180 degrees apart on Z-axis.
-
-0 // placement on side of bricks; rotate pair accordingly,
-0 // place 10 Ldu below top surface and 6 Ldu off side surface,
-0 // fill as needed - box4o4a.dat's recommended.
-
-0 // placement off side of plates and windscreens; rotate pair accordingly,
-0 // place center origin 2 Ldu below top surface and 6 Ldu off side surface,
-0 // fill as needed.
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2003-12-29 [technog] Corrected width
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 8.5 0 0.9 0 -4.5 0 0 0 6 0.9 0 0 box3u8p.dat
 4 16 8.5 -6 0 8.5 -6 1.8 8.5 6 1.8 8.5 6 0

@@ -1,7 +1,13 @@
 0 Window  1 x  3 x  5 Shutter
 0 Name: 791.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 25 54 -2 27 0 0 0 0 54 0 4 0 box4.dat
 4 16 4 6 2 -2 0 2 52 0 2 48 6 2

@@ -1,13 +1,15 @@
 0 Brick  1 x  2 x  2
 0 Name: 3245a.dat
-0 Author: Steffen <muchelchupser@web.de>
-0 LDRAW_ORG Part UPDATE 2004-01
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Train
 0 BFC CERTIFY CCW
+0 !KEYWORDS Train
 
-0 // based on 3245b.dat by Steve Bliss
-
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 48 0 20 0 0 0 -48 0 0 0 10 box5.dat
 1 16 0 4 0 1 0 0 0 -11 0 0 0 1 stud3.dat

@@ -1,13 +1,15 @@
 0 ~Slope Brick 45  2 x  1 without Front Face
 0 Name: s\3040s01.dat
-0 Author: James Jessiman, DAT code
-0 Author: Orion Pobursky, File Prep
-0 LDRAW_ORG Subpart UPDATE 2004-01
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Subpart UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2003-07-02  Steffen  BFCed
-0 //                      removed matrix all zero "errors"
+0 !HISTORY 2003-07-02 [Steffen] BFCed; removed matrix all zero "errors"
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 // Uncomment for front face
 0 // 4 16 10 20 -30 10 0 -10 -10 0 -10 -10 20 -30

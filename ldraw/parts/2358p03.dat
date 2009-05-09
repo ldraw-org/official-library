@@ -1,11 +1,13 @@
 0 Baseplate 32 x 32 Road 7-Stud Straight with Plain Runway Pattern
 0 Name: 2358p03.dat
-0 Author: Jacob Sparre Andersen sparre@nbi.dk, 2001-08-13
-0 Author: Lars C. Hassing lch@cci.dk, 1998-07-26 (original)
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Lars C. Hassing [larschassing]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-
-
+0 !HISTORY 2001-08-30 [sparre] Undocumented changes
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16  310 0 310 1 0 0 0 1 0 0 0 1 stud.dat
  1 16  290 0 310 1 0 0 0 1 0 0 0 1 stud.dat

@@ -1,7 +1,14 @@
 0 ~Electric Technic Fiber Optics Element Cylinder Segment
 0 Name: 6637c.dat
-0 Author: (c)Remco Braak 1997 (rbraak@nat.vu.nl)
-0 Official LCad update 99-01
+0 Author: Remco Braak
+0 !LDRAW_ORG Shortcut UPDATE 1999-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
+0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 7.00 0.00 -20.00 6.47 2.68 -20.00 7.39 3.06 -20.00 8.00 0.00 -20.00
 4 16 8.00 0.00 -19.00 7.39 3.06 -19.00 14.78 6.12 -19.00 16.00 0.00 -19.00

@@ -1,16 +1,18 @@
 0 Sticker System Fort Legoredo Sign
 0 Name: 71405b.dat
-0 Author: Holly Wood
-0 LDRAW_ORG Part UPDATE 2004-04
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !KEYWORDS Western, Cavalry, Headquater, Soldiers, Indians, General, Wild West
+0 !KEYWORDS Entrance, Gate, Door
 
-0 KEYWORDS Western, Cavalry, Headquater, Soldiers, Indians, General, Wild West
-0 KEYWORDS Entrance, Gate, Door
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-07-19 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 Blue Border
-
-
+0 // Blue Border
 1 1 57 -0.25 -21 0 0 2 0 1 0 -2 0 0 1-4disc.dat
 3 1 59 -0.25 -21 57.15 -0.25 -20.3 57 -0.25 -21
 4 1 59 -0.25 -21 59 -0.25 -17.95 57.1 -0.25 -19.1 57.15 -0.25 -20.3

@@ -1,9 +1,14 @@
 0 Minifig Head with Ice Planet Messy White Hair
 0 Name: 3626bp62.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2002-04
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Space, Ice Planet, Wild West
+0 !KEYWORDS Space, Ice Planet, Wild West
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs01.dat
 4 16 -10.658 19.828 -4.415 -12.01 17 -4.975 -9.192 17 -9.192 -8.157 19.828 -8.157

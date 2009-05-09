@@ -1,7 +1,12 @@
-0 Minifig Head with Brown Hair and Black Eyebrows - Hair details 
+0 ~Minifig Head with Brown Hair and Black Eyebrows - Hair details 
 0 Name: s\3626p7ab.dat
-0 Author: Thomas Burger (tburger34@aol.com)
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 3 16 -4.4015 10.9192 -12.1245 -3.6289 12.1 -12.2782 -3.9879 11.201 -12.2068
 3 16 -3.9879 11.201 -12.2068 -3.5 11.3 -12.3038 -3.6289 12.1 -12.2782

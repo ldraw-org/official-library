@@ -1,12 +1,17 @@
 0 Minifig Torso with SW Darth Vader Pattern
 0 Name: 973ps7.dat
-0 Author: Matt Schild
-0 LDRAW_ORG Part UPDATE 2002-04
+0 Author: Matt Schild [mschild]
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c0
-0 KEYWORDS Star Wars, Darth Vader, Sith Lord
+0 !KEYWORDS Star Wars, Darth Vader, Sith Lord
+0 !CMDLINE -c0
 
-0 2002-06-25 FWC Added meta-statements...  
+0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
+0 !HISTORY 2002-06-25 [fwcain] Added meta-statements...  
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0

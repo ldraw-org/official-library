@@ -1,7 +1,13 @@
 0 Wing 16 x 14 Shuttle
 0 Name: 6219.dat
-0 Author: Luis E. Fernandez (lfernand@newsguy.com)
-0 Official LCad update 98-04
+0 Author: Luis E. Fernandez [lfernand]
+0 !LDRAW_ORG Part UPDATE 1998-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
+0 !HISTORY 1998-04-11 [PTadmin] Official Update 1998-04
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -160 0 120 -160 8 120
 2 24 -160 8 120 -120 8 120

@@ -1,10 +1,15 @@
 0 Brick  2 x  2  x  6 with Groove
 0 Name: 6056.dat
-0 Author: damien.guichard@wanadoo.fr
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Damien Guichard [BrickCaster]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS door
 0 BFC CERTIFY CCW
+0 !KEYWORDS door
+
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 16 144 -16 16 144 -4
 2 24 16 144 -4 -16 144 -4
@@ -64,10 +69,10 @@
 4 16 -16 144 -4 16 144 -4 16 140 -4 -16 140 -4
 4 16 -16 144 -16 -16 144 -4 -16 140 -4 -16 140 -16
 4 16 -10 144 -16 -16 144 -16 -16 140 -16 -10 140 -16
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -10 140 -10 0 0 6 0 4 0 -6 0 0 1-4cyli.dat
 1 16 0 140 -10 4 0 0 0 4 0 0 0 4 2-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 10 140 -10 -6 0 0 0 4 0 0 0 -6 1-4cyli.dat
 4 16 16 144 -16 10 144 -16 10 140 -16 16 140 -16
 4 16 16 3 20 16 3 15 4 3 15 4 3 20
@@ -186,7 +191,7 @@
 1 16 0 144 -10 -2 0 0 0 -1 0 0 0 2 4-4edge.dat
 1 16 0 140 -10 -2 0 0 0 -1 0 0 0 2 4-4edge.dat
 1 16 0 140 -10 -2 0 0 0 -1 0 0 0 2 4-4disc.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 140 -10 -2 0 0 0 4 0 0 0 2 4-4cyli.dat
 1 16 0 144 -10 2 0 0 0 -1 0 0 0 -2 2-4ndis.dat
 1 16 10 144 -10 -6 0 0 0 -1 0 0 0 -6 1-4ndis.dat
@@ -208,7 +213,7 @@
 1 16 0 72 -15 -4 0 0 0 0 -4 0 1 0 4-4edge.dat
 1 16 0 72 -14 -4 0 0 0 0 -4 0 1 0 4-4edge.dat
 1 16 0 72 -14 -4 0 0 0 0 -4 0 1 0 4-4disc.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 72 -15 -4 0 0 0 0 -4 0 1 0 4-4cyli.dat
 4 16 4 144 -15 4 144 -20 4 0 -20 4 0 -15
 4 16 4 144 -20 20 144 -20 20 0 -20 4 0 -20

@@ -1,16 +1,18 @@
 0 Minifig Tool Oilcan
 0 Name: 6246f.dat
-0 Author: John VanZwieten
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+0 !CATEGORY Minifig Accessory
 
-0 CATEGORY Minifig Accessory
+0 !HISTORY 2004-12-16 [unknown] fixed overlaping quads, missing edge, non-coplanar quads, regrouped, BFCed
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 // 2004-12-16 HW  fixed overlaping quads, missing edge, non-coplanar quads, 
-0 //                regrouped, BFCed
-
-0 // 12.529 Degrees rotation on x-axis to make bottom of can level
+0 !HELP 12.529 Degrees rotation on x-axis to make bottom of can level
 
 1 16 0 14.471 -21.259 8 0 0 0 0.976 1.736 0 -0.217 7.808 4-4edge.dat
 1 16 0 10.567 -20.391 8 0 0 0 0.976 1.736 0 -0.217 7.808 4-4edge.dat

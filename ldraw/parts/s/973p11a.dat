@@ -1,9 +1,14 @@
 0 ~Minifig Torso with Dungarees Pattern - Colour
 0 Name: s\973p11a.dat
-0 Author: Chris Dee <chris_w_dee@hotmail.com>
-0 LDRAW_ORG Subpart UPDATE 2003-02
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Subpart UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-09-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 11.5 1 -10 8 1 -10 7 8 -10 10.5 8 -10
 4 16 -8 1 -10 -11.5 1 -10 -10.5 8 -10 -7 8 -10

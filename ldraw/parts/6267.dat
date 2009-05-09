@@ -1,13 +1,19 @@
 0 Windscreen  2 x 12 x  4
 0 Name: 6267.dat
-0 Author: Steve Bliss <steve.bliss@earthlink.net>
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS window, windshield, divers, clear, slope, 12x4x2, model team
 0 BFC CERTIFY CW
+0 !KEYWORDS window, windshield, divers, clear, slope, 12x4x2, model team
 
-0 2002-03-27 SEB Added missing surfaces; made BFC-compliant
-0 2002-06-13 SEB Removed identical line
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2002-03-27 [sbliss] Added missing surfaces; made BFC-compliant
+0 !HISTORY 2002-06-13 [sbliss] Removed identical line
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -120 96 20 -100 96 20
 2 24 -100 96 20 -100 96 0

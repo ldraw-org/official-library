@@ -1,10 +1,14 @@
 0 ~Pattern Thin Black "POLICE"
 0 Name: s\3069bs18.dat
-0 Author: John Riley
-0 LDRAW_ORG Subpart UPDATE 2003-03
+0 Author: John Riley [jriley]
+0 !LDRAW_ORG Subpart UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -17 0 5 -17 0 4.8 17 0 4.8 17 0 5
 4 16 -17 0 -5 17 0 -5 17 0 -4.8 -17 0 -4.8

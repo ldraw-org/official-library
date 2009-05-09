@@ -1,14 +1,20 @@
 0 Minifig Helmet Modern
 0 Name: 2446.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 KEYWORDS motorcycle helmet, police helmet, space helmet, full face, crash helmet
+0 !KEYWORDS motorcycle helmet, police helmet, space helmet, full face, crash helmet
 
-0 // 2003-01-25 DS           BFC'd, closed gaps, corrected coplanarity
-0 // 2005-08-29 Dean Earley: Removed erroneous BFC Certifys
-
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2003-01-25 [technog] BFC'd, closed gaps, corrected coplanarity
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2005-08-29 [DeanEarley] Removed erroneous BFC Certifys
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 -4 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat

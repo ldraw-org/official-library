@@ -1,15 +1,19 @@
 0 Panel Wall  3 x  3 x  6 Corner
 0 Name: 2345.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2004-02
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Castle Wall
 0 BFC CERTIFY CCW
+0 !KEYWORDS Castle Wall
 
-0 // 2003-08-06 JHR BFC compliant, fixed gaps at bottom
-0 // 2003-09-17 OWP Moved guts to subpart
-0 // 2003-09-30 OWP Changed name to non theme specific
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2003-08-06 [jriley] BFC compliant, fixed gaps at bottom
+0 !HISTORY 2003-09-17 [OrionP] Moved guts to subpart
+0 !HISTORY 2003-09-30 [OrionP] Changed name to non theme specific
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2345s01.dat
 

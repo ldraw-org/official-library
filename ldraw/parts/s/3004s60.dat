@@ -1,17 +1,19 @@
 0 ~Pattern Shell Logo I
 0 Name: s\3004s60.dat
-0 Author: Tore Eriksson, original DAT code 1998
-0 Author: Niels Karsdorp, file prep
-0 LDRAW_ORG Subpart UPDATE 2004-04
+0 Author: Niels Karsdorp [nielsk]
+0 !LDRAW_ORG Subpart UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2002-Dec-23 Niels Karsdorp: BFC Certified, bad polygons repaired and 
-0 //                             changed into subpart
-0 // 2003-Sep-25 Niels Karsdorp: Origin changed to centre
+0 !HISTORY 2002-12-23 [nielsk] BFC Certified, bad polygons repaired and changed into subpart
+0 !HISTORY 2003-09-25 [nielsk] Origin changed to centre
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 Shell Logo I
-0 Size:  x = -11.5 to 11.5  y = -10.5 to 10.5  z = 0
+0 // Shell Logo I
+0 // Size:  x = -11.5 to 11.5  y = -10.5 to 10.5  z = 0
 
 4 14 0 -0.462 0 0.874 7.707 0 0.586 8.001 0 0 8.274 0
 4 14 0 8.274 0 -0.586 8.001 0 -0.874 7.707 0 0 -0.462 0

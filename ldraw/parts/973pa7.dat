@@ -1,11 +1,16 @@
 0 Minifig Torso with Safari Shirt, Black Tee, and Holster Pattern
 0 Name: 973pa7.dat
-0 Author: George Barnes (glbarnes@gdi.net)
-0 LDRAW_ORG Part UPDATE 2002-04
+0 Author: George Barnes [glbarnes]
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c487
-0 KEYWORDS Adventurers, Baron von Barron, Mr. Hates, villain
-0 KEYWORDS holster, belt, safari shirt, military, uniform, jacket
+0 !KEYWORDS Adventurers, Baron von Barron, Mr. Hates, villain
+0 !KEYWORDS holster, belt, safari shirt, military, uniform, jacket
+0 !CMDLINE -c487
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 COMMENT neck mark

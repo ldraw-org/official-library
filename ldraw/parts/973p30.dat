@@ -1,10 +1,15 @@
 0 Minifig Torso with Pirate Purple Vest and Anchor Tattoo Pattern
 0 Name: 973p30.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Part UPDATE 2002-02
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS anchor, sailor, Pirates
-0 CMDLINE -C14
+0 !KEYWORDS anchor, sailor, Pirates
+0 !CMDLINE -C14
+
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 334 0 0 0 1 0 0 0 1 0 0 0 1 s\973p30a.dat
  1 261 0 0 0 1 0 0 0 1 0 0 0 1 s\973p30b.dat

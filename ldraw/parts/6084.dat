@@ -1,9 +1,17 @@
 0 Windscreen  8 x  3 & 3/5 x  4 & 1/2 Octagonal Canopy Half
 0 Name: 6084.dat
-0 Author: Bram Lambrecht <blambrec@student.chuh.org>
-0 Official LCAD Part - 2000-02 Update
+0 Author: Bram Lambrecht
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 exterior lines (right)
+0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-07-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // exterior lines (right)
+
 2 24 40 36 -30 40 24 -30
 2 24 40 36 -30 47.273 36 -22
 2 24 47.273 36 -22 47.273 44 -22

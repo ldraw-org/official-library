@@ -1,10 +1,13 @@
 0 Technic Liftarm  1 x  5 Straight
 0 Name: 32316.dat
-0 Author: ISHINO Keiichiro, 2000/02/20
-0 LDRAW_ORG Part UPDATE 2001-02
+0 Author: ISHINO Keiichiro
+0 !LDRAW_ORG Part UPDATE 2001-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 2000/06/20 IK  Updated
-0 2001/11/10 WJW Fixed short 1-4cyli's
+0 !HISTORY 2001-11-10 {William J Wood} Fixed short 1-4cyli's
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2007-12-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 10 -40 10 0 0 0 0 0 0 0 -10 2-4edge.dat
 1 16 0 -10 -40 10 0 0 0 0 0 0 0 -10 2-4edge.dat

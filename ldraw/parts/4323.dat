@@ -1,9 +1,14 @@
 0 Fabuland Roof Slope without Chimney Hole
 0 Name: 4323.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2002-01
- 
-0 Origin is 0 -16 0 relative to Fabuland Roof Support
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Origin is 0 -16 0 relative to Fabuland Roof Support
+
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 40 -32 60 40 16 -60
 2 24 40 16 -60 -40 16 -60

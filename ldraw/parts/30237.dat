@@ -1,9 +1,13 @@
 0 Brick  1 x  2 with Clip Vertical
 0 Name: 30237.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Part UPDATE 2001-02
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2001-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
  1 16 0 4 0 1 0 0 0 -5 0 0 0 1 stud3.dat
  1 16 0 24 0 16 0 0 0 -20 0 0 0 6 box5.dat
  1 16 0 24 0 20 0 0 0 -24 0 0 0 10 box5.dat

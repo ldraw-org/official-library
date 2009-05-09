@@ -1,8 +1,12 @@
 0 ~Slope Brick 33  3 x  4 with SW Grille Pattern - Semi-Black
 0 Name: s\3297ps1a.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Subpart UPDATE 2003-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 -7.75 18.5 -47 7.75 18.5 -47 7.75 19.75 -49.5 -7.75 19.75 -49.5
  4 16 -8.25 18.5 -47 -8.25 19.75 -49.5 -23.75 19.75 -49.5 -23.75 18.5 -47

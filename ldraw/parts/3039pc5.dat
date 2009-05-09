@@ -1,9 +1,15 @@
 0 Slope Brick 45  2 x  2 with Flight Control Pattern
 0 Name: 3039pc5.dat
-0 Author: Orion Pobursky
-0 LDRAW_ORG Part UPDATE 2002-05
-0 KEYWORDS "Star Wars", Space, "TIE Interceptor", computer, Town, airplane
-0 KEYWORDS radio, mike, microphone, radar, console, dials, buttons, lights
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !KEYWORDS "Star Wars", Space, "TIE Interceptor", computer, Town, airplane
+0 !KEYWORDS radio, mike, microphone, radar, console, dials, buttons, lights
+
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 4 16 -15.8 16.4756 -26.4756 -16.7 16.122 -26.122 -15.7 15.5563 -25.5563 -15.1 15.9099 -25.9099

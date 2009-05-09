@@ -1,10 +1,14 @@
-0 Minifig Sword Katana Grip Segment
+0 ~Minifig Sword Katana Grip Segment
 0 Name: s\30173s01.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 Official LCAD Subpart - 2000-02 Update
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 outer cylinder
-0
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // outer cylinder
   4  16  4.000  0.75  0.000  3.696  1.50  1.531  3.696  3.00  1.531  4.000  3.00  0.000
   4  16  3.696  1.50  1.531  2.828  2.25  2.828  2.828  3.00  2.828  3.696  3.00  1.531
   3  16  2.828  2.25  2.828  1.531  3.00  3.696  2.828  3.00  2.828

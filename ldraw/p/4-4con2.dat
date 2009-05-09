@@ -1,10 +1,15 @@
 0 Cone  2 x 1.0
 0 Name: 4-4con2.dat
-0 Author: John Riley
-0 LDRAW_ORG Primitive UPDATE 2004-01
- 
+0 Author: John Riley [jriley]
+0 !LDRAW_ORG Primitive UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
 0 BFC CERTIFY CW
- 
+
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 4 16 2 1 0 3 0 0 2.7717 0 1.1481 1.8478 1 .7654
 4 16 1.8478 1 .7654 2.7717 0 1.1481 2.1213 0 2.1213 1.4142 1 1.4142
 4 16 1.4142 1 1.4142 2.1213 0 2.1213 1.1481 0 2.7717 .7654 1 1.8478

@@ -1,9 +1,14 @@
 0 ~Technic Differential Gear
 0 Name: 206b.dat
 0 Author: James Jessiman
-0 Original LDraw Part - 2000-02 Update
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2000-Aug Axel Poque, Manfred Moolhuysen - fixes to resolve L3P error messages
+0 !HISTORY 2000-08-01 {Axel Poque} fixes to resolve L3P error messages
+0 !HISTORY 2000-08-01 {Manfred Moolhuysen} fixes to resolve L3P error messages
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-05-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 37.99 1.07 17 37.99 1.07 25
  2 24 37.99 -1.07 17 37.99 -1.07 25

@@ -1,12 +1,14 @@
-0 Hose Flexible 12L (Complete)
+0 Hose Flexible 12L
 0 Name: 758c01.dat
-0 Author: Steve Bliss
-0 LDRAW_ORG Shortcut UPDATE 2004-01
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Shortcut UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // Note: This part is cast in a single mold, so it's unlikely that TLC has 
-0 // ID numbers for the individual sections.
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-12-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1  8 0  0 0 1 0 0 0 1 0 0 0 1 757.dat
 1 16 0 16 0 1 0 0 0 1 0 0 0 1 759.dat

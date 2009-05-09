@@ -1,11 +1,15 @@
-0 ~Fabuland Wheel Type II
+0 ~Fabuland Wheel Type 2
 0 Name: 683.dat
-0 Author: Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2003-02
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC NOCERTIFY
 
-0 TE 2002-12-08 Fixed primitive reference
+0 !HISTORY 2002-12-08 [simlego] Fixed primitive reference
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16  0 0 0 0 0 0 24 0 0 0 0 24 4-4edge.dat
 1 16  0 0 0 0 0 0 20 0 0 0 0 20 4-4edge.dat

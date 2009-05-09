@@ -1,7 +1,12 @@
-0 ~Subpart for 4186p01; Row of 48 studs w/o tops
-0 Name: 4186p01a.dat
-0 Author: Steve Bliss
-0 Official LCad update 98-10
+0 ~Row of 48 studs without tops
+0 Name: s\4186p01a.dat
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Subpart UPDATE 1998-10
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10
+0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 -470 6 0 0 0 0 0 0 0 6 4-4edge.dat
 1 16 0 -4 -470 6 0 0 0 0 0 0 0 6 4-4edge.dat

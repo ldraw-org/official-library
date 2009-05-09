@@ -1,7 +1,12 @@
 0 Grab Jaw Holder with Handle
 0 Name: 30198.dat
-0 Author: Martyn Boogaarts from parts by James Jessiman, Remco Braak
-0 Official LCad update 98-09
+0 Author: Martyn Boogaarts
+0 !LDRAW_ORG Part UPDATE 1998-09
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 10 10 7 10 -10 7 -10 -10 7 -10 10 7
 2 24 10 5 7 10 10 7

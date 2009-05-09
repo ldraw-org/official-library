@@ -1,9 +1,14 @@
 0 Bar 12L with Hollow Studs, Towball, and Slit
 0 Name: 476.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Part UPDATE 2002-02
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Town, Paradisa, Time Twisters, Pirates, sailboard mast
+0 !KEYWORDS Town, Paradisa, Time Twisters, Pirates, sailboard mast
+
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 -10 0 4 0 0 0 20 0 0 0 4 4-4cyli.dat
  1 16 0 -10 0 2 0 0 0 1 0 0 0 2 ring2.dat

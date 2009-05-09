@@ -1,12 +1,16 @@
 0 Brick  1 x  2 x  5 with SW Han Solo Carbonite Pattern
 0 Name: 2454ps5.dat
-0 Author: Thomas Burger (tburger34@aol.com)
-0 Unnofficial Element 
-0 LDRAW_ORG Part UPDATE 2003-02
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Part UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c0
-0 KEYWORDS Star Wars, Boba Fett, Slave 1, Set 7144 
-0 KEYWORDS Bespin, Cloud City, suspended animation, deep freeze, cold sleep 
+0 !KEYWORDS Star Wars, Boba Fett, Slave 1, Set 7144 
+0 !KEYWORDS Bespin, Cloud City, suspended animation, deep freeze, cold sleep 
+0 !CMDLINE -c0
+
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-05-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2454s01.DAT
  1 383 0 60 0 1 0 0 0 1 0 0 0 1 s\2454ps5a.dat

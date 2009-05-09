@@ -1,7 +1,12 @@
 0 Flag on Flagpole with Stripes Pattern
-0 Name : 3596p01.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 Official LCad update 98-07
+0 Name: 3596p01.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 1998-07
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 24 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
  1 16 0 24 0 8 0 0 0 0 0 0 0 8 4-4edge.dat

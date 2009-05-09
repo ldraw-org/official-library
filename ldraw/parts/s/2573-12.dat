@@ -1,11 +1,14 @@
-0 Space Wheel Giant  1/12 Segment
+0 ~Space Wheel Giant  1/12 Segment
 0 Name: s\2573-12.dat
-0 Author: John VanZwieten (Based on Steve Bliss' 25931)
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2002-01-15 SEB Fixed bad line
-
-0 tread sector A
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 2002-01-15 [sbliss] Fixed bad line
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 -9.486 -94.739 -9.063 -53.754 -90.435 -8.652
  2 24 -53.754 -90.435 -8.652 -57.707 -89.31 -9.063

@@ -1,10 +1,15 @@
 0 Train Track Crossing - 4.5 V
 0 Name: 3231.dat
-0 Author: Tore Eriksson
-0 Official LCad update 99-03
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 1999-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Blue variant 1965-1975 (?)
+0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Blue variant 1965-1975 (?)
 2 24 60 8 60 60 16 60 
  2 24 -60 8 60 -60 16 60 
  2 24 60 8 -60 60 16 -60 

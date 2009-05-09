@@ -1,12 +1,15 @@
 0 Window  1 x  2 x  2 & 2/3 Pane Lattice Diamond with Rounded Top
 0 Name: 30046.dat
-0 Author: Adam B. Howard
-0 LDRAW_ORG Part UPDATE 2002-04
+0 Author: Adam Howard [Whist]
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CW Quads
-
-0 ???????? ABH Adjusted to fit changes in 30044 for gap fix.
-0 2002-5-6 ABH Removed duplicate line.
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2002-05-01 [Whist] Adjusted to fit changes in 30044 for gap fix.
+0 !HISTORY 2002-05-06 [Whist] Removed duplicate line.
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 16 32 -3 12 28 -3 12 -8 -3 16 -8 -3
 4 16 12 28 3 16 32 3 16 -8 3 12 -8 3

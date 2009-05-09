@@ -1,17 +1,16 @@
 0 Technic Brick  4 x  6 with Open Center  2 x  4
 0 Name: 40344.dat
-0 Author: Chris Dee
-0 LDRAW_ORG Part UPDATE 2004-04
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part Alias UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 BFC CERTIFY CCW 
+0 BFC CERTIFY CCW
 
-0 // Part 40344 is a counterpart of 32531.  Visually, the two parts seem
-0 // identical, and some parts have both numbers imprinted.  This file is 
-0 // provided to make it easier to locate part files when using the numbers 
-0 // imprinted on the actual parts.
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-
-
+0 // Alias of 32531
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 32531.dat
 0

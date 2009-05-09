@@ -1,12 +1,15 @@
 0 Baseplate 16 x 16
 0 Name: 3867.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
-0 LDRAW_ORG Part UPDATE 2005-01
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
 0 BFC CERTIFY CCW
 
-0 // 2005-08-29 Dean Earley: BFC'd, fixed errors, and used stud groups
-
+0 !HISTORY 2005-08-29 [DeanEarley] BFC'd, fixed errors, and used stud groups
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 80 0 80 1 0 0 0 1 0 0 0 1 stug8.dat
 1 16 -80 0 80 1 0 0 0 1 0 0 0 1 stug8.dat

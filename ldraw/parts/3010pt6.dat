@@ -1,16 +1,17 @@
 0 Brick  1 x  4 with White "TRANSPORT" Stencil Pattern
 0 Name: 3010pt6.dat
-0 Author: Jan Folkersma
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Jan Folkersma [Stinky]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2003-06-27  Steffen  horizontally centered pattern, re-worked part to use
-0 //                      s\3010s01.dat, BFCed
-0 // 2004-12-08  CWD      Further qualify description
-
-
-
+0 !HISTORY 2003-06-27 [Steffen] horizontally centered pattern, re-worked part to use s\3010s01.dat, BFCed
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2004-12-08 [cwdee] Further qualify description
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 

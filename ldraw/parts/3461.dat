@@ -1,12 +1,15 @@
 0 Propellor  4 Blade  5 Diameter with Rotor Holder
 0 Name: 3461.dat
-0 Author: Christian M. Angele (c.m.angele@t-online.de)
-0 Official LCad Part 2000-01
+0 Author: Christian M. Angele [cma_1971]
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2000-01-08 SEB Restored file 3464.dat to correct number.
-0 release: 19971130
-0
-0 center
+0 !HISTORY 2000-01-08 [sbliss] Restored file 3464.dat to correct number.
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // center
  4 16 7.50 -4 0 6.93 -4 2.87 10 -4 0 9.24 -4 3.83 
  4 16 6.93 -4 2.87 5.30 -4 5.30 9.24 -4 3.83 7.07 -4 7.07 
  4 16 5.30 -4 5.30 2.87 -4 6.93 7.07 -4 7.07 3.83 -4 9.24 

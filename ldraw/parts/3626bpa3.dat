@@ -1,14 +1,18 @@
 0 Minifig Head with Smirk & Black Moustache Pattern
 0 Name: 3626bpa3.dat
-0 Author: George Barnes <glbarnes@gdi.net>
-0 LDRAW_ORG Part UPDATE 2002-04
+0 Author: George Barnes [glbarnes]
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c14
-0 KEYWORDS face, grin, smirk, moustache, sideburns, Johnny Thunder
-0 KEYWORDS Adventurers, Egypt, Amazon, Dino Island, Johny Thunder, hero
 0 BFC NOCERTIFY
+0 !KEYWORDS face, grin, smirk, moustache, sideburns, Johnny Thunder
+0 !KEYWORDS Adventurers, Egypt, Amazon, Dino Island, Johny Thunder, hero
+0 !CMDLINE -c14
 
-0 2002-06-12 FWC Added CMDLINE, KEYWORDS, and type-5 conditional lines...  
+0 !HISTORY 2002-06-12 [fwcain] Added CMDLINE, KEYWORDS, and type-5 conditional lines...  
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs01.dat
 1 0 -3.3347 10.8 -12.3367 1.3241 -0.2634 0 0 0 1.35 -0.2634 -1.3241 0 4-4disc.dat

@@ -1,8 +1,13 @@
 0 Panel  1 x  4 x  3 Left with Blue Stripe Pattern
 0 Name: 4215ap06.dat
 0 Author: Kevin M Bane
-0 LDRAW_ORG Part UPDATE 2002-05
-0 2001-Dec-02 BB Replaced non-decorated portion with reference to s\4215as01.dat
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Not redistributable : see NonCAreadme.txt
+
+0 !HISTORY 2001-12-02 [bbroich] Replaced non-decorated portion with reference to s\4215as01.dat
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4215as01.DAT
 

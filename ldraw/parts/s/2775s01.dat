@@ -1,10 +1,14 @@
-0 Electric Plug Pin Type 1
+0 ~Electric Plug Pin Type 1
 0 Name: s\2775s01.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Subpart UPDATE 2002-05
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Subpart UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 For use in 2775.dat Electric Plug Wide (place at {17.5 0 14} {-17.5 0 14} )
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // For use in 2775.dat Electric Plug Wide (place at {17.5 0 14} {-17.5 0 14} )
 
 1 16 0 0 -12 2.5 0 0 0 0 -2.5 0 1 0 4-4disc.dat
 1 16 0 0 -12 2.5 0 0 0 0 -2.5 0 1 0 4-4edge.dat

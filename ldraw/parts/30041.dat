@@ -1,11 +1,15 @@
 0 Plate  6 x  8 Trap Door Frame
 0 Name: 30041.dat
-0 Author: Paul Easter
-0 Official LCAD Part - 2000-02 Update
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Plate
-0 KEYWORDS Pirates, Adventurers, Ninja, Western, Wild West, trick
-0
+0 !KEYWORDS Pirates, Adventurers, Ninja, Western, Wild West, trick
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 4 16 76 4 56 64 4 44 -64 4 44 -76 4 56
 4 16 -76 4 56 -64 4 44 -64 4 -44 -76 4 -56
 4 16 -76 4 -56 -64 4 -44 64 4 -44 76 4 -56

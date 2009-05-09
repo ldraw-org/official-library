@@ -1,20 +1,24 @@
 0 Minifig Gun Revolver
 0 Name: 30132.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 Official LCAD Part - 2000-02 Update
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS weapon, firearm, pistol, western, wild west
+0 !KEYWORDS cowboy, six-gun, six-shooter, colt .45, equalizer, peacemaker
+0 !KEYWORDS cavalry, indian, injun
+0 !KEYWORDS adventurers
 
-0 KEYWORDS weapon, firearm, pistol, western, wild west
-0 KEYWORDS cowboy, six-gun, six-shooter, colt .45, equalizer, peacemaker
-0 KEYWORDS cavalry, indian, injun
-0 KEYWORDS adventurers
-0
-0 . Please note that I measured the angle between the grip
-0 . and the rest of the pistol as 60 (120) degrees.
-0
-0 grip
-0
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Please note that I measured the angle between the grip
+0 // and the rest of the pistol as 60 (120) degrees.
+
+0 // grip
+
 1 16 0 0 0 4 0 0 0 -6 0 0 0 4 4-4cyli.dat
 1 16 0 0 0 4 0 0 0 6 0 0 0 4 4-4cyli.dat
 1 16 0 -6 0 4 0 0 0 1 0 0 0 4 4-4edge.dat

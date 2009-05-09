@@ -1,15 +1,15 @@
 0 Window  1 x  2 x  2 Shutter
 0 Name: 3582.dat
-0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2001-12-19 Marcel Peeters Replaced lines with ridges
-0 // 2002-10-17 Willy Tschager rewrote part; deleted floating edges;
-0 //            added missing edges on ridges; made BFC compliant
-
+0 !HISTORY 2002-10-17 [Holly-Wood] rewrote part; deleted floating edges; added missing edges on ridges; made BFC compliant
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-10-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 2 48 -4 -2 48 -4
 2 24 -2 48 -4 -2 48 -30

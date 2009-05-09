@@ -1,17 +1,21 @@
 0 Plate  1 x  4 Offset
 0 Name: 4590.dat
 0 Author: James Jessiman
-0 LDRAW_ORG Part UPDATE 2004-02
-
-0 // Note: One or more STUD references in this file have been purposely
-0 // capitalized to ensure that the stud is fully visible in LEdit
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2003-06-30  Steffen  BFCed, converted several quads to ring primitives,
-0 //                      fixed two quads that did not fit to their bounding edges
-0 // 2003-12-02  Steffen  fixed 2 very tiny BFC errors (wrongly oriented 1-4ndiscs)
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2003-06-30 [Steffen] BFCed, converted several quads to ring primitives, fixed two quads that did not fit to their bounding edges
+0 !HISTORY 2003-12-02 [Steffen] fixed 2 very tiny BFC errors (wrongly oriented 1-4ndiscs)
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // One or more STUD references in this file have been purposely
+0 // capitalized to ensure that the stud is fully visible in LEdit.
 1 16 -30 12 10 1 0 0 0 -1 0 0 0 -1 STUD4a.dat
 1 16 30 12 10 1 0 0 0 -1 0 0 0 -1 STUD4a.dat
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat

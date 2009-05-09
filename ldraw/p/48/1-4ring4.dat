@@ -1,12 +1,15 @@
 0 Hi-Res Ring  4 x 0.25
 0 Name: 48\1-4ring4.dat
 0 Author: Sascha Broich
-0 LDRAW_ORG Primitive UPDATE 2002-02
-
-0 2002-03-14 SEB Layout cleanup, apply BFC
-
+0 !LDRAW_ORG 48_Primitive UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
+0 !HISTORY 2002-03-14 [sbliss] Layout cleanup, apply BFC
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 4 0 0 3.9658 0 0.5221 4.9572 0 0.6526 5 0 0
 4 16 3.9658 0 0.5221 3.8637 0 1.0353 4.8296 0 1.2941 4.9572 0 0.6526

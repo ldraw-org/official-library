@@ -1,7 +1,13 @@
 0 Propellor  2 Blade  5.5 Diameter
 0 Name: 4745.dat
-0 Author: Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2001-01
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2001-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-05-21 [PTadmin] Official Update 1998-05
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -3.04 0 7.36 -3.04 4 7.36
 2 24 -7.36 0 3.04 -7.36 4 3.04

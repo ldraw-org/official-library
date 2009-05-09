@@ -1,10 +1,14 @@
-0 ~Subpart Medium Space Wheel,  1/12
-0 Name: 25931-12.dat
-0 Author: Steve Bliss
-0 Place in \ldraw\parts\s directory
-0 Official LCad update 98-07
+0 ~Medium Space Wheel,  1/12
+0 Name: s\25931-12.dat
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Subpart UPDATE 1998-07
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 tread sector A
+0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
+0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // tread sector A
 2 24  -6.17 -43.57  2    -4.19 -43.8 6
 2 24  -4.19 -43.8   6    -4    -41.81 34
 2 24  -4    -41.81 34    -4.19 -41.29 36.5

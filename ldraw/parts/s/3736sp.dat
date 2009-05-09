@@ -1,9 +1,12 @@
 0 ~Technic Pulley Large Fillet Subpart
 0 Name: s\3736sp.dat
-0 Author: Marc Klein
-0 Official LCAD Subpart - 2000-02 Update
+0 Author: Marc Klein [marckl]
+0 !LDRAW_ORG Subpart UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Created with stl2dat conversion tool
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 3 16 30 -7.993 1.237 31.14 -7.728 2.022 30 -7.998 1.119
 3 16 30 -7.998 1.119 31.14 -7.728 2.022 33.91 -7.791 2.051

@@ -1,7 +1,12 @@
-0 ~Subpart for Mindstorms RCX Letter
-0 Name: letCa.dat
-0 Author: John VanZwieten
-0 Official LCad update 99-02
+0 ~Mindstorms RCX Letter "C"
+0 Name: s\letca.dat
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Subpart UPDATE 1999-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 5.45 7.05 -10 4.036 8.465 -10 2.414 7.38 -10 3.179 5.533 -10
  4 16 3.179 5.533 -10 2.414 7.38 -10 0.5 7 -10 0.5 5 -10

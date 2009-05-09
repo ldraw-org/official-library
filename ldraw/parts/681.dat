@@ -1,13 +1,15 @@
-0 Technic Tread Segment Transition
+0 ~Technic Tread Segment Transition
 0 Name: 681.dat
-0 Author: Marc Klein
-0 Official LCAD Part - 2000-02 Update
+0 Author: Marc Klein [marckl]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Created with stl2dat conversion tool
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-10-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 This segment provides a transition from a straight section of tread
-0 to a curved section.
-
+0 // This segment provides a transition from a straight section of tread
+0 // to a curved section.
 4 16 1.5 27 25 -1.5 27 25 -1.5 31 25 1.5 31 25
 3 16 -1.5 31 25 1.5 31 25 10 33 25
 4 16 -5.59 30.5 25 -7.52 32.1 25 10 33 25 -1.5 31 25

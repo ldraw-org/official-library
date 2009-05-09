@@ -1,13 +1,17 @@
 0 Minifig Torso with SW Jedi Robes and Sash Pattern
 0 Name: 973ps2.dat
-0 Author: Matt Schild (phydeaux@sisna.com)
-0 LDRAW_ORG Part UPDATE 2002-03
+0 Author: Matt Schild [mschild]
+0 !LDRAW_ORG Part UPDATE 2002-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS "Star Wars", "classic trilogy", "Luke Skywalker", Return of the Jedi
-0 CMDLINE -c0
+0 !KEYWORDS Star Wars, classic trilogy, Luke Skywalker, Return of the Jedi
+0 !CMDLINE -c0
 
-0 2002-04-02 FWC added keywords; convert to color-16; added neck-mark...
-0 2002-05-27 MS fixed overlaps
+0 !HISTORY 2002-04-02 [fwcain] added keywords; convert to color-16; added neck-mark...
+0 !HISTORY 2002-05-27 [mschild] fixed overlaps
+0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

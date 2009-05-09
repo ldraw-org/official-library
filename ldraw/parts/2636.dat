@@ -1,7 +1,12 @@
 0 Crane Harbour Derrick 16
 0 Name: 2636.dat
-0 Author: Luis E. Fernandez (Lfernand@super.zippo.com)
-0 Official LCad update 98-02
+0 Author: Luis E. Fernandez [lfernand]
+0 !LDRAW_ORG Part UPDATE 1998-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
+0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 -10 -150 0 0 0 -10 0 0 0 0 -10 2-4EDGE.DAT
  1 16 -10 -10 -150 0 0 0 -10 0 0 0 0 -10 2-4EDGE.DAT

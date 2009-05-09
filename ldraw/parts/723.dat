@@ -1,12 +1,16 @@
 0 Streetlight Old
 0 Name: 723.dat
-0 Author: Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 FROMSET 233
-0 CMDLINE -c383
 0 BFC NOCERTIFY
-0 KEYWORDS classic, h0 scale
+0 !KEYWORDS classic, h0 scale
+0 !CMDLINE -c383
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -3.93182 -25 -4.81818 3.93182 -25 -4.81818
 2 24 -3.89286 -29 -4.71429 3.89286 -29 -4.71429

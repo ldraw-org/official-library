@@ -1,12 +1,17 @@
 0 Minifig Helmet Visor Space
 0 Name: 769.dat
-0 Author: Donald Sutter
-0 LDRAW_ORG Part UPDATE 2004-01
+0 Author: Donald Sutter [technog]
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 CATEGORY Minifig Accessory
-0 KEYWORDS Apollo, astronaut, space shuttle, Space Port, Launch Command, dome
-0 CMDLINE -c334
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Apollo, astronaut, space shuttle, Space Port, Launch Command, dome
+0 !CMDLINE -c334
+
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 12 -3 0 0 1 0.44 -1 0 -1 0 0 1-4rin15.dat
 1 16 0 12 -3 0 0 1 0.44 -1 0 -1 0 0 1-4rin16.dat
@@ -41,20 +46,20 @@
 1 16 0 12 -3 0 0 -17 0 7.5 0 17 0 0 1-4cyls2.dat
 1 16 0 5 -3 0 0 17 -17 0 0 0 6.7 0 1-4cyls.dat
 1 16 0 5 -3 0 0 -17 -17 0 0 0 6.7 0 1-4cyls.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 5 -3 15 0 0 0 7 0 0 0 -15 2-4CYLI.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 12 -3 0 0 15 0 6.6 0 15 0 0 1-4cyls2.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 12 -3 0 0 -15 0 6.6 0 15 0 0 1-4cyls2.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 5 -3 -15 0 0 0 -15 0 0 0 -15 2-8sphe.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 5 -3 -15 0 0 0 0 -15 0 0.7 0 2-4CYLI.dat
 1 16 0 5 -3 -17 0 0 0 -17 0 0 0 -17 2-8sphe.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 5 -2.3 0 0 15 -15 0 0 0 6 0 1-4cyls.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 5 -2.3 0 0 -15 -15 0 0 0 6 0 1-4cyls.dat
 4 16 -15 6.5 0 -15 10.195 1.531 -15 12 -3 -15 5 -3
 4 16 15 6.5 0 15 5 -3 15 12 -3 15 10.195 1.531

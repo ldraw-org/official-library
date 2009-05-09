@@ -1,8 +1,14 @@
 0 Space Nose with Black/Silver "V" Pattern
 0 Name: 2336p35.dat
-0 Author: James Jackson <jejackso@memphis.edu>
-0 Based off the work of: Howard Lande <howard.lande@t-online.de>
-0 LDRAW_ORG Part UPDATE 2002-01
+0 Author: James Jackson
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Not redistributable : see NonCAreadme.txt
+
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Based off the work of: Howard Lande <howard.lande@t-online.de>
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2336s01.dat
 

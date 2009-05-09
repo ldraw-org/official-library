@@ -1,10 +1,15 @@
 0 Minifig Crossbow
 0 Name: 2570.dat
-0 Author: Adam Howard
-0 Author: Jonathan Wilson
-0 Official LCad Part 2000-01
-0 CW Quads
+0 Author: Adam Howard [Whist]
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
+0 !HISTORY 2000-05-06 [jonwil] Additional primary author
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // CW Quads
 2 24 4 -13 24 4 -13 -31
 2 24 4 -13 -31 1 -13 -31
 2 24 1 -13 -31 1 -13 -4

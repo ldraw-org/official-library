@@ -1,10 +1,13 @@
 0 Tile  1 x  1 with Computer Display Pattern
 0 Name: 3070bpc2.dat
-0 Author: Jaco van der Molen
-0 Author: Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2002-01
+0 Author: Jaco van der Molen [Jaco]
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 20010918 KB Converted to Groove
+0 !HISTORY 2001-09-18 {Kevin Bane} Converted to Groove
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-12-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
 

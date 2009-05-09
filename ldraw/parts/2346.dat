@@ -1,7 +1,11 @@
 0 Tyre Medium
 0 Name: 2346.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 !LDRAW_ORG Part ORIGINAL
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 0.0000 20.0000 10 3.1287 19.7538 10
  2 24 3.1287 19.7538 10 6.1803 19.0211 10 

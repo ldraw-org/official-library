@@ -1,19 +1,19 @@
 0 ~Slope Brick 75  2 x  2 x  3 without Front and Back Surfaces
 0 Name: s\3684s01.dat
-0 Author: James Jessiman
-0 Author: Franklin Cain, file prep
-0 LDRAW_ORG Subpart UPDATE 2004-03
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2004-01-31 OWP Fixed error in BFC, Fixed L3P errors
+0 !HISTORY 2004-01-31 [OrionP] Fixed error in BFC, Fixed L3P errors
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 // un-comment for front and back faces...
 0 // 4 16 20 0 -10 -20 0 -10 -20 68 -30 20 68 -30
 0 // 4 16 20 72 10 -20 72 10 -20 0 10 20 0 10
-
-
-
 
 1 16 0 4 -10 0 0 6 0 1 0 6 0 0  1-8edge.dat
 

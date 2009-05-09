@@ -1,8 +1,13 @@
 0 Brick  2 x  2 x  3 with Green Dots Pattern
 0 Name: 30145p02.dat
-0 Author: pattern by damien.guichard@wanadoo.fr
-0 LDRAW_ORG Part UPDATE 2002-04
-0
+0 Author: Damien Guichard [BrickCaster]
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 1 16 0 4 0 1 0 0 0 -17 0 0 0 1 stud4.dat
 1 16 12 4 0 4 0 0 0 44 0 0 0 1 box5.dat
 1 16 -12 4 0 4 0 0 0 44 0 0 0 1 box5.dat

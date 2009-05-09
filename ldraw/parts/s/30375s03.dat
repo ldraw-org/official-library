@@ -1,12 +1,15 @@
-0 Minifig Mechanical Torso - Ribs
+0 ~Minifig Mechanical Torso - Ribs
 0 Name: s\30375s03.dat
-0 Author: Nathan Wright, original DAT code
-0 LDRAW_ORG Subpart UPDATE 2002-05
+0 Author: Nathan Wright
+0 !LDRAW_ORG Subpart UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC NOCERTIFY
 
-0 2002-Sep-04 OWP Roughly fixed a problem with the struts
-
+0 !HISTORY 2002-09-04 [OrionP] Roughly fixed a problem with the struts
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -6 -25 -8.5 -6 -29 -7.75 -11.5 -29 -7.75 -11.5 -25 -8.5
 4 16 6 -25 -8.5 6 -29 -7.75 11.5 -29 -7.75 11.5 -25 -8.5

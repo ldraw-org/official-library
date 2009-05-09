@@ -1,12 +1,15 @@
 0 Bush Lock 4
 0 Name: bushloc4.dat
 0 Author: James Jessiman
-0 Original LDraw Primitive
-0 LDRAW_ORG Primitive UPDATE 2003-02
+0 !LDRAW_ORG Primitive UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 2002-08-31 ZAN Modified with WINDZ for BFC compliance
+0 !HISTORY 2002-08-31 [izanette] Modified with WINDZ for BFC compliance
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 8.00 2.00 0.00 8.00 0.00 0.00
  2 24 8.00 0.00 0.00 7.85 0.00 -1.56

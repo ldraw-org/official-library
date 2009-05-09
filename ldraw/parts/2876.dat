@@ -1,7 +1,12 @@
 0 Train Roof  6 x  6 Double Slope 45 / Slope 33
-0 name 2876.dat
-0 Created by Lutz Uhlmann
-0 Official LCad update 97-01
+0 Name: 2876.dat
+0 Author: Lutz Uhlmann
+0 !LDRAW_ORG Part UPDATE 1997-15
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
+0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 50 20 -20 1 0 0 0 -1 0 0 0 1 stud3a.dat
  1 16 50 14 -20 4 0 0 4 0 0 0 0 4 4-4edge.dat

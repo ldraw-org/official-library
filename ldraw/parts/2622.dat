@@ -1,14 +1,19 @@
 0 Boat Base  8 x 10 
 0 Name: 2622.dat
-0 Author: Chris Alano (calano@yahoo.com)
-0 Official LCAD Part - 2000-02 Update
-0 
-0 CATEGORY Boat
-0 KEYWORDS delta wedge bow inverted slope
-0
-0 Made from Jeff "Auld Dragon" Stembel's 2623.dat (Boat Top 8x10)
-0 (thanks for hashing out the major vertices)
-0 Outer perimiter
+0 Author: Chris Alano 
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
+
+0 !KEYWORDS delta, wedge, bow, inverted slope
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Made from Jeff "Auld Dragon" Stembel's 2623.dat (Boat Top 8x10)
+0 // (thanks for hashing out the major vertices)
+0 // Outer perimiter
+
 2 24 100 24 80 80 24 20
 2 24 80 24 20 52 24 -24
 2 24 52 24 -24 20 24 -60

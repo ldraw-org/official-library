@@ -1,9 +1,14 @@
-0 Animal Horse Head Harness
+0 ~Animal Horse Head Harness
 0 Name: s\4492b2.dat
 0 Author: Sascha Broich
-0 LDRAW_ORG Subpart UPDATE 2002-02
+0 !LDRAW_ORG Subpart UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 muzzle strap
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // muzzle strap
 4 16 8.112 -43 -48.834 8.244 -42 -50.520 8.466 -39.5 -51.468 8.286 -41.688 -48.042
 3 16 8.244 -42 -50.520 8.379 -41 -52.249 8.466 -39.5 -51.468   
 4 16 8.286 -41.688 -48.042 8.415 -40.375 -47.251 8.553 -38 -50.686 8.466 -39.5 -51.468

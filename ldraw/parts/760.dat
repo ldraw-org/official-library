@@ -1,17 +1,19 @@
 0 ~Hose Flexible 12L Base  1 x  1 x   2/3
 0 Name: 760.dat
-0 Author: Steve Bliss
-0 LDRAW_ORG Part UPDATE 2004-01
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS gizmo, hose, flexible, minifig, space, tube, end, tabs, cap
-0 KEYWORDS Star Wars, Studio, Life on Mars
 0 BFC CERTIFY CCW
+0 !KEYWORDS gizmo, hose, flexible, minifig, space, tube, end, tabs, cap
+0 !KEYWORDS Star Wars, Studio, Life on Mars
 
-0 // This file forms one end of a flexible hose.  See 758c01.dat for a complete 
-0 // hose.
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-12-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 // Note: One or more STUD references in this file have been purposely 
-0 // capitalized to ensure that the stud is fully visible in LEdit/
+0 // Note: One or more STUD references in this file have been purposely
+0 // capitalized to ensure that the stud is fully visible in LEdit.
 
 1 16 0 8 0 -1 0 0 0 -2 0 0 0 1 STUD4A.DAT
 1 16 0 8 0 2 0 0 0 -1 0 0 0 2 ring2.dat

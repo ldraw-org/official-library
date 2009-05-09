@@ -1,7 +1,12 @@
 0 ~Minifig Torso with RES-Q Orange Pockets - Orange Detail
 0 Name: s\973p8ba.dat
-0 Author: Thomas Burger (tburger34@aol.com)
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 -6.1 23.3 -10 -7.5 22.5 -10 -12.9 30 -10 -11.6 30.9 -10
  4 16 -14.8 28.7 -10 -9.3 21 -10 -10.7 20.3 -10 -16.2 27.8 -10

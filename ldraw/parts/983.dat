@@ -1,42 +1,46 @@
 0 Minifig Hand
 0 Name: 983.dat
-0 Author: Orion Pobursky
-0 LDRAW_ORG Part UPDATE 2002-06
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Part UPDATE 2002-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP The Hand angle is 14.5 degrees
+0 !HELP To rotate the hand to 90 degrees horizontal use the following rotation
+0 !HELP matrix: 1 0 0 0 0.968148 0.25038 0 -0.25038 0.968148
+0 !HELP After the rotation matrix is applied:
+0 !HELP The center of the bottom of the hand will be x, y+2.2259, z-9.3739
+0 !HELP The center of the top of the hand will be x, y-9.7741, z-9.3739
+0 !HELP where x, y, and z are the origin coordinates of the part
+0 !HELP Example: for the following DAT line:
+0 !HELP 1 16 1 1 1 1 0 0 0 0.968148 0.25038 0 -0.25038 0.968148 x983.dat
+0 !HELP The origin of the part is 1,1,1
+0 !HELP The center of the bottom of the hand is 1, 3.2259, -8.3739
 
 0 BFC CERTIFY CCW
 
-0 The Hand angle is 14.5 degrees
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 To rotate the hand to 90 degrees horizontal use the following rotation
-0 matrix: 1 0 0 0 0.968148 0.25038 0 -0.25038 0.968148
-0 After the rotation matrix is applied:
-0 The center of the bottom of the hand will be x, y+2.2259, z-9.3739
-0 The center of the top of the hand will be x, y-9.7741, z-9.3739
-0 where x, y, and z are the origin coordinates of the part
+0 // Post
 
-0 Example
-0 For the following DAT line:
-0 1 16 1 1 1 1 0 0 0 0.968148 0.25038 0 -0.25038 0.968148 x983.dat
-0 The origin of the part is 1,1,1
-0 The center of the bottom of the hand is 1, 3.2259, -8.3739
-
-0 Post
 1 16 0 0 0 2.5 0 0 0 0 -2.5 0 13 0 4-4cyli.dat
 1 16 0 0 13 2.5 0 0 0 0 -2.5 0 16 0 4-4edge.dat
 1 16 0 0 0 2.5 0 0 0 0 -2.5 0 16 0 4-4edge.dat
 
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 0 13 2.5 0 0 0 0 -2.5 0 16 0 4-4disc.dat
 
 0 Hand
 1 16 0 4.502 -8.518 -6 0 0 0 -11.6178 -1.5023 0 -3.0046 5.8089 2-4cyli.dat
 
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 4.502 -8.518 -4 0 0 0 -11.6178 -1.0015 0 -3.0046 3.8726 2-4cyli.dat
 
 1 16 0 4.502 -8.518 -2 0 0 0 -0.9681 -0.5008 0 -0.2504 1.9363 2-4ring2.dat
 
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 -7.116 -11.522 -2 0 0 0 -0.9681 -0.5008 0 -0.2504 1.9363 2-4ring2.dat
 
 1 16 0 -7.116 -11.522 -4.2426 0 -4.2426 1.0623 -0.9681 -1.0623 -4.1075 -0.2504 4.1075 3-4edge.dat

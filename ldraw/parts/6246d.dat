@@ -1,20 +1,25 @@
 0 Minifig Tool Box Wrench
 0 Name: 6246d.dat
-0 Author: Steve Bliss
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 CATEGORY Minifig Accessory
-0 KEYWORDS Town, Space, Star Wars, closed-end wrench, toolbox
-0 KEYWORDS mechanic, engine, engineering, garage
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Town, Space, Star Wars, closed-end wrench, toolbox
+0 !KEYWORDS mechanic, engine, engineering, garage
 
-0 // 1999-08-19  SEB      changed 4-4con12.dat to 4-4con1.dat
-0 // 2003-06-22  Steffen  added 2 ring primitives to remove rendering artifacts,
-0 //                      removed 1 duplicate line, fixed null matrices, BFCed.
-0 // 2003-07-28  Steffen  fixed orientation of 4-4ring8 primitives: the
-0 //                      primitive's BFC orientation has changed!
-0 // 2003-11-25  OWP      added ridges
-0 // 2003-11-26  FWC      added more keywords
+0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 1999-08-19 [sbliss] changed 4-4con12.dat to 4-4con1.dat
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2003-06-22 [Steffen] added 2 ring primitives to remove rendering artifacts, removed 1 duplicate line, fixed null matrices, BFCed.
+0 !HISTORY 2003-07-28 [Steffen] fixed orientation of 4-4ring8 primitives: the primitive's BFC orientation has changed!
+0 !HISTORY 2003-11-25 [OrionP] added ridges
+0 !HISTORY 2003-11-26 [fwcain] added more keywords
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 48 0 4 0 0 0 4 0 0 0 4 4-4edge.dat
 1 16 0 26 0 4 0 0 0 4 0 0 0 4 4-4edge.dat

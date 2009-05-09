@@ -1,9 +1,16 @@
 0 Electric Train Motor
 0 Name: 590.dat
-0 Author: Thomas Burger
-0 LDRAW_ORG Part UPDATE 2001-01
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Part UPDATE 2001-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2001-05-14 SEB Changed all color 241 to 24, as per J. Wilson comments.
+0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
+0 !HISTORY 1998-01-12 [PTadmin] Official Update 1998-01
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2001-05-14 [sbliss] Changed all color 241 to 24, as per J. Wilson comments.
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -40 24 -100 40 24 -100
 2 24 -40 24 -100 -40 72 -100

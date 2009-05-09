@@ -1,11 +1,14 @@
 0 Plate  1 x  4 with Towball Socket        
-0 name: 3183.dat             
-0 author: (c) Remco Braak 1997 
-0 rbraak@nat.vu.nl              
-0 Official LCad Part 2000-01a
-               
-0 mouth left             
-               
+0 Name: 3183.dat             
+0 Author: Remco Braak 
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 2 24 -11.83 6 -18 -11.83 6 -26
 2 24 -11.83 6 -26 -11.31 8 -27
 2 24 -11.31 8 -27 -10.25 8 -29

@@ -1,12 +1,17 @@
 0 ~Boat Bow 12 x 12 x  5 & 1/3 Hull Outside
 0 Name: 6050.dat
-0 Author: Paul Easter
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS pirate, Pirates, ship, skull, Armada
 0 BFC CERTIFY CCW
+0 !KEYWORDS pirate, Pirates, ship, skull, Armada
 
-0 parts that cross the center
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // parts that cross the center
 1 16 0 116 120 -20 0 0 0 0 12 0 -1 0 rect.dat
 4 16 20 128 120 20 128 80 -20 128 80 -20 128 120
 4 16 20 128 80 20 128 40 -20 128 40 -20 128 80

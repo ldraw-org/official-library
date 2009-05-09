@@ -1,7 +1,13 @@
 0 Technic Gearbox  2 x  4 x  3 & 1/3
 0 Name: 6588.dat
-0 Author: Luis E. Fernandez (lfernand@newsguy.com)
-0 LDRAW_ORG Part UPDATE 2002-01
+0 Author: Luis E. Fernandez [lfernand]
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-04-11 [PTadmin] Official Update 1998-04
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -40 -40 20 -40 40 20
 2 24 -40 40 20 -40 -40 20

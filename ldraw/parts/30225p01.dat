@@ -1,9 +1,15 @@
 0 Baseplate 16 x 16 Driveway with Gray Drive Pattern
 0 Name: 30225p01.dat
-0 Author: Ross Crawford (rcrawford@csi.com)
-0 LDRAW_ORG Part UPDATE 2004-03
+0 Author: Ross Crawford [rosco]
+0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c2
+0 !CMDLINE -c2
+
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 150 0 150 1 0 0 0 1 0 0 0 1 stud.dat
  1 16 130 0 150 1 0 0 0 1 0 0 0 1 stud.dat

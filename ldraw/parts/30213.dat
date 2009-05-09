@@ -1,12 +1,16 @@
 0 Rock  2 x  2 Crystal 3 Point
 0 Name: 30213.dat
-0 Author: Paul Easter, pneaster@aol.com
-0 Official LCad Part 2000-01
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Rock
-0 KEYWORDS crystal, aquazone, rockraiders, rock raiders, spaceport, space port
-0 KEYWORDS underground
-0
+0 !KEYWORDS crystal, aquazone, rockraiders, rock raiders, spaceport, space port
+0 !KEYWORDS underground
+
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 1 16 0 18 0 1.5 0 0 0 3.5 0 0 0 1.5 stud3a.dat
 1 16 0 18 0 1 0 0 0 -1.5 0 0 0 1 stud4a.dat
 1 16 0 18 0 8 0 0 0 1 0 0 0 8 4-4edge.dat

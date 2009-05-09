@@ -1,7 +1,12 @@
-0 ~Subpart Tyre 24 x 43 Technic
-0 Name: 3740a.dat
+0 ~Tyre 24 x 43 Technic
+0 Name: s\3740a.dat
 0 Author: Leonardo Zide
-0 Official LCad update 98-08
+0 !LDRAW_ORG Subpart UPDATE 1998-08
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 85 -5 -30  85 5 -30  102.5 5 -30 102.5 -5 -30
 2 24 85 -5 -30 102.5 -5 -30

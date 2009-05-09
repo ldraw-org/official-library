@@ -1,10 +1,15 @@
 0 Electric Light & Sound Brick  1 x  8 with 3 Front Lights
 0 Name: 2500c01.dat
 0 Author: Kevin M Bane
-0 Official LCAD Part - 2000-02 Update
+0 !LDRAW_ORG Shortcut UPDATE 2000-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 2000-06-13 SEB fix color 24 on linetype 1
-0 2000-05-08 SEB change all /4-4cone1/ to /4-4con1/
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2000-05-08 [sbliss] change all /4-4cone1/ to /4-4con1/
+0 !HISTORY 2000-06-13 [sbliss] fix color 24 on linetype 1
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-10-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 60 24 0 16 0 0 0 -4 0 0 0 6 box4.dat
 

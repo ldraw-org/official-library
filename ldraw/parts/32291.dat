@@ -1,8 +1,13 @@
 0 Technic Axle Joiner Perpendicular Double
 0 Name: 32291.dat
 0 Author: William J. Wood
-0 Updated: 2001/10/30
-0 LDRAW_ORG Part UPDATE 2001-03
+0 !LDRAW_ORG Part UPDATE 2001-03
+0 !LICENSE Not redistributable : see NonCAreadme.txt
+
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 1 16 10 0 0 0 -20 0 1 0 0 0 0 1 axlehol5.dat
 1 16 10 0 0 0 0 0 3 0 0 0 0 3 ring2.dat
 1 16 -10 0 0 0 0 0 3 0 0 0 0 3 ring2.dat

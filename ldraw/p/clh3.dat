@@ -1,13 +1,15 @@
 0 Click Lock Hinge Single Finger for Arms
 0 Name: clh3.dat
-0 Author: Donald Sutter
-0 LDRAW_ORG Primitive UPDATE 2004-01
+0 Author: Donald Sutter [technog]
+0 !LDRAW_ORG Primitive UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
+0 !HELP To use rotate accordingly and place on end of arm.
 0 BFC CERTIFY CW
 
-0 // To use rotate accordingly and place on end of arm.
-
-
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 7.1 -7.24 0 0 -3.48 1.1 -1 0 7.24 0 0 rect1.dat
 1 16 3.48 7.68 0 0.52 0 0 0 0 0.52 0 1 0 1-4edge.DAT
@@ -27,16 +29,16 @@
 1 16 -3.48 -7.68 0 -0.52 0 0 0 0 -0.52 0 1 0 1-4edge.DAT
 1 16 -2 0 -10 0 1 0 0 0 -2.25 2.25 0 0 4-4disc.dat
 1 16 -2 0 -10 0 1 0 0 0 -2.25 2.25 0 0 4-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -2.25 0 -10 0 0.25 0 0 0 -2.25 2.25 0 0 4-4cyli.dat
 1 16 -2.25 0 -10 0 1 0 0 0 -2.25 2.25 0 0 4-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -3 0 -10 0 0.75 0 0 0 -0.75 0.75 0 0 4-4con3.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -4 0 -10 0 1 0 0.707 0 0.707 -0.707 0 0.707 1-4con3.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -4 0 -10 0 1 0 0.707 0 -0.707 0.707 0 0.707 1-4con3.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -4 0 -10 0 1 0 -0.707 0 -0.707 0.707 0 -0.707 1-4con3.dat
 1 16 -4 0 -10 0 1 0 2.828 0 2.828 -2.828 0 2.828 3-4edge.dat
 1 16 -4 0 -10 0 1 0 -4 0 0 0 0 -4 1-8ndis.dat
@@ -44,24 +46,24 @@
 1 16 -4 0 -10 0 1 0 4 0 0 0 0 -4 1-8ndis.dat
 1 16 2 0 -10 0 -1 0 0 0 2.25 2.25 0 0 4-4disc.dat
 1 16 2 0 -10 0 -1 0 0 0 2.25 2.25 0 0 4-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 2.25 0 -10 0 -0.25 0 0 0 2.25 2.25 0 0 4-4cyli.dat
 1 16 2.25 0 -10 0 -1 0 0 0 2.25 2.25 0 0 4-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 3 0 -10 0 -0.75 0 0 0 0.75 0.75 0 0 4-4con3.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 4 0 -10 0 -1 0 -0.707 0 -0.707 -0.707 0 0.707 1-4con3.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 4 0 -10 0 -1 0 -0.707 0 0.707 0.707 0 0.707 1-4con3.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 4 0 -10 0 -1 0 0.707 0 0.707 0.707 0 -0.707 1-4con3.dat
 1 16 4 0 -10 0 -1 0 -2.828 0 -2.828 -2.828 0 2.828 3-4edge.dat
 1 16 4 0 -10 0 -1 0 4 0 0 0 0 -4 1-8ndis.dat
 1 16 4 0 -10 0 -1 0 -4 0 0 0 0 4 2-4ndis.DAT
 1 16 4 0 -10 0 -1 0 -4 0 0 0 0 -4 1-8ndis.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 4.63 0 -13.2 -0.624 0 -1.506 2.263 0 -0.937 0 -1.63 0 3-8cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 4.63 0 -14.81 -1.152 0 -1.152 1.732 0 -1.732 0 -0.54 0 1-4cyli.dat
 1 16 4.63 0 -15.35 -1.152 0 -1.152 1.732 0 -1.732 0 -0.6 0 1-4edge.DAT
 1 16 4.63 0 -15.35 -1.152 0 -1.152 1.732 0 -1.732 0 1 0 1-4ndis.dat
@@ -73,9 +75,9 @@
 1 16 3.48 2.26 -14.83 0.52 0 0 0 -0.525 0 0 0 -0.52 1-4cyls.dat
 1 16 3.48 1.73 -14.83 0.52 0 0 0.525 -1 0 0 0 -0.52 1-4edge.DAT
 1 16 3.48 1.73 -14.83 0.52 0 0 0.525 1 0 0 0 -0.52 1-4disc.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -4.63 0 -13.2 0.624 0 1.506 -2.263 0 0.937 0 -1.63 0 3-8cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -4.63 0 -14.81 1.152 0 1.152 -1.732 0 1.732 0 -0.54 0 1-4cyli.dat
 1 16 -4.63 0 -15.35 1.152 0 1.152 -1.732 0 1.732 0 -0.6 0 1-4edge.DAT
 1 16 -4.63 0 -15.35 1.152 0 1.152 -1.732 0 1.732 0 1 0 1-4ndis.dat
@@ -169,7 +171,7 @@
 2 24 -4 2.26 -14.83 -4 2.26 -13.2
 1 16 9 0 -3.15 -0.05 -1 0 0.25 0.2 0 0 0 0.25 1-4edge.DAT
 1 16 9 0 -3.15 -0.05 -1 0 -0.25 0.2 0 0 0 0.25 1-4edge.DAT
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 8.95 0 -3.15 0 -4.95 0 0.25 0 0 0 0 0.25 2-4cyli.DAT
 1 16 4 0 -3.15 0 -1 0 0.25 0 0 0 0 0.25 2-4edge.DAT
 1 16 9 0 -3.15 -0.05 -1 0 0.25 0.2 0 0 0 0.25 1-4ndis.dat
@@ -199,7 +201,7 @@
 1 16 6.475 -0.25 -3.667 0 0 2.475 0 -1 0 0.517 0 0 rect2p.dat
 1 16 -9 0 -3.15 0.05 1 0 -0.25 -0.2 0 0 0 0.25 1-4edge.DAT
 1 16 -9 0 -3.15 0.05 1 0 0.25 -0.2 0 0 0 0.25 1-4edge.DAT
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -8.95 0 -3.15 0 4.95 0 -0.25 0 0 0 0 0.25 2-4cyli.DAT
 1 16 -4 0 -3.15 0 1 0 -0.25 0 0 0 0 0.25 2-4edge.DAT
 1 16 -9 0 -3.15 0.05 1 0 -0.25 -0.2 0 0 0 0.25 1-4ndis.dat

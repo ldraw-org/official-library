@@ -1,15 +1,20 @@
 0 Torus Inside  1 x 0.4167 x 0.25
 0 Name: t04i4167.dat
-0 Author: Primitive Generator
-0 LDRAW_ORG Primitive UPDATE 2004-02
+0 Author: Paul Easter [pneaster] 
+0 !LDRAW_ORG Primitive UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 Major Radius: 1
-0 Tube(Minor) Radius: 0.4167
-0 Segments(Sweep): 4/16 = 0.25
-0 1  9  0 0 0  1 0 0  0 1 0  0 0 1  4-4edge.dat
-0 1 12  1 0 0  0.4167 0 0  0 0 0.4167  0 1 0  4-4edge.dat
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-12-20 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Major Radius: 1
+0 // Tube(Minor) Radius: 0.4167
+0 // Segments(Sweep): 4/16 = 0.25
+0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1  4-4edge.dat
+0 // 1 12  1 0 0  0.4167 0 0  0 0 0.4167  0 1 0  4-4edge.dat
 
 4 16 .5833 0 0 .615 .1595 0 .5682 .1595 .2354 .5389 0 .2232
 5 24 .5833 0 0 .5389 0 .2232 .615 .1595 0 .615 -.1595 0

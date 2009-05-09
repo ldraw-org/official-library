@@ -1,12 +1,17 @@
 0 Tile  1 x  4 with Radar Pattern
 0 Name: 2431p12.dat
-0 Author: Thomas Burger
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS grooves, sonar
 0 BFC CERTIFY CCW
+0 !KEYWORDS grooves, sonar
 
-0 // 2003-12-14 OWP Changed lines to quads, BFC'd
+0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
+0 !HISTORY 2003-12-14 [OrionP] Changed lines to quads, BFC'd
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
 

@@ -1,9 +1,14 @@
 0 Slope Brick 33  3 x  2 with Ice Planet Logo Pattern
 0 Name: 3298p61.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2002-02
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Brick
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Brick
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 0 14 -30 6 0 0 0 0 3 0 0 -6 4-4edge.dat
 1 16 0 14 -30 6 0 0 0 6 3 0 0 -6 2-4cyli.dat

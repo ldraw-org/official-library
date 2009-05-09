@@ -1,12 +1,16 @@
 0 ~Technic Ribbed Hose End Segment 
 0 Name: 79.dat
-0 Author: Fredrik Glöckner, adapted from th.DAT by Mark R. David 
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: Fredrik Glöckner
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
 0 BFC NOCERTIFY
 
-0 // 2002-03-18 SEB Added missing end-ring
-
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2002-03-18 [sbliss] Added missing end-ring
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-12-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 2.5 0 6 0 0 0 0 0 0 0 6 4-4EDGE.DAT  
 1 16 0 2.5 0 6.5 0 0 0 0 0 0 0 6.5 4-4EDGE.DAT  

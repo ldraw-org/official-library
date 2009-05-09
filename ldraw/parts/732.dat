@@ -1,9 +1,15 @@
 0 Technic Shock Absorber  6.5L, Cylinder
 0 Name: 732.dat
-0 Author: ONYX (J Boen) onyx@flash.net
-0 Official LCAD Part - 2000-02 Update
+0 Author: Jeff Boen [onyx]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Upper Peghole
+0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Upper Peghole
 1 16 0 -55 -10 10 0 0 0 0 -10 0 20 0 4-4cyli.dat
 1 16 0 -55 -8 6 0 0 0 0 -6 0 16 0 4-4cyli.dat
 0 End surfaces of Upper Peghole

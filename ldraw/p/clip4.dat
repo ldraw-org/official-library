@@ -1,12 +1,16 @@
 0 Clip for Roadsign and Click-Hinge
 0 Name: clip4.dat
-0 Author: John VanZwieten, DAT code
-0 Author: Franklin W. Cain (fwcain@yahoo.com), file prep
-0 LDRAW_ORG Primitive UPDATE 2004-04
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Primitive UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2004-10-01 SEB BFC'ed
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2004-10-01 [sbliss] BFC'ed
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 -6 1 0 0 0 0 -4 0 2 0 box5.dat
 0

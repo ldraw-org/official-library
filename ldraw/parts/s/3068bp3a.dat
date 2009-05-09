@@ -1,7 +1,12 @@
 0 ~Tile  2 x  2 with SW Orange and White Pattern - Orange
 0 Name: s\3068bp3a.dat
-0 Author: Orion Pobursky (billthefish@yahoo.com)
-0 LDRAW_ORG Subpart UPDATE 2003-01
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Subpart UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 15.6 0 -2.7 17.1 0 -3 18.4 0 -3.3 13 0 -20
 4 16 -15.4 0 -4.4 -15.6 0 -5.5 -20 0 -6 -16.5 0 -4.1

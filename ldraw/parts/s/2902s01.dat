@@ -1,9 +1,13 @@
 0 ~Tyre 81.6 x 15 Motorcycle Subpart
 0 Name: s\2902s01.dat
 0 Author: Damien Duquennoy
-0 Official LCAD Subpart - 2000-02 Update
+0 !LDRAW_ORG Subpart UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Cran bossé 
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 4 16 0 102 0 0 100.9 14.72 5.5 100.9 14.72 5.5 102 0
 4 16 5.5 102 0 5.5 100.9 14.72 10.75 97.96 14.29 10.75 99 0
 4 16 10.75 99 0 10.75 97.96 14.29 10.75 93.51 13.64 10.75 94.5 0

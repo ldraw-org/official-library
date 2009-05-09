@@ -1,12 +1,17 @@
 0 Minifig Feathers with Clip
 0 Name: 471.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2002-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
-0 KEYWORDS feather, bald eagle, Wild West, Western, indian
-0 KEYWORDS plant, leaf, leaves, jungle, Adventurers, Amazon
-0 KEYWORDS wings, Harry Potter
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS feather, bald eagle, Wild West, Western, indian
+0 !KEYWORDS plant, leaf, leaves, jungle, Adventurers, Amazon
+0 !KEYWORDS wings, Harry Potter
+
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 -4 0 4 0 0 0 8 0 0 0 4 2-4cyli.dat
  1 16 0 -4 0 -4 0 0 0 8 0 0 0 -4 1-8cyli.dat

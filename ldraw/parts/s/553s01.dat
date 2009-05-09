@@ -1,9 +1,14 @@
 0 ~Cylinder 2 x  2 with Dome Top Subpart
 0 Name: s\553s01.dat
-0 Author: Steve Bliss
-0 Official LCAD Subpart - 2000-02 Update
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Subpart UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 20 24 0 18.48 24 7.65
  2 24 18.48 24 7.65 16 24 11.36

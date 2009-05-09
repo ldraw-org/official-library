@@ -1,12 +1,15 @@
 0 Baseplate 32 x 32 Road 7-Stud Curve with Pattern
 0 Name: 2359p01.dat
-0 Author: James Jessiman, Leonardo Zide, Steve Bliss
-0 Official LCad update 99-04
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 1999-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 1999-03-23 SEB 2359.dat + 607P01.dat pattern + Mods = 2359P01.dat
-0 CATEGORY Baseplate
-0 KEYWORDS roadplate, 7-stud, curved
-0 not-CW compliant
+0 !KEYWORDS roadplate, 7-stud, curved
+
+0 !HISTORY 1999-03-23 [sbliss] 2359.dat + 607P01.dat pattern + Mods = 2359P01.dat
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 310 0 310 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 290 0 310 1 0 0 0 1 0 0 0 1 stud.dat

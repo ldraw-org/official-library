@@ -1,11 +1,14 @@
 0 Baseplate 32 x 32 Road 9-Stud Landing Pad with Yellow Circle
 0 Name: 6099p03.dat
-0 Author: Steve Bliss
-0 Official LCad update 99-04
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 1999-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Baseplate
-0 KEYWORDS landing pad, launch pad, cross-hairs, Space, Crossroads
-0 Not necessarily CW-compliant
+0 !KEYWORDS landing pad, launch pad, cross-hairs, Space, Crossroads
+
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 8 243.607 0 8 242.825 0 23.916
 2 8 242.825 0 23.916 239.312 0 47.602

@@ -1,8 +1,13 @@
 0 Brick  4 x  4 Corner
 0 Name: 702.dat
-0 Author: R. M. (Bob) Rodinsky (dublar@aol.com)
-0 with input from Manfred Moolhuysen
-0 Official LCad update 98-02
+0 Author: R. M. Rodinsky [dublar]
+0 !LDRAW_ORG Part UPDATE 1998-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
+0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
+0 !HISTORY 2007-07-19 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 -16 4 -16 56 4 -16 
  2 24 -16 4 56 -16 4 -16 

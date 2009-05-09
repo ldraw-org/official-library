@@ -1,9 +1,14 @@
 0 ~Car Mudguard  2 x  4 Swept Back without Top Faces
 0 Name: s\41854s01.dat
-0 Author:  John Riley <Rohnjiley@yahoo.com>
-0 LDRAW_ORG Subpart UPDATE 2003-02
+0 Author: John Riley [jriley]
+0 !LDRAW_ORG Subpart UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 4 0 -1 0 0 0 -1 0 0 0 -1 stud4.dat
 0 BFC INVERTNEXT

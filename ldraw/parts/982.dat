@@ -1,19 +1,22 @@
 0 Minifig Arm Right
 0 Name: 982.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Usage notes :
-0  Place at -15.552 9 0 relative to torso
-0  Then rotate about x axis to give require elevation of arm
-0     0 = upper arm vertical
-0   -45 = lower arm horizontal
-0   -90 = upper arm horizontal
-0  -135 = lower arm vertical
-0  Then rotate 9.782 about z axis to align with slope of torso
+0 !HELP Place at -15.552 9 0 relative to torso
+0 !HELP Then rotate about x axis to give require elevation of arm
+0 !HELP    0 = upper arm vertical
+0 !HELP  -45 = lower arm horizontal
+0 !HELP  -90 = upper arm horizontal
+0 !HELP -135 = lower arm vertical
+0 !HELP Then rotate 9.782 about z axis to align with slope of torso
 
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 peg
+0 // peg
 1 16 0 0 0 0 -1 0 2 0 0 0 0 2 4-4edge.dat
 1 16 0 0 0 0 7 0 2 0 0 0 0 2 4-4cyli.dat
 1 16 7 0 0 0 -1 0 2 0 0 0 0 2 4-4edge.dat

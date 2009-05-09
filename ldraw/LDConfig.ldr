@@ -68,3 +68,19 @@
 0 !COLOUR Light_Gray        CODE 503  VALUE #E6E3DA  EDGE 0
 0 !COLOUR Rubber_White      CODE 511  VALUE #FFFFFF  EDGE 0        RUBBER
 0
+
+0 ---------------------------------------------------------
+0 !COLOUR Light_Purple      CODE  29  VALUE #E4ADC8  EDGE 0
+0 !COLOUR Bright_Purple     CODE  69  VALUE #CD6298  EDGE 0
+0 !COLOUR Medium_Blue       CODE  73  VALUE #6E99C9  EDGE 0
+0 !COLOUR Medium_Green      CODE  74  VALUE #A1C48B  EDGE 0
+0 !COLOUR Paradisa_Pink     CODE  77  VALUE #FECCCC  EDGE 0
+0 !COLOUR Light_Flesh       CODE  78  VALUE #FAD7C3  EDGE 8
+0 !COLOUR Translucent_White CODE  79  VALUE #FFFFFF  EDGE 8 ALPHA 224
+0 !COLOUR Medium_Lilac      CODE  85  VALUE #342B75  EDGE 0
+0 !COLOUR Dark_Flesh        CODE  86  VALUE #7C5C45  EDGE 0
+0 !COLOUR Royal_Blue        CODE  89  VALUE #9BB2EF  EDGE 0
+0 !COLOUR Flesh             CODE  92  VALUE #CC8E68  EDGE 0
+0 !COLOUR Light_Stone       CODE 151  VALUE #E5E4DE  EDGE 8
+0 !COLOUR Maersk_Blue       CODE 313  VALUE #35A2BD  EDGE 0
+0

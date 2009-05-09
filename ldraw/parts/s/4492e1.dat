@@ -1,8 +1,13 @@
-0 Animal Horse Eye Highlight
+0 ~Animal Horse Eye Highlight
 0 Name: s\4492e1.dat
 0 Author: Sascha Broich
-0 LDRAW_ORG Subpart UPDATE 2002-02
- 
+0 !LDRAW_ORG Subpart UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 3 16 7.406 -48.125 -34.125 7.438 -47.75 -34.5 7.433 -47.8071 -34.7871
 3 16 7.406 -48.125 -34.125 7.433 -47.8071 -34.7871 7.419 -47.9697 -35.0303
 3 16 7.406 -48.125 -34.125 7.419 -47.9697 -35.0303 7.399 -48.213 -35.1929

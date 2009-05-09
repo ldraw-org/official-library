@@ -1,12 +1,15 @@
 0 Window  1 x  4 x  5 Curved Top 
 0 Name: 264.dat
-0 Author: Niels Karsdorp
-0 LDRAW_ORG Part UPDATE 2004-03
+0 Author: Niels Karsdorp [nielsk]
+0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+0 !KEYWORDS Car, Airplane, Fabuland
 
-0 KEYWORDS Car, Airplane, Fabuland
-
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 BFC INVERTNEXT
 1 16 0 120 0 36 0 0 0 -45 0 0 0 6 box5.dat

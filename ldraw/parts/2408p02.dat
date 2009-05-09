@@ -1,11 +1,16 @@
 0 Panel 10 x  6 x 11 with Blacktron I Pattern
 0 Name: 2408p02.dat
-0 Author: Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2003-02
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c0
+0 !CMDLINE -c0
 
-0 // 2003-01-09 HM Reworked with s\2408s01 subfile.
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2003-01-09 [hmick] Reworked with s\2408s01 subfile.
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2408s01.dat
 

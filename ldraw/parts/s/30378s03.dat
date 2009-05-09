@@ -1,13 +1,15 @@
-0 Minifig Mechanical Head SW Battle Droid - Back of Head
+0 ~Minifig Mechanical Head SW Battle Droid - Back of Head
 0 Name: s\30378s03.dat
-0 Author: Nathan Wright, original DAT code
-0 LDRAW_ORG Subpart UPDATE 2002-05
+0 Author: Nathan Wright
+0 !LDRAW_ORG Subpart UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC NOCERTIFY
 
-0 2002-06-09 FWC Separated DAT code into subfile (to enable pattern files)... 
-
-
+0 !HISTORY 2002-06-09 [fwcain] Separated DAT code into subfile (to enable pattern files)... 
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 3.2 -20.65 10.98 -3.2 -20.65 10.98 3.2 -30.57 6.97 -3.2 -30.57 6.97
 0

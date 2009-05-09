@@ -1,11 +1,14 @@
 0 Torus Outside 1 x 0.1429 x 0.25
 0 Name: t04o1429.dat
-0 Author: Paul Easter
-0 LDRAW_ORG Primitive UPDATE 2002-05
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Primitive UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 Rounding set to 4
-0 L3P IFNOTPOV
+
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-10-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 1 12 0.9808 0 -0.1951 -0.1401 0 0 0 0 0.1429 0 -0.028 0 1-4cyls2.dat
 0 1 13 0.9808 0 -0.1952 0.1401 0 0 0 0 0.1429 0 0.3904 0 1-4cyli.dat
@@ -45,10 +48,4 @@
 5 24 .7458 .132 .7458 .7071 .1429 .7071 .9744 .132 .4036 .4036 .132 .9744
 5 24 .4036 .132 .9744 .3827 .1429 .9239 .7458 .132 .7458 0 .132 1.0547
 5 24 0 .132 1.0547 0 .1429 1 .4036 .132 .9744 -.4036 .132 1.0547
-0
-0 L3P ELSEPOV
-0      torus{1,0.1429 clipped_by{ box{<0,0,0>,<2.1429,0.143,2.1429>}
-0        difference{ cylinder{<0,0.0,0>,<0,0.143,0>,2.1429}
-0          cylinder{<0,0,0>,<0,0.2857,0>,1}}}}
-0 L3P ENDPOV
 0

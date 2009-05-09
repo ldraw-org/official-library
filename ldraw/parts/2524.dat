@@ -1,9 +1,15 @@
 0 Minifig Backpack Non-Opening
 0 Name: 2524.dat
-0 Author: John VanZwieten
-0 Official LCad update 99-03
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Part UPDATE 1999-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Inlined:  1 16 0 15 -10 -1 0 0 0 0.00 -1 0 -1 -0.00 2524a.DAT
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Inlined:  1 16 0 15 -10 -1 0 0 0 0.00 -1 0 -1 -0.00 2524a.DAT
+
  1 16 0 15 10 -14 0 0 0 0 15 0 12 0 box4-4a.DAT
  1 16 0 13 10 11 0 0 0 0 -13 0 11 0 box5.DAT
  1 16 0 17 21 11 0 0 0 0 9 0 -3 0 box5.DAT

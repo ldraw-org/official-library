@@ -1,11 +1,16 @@
 0 Minifig Head with Messy Hair and Moustache Pattern
 0 Name: 3626bp30.dat
-0 Author: Franklin W. Cain <fwcain@yahoo.com>
-0 LDRAW_ORG Part UPDATE 2002-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS face, pirates, castle, wolfpack
+0 !KEYWORDS face, pirates, castle, wolfpack
 
-0 messy hair
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // messy hair
  3 16 0 4 -13 0 6 -13 -1.244 4 -12.753
  3 16 0 4 -13 0 6 -13 1.244 4 -12.753
  4 16 -1.244 4 -12.753 -2.488 6.5 -12.505 -3.732 4.5 -12.258 -3.732 4 -12.258

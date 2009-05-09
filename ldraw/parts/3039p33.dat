@@ -1,10 +1,15 @@
 0 Slope Brick 45  2 x  2 with 12 Buttons 3 Lamps on Yellow Pattern
 0 Name: 3039p33.dat
-0 Author: Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 // 1999-05-02  KevinB   changed Panel Color
-0 // 2004-01-02  Steffen  used subfile
+0 !HISTORY 1999-05-02 {Kevin Bane} changed Panel Color
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2004-01-02 [Steffen] used subfile
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-10-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 

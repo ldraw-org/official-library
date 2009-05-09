@@ -1,7 +1,12 @@
 0 ~Wedge  2 x  6 Double Inverted Left
 0 Name: s\41765s01.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 -20 24 60 0 24 60 0 0 60 -20 0 60
  4 16 0 24 60 20 4 60 20 0 60 0 0 60

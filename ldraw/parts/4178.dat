@@ -1,12 +1,16 @@
 0 Train Base  6 x 16
 0 Name: 4178.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2004-03
+0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2003-01-28 SEB Completed header; BFC'ed; minor cleanup
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 2003-01-28 [sbliss] Completed header; BFC'ed; minor cleanup
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 80 4 50 1 0 0 0 -1 0 0 0 1 stud3.dat
  1 16 60 4 50 1 0 0 0 -1 0 0 0 1 stud3.dat

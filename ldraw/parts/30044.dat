@@ -1,14 +1,18 @@
 0 Window  1 x  2 x  2 & 2/3 with Rounded Top
 0 Name: 30044.dat
 0 Author: James Jessiman
-0 Original LDraw Part 
-0 LDRAW_ORG Part UPDATE 2002-04
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 20000105 SEB Fixed size in part name.
-0 ???????? ABH Fixed gap space between 3659 Arch and frame.
-0              Fixed stud to remove gap spacing at top of frame.
-0              Modifications not specified involved reducing y to 16 in some places.
-0 20020717 ABH Added edge lines around stud base, corrected conditional lines.
+0 !HISTORY 2000-01-05 [sbliss] Fixed size in part name.
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2002-07-01 [Whist] Fixed gap space between 3659 Arch and frame.
+0 !HISTORY 2002-07-01 [Whist] Fixed stud to remove gap spacing at top of frame.
+0 !HISTORY 2002-07-01 [Whist] Modifications not specified involved reducing y to 16 in some places.
+0 !HISTORY 2002-07-17 [Whist] Added edge lines around stud base, corrected conditional lines.
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 64 0 16 0 0 0 -4 0 0 0 6 box5.dat
 

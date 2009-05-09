@@ -1,9 +1,15 @@
 0 Space Window  4 x  4 x  6 Outward Sloping
 0 Name: 4741.dat
-0 Author: Jaco van der Molen
-0 Official LCad update 98-01
+0 Author: Jaco van der Molen [Jaco]
+0 !LDRAW_ORG Part UPDATE 1998-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 See line 76 to 83 for minor changes
+0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
+0 !HISTORY 1998-01-11 [unknown] minor changes 
+0 !HISTORY 1998-01-12 [PTadmin] Official Update 1998-01
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
  2 24 40 144 -10 40 144 10 
  2 24 40 144 10 40 136 10 
  2 24 40 136 10 40 90 -30 

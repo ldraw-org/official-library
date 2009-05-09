@@ -1,15 +1,20 @@
 0 Torus Outside  1 x 0.6250 x 0.25
 0 Name: t04o6250.dat
-0 Author: Primitive Generator
-0 LDRAW_ORG Primitive UPDATE 2005-01
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Primitive UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 Major Radius: 8
-0 Tube(Minor) Radius: 5
-0 Segments(Sweep): 4/16 = 0.25
-0 1  9  0 0 0  1 0 0  0 1 0  0 0 1  4-4edge.dat
-0 1 12  1 0 0  0.6250 0 0  0 0 0.6250  0 1 0  4-4edge.dat
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-12-20 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Major Radius: 8
+0 // Tube(Minor) Radius: 5
+0 // Segments(Sweep): 4/16 = 0.25
+0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1  4-4edge.dat
+0 // 1 12  1 0 0  0.6250 0 0  0 0 0.6250  0 1 0  4-4edge.dat
 
 4 16 1 .625 0 1.2392 .5774 0 1.1449 .5774 .4742 .9239 .625 .3827
 5 24 1 .625 0 .9239 .625 .3827 1.2392 .5774 0 .7608 .5774 0

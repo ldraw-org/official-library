@@ -1,26 +1,31 @@
 0 Slope Brick Round  1 x  6 Inverted
 0 Name: 500.dat
-0 Author: Donald Sutter
-0 LDRAW_ORG Part UPDATE 2003-02
+0 Author: Donald Sutter [technog]
+0 !LDRAW_ORG Part UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 10 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 0 0 -10 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 0 0 -30 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 0 0 -50 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 0 9.3 -70 1 0 0 0 3.3 0 0 0 1 stud2a.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 9.3 -70 0 0 4 0 0.55 0 -4 0 0 4-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 9.85 -70 0 0 4 0 1.18 0 -4 0 0 4-4cyls.dat
 1 16 0 9.22 -70 0 0 6 0 1.78 0 -6 0 0 4-4cyls.dat
 1 16 0 11 -70 0 0 6 -1.78 1 0 -6 0 0 4-4edge.dat
 1 16 0 11 -70 0 0 4 -1.18 1 0 -4 0 0 4-4edge.dat
 1 16 0 1.31 -90 1 0 0 0 1.31 0 0 0 1 stud2a.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 1.45 -90 0 0 4 0 0.85 0 -4 0 0 4-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 2.3 -90 0 0 4 0 1.63 0 -4 0 0 4-4cyls.dat
 1 16 0 1.45 -90 0 0 6 0 2.48 0 -6 0 0 4-4cyls.dat
 1 16 0 3.9 -90 0 0 6 -2.48 1 0 -6 0 0 4-4edge.dat
@@ -42,7 +47,7 @@
 2 24 4 18 0 3.91 18 0.5
 2 24 3.91 4 0.5 3.91 18 0.5
 2 24 3.91 4 -0.5 3.91 18 -0.5
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 24 0 -6 0 0 0 -20 0 0 0 16 box5.dat
 4 16 10 24 20 -10 24 20 -6 24 16 6 24 16
 4 16 -10 24 20 -10 24 -20 -6 24 -20 -6 24 16
@@ -61,7 +66,7 @@
 4 16 7 8 -80 7 0 -80 7 0 -97 7 1 -97
 4 16 -7 0 -80 -7 0 -60 -7 14 -60 -7 8 -80
 4 16 -7 0 -97 -7 0 -80 -7 8 -80 -7 1 -97
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 24 -19.5 6 0 0 0 -20 0 0 0 0.5 box4-4a.dat
 1 16 0 4 -38.5 0 0 -6 0 -1 0 18.5 0 0 rect2p.dat
 1 16 0 11.31 -57 0 0 -6 7.31 0 0 0 -1 0 RECT.DAT

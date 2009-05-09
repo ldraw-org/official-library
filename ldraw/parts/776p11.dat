@@ -1,11 +1,15 @@
 0 Flag on Flagpole Type 1 with United Kingdom Pattern
 0 Name: 776p11.dat
-0 Author: Tore Eriksson
-0 Author: Chris Dee (chris_w_dee@hotmail.com), pattern
-0 LDRAW_ORG Part UPDATE 2004-01
-0 KEYWORDS classic, h0 scale
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+0 !KEYWORDS classic, h0 scale
+
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\776s01.dat
 

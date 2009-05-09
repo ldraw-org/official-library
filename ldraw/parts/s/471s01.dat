@@ -1,9 +1,13 @@
-0 ~Subpart - Two-Feather
+0 ~Two-Feather
 0 Name: s\471s01.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Subpart UPDATE 2002-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2002-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2002-Jan-22 CSC Fixed two small triangle errors
+0 !HISTORY 2002-01-22 [unknown] Fixed two small triangle errors
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 -2 0 -2.25 2 0 -2.25 2 0 2.25 -2 0 2.25
 0

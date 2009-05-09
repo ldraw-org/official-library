@@ -1,12 +1,14 @@
 0 ~Hose Flexible 12L End Segment
 0 Name: 759.dat
-0 Author: Steve Bliss
-0 LDRAW_ORG Part UPDATE 2004-01
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // This file forms the end of the rubber component, embedded in the plastic tips.
-0 // See 758c01.dat for a complete hose.
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-12-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 -4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 -4 0 4 0 0 0 1 0 0 0 4 4-4disc.dat

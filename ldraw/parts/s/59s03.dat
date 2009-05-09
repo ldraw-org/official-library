@@ -1,12 +1,17 @@
 0 ~Minifig Sword Greatsword - 1/4 Guard and Pommel
 0 Name: s\59s03.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2003-12-29  FWC  revised...  
-0 // 2004-02-08  OWP  Fixed a color problem
+0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
+0 !HISTORY 2003-12-29 [fwcain] revised...  
+0 !HISTORY 2004-02-08 [OrionP] Fixed a color problem
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 -8 -1 -3.875 0 0 0  2 0 0 0 -3 1-4cyli.dat
  1 16 0 -6 -1 -3.875 0 0 0 -1 0 0 0 -3 1-4disc.dat
@@ -50,10 +55,10 @@
  1 16  0 -12 -9 -2 0 0 0 -1 0 0 0 0.5 1-4ndis.dat
  1 16 -2 -14 -9  0 1 0 2  0 0 0 0 0.5 2-4ndis.dat
 0
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
  1 16 0 -14 -9 -2 0 0 0 -2 0 0 0 0.5 1-8sphc.dat
 0
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
  1 16 0 -14 -9 -2 0 0 0  2 0 0 0 0.5 1-8sphc.dat
 0
  1 16  0 -16 -9 -2 0 0 0 1 0 0 0 0.5 1-4edge.dat
@@ -65,7 +70,7 @@
  1 16 -4  14  0  0  1  0  2  0  0  0  0 -2 2-4ring2.dat
  1 16 -4  14  0  0  1  0  4  0  0  0  0 -4 2-4edge.dat
 0
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
  1 16 -4  14  0  0  2  0  4  0  0  0  0 -4 2-4cyli.dat
 0
  1 16 -2 14 0 0 1 0 -4 0 0 0 0 -4 2-4edge.dat

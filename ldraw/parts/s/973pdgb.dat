@@ -1,13 +1,16 @@
 0 ~Minifig Torso with White Rope & Patched Collar - Yellowish
 0 Name: s\973pdgb.dat
-0 Author: Larry Pieniazek (larry_pieniazek@yahoo.com) using Quad2Dat
-0 LDRAW_ORG Subpart UPDATE 2003-03
+0 Author: Larry Pieniazek [lar]
+0 !LDRAW_ORG Subpart UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // subfile for color yellowy brown 
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-
+0 // subfile for color yellowy brown
 
 4 16 6.2 4.65 -10 6.85 5.75 -10 6.2 6.75 -10 5.65 4.85 -10
 4 16 5.65 4.85 -10 4.15 3.75 -10 5.05 3.45 -10 5.95 4.4 -10

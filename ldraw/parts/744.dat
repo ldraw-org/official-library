@@ -1,12 +1,15 @@
 0 Technic Gear 42 Tooth
 0 Name: 744.dat
-0 Author: Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS gear, pre-technic, Samsonite
-0 CMDLINE -c4
+0 !KEYWORDS gear, pre-technic, Samsonite
+0 !CMDLINE -c4
 
-0 Samsonite is registered trademark of Samsonite, Inc
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 9 0 0 0 0 0 8 0 0 0 0 8 4-4edge.dat
 1 16 9 0 0 0 -3 0 8 0 0 0 0 8 4-4cyli.dat

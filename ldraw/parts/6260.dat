@@ -1,11 +1,17 @@
 0 Minifig Skeleton Torso
 0 Name: 6260.dat
-0 Author: DENNIS OSBORN
-0 LDRAW_ORG Part UPDATE 2001-01
+0 Author: Dennis Osborn
+0 !LDRAW_ORG Part UPDATE 2001-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 COMMENT NECK PEG
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // NECK PEG
+
 1 16 0 0 0 1 0 0 0 3.75 0 0 0 1 stud2.dat
 4 16 13.2 0 6.1 -13.2 0 6.1 -13.2 0 -6.1 13.2 0 -6.1
 

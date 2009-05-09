@@ -1,13 +1,17 @@
 0 Brick  1 x  2 with Yellow Grille Pattern
 0 Name: 3004p05.dat
 0 Author: James Jessiman
-0 LDRAW_ORG Part UPDATE 2003-03
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 1999-06-19 KevinB  Changed Grille Color to Yellow
-0 // 2003-06-08 JHR BFC compliant
-
+0 !HISTORY 1999-06-19 {Kevin Bane} Changed Grille Color to Yellow
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2003-06-08 [jriley] BFC compliant
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-10-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
 4 16 20 0 -10 -20 0 -10 -20 2.75 -10 20 2.75 -10

@@ -1,11 +1,16 @@
 0 Bar 12L with Plate  1 x  2 and Hollow Stud
 0 Name: 42445.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 KEYWORDS Studios, bar, rod, rod system, pole, 10-foot pole
-0 KEYWORDS stud, hollow stud, 1 x 2 plate
+0 !KEYWORDS Studios, bar, rod, rod system, pole, 10-foot pole
+0 !KEYWORDS stud, hollow stud, 1 x 2 plate
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0  0 -100  0  0 -1  0  1  0  1  0  0  3023.dat
 0

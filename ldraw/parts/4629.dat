@@ -1,23 +1,24 @@
 0 Jack Base
-0 Name 4629.dat
-0 Created by Tore Eriksson
-0 Official LCad update 97-16
+0 Name: 4629.dat
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 1997-16
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 (lifter = 4627, handle = 4628, base = 4629)
-0 hole at base: -35 -15.5 0   ->  handle: 0 0 0
+0 !HELP (lifter = 4627, handle = 4628, base = 4629)
+0 !HELP hole at base: -35 -15.5 0   ->  handle: 0 0 0
+0 !HELP Examples:
+0 !HELP Jack Assembly - lowered
+0 !HELP 1 1  0 0 0  1 0 0  0 1 0  0 0 1 4629.dat
+0 !HELP 1 1  -25 -10.5 0  1 0 0  0 1 0  0 0 1 4627.dat
+0 !HELP 1 1  -35 -15.5 0  1 0 0   0 1 0  0 0 1 4628.dat
+0 !HELP Jack Assembly - raised
+0 !HELP 1 1  0 0 0  1 0 0  0 1 0  0 0 1 4629.dat
+0 !HELP 1 1  -25 -10.5 0  0.906 0.423 0  -0.423 0.906 0  0 0 1 4627.dat
+0 !HELP 1 1  -35 -15.5 0  0 1 0  -1 0 0  0 0 1 4628.dat
 
-0 Examples:
-
-0 Jack Assembly - lowered
-0 1 1  0 0 0  1 0 0  0 1 0  0 0 1 4629.dat
-0 1 1  -25 -10.5 0  1 0 0  0 1 0  0 0 1 4627.dat
-0 1 1  -35 -15.5 0  1 0 0   0 1 0  0 0 1 4628.dat
-
-0 Jack Assembly - raised
-0 1 1  0 0 0  1 0 0  0 1 0  0 0 1 4629.dat
-0 1 1  -25 -10.5 0  0.906 0.423 0  -0.423 0.906 0  0 0 1 4627.dat
-0 1 1  -35 -15.5 0  0 1 0  -1 0 0  0 0 1 4628.dat
-
+0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24  -45 0 -10  -33 0 -10
 2 24  -17 0 -10   45 0 -10

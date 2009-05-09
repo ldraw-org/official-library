@@ -1,7 +1,12 @@
 0 ~Cylinder  2 x  2 x  2 Robot Body with SW R2-D2 - Silver
 0 Name: s\30361s1a.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Subpart UPDATE 2003-02
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 -10.600 18 -16.439 -10.600 25 -16.439 -13.100 25 -14.768 -13.100 18 -14.768
  4 16 -10.600 25 -16.439 -10.600 25.500 -16.439 -11.600 25.500 -15.771 -11.600 25 -15.771

@@ -1,11 +1,16 @@
 0 Minifig Torso with SW Tunic and Belt Pattern
 0 Name: 973psf.dat
-0 Author: Thomas Burger (tburger34@aol.com)
-0 LDRAW_ORG Part UPDATE 2004-04
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c11
-0 KEYWORDS Young Boba Fett, Jango Fett, Star Wars, Clone
-0 KEYWORDS Episode 2, Set 7153, Bounty Hunter
+0 !KEYWORDS Young Boba Fett, Jango Fett, Star Wars, Clone
+0 !KEYWORDS Episode 2, Set 7153, Bounty Hunter
+0 !CMDLINE -c11
+
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 264 0 0 0 1 0 0 0 1 0 0 0 1 s\973psfa.dat

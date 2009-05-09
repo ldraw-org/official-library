@@ -1,7 +1,12 @@
 0 Technic Gear 24 Tooth Crown
 0 Name: 3650a.dat
-0 Author: Adriano Aicardi 1998 (ike@money.it)
-0 Official LCad update 98-10
+0 Author: Adriano Aicardi
+0 !LDRAW_ORG Part UPDATE 1998-10
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 -8 1 0 0 0 0 1 0 20 0 axlehol5.dat
 

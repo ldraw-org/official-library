@@ -1,9 +1,14 @@
 0 Brick  2 x  4 x  2 with Curved Top (needs work)
 0 Name: 6216.dat
-0 Author: Tore Eriksson
-0 Official LCAD Part - 2000-02 Update
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 simplified bottom studs
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // simplified bottom studs
 1 16 30 34 0 1 0 0 0 -3.5 0 0 0 1 stud3a.dat
 1 16 0 6 0 1 0 0 0 -10.5 0 0 0 1 stud4a.dat
 1 16 -30 34 0 -1 0 0 0 -3.5 0 0 0 1 stud3a.dat

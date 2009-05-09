@@ -1,7 +1,12 @@
 0 Technic Axle Nut
 0 Name: 4698.dat
-0 Author: Adriano Aicardi (ike@money.it)
-0 Official LCad update 99-02
+0 Author: Adriano Aicardi
+0 !LDRAW_ORG Part UPDATE 1999-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  3 16 6 0 -3.5 4.434 -1.836 -3.5 4.8 0 -2.9
  2 24 4.434 -1.836 -3.5 4.8 0 -2.9

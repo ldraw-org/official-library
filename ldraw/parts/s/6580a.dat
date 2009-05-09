@@ -1,15 +1,14 @@
-0 ~Subpart 6580 Wheel 1-4 Section
-0 Name: 6580a.dat
-0 Author: ONYX (J Boen) onyx@flash.net
-0 Official LCad update 99-04
+0 ~6580 Wheel 1-4 Section
+0 Name: s\6580a.dat
+0 Author: Jeff Boen
+0 !LDRAW_ORG Subpart UPDATE 1999-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 This element was modeled using 3DSMAX, exported to ASCII
-0 and converted to .DAT format by MAX2DAT
-0 
-0 3DSMAX ASCII output file: 1-4 6580 wheel.ase
-0
-0 3DSMAX Object: Wheel Rim
-0 Faces (Quads and Triangles)
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Faces (Quads and Triangles)
  4 16 -29 -27 0 -29 -21.45 -4.89 -29 -26.32 -6.01 -29 -22 0 
  4 16 -29 -22 0 -19 -19.50 -4.45 -29 -21.45 -4.89 -19 -20 0 
  4 16 -19 -20 0 17 -19.50 -4.45 -19 -19.50 -4.45 17 -20 0 

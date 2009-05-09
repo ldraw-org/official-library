@@ -1,15 +1,16 @@
 0 Window  1 x  2 x  3 Shutter
 0 Name: 3856.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2004-01
-
-0 // 2001-12-19 Marcel Peeters Rewrote part; replaced lines with ridges
-0 // 2002-10-17 Willy Tschager Rewrote part; deleted floating edges;
-0 //            added missing edges on ridges; made BFC compliant
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 2002-10-17 [Holly-Wood] Rewrote part; deleted floating edges; added missing edges on ridges; made BFC compliant
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 2 68 -4 -2 68 -4
 2 24 -2 68 -4 -2 68 -40

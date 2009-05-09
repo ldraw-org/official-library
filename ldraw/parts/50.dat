@@ -1,12 +1,17 @@
 0 Technic Friction Pin with Towball
 0 Name: 50.dat
 0 Author: Fredrik Glöckner
-0 LDRAW_ORG Part UPDATE 2002-05
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 2002-07-02 Donald Sutter; Adjusted pin to correct overall length
-0 2002-08-07 SEB restored header, corrected title; made BFC, added disc in pin
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2002-07-02 [technog] Adjusted pin to correct overall length
+0 !HISTORY 2002-08-07 [sbliss] restored header, corrected title; made BFC, added disc in pin
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 -2 0 0 0 -1 0 0 0 -1 1 0 0 connect.dat
 1 16 -2 0 0 0 1 0 8 0 0 0 0 8 4-4edge.dat

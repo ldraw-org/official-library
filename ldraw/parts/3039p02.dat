@@ -1,12 +1,16 @@
 0 Slope Brick 45  2 x  2 with Left Green Inverse 1/4 Disc Pattern
 0 Name: 3039p02.dat
-0 Author: Steffen <muchelchupser@web.de>
-0 Author: Orion Pobursky, original 3039p01.dat
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 KEYWORDS Star Wars, Bounty Hunter Pursuit
-0 CMDLINE -c40
+0 !KEYWORDS Star Wars, Bounty Hunter Pursuit
+0 !CMDLINE -c40
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 

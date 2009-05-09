@@ -1,9 +1,14 @@
 0 Door  1 x  4 x  4 Lift
 0 Name: 6155.dat
-0 Author: EricD'Aragon, Peter Kasting
-0 LDRAW_ORG Part UPDATE 2002-06
+0 Author: Eric D'Aragon
+0 !LDRAW_ORG Part UPDATE 2002-06
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
 0 BFC NOCERTIFY
+
+0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 36 25 -5 -36 25 -5
 2 24 36 23 -7 -36 23 -7

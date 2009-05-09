@@ -1,10 +1,16 @@
 0 ~Electric Train Track  9V Power Connector - Conducting Plate
 0 Name: s\2913s01.dat
-0 Author: Soete Ludo
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 Author: Ludo Soete [ludo]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 COMMENT : Conductor plate
-0 COMMENT : curved conductor rail contact 
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-08-29 [PTadmin] Replaced box3#8p references with box3u8p
+0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Conductor plate
+0 // curved conductor rail contact 
 
 1 16 45.50 -11.5 -5 0 0 2 2 0 0 0 10 0 2-4cyli.dat
 1 16 45.50 -11.5 -5 0 0 2 2 0 0 0 10 0 2-4edge.dat
@@ -218,7 +224,7 @@
 4 16 -13 0 9.5 -27 0 9.5 -27 -1 9.5 -13 -1 9.5
 2 24 -27 0 9.5 -27 -1 9.5
 2 24 -13 0 9.5 -13 -1 9.5
-1 16 -5.5 -0.5 4.5 -7.5 -0 0 0 0 -0.5 -0 10 0 box3#8p.dat
+1 16 -5.5 -0.5 4.5 -7.5 -0 0 0 0 -0.5 -0 10 0 box3u8p.dat
 4 16 -13 0 9.5 -13 0 4.5 -13 -1 4.5 -13 -1 9.5
 2 24 -13 0 9.5 -13 0 4.5
 2 24 -13 -1 4.5 -13 -1 9.5

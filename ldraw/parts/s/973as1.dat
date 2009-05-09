@@ -1,7 +1,12 @@
-0 ~Subpart Minifig Torso w/ SW Rebel Pilot Pattern
+0 ~Minifig Torso with SW Rebel Pilot Pattern
 0 Name: s\973as1.dat
-0 Author: John VanZwieten
-0 LDRAW_ORG Subpart UPDATE 2001-01
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Subpart UPDATE 2001-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2007-09-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 4.9 9.55 -10 5.8 8.85 -10 5.8 22.15 -10 4.9 21.25 -10
 4 16 -4.9 9.55 -10 -5.8 8.85 -10 -5.8 22.15 -10 -4.9 21.25 -10

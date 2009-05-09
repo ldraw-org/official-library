@@ -1,13 +1,17 @@
 0 Cylinder  2 x  2 with Dome Top and R2-D2 Pattern
 0 Name: 553ps1.dat
-0 Author: Donald Sutter
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: Donald Sutter [technog]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 CMDLINE -c15 
-0 KEYWORDS Star Wars, R2-D2, Artoo-Detoo, Artoo, astromech, droid, robot 
-0 KEYWORDS head, minifig 
+0 !KEYWORDS Star Wars, R2-D2, Artoo-Detoo, Artoo, astromech, droid, robot 
+0 !KEYWORDS head, minifig 
+0 !CMDLINE -c15 
 
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\553s01.dat
 1 496 0 0 0 1 0 0 0 1 0 0 0 1 s\553ps1a.dat

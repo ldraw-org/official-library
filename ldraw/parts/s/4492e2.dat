@@ -1,7 +1,12 @@
-0 Animal Horse Eye Ring
+0 ~Animal Horse Eye Ring
 0 Name: s\4492e2.dat
 0 Author: Sascha Broich
-0 LDRAW_ORG Subpart UPDATE 2002-02
+0 !LDRAW_ORG Subpart UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 7.110 -44.250 -34 7.103 -44.5354 -32.5649 7.204 -45.6902 -33.0433 7.224 -45.5 -34 
 4 16 7.103 -44.535 -32.565 7.213 -45.3484 -31.3484 7.269 -46.2323 -32.2323 7.204 -45.6902 -33.0433

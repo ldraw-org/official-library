@@ -1,13 +1,19 @@
 0 Technic Axle Flexible 19
 0 Name: 32235.dat
-0 Author: Steve Bliss
-0 Official LCad Part 2000-01
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 This part is written so the main axle (everything except the rod-sized 'skinny tips')
-0 can be curved smoothly.  The main axle is a series of 4LDU-long segments, all of
-0 which are subfile references.  This should optimize the ease of flexing.
+0 !HELP This part is written so the main axle (everything except the rod-sized 
+0 !HELP 'skinny tips') can be curved smoothly.  The main axle is a series of 
+0 !HELP 4LDU-long segments, all of which are subfile references.  This should 
+0 !HELP optimize the ease of flexing.
 
-0 Skinny Tip
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Skinny Tip
 1 16 -170 0 0 0 5 0 -1 0 0 0 0 1 STUD3A.DAT
 0 To flex the 'skinny tip', replace the above line with:
 0 1 16 -186 0 0 0 1 0 -1 0 0 0 0 1 STUD3A.DAT

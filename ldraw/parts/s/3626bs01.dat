@@ -1,16 +1,19 @@
 0 ~Minifig Head - Stud Hollow without Face Area
 0 Name: s\3626bs01.dat
-0 Author: Tore Eriksson
-0 LDRAW_ORG Subpart UPDATE 2003-03
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Subpart UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 1999-03     Chris Dee (chris_w_dee@hotmail.com)  modified
-0 // 2002-05-15  SEB  Corrected conditional lines around brow, removed polygons
-0 //                  which duplicated bottom ring, applied BFC convention.
-0 // 2003-06-30  Steffen  replaced stud2.dat by stud2a.dat plus 4-4edge.dat to
-0 //                      prevent floating LEGO logo in head's center when rendering
-0 //                      fixed matrix row all zeros errors; cleaned up header
+0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2002-05-15 [sbliss] Corrected conditional lines around brow, removed polygons which duplicated bottom ring, applied BFC convention.
+0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
+0 !HISTORY 2003-06-30 [Steffen] replaced stud2.dat by stud2a.dat plus 4-4edge.dat to prevent floating LEGO logo in head's center when rendering; fixed matrix row all zeros errors; cleaned up header
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 24 0 6 0 0 0 6 0 0 0 6 4-4edge.dat
 1 16 0 24 0 8 0 0 0 8 0 0 0 8 4-4edge.dat

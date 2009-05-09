@@ -1,9 +1,14 @@
 0 ~Minifig Torso with SW C-3PO Grey Gold Pattern
 0 Name: s\973psrb.dat
-0 Author: Donald Sutter
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 Author: Donald Sutter [technog]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 14.7 26.652 -10 15.5 32 -10 11.5 32 -10 11.01 28.612 -10
 4 16 -15.5 32 -10 -14.7 26.652 -10 -11.01 28.612 -10 -11.5 32 -10

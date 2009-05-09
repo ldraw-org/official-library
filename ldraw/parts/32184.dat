@@ -1,7 +1,13 @@
 0 Technic Axle Joiner Perpendicular  3L
 0 Name: 32184.dat
-0 Author: ONYX (JBoen) <onyx@flash.net>
-0 LDRAW_ORG Part UPDATE 2001-02
+0 Author: Jeff Boen
+0 !LDRAW_ORG Part UPDATE 2001-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 10 -20 0 0 -20 0 1 0 0 0 0 1 axlehol5.dat
 2 24 10 -18 5.58 10 -20 6

@@ -1,10 +1,15 @@
 0 Propellor  3 Blade  5.5 Diameter
 0 Name: 4617.dat
-0 Author: Paul Easter
-0 LDRAW_ORG Part UPDATE 2001-01
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Part UPDATE 2001-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Propellor
-0 KEYWORDS adventurers
+0 !KEYWORDS adventurers
+
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 8 8 0 0 0 0 8 0 -16 0 4-4cyli.dat
 1 16 0 0 8 6 0 0 0 0 6 0 -16 0 4-4cyli.dat

@@ -1,7 +1,12 @@
 0 ~Minifig Head with Monocle and Moustache - Silver Details
 0 Name: s\3626pa7a.dat
-0 Author: George Barnes (glbarnes@gdi.net)
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: George Barnes [glbarnes]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 3 16 -4.4461 6.7827 -12.1156 -3.4327 6.6 -12.3172 -3.5308 9 -12.2977
 3 16 -3.4327 6.6 -12.3172 -2.4194 6.7827 -12.5188 -3.5308 9 -12.2977

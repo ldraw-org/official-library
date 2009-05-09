@@ -1,14 +1,17 @@
 0 Slope Brick 65  6 x  6 x  2 Inverted Quadruple
 0 Name: 30373.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2003-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS bracket, Technic, "Star Wars", Brick  4 x  4 with Holes, 4x4
-0 KEYWORDS Slope Brick 65  2 x  2 x  2 Inverted Double Convex, 2x2x2
 0 BFC CERTIFY CW
+0 !KEYWORDS bracket, Technic, "Star Wars", Brick  4 x  4 with Holes, 4x4
+0 !KEYWORDS Slope Brick 65  2 x  2 x  2 Inverted Double Convex, 2x2x2
 
-0 2002-06-05 SEB Added keywords, simplified title, applied BFC rules, 
-0            replaced 2345 lines with primitives, reduced 1/4 subfile to 1/8.
+0 !HISTORY 2002-06-05 [sbliss] Added keywords, simplified title, applied BFC rules, replaced 2345 lines with primitives, reduced 1/4 subfile to 1/8.
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16  0  0  0 -1  0  0  0  1  0  0  0 -1  s\30373s01.dat
  1 16  0  0  0  0  0 -1  0  1  0 -1  0  0  s\30373s01.dat

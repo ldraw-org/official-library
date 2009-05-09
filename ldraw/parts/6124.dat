@@ -1,21 +1,20 @@
 0 Minifig Magic Wand
 0 Name: 6124.dat
-0 Author: Jaco van der Molen
-0 LDRAW_ORG Part UPDATE 2004-01
-
-0 KEYWORDS Castle, Dragon Masters, Fright Knights
-0 KEYWORDS Belville, Fairy Tale, Time Cruisers, Time Twisters
-0 KEYWORDS Majisto, Willa, Millimy, wizard, witch, fairy
-
-0 CATEGORY Minifig Accessory
+0 Author: Jaco van der Molen [Jaco]
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Castle, Dragon Masters, Fright Knights
+0 !KEYWORDS Belville, Fairy Tale, Time Cruisers, Time Twisters
+0 !KEYWORDS Majisto, Willa, Millimy, wizard, witch, fairy
 
-0 // 2003-09-15 AJW Filled gap between star and shaft; BFC'd;
-0 //                Changed title; Added keywords
-
-0 Grip, shaft
-
+0 !HISTORY 1998-01-12 [PTadmin] Official Update 1998-01
+0 !HISTORY 2003-09-15 [westrate] Filled gap between star and shaft; BFC'd;
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 0 0 4 0 0 0 -1 0 0 0 4 4-4disc.dat

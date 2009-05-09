@@ -1,13 +1,18 @@
 0 Tile  1 x  2 with Stingray Control Panel Pattern
 0 Name: 3069bpa2.dat
-0 Author: Joseph H. Cardana, original version
-0 Author: Franklin W. Cain, revised pattern
-0 LDRAW_ORG Part UPDATE 2003-01
+0 Author: Joseph H. Cardana
+0 !LDRAW_ORG Part UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Aquanauts, Sting Ray, Space, Life on Mars, Star Wars, gold
-0 KEYWORDS gold-plate, controls, display, meter, gauge, buttons, circuits
-0 KEYWORDS circuitry, wiring, engineering, machinery
-0 CMDLINE -c8
+0 !KEYWORDS Aquanauts, Sting Ray, Space, Life on Mars, Star Wars, gold
+0 !KEYWORDS gold-plate, controls, display, meter, gauge, buttons, circuits
+0 !KEYWORDS circuitry, wiring, engineering, machinery
+0 !CMDLINE -c8
+
+0 !HISTORY 2003-03-11 [fwcain] revised pattern
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1  16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
  1 334 0 0 0 1 0 0 0 1 0 0 0 1 s\3069pa2a.dat

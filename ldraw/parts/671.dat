@@ -1,7 +1,12 @@
 0 Door  1 x  6 x 10
 0 Name: 671.dat
 0 Author: Arne Hackstein
-0 Official LCad update 98-07
+0 !LDRAW_ORG Part UPDATE 1998-07
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
+0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 47 -6 2.5 -46.5 -6 2.5
  2 24 -46.5 -219 2.5 47 -219 2.5

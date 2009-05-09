@@ -1,18 +1,22 @@
 0 Minifig Flame 
 0 Name: 6126.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2004-02
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
-0 KEYWORDS Castle, Dragon Masters, Divers, Adventurers, Harry Potter 
-0 KEYWORDS fire, dragon, torch, minifig, seaweed, plant, leaf, kelp
 0 BFC CERTIFY CW
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Castle, Dragon Masters, Divers, Adventurers, Harry Potter 
+0 !KEYWORDS fire, dragon, torch, minifig, seaweed, plant, leaf, kelp
 
-0 // 2003-10-03 BB completed header, improved part
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 2003-10-03 [bbroich] completed header, improved part
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 HOLDER
-0 Central
+0 // HOLDER
+0 // Central
 1 16 0 0 -8 4 0 0 0 0 4 0 -0.5 0 4-4edge.dat
 1 16 0 0 -8 4 0 0 0 0 4 0 0.5 0 4-4disc.dat
 1 16 0 0 2 4 0 0 0 0 4 0 -0.5 0 4-4disc.dat
@@ -385,13 +389,13 @@
 4 16 7.59 -2 30.58 5.7 -2 26.93 3.25 -2 23.54 -3.2 -2 29.5
 
 0 Border
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -3.5 -2 47 1.84776 0 -0.76537 0 4 0 -0.76537 0 -1.84776 3-8cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -5.3 -2 29.5 1.05 0 1.05 0 4 0 1.05 0 -1.05 2-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 1.9 -2 19.3 -1.4 0 -1.4 0 4 0 1.4 0 -1.4 2-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 3.6 -2 40 -2 0 0 0 4 0 0 0 -2 3-8cyli.dat
 1 16 -8.5 -2 52.5 1.5 0 0 0 4 0 0 0 1.5 2-4cyli.dat
 1 16 -9.5 -2 29.5 -1.05 0 -1.05 0 4 0 -1.05 0 1.05 2-4cyli.dat

@@ -1,14 +1,20 @@
 0 Windscreen  4 x  4 x  2 Canopy Extender
 0 Name: 2337.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2004-03
+0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 20031213 PNE  Minor corrections, Added BFC
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2003-12-13 [pneaster] Minor corrections, Added BFC
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 outside patternable surfaces
+0 // outside patternable surfaces
+
 4 16 40 4 -76 40 4 4 40 44 4 40 44 -76
 4 16 40 -4 -80 40 -4 -4 40 4 -4 40 4 -80
 4 16 -40 44 4 -40 4 4 -40 4 -76 -40 44 -76

@@ -1,9 +1,14 @@
 0 Brick  1 x  2 with Shell Logo I Pattern
 0 Name: 3004p60.dat
-0 Author: Tore Eriksson 1998
-0 Official LCad update 98-08
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 1998-08
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Shell Logo I
+0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
+0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Shell Logo I
 4 14 0 19.774 -10 0.586 19.501 -10 0.874 19.207 -10 0 11.038 -10
 4 14 0 19.774 -10 -0.586 19.501 -10 -0.874 19.207 -10 0 11.038 -10
 4 14 0.874 19.207 -10 5.279 18.913 -10 5.934 15.7 -10 5.198 13.894 -10

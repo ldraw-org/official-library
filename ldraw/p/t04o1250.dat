@@ -1,9 +1,14 @@
 0 Torus Outside  1 x 0.1250 x 0.25
 0 Name: t04o1250.dat
-0 Author: Franklin W. Cain, using Paul Easter's Primitive Generator
-0 LDRAW_ORG Primitive UPDATE 2004-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Primitive UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-10-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 1 .125 0 1.0478 .1155 0 .9681 .1155 .401 .9239 .125 .3827
 5 24 1 .125 0 .9239 .125 .3827 1.0478 .1155 0 .9522 .1155 0

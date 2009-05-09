@@ -1,11 +1,17 @@
 0 Hinge Panel  2 x  4 x  3 & 1/3 with MTron Pattern
 0 Name: 2582p68.dat
-0 Author: John VanZwieten
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2003-10-14 AJW Subfiled, BFC'd
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2003-10-14 [westrate] Subfiled, BFC'd
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2582s01.dat
 0 Pattern

@@ -1,10 +1,15 @@
 0 Minifig Torso with Red Cross Pattern
 0 Name: 973p24.dat
-0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 LDRAW_ORG Part UPDATE 2001-01
+0 Author: Joachim Probst
+0 !LDRAW_ORG Part UPDATE 2001-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2000-11-05 CWD Moved neck mark from s\973s01.dat
-0 2001-10-22 PNE Corrected overshading on cross
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2000-11-05 [cwdee] Moved neck mark from s\973s01.dat
+0 !HISTORY 2001-10-22 [pneaster] Corrected overshading on cross
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 -- Frontseite --

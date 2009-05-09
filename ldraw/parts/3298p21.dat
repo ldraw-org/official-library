@@ -1,7 +1,12 @@
 0 Slope Brick 33  3 x  2 with Red Stars Pattern
 0 Name: 3298p21.dat
-0 Author: Tore Eriksson
-0 Official LCad update 98-03
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 1998-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 3 4 4 13.05 -35.81 16 13.05 -35.81 10 14.625 -38.925
 3 4 8 13.05 -35.81 12 13.05 -35.81 10 10.98 -31.716

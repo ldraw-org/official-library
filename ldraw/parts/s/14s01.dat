@@ -1,13 +1,17 @@
 0 ~Roadsign Round without Front Face
 0 Name: s\14s01.dat
 0 Author: Manfred Moolhuysen
-0 LDRAW_ORG Subpart UPDATE 2005-01
+0 !LDRAW_ORG Subpart UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // ????-??-??  MM       Acknowledgements to James Jessiman, the original designer of 14.dat
-0 // 2003-08-01  Steffen  BFCed, made use of subfile
-0 // 2004-10-16  CWD      Inserted wedges between post top and cylinder
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 2003-08-01 [Steffen] BFCed, made use of subfile
+0 !HISTORY 2004-10-16 [cwdee] Inserted wedges between post top and cylinder
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 -88 2 -14.1421 0 -14.1421 14.1421 0 -14.1421 0 20 0 3-4edge.dat
 1 16 0 -88 -2 -14.1421 0 -14.1421 14.1421 0 -14.1421 0 20 0 3-4edge.dat

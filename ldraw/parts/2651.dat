@@ -1,11 +1,15 @@
 0 Hinge Hook Arm
 0 Name: 2651.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2003-03
-
-0 KEYWORDS hydraulic, boat, ship, container, crane, Trains, truck, towtruck
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !KEYWORDS hydraulic, boat, ship, container, crane, Trains, truck, towtruck
+
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 -26.5 0 0 1 0 3 0 0 0 0 3 4-4edge.dat
 1 16 0 -48.5 -4 0 0 -8 7.5 0 0 0 -1 0 1-8edge.dat
@@ -42,17 +46,17 @@
 1 16 0 -48.5 -4 0 0 -8 7.5 0 0 0 8 0 1-8cyli.dat
 1 16 4 -32.25 0 0 4 0 1.5 0 0 0 0 1.5 4-4cyli.dat
 1 16 0 -55 -4 8 0 0 0 0 -7.5 0 8 0 3-8cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 1 -26.5 0 0 3 0 1.5 0 0 0 0 1.5 4-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 -48.5 -4 4 0 0 0 0 3.75 0 8 0 3-8cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 -55 -4 4 0 0 0 0 -3.75 0 8 0 3-8cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 6.75 -8.25 -9.696 0 0 -1.75 -1.75 0 0 0.3045 4 0 2-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 6.75 -8.25 9.696 0 0 -1.75 -1.75 0 0 -0.3045 -4 0 2-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 -26.5 0 0 1 0 1.5 0 0 0 0 1.5 4-4con1.dat
 
 2 24 -2.848 -45.848 -4 -2.848 -45.848 4

@@ -1,9 +1,14 @@
 0 Excavator Arm 2 x 6 x 2
 0 Name: 3314.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2003-01
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 place bucket x784 at {79.572 -38.97 0}
+0 !HELP place bucket x784 at {79.572 -38.97 0}
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 79.572 -38.97 2.5 0 0 4 4 0 0 0 17.5 0 2-4cyli.dat
 1 16 79.572 -38.97 2.5 0 0 4 4 0 0 0 1 0 2-4edge.dat

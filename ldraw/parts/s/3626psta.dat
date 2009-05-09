@@ -1,7 +1,12 @@
 0 ~Minifig Head with SW Tusken Raider Pattern - Silver Detail
 0 Name: s\3626psta.dat
-0 Author: Thomas Burger
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -3.5 8 -12.3038 -3.5 9 -12.3038 -3.1246 9.0761 -12.3785 -2.7493 8.1522 -12.4531
 4 16 -2.7493 8.1522 -12.4531 -2.1129 8.5858 -12.5797 -2.8064 9.2929 -12.4418 -3.1246 9.0761 -12.3785

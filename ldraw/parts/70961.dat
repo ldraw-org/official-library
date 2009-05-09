@@ -1,9 +1,14 @@
 0 Technic Bumper  2 x  4 Rubber 
 0 Name: 70961.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2001-02
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2001-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Position at {0 0 -10} relative to holder
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 !HELP Position at {0 0 -10} relative to holder
 
  1 16 0 12 -20 -40 0 0 0 0 8 0 -1 0 rect.dat
  1 16 0 32 -4 -40 0 0 0 1 0 0 0 -4 rect.dat

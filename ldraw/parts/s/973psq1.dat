@@ -1,9 +1,14 @@
 0 ~Minifig Torso with SW Imperial Officer - Silver Detail
 0 Name: s\973psq1.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 comm-link
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // comm-link
  1 16 11.250 4.250 -10 0.25 0 0 0 0 0.25 0 1 0 4-4disc.dat
  1 16 11.750 4.250 -10 0.25 0 0 0 0 0.25 0 1 0 4-4disc.dat
  1 16 12.250 4.250 -10 0.25 0 0 0 0 0.25 0 1 0 4-4disc.dat

@@ -1,7 +1,13 @@
-0 Train Level Crossing Gate Crossbar - Type 1
+0 Train Level Crossing Gate Type 1 - Crossbar
 0 Name: 815.dat
 0 Author: Arne Hackstein
-0 Official LCad update 98-10
+0 !LDRAW_ORG Part UPDATE 1998-10
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
+0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10
+0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 6.5 -40 36 -6.5 -40 36 
  2 24 -6.5 -40 36 -6.5 -55 36 

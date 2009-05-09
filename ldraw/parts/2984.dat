@@ -1,10 +1,14 @@
 0 Electric Technic Micromotor Top
 0 Name: 2984.dat            
-0 Author: Remco Braak <rbraak@nat.vu.nl>          
-0 Modified By: Jonathan Wilson          
-0 LDRAW_ORG Part UPDATE 2002-02
+0 Author: Remco Braak
+0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2000-Dec-30 Bram Lambrecht <bram@cwru.edu>
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2000-12-30 {Bram Lambrecht} Updated
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-05-23 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 20 -10 -20 20 -10 20      
  2 24 20 -10 20 -20 -10 20      

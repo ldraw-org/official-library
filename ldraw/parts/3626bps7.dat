@@ -1,13 +1,17 @@
 0 Minifig Head with SW Black Eyebrows and Scars Pattern
 0 Name: 3626bps7.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Part UPDATE 2002-03
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2002-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c7
+0 !KEYWORDS face, frown, grim, Star Wars, Classic Trilogy, Darth Vader, Anakin Skywalker
+0 !KEYWORDS Sith, Sith Lord, Empire, evil, villain, bad guy, eyebrows, scar, scars 
+0 !KEYWORDS scarred, burn marks, sunken eye sockets, pockets under eyes, wrinkles
+0 !CMDLINE -c7
 
-0 KEYWORDS face, frown, grim, Star Wars, Classic Trilogy, Darth Vader, Anakin Skywalker
-0 KEYWORDS Sith, Sith Lord, Empire, evil, villain, bad guy, eyebrows, scar, scars 
-0 KEYWORDS scarred, burn marks, sunken eye sockets, pockets under eyes, wrinkles
+0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs01.dat
 0

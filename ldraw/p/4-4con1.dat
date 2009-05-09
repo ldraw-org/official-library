@@ -1,13 +1,17 @@
 0 Cone  1 x 1.0
 0 Name: 4-4con1.dat
-0 Author: Steve Bliss
-0 LDRAW_ORG Primitive UPDATE 2003-02
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Primitive UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 1999-08-19 SEB Renamed 4-4con12.dat to 4-4con1.dat
-0 1999-08-19 SEB Moved all conditional lines before quads
-0 2002-12-11 CWD Standardised title and made BFC compliant
+0 !HISTORY 1999-08-19 [sbliss] Renamed 4-4con12.dat to 4-4con1.dat, Moved all conditional lines before quads
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2002-12-11 [cwdee] Standardised title and made BFC compliant
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 5 24 0 1 1 0 0 2 0.3827 1 0.9239 -0.3827 1 0.9239
 5 24 -0.3827 1 0.9239 -0.7654 0 1.8478 0 1 1 -0.7071 1 0.7071

@@ -1,11 +1,15 @@
 0 Minifig Legs Old
 0 Name: 15.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2004-01
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
 0 BFC CERTIFY CW
 
-0 // 2003-08-04 M Kennedy - Completed header, BFC'ed, Optimized
+0 !HISTORY 2003-08-04 [mkennedy] Completed header, BFC'ed, Optimized
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 -16 32 6 16 32 6 20 32 10 -20 32 10
  4 16 -16 32 -6 -16 32 6 -20 32 10 -20 32 -10

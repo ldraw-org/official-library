@@ -1,10 +1,15 @@
 0 Magnet Holder Plate  2 x  2 Bottom
 0 Name: 30159.dat
-0 Author: Steve Bliss
-0 Official LCad update 99-05
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 1999-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Magnet
-0 KEYWORDS plate, magnet holder, gizmo
+0 !KEYWORDS plate, magnet holder, gizmo
+
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 20 0 20 20 0 -20
 2 24 20 0 -20 -20 0 -20

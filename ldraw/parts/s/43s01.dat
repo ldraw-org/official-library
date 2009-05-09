@@ -1,23 +1,24 @@
 0 ~Flag  6 x  4 without Front and Back
 0 Name: s\43s01.dat
-0 Author: Franklin W. Cain <fwcain@yahoo.com>
-0 LDRAW_ORG Subpart UPDATE 2003-02
-
-0 Used for plain and decorated 4x6 flags
-0 included in older Lego Pirate and Lego Castle sets
-0
-0 Uncomment this line for Front:
-0 4 16 -2 96 130 -2 0 130 -2 0 10 -2 96 10
-0
-0 Uncomment this line for Back:
-0 4 16 2 0 10 2 0 130 2 96 130 2 96 10
-0
-0 Put decorations in "Z = -2" (front) and "Z = 2" (back).
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 2002-12-13 CWD Corrected size, BFC compliance
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2002-12-13 [cwdee] Corrected size, BFC compliance
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Used for plain and decorated 4x6 flags
+0 // included in older Lego Pirate and Lego Castle sets
+0 // Uncomment this line for Front:
+0 // 4 16 -2 96 130 -2 0 130 -2 0 10 -2 96 10
+0 // Uncomment this line for Back:
+0 // 4 16 2 0 10 2 0 130 2 96 130 2 96 10
+0 // Put decorations in "Z = -2" (front) and "Z = 2" (back).
 4 16 2 0 10 -2 0 10 -2 0 130 2 0 130
 4 16 -2 96 130 -2 96 10 2 96 10 2 96 130
 4 16 2 0 130 -2 0 130 -2 96 130 2 96 130

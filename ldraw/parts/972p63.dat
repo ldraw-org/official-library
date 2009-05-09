@@ -1,11 +1,16 @@
 0 Minifig Leg Left with Robot Pattern
 0 Name: 972p63.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2002-04
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Move down 12 units to align with hips
+0 !HELP Move down 12 units to align with hips
 
-0 2002-05-29 FWC Moved all front surfaces to "main" file (from subfile)...  
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2002-05-29 [fwcain] Moved all front surfaces to "main" file (from subfile)...  
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-07-27 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 1.50 20 -6 1.50 20 -11 19.18 20 -11 19.18 20 -6
  4 16 1.50 20 -11 1.50 28 -11 19.50 28 -11 19.18 20 -11

@@ -1,7 +1,12 @@
 0 Glass for Window  1 x  4 x  5 with 5 White Stripes Pattern
 0 Name: 2494p01.dat
-0 Author: Kevin M Bane 9/17/99
-0 Official LCad Part 2000-01
+0 Author: Kevin M Bane
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Not redistributable : see NonCAreadme.txt
+
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 36 112 -2 -36 112 -2 
  2 24 -36 112 -2 -36 112 -6 

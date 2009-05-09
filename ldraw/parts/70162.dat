@@ -1,7 +1,11 @@
 0 Technic Wedge Belt Wheel Tyre
 0 Name: 70162.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 !LDRAW_ORG Part ORIGINAL
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 30 0 -2 28.98 -7.76 -2
  2 24 30 0 2 28.98 -7.76 2

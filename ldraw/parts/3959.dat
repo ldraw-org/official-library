@@ -1,23 +1,25 @@
 0 Minifig Torch
 0 Name: 3959.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2004-01
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Space, Castle, Pirates, bar, rod, round
+0 !KEYWORDS female stud, axlehole, axle hole, Technic axle
+0 !KEYWORDS tool, torch, lamp, light, signal
+0 !KEYWORDS laser, blaster, gun, weapon, scanner, sensor
 
-0 CATEGORY Minifig Accessory
-
-0 KEYWORDS Space, Castle, Pirates, bar, rod, round
-0 KEYWORDS female stud, axlehole, axle hole, Technic axle
-0 KEYWORDS tool, torch, lamp, light, signal
-0 KEYWORDS laser, blaster, gun, weapon, scanner, sensor
-
-0 // 2002-07-16  FWC      added keywords
-0 // 2002-07-22  OWP      added ribs; made some primitive substitutions
-0 // 2003-06-30  Steffen  certified for BFC
-0 // 2003-11-10  FWC      fixed notches ("ribs"); added more keywords
-0 // 2003-11-17  OWP      fixed small problem with lines
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2002-07-16 [fwcain] added keywords
+0 !HISTORY 2002-07-22 [OrionP] added ribs; made some primitive substitutions
+0 !HISTORY 2003-06-30 [Steffen] certified for BFC
+0 !HISTORY 2003-11-10 [fwcain] fixed notches ("ribs"); added more keywords
+0 !HISTORY 2003-11-17 [OrionP] fixed small problem with lines
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 BFC INVERTNEXT
 1 16 0 0 -24 6 0 0 0 0 6 0 4 0 4-4cyli.dat

@@ -1,16 +1,22 @@
 0 Minifig Cap
 0 Name: 4485.dat
-0 Author: Thomas Burger (ber00439@berk.com)
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 CATEGORY Minifig Accessory
-0 KEYWORDS cap, hat, ballcap, baseball, sports
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS cap, hat, ballcap, baseball, sports
 
-0 // 2003-09-24 AJW Fixed gaps and inner radius; Replaced quads with primitives; BFC'd
-0 // 2003-12-03 FWC added meta-statements...  
+0 !HISTORY 1998-05-21 [PTadmin] Official Update 1998-05
+0 !HISTORY 2003-09-24 [westrate] Fixed gaps and inner radius; Replaced quads with primitives; BFC'd
+0 !HISTORY 2003-12-03 [fwcain] added meta-statements...  
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 brim
+0 // brim
+
 1 16 0 8 0 1 0 0 0 -1 0.071 0 0 1 4-4rin13.dat
 1 16 0 8 0 14 0 0 0 -1 -1 0 0 -14 2-4ndis.dat
 1 16 0 5 0 -14 0 0 0 1 -1 0 0 -14 2-4ndis.dat

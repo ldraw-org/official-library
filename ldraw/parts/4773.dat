@@ -1,12 +1,16 @@
 0 Electric Light & Sound Colored Globe
 0 Name: 4773.dat
-0 Author: Thomas Burger
-0 LDRAW_ORG Part UPDATE 2001-02
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Part UPDATE 2001-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2000-09-18 TLC Removed two cylinders and elongated and
-0                repositioned two others to fix two gaps and
-0                get rid of redundant polygons.  Also replace
-0                16 quads which formed a ring with 4 1/4 rings.
+0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2000-09-18 [unknown] Removed two cylinders and elongated and repositioned two others to fix two gaps and get rid of redundant polygons. 
+0 !HISTORY 2000-09-18 [unknown] Also replace 16 quads which formed a ring with 4 1/4 rings.
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
  1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4edge.dat

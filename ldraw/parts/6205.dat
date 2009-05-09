@@ -1,13 +1,15 @@
 0 Tile  6 x 16 with Studs on 3 Edges
 0 Name: 6205.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2003-03
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2003-01-09 DS BFC'd and fixed stud4 placement
-
+0 !HISTORY 2003-01-09 [technog] BFC'd and fixed stud4 placement
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 140 4 40 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 120 4 40 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -84,7 +86,7 @@
 1 16 -100 4 -40 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -120 4 -40 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -140 4 -40 1 0 0 0 -1 0 0 0 1 stud4.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 8 0 156 0 0 0 -4 0 0 0 56 box5.dat
 4 16 -160 8 60 -156 8 56 156 8 56 160 8 60
 4 16 160 8 60 156 8 56 156 8 -56 160 8 -60

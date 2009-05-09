@@ -1,9 +1,14 @@
 0 Minifig Torso with Pirate Stripes Pattern (Red/Black)
 0 Name: 973p33.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2001-01
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2001-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2000-11-05 CWD Moved neck mark from s\973s01.dat
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2000-11-05 [cwdee] Moved neck mark from s\973s01.dat
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 3 16 -3.5 2.25 -10 -3.5 0 -10 -7 0 -10
 4 16 0 3 -10 0 0 -10 -3.5 0 -10 -3.5 2.25 -10 

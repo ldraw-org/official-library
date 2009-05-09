@@ -1,12 +1,17 @@
 0 Minifig Torso with SW Imperial Shuttle Pilot Pattern
 0 Name: 973psn.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Part UPDATE 2002-04
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c0
-0 KEYWORDS Star Wars, Classic Trilogy, Imperial, Empire, Death Star
-0 KEYWORDS set 7166, Imperial Shuttle, Emperor's Shuttle, adjutant, aide
-0 KEYWORDS military, uniform, tunic, jacket
+0 !KEYWORDS Star Wars, Classic Trilogy, Imperial, Empire, Death Star
+0 !KEYWORDS set 7166, Imperial Shuttle, Emperor's Shuttle, adjutant, aide
+0 !KEYWORDS military, uniform, tunic, jacket
+0 !CMDLINE -c0
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1  16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
  1 383 0 0 0 1 0 0 0 1 0 0 0 1 s\973psn1.dat

@@ -1,9 +1,13 @@
 0 Baseplate 32 x 48 Raised with Ramp, Pit and Stairs
 0 Name: 6261.dat
-0 Author: Jeff "Auld Dragon" Stembel  < Dragonelf1@aol.com >
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Jeff Stembel
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 // 2004-03-17  AJW  Fixed bowtie quads
+0 !HISTORY 2004-03-17 [westrate] Fixed bowtie quads
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 -470 0 310 1 0 0 0 1 0 0 0 1 stud.dat
  1 16 -450 0 310 1 0 0 0 1 0 0 0 1 stud.dat

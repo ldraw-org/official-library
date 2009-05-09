@@ -1,14 +1,21 @@
 0 Minifig Head with Standard Grin Pattern
 0 Name: 3626bp01.dat
-0 Author: Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 1999-03 Chris Dee (chris_w_dee@hotmail.com)  Modified
-0 // 2003-11-02 Hmick corrected overlapping quads
-0 // 2004-04-06 SEB BFC'ed
-0 // 2004-04-15 AJW added torus primitives
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
+0 !HISTORY 2003-11-02 [hmick] corrected overlapping quads
+0 !HISTORY 2004-04-06 [sbliss] BFC'ed
+0 !HISTORY 2004-04-15 [westrate] added torus primitives
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -4.975 4 -12.01 -4.975 8.75 -12.01 0 8.75 -13 0 4 -13
 4 16 0 4 -13 0 8.75 -13 4.975 8.75 -12.01 4.975 4 -12.01

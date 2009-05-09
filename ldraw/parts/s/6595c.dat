@@ -1,16 +1,14 @@
-0 ~Subpart 1-4 6595 Wheel
-0 Name: 6595c.dat
-0 Author: ONYX (J Boen) onyx@flash.net
-0 Official LCad update 99-04
+0 ~6595 Wheel 1-4
+0 Name: s\6595c.dat
+0 Author: Jeff Boen
+0 !LDRAW_ORG Subpart UPDATE 1999-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 This element was modeled using 3DSMAX 2.x, exported to ASCII
-0 and converted to .DAT format by MAX2DAT
-0 
-0 3DSMAX ASCII output file: 1-4 6595 hub and tire.ase
-0
-0
-0 3DSMAX Object: Axle Hole
-0 Faces (Quads and Triangles)
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Faces (Quads and Triangles)
  4 16 -19 -9 0 -19 -5.54 2.30 -19 -8.31 3.44 -19 -6 0 
  4 16 -3 -6 0 -3 -8.31 3.44 -3 -5.54 2.30 -3 -9 0 
  4 16 -19 -8.31 3.44 -19 -4.24 4.24 -19 -6.36 6.36 -19 -5.54 2.30 

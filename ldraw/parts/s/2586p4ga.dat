@@ -1,9 +1,14 @@
 0 ~Minifig Shield Ovoid with Bull Head - Orange-Brown Detail
 0 Name: s\2586p4ga.dat
-0 Author: Andrew Westrate
-0 LDRAW_ORG Subpart UPDATE 2005-01
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Subpart UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 -14.5 -8 0 0 19 -19 0 0 0 1 0 1-8chrd.dat
 1 16 0 -14.5 -8 13.435 0 13.435 -13.435 0 13.435 0 1 0 1-8chrd.dat

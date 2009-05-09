@@ -1,11 +1,16 @@
 0 ~Flag  2 x  2 with Goblets & Grapes Pattern - Gold Detail
 0 Name: s\2335ps4b.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Subpart UPDATE 2004-03
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Subpart UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 Goblet
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Goblet
 1 16 0 23.25 39.125 0 -1 0 0 0 -2.5 -2.375 0 0 1-4disc.dat
 1 16 0 25.125 20.75 0 -1 0 -3.875 0 0 0 0 -0.625 2-4disc.dat
 1 16 0 25.125 20.75 0 -1 0 -3.875 0 0 0 0 1 2-4disc.dat

@@ -1,7 +1,13 @@
 0 Minifig Arrow Quiver
 0 Name: 4498.dat
-0 Author: John VanZwieten
-0 Official LCad update 99-06
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Part UPDATE 1999-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2007-07-04 [PTadmin] Replaced box3#8p references with box3u8p
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
  1 16 0 -3 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
@@ -171,9 +177,9 @@
  1 16 21.069 9.167 -16 1.768 0.707 0 1.768 -0.707 0 0 0 -2.5 1-4disc.dat
  1 16 21.069 9.167 -16 1.768 0.707 0 1.768 -0.707 0 0 0 -2.5 1-4cyli.dat
 0
- 1 16 17.976 5.367 -18 3.447 0 -0.354 3.447 0 0.354 0 -0.5 0 box3#8p.dat
- 1 16 3.836 19.507 -18 3.447 0 -0.354 3.447 0 0.354 0 -0.5 0 box3#8p.dat
- 1 16 -10.304 33.647 -18 3.447 0 -0.354 3.447 0 0.354 0 -0.5 0 box3#8p.dat
+ 1 16 17.976 5.367 -18 3.447 0 -0.354 3.447 0 0.354 0 -0.5 0 box3u8p.dat
+ 1 16 3.836 19.507 -18 3.447 0 -0.354 3.447 0 0.354 0 -0.5 0 box3u8p.dat
+ 1 16 -10.304 33.647 -18 3.447 0 -0.354 3.447 0 0.354 0 -0.5 0 box3u8p.dat
  2 24 10.553 12.791 -18.5 3.847 12.603 -18.5
  2 24 10.741 19.496 -18.5 10.553 12.791 -18.5
  2 24 10.532 12.063 -18.5 10.365 6.085 -18.5

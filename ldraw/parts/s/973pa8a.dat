@@ -1,7 +1,12 @@
-0 ~Minifig Torso with Jacket, Necklace, and Compass - Silver Detail
+0 ~Minifig Torso with Jacket, Necklace, and Compass - Silver 
 0 Name: s\973pa8a.dat
-0 Author: George Barnes (glbarnes@gdi.net)
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: George Barnes [glbarnes]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 3 16 0.4 15.4 -10 1.8607 14.6393 -10 1.3 16.2 -10
 3 16 0.4 15.4 -10 1.3 16.2 -10 -0.2607 16.7607 -10

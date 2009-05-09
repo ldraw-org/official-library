@@ -1,11 +1,14 @@
 0 Technic Liftarm  1 x  9 Offset Cross
 0 Name: 32079.dat
-0 Author: ISHINO Keiichiro
-0 Created: 2000/03/05
-0 Updated: 2000/09/10
-0 Official LCAD Part - 2000-02 Update
+0 Author: Ishino Keiichiro
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Right ---------------------------
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Right ---------------------------
 
  1 16 0 -10 160 9 0 0 0  0 0 0 0  9 2-4edge.dat
  1 16 0  10 160 9 0 0 0  0 0 0 0  9 2-4edge.dat

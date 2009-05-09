@@ -1,13 +1,17 @@
 0 Windscreen  4 x  7 x  2 Round
 0 Name: 30384.dat
 0 Author: Karim Nassar
-0 LDRAW_ORG Part UPDATE 2001-03
+0 !LDRAW_ORG Part UPDATE 2001-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 2001-07-06 PNE  Added BFC, Replaced quads with primitives
-0 for better rendering
-0 2001-11-23 PNE corrected BFC use of primitive files.
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2001-07-06 [pneaster] Added BFC, Replaced quads with primitives for better rendering
+0 !HISTORY 2001-11-23 [pneaster] corrected BFC use of primitive files.
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 -4 -30 -1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 0 -40 -4.243 0 4.243 0 1 0 -4.243 0 -4.243 1-4edge.dat

@@ -1,10 +1,17 @@
 0 Panel  2 x  6 x  6 Log Wall
 0 Name: 30140.dat
-0 Author: Steve Bliss
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS wall, log, timber, wild west, pirates, ninja, adventurers
 0 BFC NOCERTIFY
+0 !KEYWORDS wall, log, timber, wild west, pirates, ninja, adventurers
+
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 40 144 0 40 144 -17
 2 24 -40 144 -17 -40 144 0

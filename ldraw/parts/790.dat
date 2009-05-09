@@ -1,11 +1,16 @@
 0 Fabuland Roof Chimney
-0 Name: 790.DAT
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2001-03
+0 Name: 790.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2001-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Origin is 0 -24 20 relative to Fabuland Roof Slope
+0 !HELP Origin is 0 -24 20 relative to Fabuland Roof Slope
 
-0 inside
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // inside
 4 16 17 -26 -3 17 -26 -37 -17 -26 -37 -17 -26 -3
 2 24 17 -26 -3 3.894 -26 -3
 2 24 -3.894 -26 -3 -17 -26 -3

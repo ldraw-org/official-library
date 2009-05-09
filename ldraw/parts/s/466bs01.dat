@@ -1,9 +1,14 @@
 0 ~Minifig Book Front without Front Cover
 0 Name: s\466bs01.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC NOCERTIFY
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16  17   0  -1 17  0  0  0  0 27  0  3  0  box5.dat
 0

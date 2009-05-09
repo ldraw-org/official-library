@@ -1,11 +1,16 @@
 0 ~Pattern Town TV Logo
 0 Name: s\71472s01.dat
-0 Author: Willy Tschager
-0 LDRAW_ORG Subpart UPDATE 2004-04
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Subpart UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 Logo
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Logo
 4 9 -1.063 0 -3.43 -1.063 0 16.266 1.063 0 16.266 1.063 0 -3.43
 3 9 -1.063 0 -3.43 1.063 0 -3.43 0 0 -5.563
 4 9 1.063 0 -3.43 3.203 0 -2.987 4.749 0 -5.246 0 0 -5.563

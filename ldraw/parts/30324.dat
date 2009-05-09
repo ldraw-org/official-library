@@ -1,9 +1,14 @@
 0 Wheel Hard with Treads
 0 Name: 30324.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2002-01
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2002-01-02 CWD Added missing spoke edges
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2002-01-02 [cwdee] Added missing spoke edges
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 0 1 0 -1 0 peghole.DAT
 1 16 0 0 0 4 0 0 0 0 4 0 1 0 ring2.dat

@@ -1,26 +1,28 @@
 0 ~Dish  8 x  8 without Top Faces
 0 Name: s\3961s01.dat
-0 Author: Lutz Uhlmann, DAT Code
-0 Author: Orion Pobursky, File Prep
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 Uncomment for top faces
-0 1 16 0 3 0 20 0 0 0 -3 0 0 0 20 48\1-4con1.dat
-0 1 16 0 3 0 0 0 20 0 -3 0 -20 0 0 48\1-4con1.dat
-0 1 16 0 3 0 -20 0 0 0 -3 0 0 0 -20 48\1-4con1.dat
-0 1 16 0 3 0 0 0 -20 0 -3 0 20 0 0 48\1-4con1.dat
-0 1 16 0 9 0 20 0 0 0 -6 0 0 0 20 48\1-4con2.dat
-0 1 16 0 9 0 0 0 20 0 -6 0 -20 0 0 48\1-4con2.dat
-0 1 16 0 9 0 -20 0 0 0 -6 0 0 0 -20 48\1-4con2.dat
-0 1 16 0 9 0 0 0 -20 0 -6 0 20 0 0 48\1-4con2.dat
-0 1 16 0 16 0 20 0 0 0 -7 0 0 0 20 48\1-4con3.dat
-0 1 16 0 16 0 0 0 20 0 -7 0 -20 0 0 48\1-4con3.dat
-0 1 16 0 16 0 -20 0 0 0 -7 0 0 0 -20 48\1-4con3.dat
-0 1 16 0 16 0 0 0 -20 0 -7 0 20 0 0 48\1-4con3.dat
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-
+0 // Uncomment for top faces
+0 // 1 16 0 3 0 20 0 0 0 -3 0 0 0 20 48\1-4con1.dat
+0 // 1 16 0 3 0 0 0 20 0 -3 0 -20 0 0 48\1-4con1.dat
+0 // 1 16 0 3 0 -20 0 0 0 -3 0 0 0 -20 48\1-4con1.dat
+0 // 1 16 0 3 0 0 0 -20 0 -3 0 20 0 0 48\1-4con1.dat
+0 // 1 16 0 9 0 20 0 0 0 -6 0 0 0 20 48\1-4con2.dat
+0 // 1 16 0 9 0 0 0 20 0 -6 0 -20 0 0 48\1-4con2.dat
+0 // 1 16 0 9 0 -20 0 0 0 -6 0 0 0 -20 48\1-4con2.dat
+0 // 1 16 0 9 0 0 0 -20 0 -6 0 20 0 0 48\1-4con2.dat
+0 // 1 16 0 16 0 20 0 0 0 -7 0 0 0 20 48\1-4con3.dat
+0 // 1 16 0 16 0 0 0 20 0 -7 0 -20 0 0 48\1-4con3.dat
+0 // 1 16 0 16 0 -20 0 0 0 -7 0 0 0 -20 48\1-4con3.dat
+0 // 1 16 0 16 0 0 0 -20 0 -7 0 20 0 0 48\1-4con3.dat
 2 24 16 4 10 16 4 -10
 2 24 -16 4 10 -16 4 -10
 2 24 10 4 16 -10 4 16

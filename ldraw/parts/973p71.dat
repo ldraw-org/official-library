@@ -1,16 +1,16 @@
 0 Minifig Torso with Red Necklace and Blue Undershirt Pattern
 0 Name: 973p71.dat
-0 Author: Heather Patey (hpatey@nfld.com), DAT code
-0 Author: Franklin W. Cain, file prep
-0 LDRAW_ORG Part UPDATE 2002-04
+0 Author: Heather Patey 
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Originally posted on 22 Jun 2001
-0 (URL: "http://news.lugnet.com/cad/dat/parts/?n=2663")
+0 !KEYWORDS Castle, Trains, Town, bead, beads, string, circles, scoop neck, chain
+0 !KEYWORDS female, woman, girl, princess, queen, maiden
+0 !CMDLINE -c15
 
-0 CMDLINE -c15
-0 KEYWORDS Castle, Trains, Town, bead, beads, string, circles, scoop neck, chain
-0 KEYWORDS female, woman, girl, princess, queen, maiden
-
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0

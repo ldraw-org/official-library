@@ -1,14 +1,18 @@
 0 Minifig Torso with SW Rebel Mechanic Pattern
 0 Name: 973psa.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2002-04
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c382
+0 !KEYWORDS Star Wars, Classic Trilogy, Rebel Alliance, Luke Skywalker
+0 !KEYWORDS Bespin, "Cloud City", technician, engineer, engineering, uniform
+0 !KEYWORDS khaki, khakis, fatigues, overalls, coveralls, 7140, 7180, 7134
+0 !KEYWORDS X-Wing, B-Wing, A-Wing
+0 !CMDLINE -c382
 
-0 KEYWORDS "Star Wars", "Classic Trilogy", "Rebel Alliance", "Luke Skywalker"
-0 KEYWORDS Bespin, "Cloud City", technician, engineer, engineering, uniform
-0 KEYWORDS khaki, khakis, fatigues, overalls, coveralls, 7140, 7180, 7134
-0 KEYWORDS X-Wing, B-Wing, A-Wing
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0

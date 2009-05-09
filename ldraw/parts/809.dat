@@ -1,7 +1,12 @@
 0 Baseplate 40 x 24 Gravel Quarry with Set EU360/US580 Dot Pattern
 0 Name: 809.dat
 0 Author: Arne Hackstein
-0 Official LCad update 98-03
+0 !LDRAW_ORG Part UPDATE 1998-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
+0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16  370 0 230 1 0 0 0 1 0 0 0 1 stud.dat
  1 16  350 0 230 1 0 0 0 1 0 0 0 1 stud.dat

@@ -1,12 +1,17 @@
 0 Minifig Tool Hammer
 0 Name: 6246b.dat
-0 Author: Steve Bliss
-0 Official LCad Part 2000-01
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 19990819 SEB Changed 4-4con12.dat >> 4-4con1.dat
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Minifig tools, hammer small, toolset
 
-0 CATEGORY Minifig Accessory
-0 KEYWORDS Minifig tools hammer small toolset
+0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -8 2 -2.5 -8 2 2.5
 2 24 -8 2 2.5 6 2 2.5

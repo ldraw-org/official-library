@@ -1,9 +1,15 @@
-0 Minifig Hat Bicorne without Front or Back
+0 ~Minifig Hat Bicorne without Front or Back
 0 Name: s\2528s01.dat
-0 Author: Andrew Westrate
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Interior
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Interior
+
 1 16 0 6 0 0 -0.196034 1.99037 0 1.99037 0.196034 -2 0 0 2-4ring7.dat
 1 16 0 6 0 0 0.196034 -1.99037 0 1.99037 0.196034 2 0 0 2-4ring7.dat
 1 16 0 6 0 0 -1.37224 13.9326 0 13.9326 1.37224 -14 0 0 2-4edge.dat

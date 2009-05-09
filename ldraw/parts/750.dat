@@ -1,29 +1,32 @@
 0 Hose Flexible End  1 x  1 x  2/3 with Tabs
 0 Name: 750.dat
-0 Author: Steve Bliss
-0 Official LCad update 99-05
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 1999-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 This file, the End piece, forms each end of
-0 a flexible hose.
+0 !KEYWORDS gizmo, hose, flexible, minifig, space, tube, end, tabs, cap
 
-0 Use this file in conjuction with the files:
-0 754.dat Link Section
-0 755.dat Cup Section
-0 756.dat Center Section
-0 to manually construct complete flexible tubes.
+0 !HELP This file, the End piece, forms each end of a flexible hose.
+0 !HELP Use this file in conjuction with the files:
+0 !HELP  754.dat Link Section
+0 !HELP  755.dat End Section
+0 !HELP  756.dat Center Section
+0 !HELP to manually construct complete flexible tubes.
+0 !HELP Example:
+0 !HELP Start with a 750.dat End piece,
+0 !HELP Next comes a 755.dat End Section,
+0 !HELP Then a string of approximately 25 754.dat Link Sections,
+0 !HELP Place a 756.dat Center Section,
+0 !HELP Then another string of 754.dat's facing the opposite way,
+0 !HELP Then a 755.dat End Section,
+0 !HELP Finish with a 750.dat End piece.
 
-0 Example:
-0 Start with a 750.dat End piece,
-0 Next comes a 755.dat Cup Section,
-0 Then a string of approximately 25 754.dat Link Sections,
-0 Place a 756.dat Center Section,
-0 Then another string of 754.dat's facing the opposite way,
-0 Then a 755.dat Cup Section,
-0 Finish with a 750.dat End piece.
-
-0 CATEGORY Hose
-0 KEYWORDS gizmo, hose, flexible, minifig, space, tube, end, tabs, cap
-
+0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2007-12-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 16 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
 1 16 0 16 0 8 0 0 0 0 0 0 0 8 4-4edge.dat

@@ -1,7 +1,12 @@
 0 Wheel 81.6 x 15 Motorcycle
 0 Name: 2903.dat
 0 Author: Damien Duquennoy
-0 Official LCAD Part - 2000-02 Update
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\2903s01.dat
 1 16 0 0 0 -.5 -.866025 0 -.866025 .5 0 0 0 -1 s\2903s01.dat

@@ -1,11 +1,17 @@
 0 Sticker System with Classic Space Logo Pattern
 0 Name: s1.dat
-0 Author: Willy Tschager
-0 LDRAW_ORG Subpart UPDATE 2003-03
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 Red
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-10-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Red
+
 3 4 24.135 -0.25 9.744 24.846 -0.25 9.21 24.869 -0.25 8.343
 4 4 24.135 -0.25 9.744 24.869 -0.25 8.343 24.443 -0.25 7.727 23.341 -0.25 9.815
 4 4 23.341 -0.25 9.815 24.443 -0.25 7.727 23.921 -0.25 7.193 22.63 -0.25 9.672

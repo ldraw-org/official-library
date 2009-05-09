@@ -1,13 +1,19 @@
 0 Minifig Helmet Morion
 0 Name: 30048.dat
-0 Author: Andrew Westrate
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
 0 BFC CERTIFY CW
-0 KEYWORDS Pirates, Imperial Armada, Spanish Main, conquistador
- 
-0 Feather Hole
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Pirates, Imperial Armada, Spanish Main, conquistador
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Feather Hole
+
 2 24 -3 -9.5 7 -3.3044 -8.75 8.5308
 2 24 -3.3044 -8.75 8.5308 -4.1716 -7 9.8284
 2 24 -4.1716 -7 9.8284 -5.4692 -5.75 10.6956

@@ -1,11 +1,15 @@
 0 Baseplate 32 x 32 Road 3 Lane with Race Track Pattern
 0 Name: 425p01.dat
-0 Author: Alex Seeley, April 1999
-0 Official LCad Part 2000-01
+0 Author: Alex Seeley [alex]
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Appeared in set 6381
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 straight green line and grey verge
+0 // straight green line and grey verge
+
  2 24 320 0 133 320 0 117
  2 24 320 0 117 -320 0 117
  2 24 -320 0 117 -320 0 133

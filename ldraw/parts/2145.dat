@@ -1,13 +1,16 @@
 0 Arch  2 x  6 x  5 Ornamented
 0 Name: 2145.dat
-0 Author: Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2002-11-15 Hafhead: Fixed duplicate lines and bowtie quads- good enough!
-0 // 2003-05-19 PNE Fixed Remaining l3p errors, Added BFC
-
+0 !HISTORY 2002-11-15 [hafhead] Fixed duplicate lines and bowtie quads- good enough!
+0 !HISTORY 2003-05-19 [pneaster] Fixed Remaining l3p errors, Added BFC
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 43.07 44 -14 43.07 112 -14
 2 24 -43.07 44 -14 -43.07 112 -14

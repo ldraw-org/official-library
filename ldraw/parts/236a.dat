@@ -1,7 +1,11 @@
 0 ~Door  1 x  4 x  5 Frame
 0 Name: 236a.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
+0 !LDRAW_ORG Part ORIGINAL
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 -2 57 56 0 0 0 2 0 0 0 0 2 4-4edge.dat
  1 16 -5 57 56 0 0 0 2 0 0 0 0 -2 2-4edge.dat

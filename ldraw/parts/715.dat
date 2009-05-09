@@ -1,7 +1,12 @@
 0 Wheel Old with 12 Studs
 0 Name: 715.dat
-0 Author: Tore Eriksson
-0 Official LCad update 98-03
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 1998-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
+0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 41 0 -9 40.631 5.371 -9 40.631 5.371 5 41 0 5
 5 24 41 0 -9 41 0 5 40.631 -5.371 -9 40.631 5.371 -9

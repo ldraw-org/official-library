@@ -1,7 +1,13 @@
 0 Glass for Window Bay  3 x  8 x  6
 0 Name: 301.dat
-0 Author: Luis E. Fernandez (lfernand@super.zippo.com)
-0 Official LCad update 99-01
+0 Author: Luis E. Fernandez [lfernand]
+0 !LDRAW_ORG Part UPDATE 1999-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 77 5 32 77 135 32 39 135 -6 39 5 -6
 4 16 39 5 -6 39 135 -6 -39 135 -6 -39 5 -6

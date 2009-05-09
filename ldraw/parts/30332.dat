@@ -1,9 +1,14 @@
 0 Propellor  3 Blade  9 Diameter
 0 Name: 30332.dat
-0 Author: Paul Easter
-0 LDRAW_ORG Part UPDATE 2002-02
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS adventurers, rock raiders
+0 !KEYWORDS adventurers, rock raiders
+
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 -6 0 0 10 10 0 0 0 1 0 4-4edge.dat
 1 16 0 0 -6 0 0 8 8 0 0 0 1 0 4-4edge.dat

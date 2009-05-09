@@ -1,10 +1,16 @@
 0 Electric Brick  2 x  2 x  2/3 with Wire End
 0 Name: 5306.dat
 0 Author: Manfred Moolhuysen
-0 Official LCad update 99-01
+0 !LDRAW_ORG Part UPDATE 1999-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 *** Base Part ***
-0 X-shaped cavity
+0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // *** Base Part ***
+0 // X-shaped cavity
  1 16 5 14 0 0 -1 0 2 0 0 0 0 4 rect.dat
  4 16 5 16 4 2 16 4 2 12 4 5 12 4
  1 16 2 14 5 0 -1 0 2 0 0 0 0 1 rect.dat

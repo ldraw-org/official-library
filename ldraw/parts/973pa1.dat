@@ -1,11 +1,16 @@
 0 Minifig Torso with Suspenders and Red Bowtie Pattern
 0 Name: 973pa1.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Part UPDATE 2002-03
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2002-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c15
-0 KEYWORDS Adventurers, Dr. Kilroy, Prof. Kilroy, doctor, professor, old man
-0 KEYWORDS shirt, collar, belt, belt buckle, buttons, Dr. Lightning, bands
+0 !KEYWORDS Adventurers, Dr. Kilroy, Prof. Kilroy, doctor, professor, old man
+0 !KEYWORDS shirt, collar, belt, belt buckle, buttons, Dr. Lightning, bands
+0 !CMDLINE -c15
+
+0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0

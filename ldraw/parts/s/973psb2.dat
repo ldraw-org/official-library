@@ -1,18 +1,16 @@
 0 ~Minifig Torso - SW Blast Armor (Plates; 1/2)
 0 Name: s\973psb2.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Subpart UPDATE 2005-01
-
-0 COMMENT Gaps in chest plates for pattern-unique details (i.e., 
-0 COMMENT Boba Fett vs. Jango Fett)...
-0 COMMENT Co-ordinates of gap in minifig's right breastplate: 
-0 COMMENT (-2,6.5,-10), (-2,16.5,-10), (-13.25,6.5,-10), (-13.25,16.5,-10)
-0 COMMENT Co-ordinates of gap in minifig's left breastplate: 
-0 COMMENT (2,6.5,-10), (2,16.5,-10), (13.25,6.5,-10), (13.25,16.5,-10)
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2004-10-04  FWC  BFC-ed
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2004-10-04 [fwcain] BFC-ed
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 0 -12 0.5 -10   0 0.5 -10   0 1 -10 -11.75 1 -10
  2 0 -11.875 0.75 -10   0 0.75 -10

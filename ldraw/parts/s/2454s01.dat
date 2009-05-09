@@ -1,10 +1,12 @@
-0 Brick  1 x  2 x  5 without Front Face
+0 ~Brick  1 x  2 x  5 without Front Face
 0 Name: s\2454s01.dat
-0 Author: Thomas Burger (tburger34@aol.com), file prep
-0 Author: James Jessiman, original code
-0 LDRAW_ORG Subpart UPDATE 2002-05
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Subpart UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 16 120 6 6 120 6 
  2 24 6 120 6 4 120 4 

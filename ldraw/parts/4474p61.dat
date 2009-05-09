@@ -1,10 +1,15 @@
 0 Windscreen  6 x  4 x  2 Canopy with Ice Planet Logo Pattern
 0 Name: 4474p61.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 PART
-0 Hinge End
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // PART
+0 // Hinge End
 1 16 -18 0 0 0 0 0 4 0 0 0 0 4 2-4disc.dat
 1 16 -18 0 0 0 0 0 4 0 0 0 0 4 2-4edge.dat
 1 16 -2 0 0 0 -16 0 4 0 0 0 0 4 2-4cyli.dat

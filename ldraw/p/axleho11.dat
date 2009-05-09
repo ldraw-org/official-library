@@ -1,14 +1,16 @@
 0 Technic Axle Hole Reduced
 0 Name: axleho11.dat
-0 Author: Steve Bliss
-0 LDRAW_ORG Primitive UPDATE 2003-01
-
-0 This version of the axlehole has two 'fat teeth' and two 'thin teeth'.
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Primitive UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 2002-11-08 OWP Adjusted fit and precision
-
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2002-11-08 [OrionP] Adjusted fit and precision
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -6 1 0 -5.602 1 -2
 2 24 0 1 -6 -2 1 -5.602

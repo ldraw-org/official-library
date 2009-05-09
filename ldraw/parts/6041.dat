@@ -1,17 +1,19 @@
 0 Propellor  3 Blade  3.5 Diameter
 0 Name: 6041.dat
-0 Author: Paul Easter
-0 LDRAW_ORG Part UPDATE 2002-02
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS aquazone, divers
 0 BFC CERTIFY CW
+0 !KEYWORDS aquazone, divers
 
-0 2001-05-04 PNE Total Revision, made better use of primitive files.
-0 2001-11-23 PNE corrected BFC use of primitive files.
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2001-05-04 [pneaster] Total Revision, made better use of primitive files.
+0 !HISTORY 2001-11-23 [pneaster] corrected BFC use of primitive files.
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 0 ROTATION CENTER 0 0 0 1 "Custom"
-0 0 ROTATION CONFIG 0 1
-0
 1 16 0 0 12 10 0 0 0 0 10 0 -24 0 4-4cyli.dat
 1 16 0 0 12 10 0 0 0 0 10 0 10 0 4-4edge.dat
 1 16 0 0 -12 10 0 0 0 0 10 0 10 0 4-4edge.dat

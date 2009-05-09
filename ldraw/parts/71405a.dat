@@ -1,17 +1,20 @@
 0 Sticker System Cavalry Logo
 0 Name: 71405a.dat
-0 Author: Willy Tschager
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2002-10-9 Modified with WINDZ for BFC compliance
-0 // 2002-11-23 Added Thin Box
+0 !HISTORY 2002-10-09 [unknown] Modified with WINDZ for BFC compliance
+0 !HISTORY 2002-11-23 [unknown] Added Thin Box
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-19 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 Pattern
-
-0 White
-0 Border
+0 // Pattern
+0 // White
+0 // Border
 4 15 -27.663 -0.25 -24 -27.662 -0.25 -20.37 -30 -0.25 -20.37 -30 -0.25 -24
 4 15 -25.782 -0.25 -24 -25.782 -0.25 -20.547 -27.662 -0.25 -20.37 -27.663 -0.25 -24
 4 15 -25.782 -0.25 -20.547 -25.782 -0.25 -24 -23.353 -0.25 -24 -23.352 -0.25 -20.488

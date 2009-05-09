@@ -1,8 +1,12 @@
 0 Tile  2 x  2 with Space Police II Pattern
 0 Name: 3068bp69.dat
-0 Author: Carsten Schmitz (casz@gmx.de)
-0 LDRAW_ORG Part UPDATE 2003-01
+0 Author: Carsten Schmitz [Deckard]
+0 !LDRAW_ORG Part UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 383 0 0 0 1 0 0 0 1 0 0 0 1 s\3068p69a.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat

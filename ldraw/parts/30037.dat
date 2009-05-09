@@ -1,7 +1,13 @@
 0 Wing 12 x  9 (Exploriens)
 0 Name: 30037.dat
-0 Author: Luis E. Fernandez (lfernand@newsguy.com)
-0 Official LCad update 98-04
+0 Author: Luis E. Fernandez [lfernand]
+0 !LDRAW_ORG Part UPDATE 1998-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
+0 !HISTORY 1998-04-11 [PTadmin] Official Update 1998-04
+0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 -70 56 -50 -2 0 0 0 2 0 0 0 2 ring3.dat
 1 16 -70 56 -50 -6 0 0 0 0 0 0 0 6 4-4edge.dat

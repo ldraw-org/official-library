@@ -1,10 +1,15 @@
 0 Hi-Res Ring  3 x 0.25
 0 Name: 48\1-4ring3.dat
-0 Author: Don Heyse
-0 Author: Bernd Broich
-0 LDRAW_ORG Primitive UPDATE 2003-03
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG 48_Primitive UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 3.0000 0 0.0000 2.9742 0 0.3915 3.9656 0 0.5220 4.0000 0 0.0000
 4 16 2.9742 0 0.3915 2.8977 0 0.7764 3.8636 0 1.0352 3.9656 0 0.5220

@@ -1,12 +1,15 @@
-0 Minifig Mechanical Head SW Battle Droid without Top Surfaces
+0 ~Minifig Mechanical Head SW Battle Droid without Top Surfaces
 0 Name: s\30378s01.dat
-0 Author: Nathan Wright (ldraw@overlordempire.com)
-0 LDRAW_ORG Subpart UPDATE 2002-05
+0 Author: Nathan Wright
+0 !LDRAW_ORG Subpart UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC NOCERTIFY
 
-0 2002-06-09 FWC Separated DAT code into subfile (to enable pattern files)... 
-
+0 !HISTORY 2002-06-09 [fwcain] Separated DAT code into subfile (to enable pattern files)... 
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 4 0 0 0 -8 0 0 0 -4 4 0 0 2-4cyli.dat
  1 16 4 0 0 0 -8 0 0 0 -6.6 6.6 0 0 2-4cyli.dat

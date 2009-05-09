@@ -1,11 +1,16 @@
 0 Minifig Hips and Legs Short
 0 Name: 41879.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com) & Mark Kennedy
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Mark Kennedy [mkennedy]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS legs, hips, Stubbies, child, Star Wars, Yoda, Ewok, Boba Fett
-0 KEYWORDS Harry Potter, Goblin
 0 BFC CERTIFY CW
+0 !KEYWORDS legs, hips, Stubbies, child, Star Wars, Yoda, Ewok, Boba Fett
+0 !KEYWORDS Harry Potter, Goblin
+
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 18 0 0 0 1 0 0 0 10 rect.dat
 2 24 6.54 0 -6 5.52 0 -4.48

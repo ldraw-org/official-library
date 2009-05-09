@@ -1,11 +1,16 @@
 0 Minifig Torso with SW Protocol Droid Pattern
 0 Name: 973psr.dat
-0 Author: Donald Sutter
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Donald Sutter [technog]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Star Wars, Classic Trilogy, Droid, C-3PO, C3P0, c3po, 3PO, Seethreepio
-0 KEYWORDS dual print, front and back
 0 BFC CERTIFY CW
+0 !KEYWORDS Star Wars, Classic Trilogy, Droid, C-3PO, C3P0, c3po, 3PO, Seethreepio
+0 !KEYWORDS dual print, front and back
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 264 0 0 0 1 0 0 0 1 0 0 0 1 s\973psra.dat
 1 374 0 0 0 1 0 0 0 1 0 0 0 1 s\973psrb.dat

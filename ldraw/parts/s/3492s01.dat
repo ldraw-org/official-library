@@ -1,12 +1,18 @@
-0 Crane Grab Top Subpart
+0 ~Crane Grab Top Subpart
 0 Name: s\3492s01.dat
-0 Author: Paul Easter
-0 LDRAW_ORG Subpart UPDATE 2002-05
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Subpart UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 L3P IFNOTPOV
-0
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-10-28 [PTadmin] Removed POV code per LSC decision
+0 !HISTORY 2007-10-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Start 
+
 0 Inlined:1 16 0 0 0 2.50 0 0 0 0 2.50 0 6.765 0 1-4cyli.dat
 0 1-4 Cylinder
 0 modified z coordinates
@@ -84,17 +90,6 @@
 5 24 2.87 6.307 2.87 2.87 6.929 0 5.303 5.303 0 0 7.5 0
 5 24 5.303 0 5.303 4.9 2.87 4.9 6.307 2.87 2.87 2.87 2.87 6.307
 5 24 4.9 2.87 4.9 4.9 4.9 2.87 6.307 2.87 2.87 2.87 4.9 4.9
-0
-0 L3P ELSEPOV
-0
-0     difference {
-0     sphere { <0,0,0>, 7.5 }
-0     cylinder{<0,0,-8>,<0,0,8>, 2.5 }}
-0     clipped_by{ 
-0     box { <8,0,0> <0,8,8> }
-0     }
-0
-0 L3P ENDPOV
 0
 0 end of sub-part
 0

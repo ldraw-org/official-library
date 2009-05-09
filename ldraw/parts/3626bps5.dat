@@ -1,11 +1,16 @@
 0 Minifig Head with SW Smirk and Brown Eyebrows Pattern
 0 Name: 3626bps5.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Star Wars, Classic Trilogy, Han Solo, Harrison Ford
+0 !KEYWORDS Star Wars, Classic Trilogy, Han Solo, Harrison Ford
 
-0 // 2004-04-15 AJW added torus primitives
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2004-04-15 [westrate] added torus primitives
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  3 6 -1.750 8.500 -12.652 -2 8.250 -12.602 -2 8.750 -12.602
  3 6 1.750 8.500 -12.652 2 8.250 -12.602 2 8.750 -12.602

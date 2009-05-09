@@ -1,10 +1,16 @@
 0 Slope Brick 45  2 x  2 with Computer Screen Pattern
 0 Name: 3039p23.dat
-0 Author: Thomas Burger
-0 Author: damien.guichard@wanadoo.fr, improved pattern
-0 LDRAW_ORG Part UPDATE 2002-01
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS display, console, controls
+0 !KEYWORDS display, console, controls
+
+0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
+0 !HISTORY 2002-02-17 [BrickCaster] improved pattern
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 4 16 -20 1.615 -11.615 -20 0 -10 20 0 -10 20 1.615 -11.615

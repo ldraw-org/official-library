@@ -1,9 +1,14 @@
-0 ~Pattern Explorien Logo  2 x  2 - Silver area
+0 ~Explorien Logo Pattern  2 x  2 - Silver area
 0 Name: s\973p55b.dat
-0 Author: Steve Bliss
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -6.114 0 10.03 -11.997 0 .191 -7.451 0 6.496 -5.24 0 10.508
 4 16 -12.418 0 -.229 -11.997 0 .191 -6.114 0 10.03 -6.687 0 10.03

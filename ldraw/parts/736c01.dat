@@ -1,7 +1,12 @@
-0 Train Base  6 x 16 Type I with Wheels
+0 Train Base  6 x 16 Type 1 with Wheels
 0 Name: 736c01.dat
-0 Author: Tore Eriksson
-0 Official LCad update 99-06
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Shortcut UPDATE 1999-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 60 0 -160 60 0 160 
  2 24 -60 0 -160 -60 0 160 

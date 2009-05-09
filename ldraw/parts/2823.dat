@@ -1,10 +1,13 @@
 0 Technic Forklift Fork
 0 Name: 2823.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2002-02
+0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2001-12-23 Donald Sutter - fixed quads
+0 !HISTORY 2001-12-23 [technog] fixed quads
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 18 0 1 0 0 0 -1.5 0 0 0 1 stud3.dat
 1 16 10 10 0 0 -1 0 0 0 1 1 0 0 peghole.dat

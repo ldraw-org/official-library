@@ -1,10 +1,14 @@
-0 Wedge  4 x  4 with Classic Space Pattern - Gold
+0 ~Wedge  4 x  4 with Classic Space Pattern - Gold
 0 Name: s\4858p90a.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Subpart UPDATE 2002-05
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Subpart UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2002-08-19 Willy Tschager - refined pattern, added missing craters
-
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2002-08-19 [Holly-Wood] refined pattern, added missing craters
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -0.363 6.630 -29.892 -0.103 6.735 -30.207 -0.494 6.769 -30.309 -0.806 6.700 -30.101
 3 16 1.789 6.718 -30.155 1.422 6.831 -30.493 1.398 6.710 -30.132

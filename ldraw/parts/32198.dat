@@ -1,8 +1,12 @@
 0 Technic Gear 20 Tooth Bevel
 0 Name: 32198.dat
-0 Author: Marc Klein
-0 Official LCAD Part - 2000-02 Update
-0 Created with stl2dat conversion tool
+0 Author: Marc Klein [marckl]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 -3 -11.1 0 4.59 4.59 0 11.1 0 6 0 3-8cyli.dat
 1 16 0 0 -3 -11.1 0 4.59 4.59 0 11.1 0 1 0 3-8edge.dat

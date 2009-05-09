@@ -1,16 +1,20 @@
 0 Minifig Camera Snapshot 
 0 Name: 30089.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2002-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
-0 KEYWORDS pocket, still, slide, instamatic, 35mm, film, tourist, snapshot
-0 KEYWORDS town, photography
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS pocket, still, slide, instamatic, 35mm, film, tourist, snapshot
+0 !KEYWORDS town, photography
 
-0 The handle is tilted 60 degrees with respect to the rest of the camera.
-0
-0 handle
-0
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // The handle is tilted 60 degrees with respect to the rest of the camera.
+
+0 // handle
  1 16 -18 -2 6 0 0 4 2 -6.062 0 3.464 3.5 0 4-4cyli.dat
  1 16 -18 -2 6 0 0 4 2 6.062 0 3.464 -3.5 0 4-4cyli.dat
  1 16 -18 -8.062 9.5 0 0 4 2 0.866 0 3.464 -0.5 0 4-4disc.dat

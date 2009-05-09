@@ -1,11 +1,16 @@
 0 Baseplate 32 x 32 Road 9-Stud T-Junction Runway (needs work)
 0 Name: 608p33.dat
 0 Author: Leonardo Zide
-0 Modified by: Jonathan Wilson
-0 LDRAW_ORG Part UPDATE 2002-02
+0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 2000-Aug-18 Kevin Bane: quick fixes applied
- 
+0 !HISTORY 1999-12-30 [jonwil] Modified
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2000-08-18 {Kevin Bane} quick fixes applied
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
  4 16 -316 0 320 -133 0 320 -133 0 -320 -316 0 -320
  4 15 -117 0 320 -117 0 -320 -133 0 -320 -133 0 320
  4 7 -117 0 320 -6 0 320 -6 0 -320 -117 0 -320

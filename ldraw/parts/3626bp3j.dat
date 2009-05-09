@@ -1,12 +1,17 @@
 0 Minifig Head with Islander White/Red Painted Face Pattern
 0 Name: 3626bp3j.dat
-0 Author: Andrew Westrate
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -C14
-0 KEYWORDS Islanders, natives
+0 !KEYWORDS Islanders, natives
+0 !CMDLINE -C14
 
-0 // 2003-11-02 Hmick corrected overlapping quads
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2003-11-02 [hmick] corrected overlapping quads
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 3 16 4.415 19.828 -10.658 0 19.828 -11.536 4.625 18.75 -11.175
 3 16 -4.625 18.75 -11.175 -4.415 19.828 -10.658 0 19.828 -11.536

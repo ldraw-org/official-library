@@ -1,10 +1,13 @@
 0 Baseplate 24 x 32 with Set 358 Dots Pattern
 0 Name: 10p03.dat
 0 Author: James Jessiman
-0 Updated: Chris Dee
-0 Original LDraw Part 2000-01
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2000-Jan-08 CD Changed appropriate stud.dat's to studp01.dat 
+0 !HISTORY 2000-01-08 [cwdee] Changed appropriate stud.dat references to studp01.dat 
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16  290 0 230 1 0 0 0 1 0 0 0 1 stud.dat
  1 16  270 0 230 1 0 0 0 1 0 0 0 1 stud.dat

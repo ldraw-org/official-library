@@ -1,10 +1,15 @@
 0 Brick  1 x  1 x   2/3 Round with Scala Base
 0 Name: 289.dat
-0 Author: John Riley
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: John Riley [jriley]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS tab flare tabs flares, petal
 0 BFC CERTIFY CCW
+0 !KEYWORDS tab flare, tabs flares, petal
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 stud2a.dat
 1 16 0 0 0 6 0 0 0 1 0 0 0 -6 4-4edge.dat

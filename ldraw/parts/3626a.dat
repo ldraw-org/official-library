@@ -1,15 +1,19 @@
 0 Minifig Head with Solid Stud
 0 Name: 3626a.dat
-0 Author: James Jessiman, original
-0 Author: Tore Eriksson
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2003-03
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 1999-03-?? CWD Modified
-0 // 2003-01-30 SEB Completed header; BFC'ed
-
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 1999-03-01 [cwdee] Modified
+0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
+0 !HISTORY 2003-01-30 [sbliss] Completed header; BFC'ed
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -11.536 1.172 0 -13 4 0 -12.01 4 -4.975 -10.658 1.172 -4.415
 4 16 -10.658 1.172 -4.415 -12.01 4 -4.975 -9.192 4 -9.192 -8.157 1.172 -8.157

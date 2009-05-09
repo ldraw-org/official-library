@@ -1,13 +1,18 @@
 0 Minifig Head with Tribal Paint and Frown Pattern
 0 Name: 3626bpac.dat
-0 Author: George Barnes (glbarnes@gdi.net)
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: George Barnes [glbarnes]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CMDLINE -c14
-0 KEYWORDS face, eyebrows, pupil, pupils, highlight, highlights
-0 KEYWORDS Adventurers, amazon, Achu, ruler, Jungle, priest, Racers
+0 !KEYWORDS face, eyebrows, pupil, pupils, highlight, highlights
+0 !KEYWORDS Adventurers, amazon, Achu, ruler, Jungle, priest, Racers
+0 !CMDLINE -c14
 
-0 // 2004-04-15 AJW added torus primitives
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2004-04-15 [westrate] added torus primitives
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 // replacing s\3626bs01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat

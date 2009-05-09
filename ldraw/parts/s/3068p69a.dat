@@ -1,9 +1,12 @@
 0 ~Tile  2 x  2 with Space Police II Pattern - Silver
 0 Name: s\3068p69a.dat
-0 Author: Carsten Schmitz (casz@gmx.de)
-0 LDRAW_ORG Subpart UPDATE 2003-01
+0 Author: Carsten Schmitz [Deckard]
+0 !LDRAW_ORG Subpart UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 NEEDS WORK this file should be reworked to get rid of the rasterization
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 0.25 0 9.75 1.75 0 9.75 1.75 0 9.5 0.25 0 9.5
 4 16 -0.5 0 9.5 2.5 0 9.5 2.5 0 9.25 -0.5 0 9.25

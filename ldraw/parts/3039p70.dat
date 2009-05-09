@@ -1,10 +1,15 @@
 0 Slope Brick 45  2 x  2 with Buttons and "1500" Pattern
 0 Name: 3039p70.dat
-0 Author: Jonathan Wilson
-0 LDRAW_ORG Part UPDATE 2003-01
+0 Author: Jonathan Wilson [jonwil]
+0 !LDRAW_ORG Part UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Town, Trains, gas station, gas pump, fuel pump, LED display 
-0 CMDLINE -c15
+0 !KEYWORDS Town, Trains, gas station, gas pump, fuel pump, LED display 
+0 !CMDLINE -c15
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 1 2 -8 3.0052 -13.0052 3 0 0 0 2.1213 2.1213 0 2.1213 -2.1213 4-4disc.dat

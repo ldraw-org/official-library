@@ -1,11 +1,16 @@
 0 Tile  2 x  2 Round with SW Red & Black Vent Pattern
 0 Name: 4150ps1.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2002-02
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Star Wars, Episode One, Life on Mars
-0 KEYWORDS pod racer, podracer, flash, steam, vent, Sebulba
-0 CMDLINE -C7
+0 !KEYWORDS Star Wars, Episode One, Life on Mars
+0 !KEYWORDS pod racer, podracer, flash, steam, vent, Sebulba
+0 !CMDLINE -C7
+
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 0 0 -20 -7.654 0 -18.478 -7.558 0 -18.247 0 0 -19.750
  4 16 0 0 -20 7.654 0 -18.478 7.558 0 -18.247 0 0 -19.750

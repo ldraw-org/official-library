@@ -1,7 +1,12 @@
 0 Panel  6 x  6 x  9 Corner Round
 0 Name: 6002.dat
-0 Author: Mark Kennedy, based on 2572 by James Jessiman
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Mark Kennedy [mkennedy]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\6002s2.DAT
  1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\6002s2.DAT

@@ -1,9 +1,14 @@
 0 Electric Light & Sound Brick  1 x  4 with Twin Top Lights
 0 Name: 4771.dat
-0 Author: Thomas Burger
-0 Official LCad update 99-01
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Part UPDATE 1999-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 inline 4772.dat
+0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
  2 24 36 16 6 36 16 -6 
  2 24 38 16 8 38 16 -8 
  2 24 38 16 -8 -38 16 -8 

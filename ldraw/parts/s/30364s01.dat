@@ -1,15 +1,20 @@
 0 ~Hinge Brick  1 x  2 Locking 30364/30365 Common Region
 0 Name: s\30364s01.dat
-0 Author: John VanZwieten
-0 LDRAW_ORG Subpart UPDATE 2004-04
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Subpart UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2003-08-29 DS, BFC'd and primitive optomized
-0 // 2004-07-17 CWD Corrected chamfers
+0 !HISTORY 2003-08-29 [technog] BFC'd and primitive optimized
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2004-07-17 [cwdee] Corrected chamfers
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 -30 -5 0 1 0 0 0 -5 0 0 0 1 stud3.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -30 15 0 0 0 -16 0 -20 0 6 0 0 BOX4-4A.DAT
 4 16 -14 15 -10 -14 15 -6 -46 15 -6 -50 15 -10
 4 16 -50 15 -10 -46 15 -6 -46 15 6 -50 15 10

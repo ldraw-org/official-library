@@ -1,11 +1,16 @@
 0 ~Tile  8 x  8 Round with  2 x  2 Studs Grille Pattern Detail
 0 Name: s\6177ps1b.dat
-0 Author: Steve Bliss
-0 LDRAW_ORG Subpart UPDATE 2004-01
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Subpart UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 Copper strips
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Copper strips
 4 16 25.662 0 3.965 63.238 0 3.965 63.08 0 6.365 25.185 0 6.365
 4 16 21.651 0 14.295 61.759 0 14.295 61.334 0 16.433 20.628 0 15.828
 4 16 20.628 0 15.828 61.334 0 16.433 61.246 0 16.695 19.867 0 16.695

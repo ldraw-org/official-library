@@ -1,12 +1,15 @@
 0 Windscreen  6 x  6 Octagonal Canopy without Axlehole
 0 Name: 2418a.dat
-0 Author: James Jessiman (2418.dat), modified by Steve Bliss
-0 Official LCad update 99-04
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 1999-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 1999-04-14 SEB Removed axle-hole, replaced top with simpler quads.
+0 !KEYWORDS space, blacktron 2
 
-0 CATEGORY Windscreen
-0 KEYWORDS space, blacktron 2
+0 !HISTORY 1999-04-14 [sbliss] Removed axle-hole, replaced top with simpler quads.
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 20 34 50 0 0 0 4 0 0 0 0 4 4-4edge.dat
  1 16 16 34 50 0 0 0 4 0 0 0 0 4 4-4edge.dat

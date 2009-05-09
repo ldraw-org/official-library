@@ -1,7 +1,12 @@
 0 Tractor Trailer Chassis  4 x 13
 0 Name: 778.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 30 0 -30  1 0 0 0 1 0 0 0 1 stud.DAT
 1 16 30 0 -10  1 0 0 0 1 0 0 0 1 stud.DAT

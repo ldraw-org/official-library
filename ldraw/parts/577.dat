@@ -1,11 +1,16 @@
 0 Minifig Tool Light Sabre Hilt
 0 Name: 577.dat
-0 Author: Steve Bliss
-0 Official LCad update 99-05
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 1999-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
-0 KEYWORDS Star Wars, rod, bar, sword, base
-0 not CW-Compliant
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Star Wars, rod, bar, sword, base
+
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 40 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
  1 16 0 36 0 4 0 0 0 1 0 0 0 4 4-4edge.dat

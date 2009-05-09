@@ -1,10 +1,15 @@
-0 Animal Horse Head Side
+0 ~Animal Horse Head Side
 0 Name: s\4492s.dat
 0 Author: Sascha Broich
-0 LDRAW_ORG Subpart UPDATE 2002-02
+0 !LDRAW_ORG Subpart UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 ear
-0 ear outer plane
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // ear
+0 // ear outer plane
 4 16 6.406 -73 -23 6.512 -66.25 -20.22 6.512 -66.25 -28.35 6.406 -73 -27
 4 16 6.512 -66.25 -20.22 6.512 -66.25 -28.35 6.539 -64.5 -28.7 6.539 -64.5 -19.5
 2 24 6.406 -73 -23 6.512 -66.25 -20.22

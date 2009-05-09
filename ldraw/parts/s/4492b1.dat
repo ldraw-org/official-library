@@ -1,9 +1,14 @@
-0 Animal Horse Head Bridle Metal 
+0 ~Animal Horse Head Bridle Metal 
 0 Name: s\4492b1.dat
 0 Author: Sascha Broich
-0 LDRAW_ORG Subpart UPDATE 2002-02
+0 !LDRAW_ORG Subpart UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 snaffle
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // snaffle
 4 16 9.179 -27.75 -42.5 9.172 -27.845 -42.022 9.329 -25.766 -41.161 9.349 -25.5 -42.5
 4 16 9.172 -27.845 -42.022 9.151 -28.116 -41.616 9.272 -26.525 -40.025 9.329 -25.766 -41.161
 4 16 9.151 -28.116 -41.616 9.121 -28.522 -41.345 9.186 -27.661 -39.266 9.272 -26.525 -40.025

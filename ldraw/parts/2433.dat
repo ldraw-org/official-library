@@ -1,15 +1,19 @@
 0 Hinge Bar  2 with 3 Fingers and Top Stud
 0 Name: 2433.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2004-04
+0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 KEYWORDS lever, control, controls, gear shift, finger, rod, rod system
+0 !KEYWORDS lever, control, controls, gear shift, finger, rod, rod system
 
-0 // 2003-06-08 JHR BFC compliant
-0 // 2003-11-20 OWP added ridges; fixed L3P errors
-0 // 2003-11-20 FWC added some keywords...
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 2003-06-08 [jriley] BFC compliant
+0 !HISTORY 2003-11-20 [OrionP] added ridges; fixed L3P errors
+0 !HISTORY 2003-11-20 [fwcain] added some keywords...
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 0 26 0 1 0 0 0 1 0 0 0 1 h2.dat

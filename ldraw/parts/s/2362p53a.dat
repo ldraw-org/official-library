@@ -1,7 +1,12 @@
 0 ~Panel  1 x  2 x  3 with Space Police I - Silver Detail
 0 Name: s\2362p53a.dat
-0 Author: Carsten Schmitz <casz@gmx.de>
-0 LDRAW_ORG Subpart UPDATE 2003-01
+0 Author: Carsten Schmitz [Deckard]
+0 !LDRAW_ORG Subpart UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 0.224719 53.1429 10 4.7191 53.1429 10 4.7191 53.5714 10 0.224719 53.5714 10
 4 16 0.674157 52.7143 10 3.82022 52.7143 10 3.82022 53.1429 10 0.674157 53.1429 10

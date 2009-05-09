@@ -1,13 +1,15 @@
 0 Tile  1 x  2 with Computer Pattern
 0 Name: 3069bp25.dat
-0 Author: Jaco van der Molen, original
-0 Author: Franklin W. Cain, revised
-0 Author: Kevin B, groove
-0 LDRAW_ORG Part UPDATE 2002-02
+0 Author: Jaco van der Molen [Jaco]
+0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS controls, display, button, buttons, dial, burst, starburst, Space
+0 !KEYWORDS controls, display, button, buttons, dial, burst, starburst, Space
 
-0 2000-12-18 FWC Replaced pattern polygons with primitives and lines with quads
+0 !HISTORY 2000-12-18 [fwcain] Replaced pattern polygons with primitives and lines with quads
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 0

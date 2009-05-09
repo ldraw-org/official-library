@@ -1,8 +1,12 @@
-0 Monorail Base  4 x 20 Subpart
+0 ~Monorail Base  4 x 20 Subpart
 0 Name: s\2687s01.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Subpart UPDATE 2002-05
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Subpart UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 0 14 36 1.25 14 36
 2 24 0 4 29.5 23.375 4 6.125

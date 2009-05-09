@@ -1,7 +1,12 @@
 0 Technic Axle Joiner Perpendicular 3 Long
 0 Name: 32068.dat
-0 Author: Luis E. Fernandez (lfernand@newsguy.com)
-0 Official LCad update 98-04
+0 Author: Luis E. Fernandez [lfernand]
+0 !LDRAW_ORG Part UPDATE 1998-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-04-11 [PTadmin] Official Update 1998-04
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -2.29 23 25.53 -2.29 21 25.53
 2 24 2.30 23 25.53 2.30 21 25.53

@@ -1,7 +1,12 @@
 0 Glass for Train Window  1 x  4 x  3
 0 Name: 4034.dat
 0 Author: James Jessiman
-0 Official LCad update 99-01
+0 !LDRAW_ORG Part UPDATE 1999-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 26 8 -10 -26 8 -10
  2 24 -30 12 -10 -30 60 -10

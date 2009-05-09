@@ -1,13 +1,17 @@
 0 Minifig Sword Katana
 0 Name: 30173.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 Official LCAD Part - 2000-02 Update
-0
-0 CATEGORY Minifig Accessory
-0 KEYWORDS castle weapon sword katana ninja samurai
-0
-0 grip
-0
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS castle weapon sword katana ninja samurai
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // grip
  1 16 0 -3 0 0 0 -1 0 -1 0 1 0 0 s\30173s01.dat
  1 16 0 -3 0 0 0 1 0 -1 0 1 0 0 s\30173s01.dat
  1 16 0 -3 0 0 0 -1 0 -1 0 -1 0 0 s\30173s01.dat

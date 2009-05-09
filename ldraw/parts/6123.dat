@@ -1,13 +1,18 @@
 0 Minifig Polearm Halberd
 0 Name: 6123.dat
-0 Author: Franklin W. Cain <fwcain@yahoo.com>
-0 LDRAW_ORG Part UPDATE 2001-01
-0 CATEGORY Minifig Accessory
-0 KEYWORDS minifig weapon polearm poleaxe halberd castle
-0 KEYWORDS glaive guissarme pike greataxe
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2001-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 shaft
-0
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS minifig weapon, polearm, poleaxe, halberd, castle
+0 !KEYWORDS glaive, guissarme, pike, greataxe
+
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // shaft
  1 16 0 0 0 4 0 0 0 -70 0 0 0 4 4-4cyli.dat
  1 16 0 0 0 4 0 0 0 70 0 0 0 4 4-4cyli.dat
 0

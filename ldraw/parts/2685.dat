@@ -1,10 +1,14 @@
 0 ~Monorail Motor Clip
 0 Name: 2685.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2002-05
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Left Clip
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Left Clip
 1 16 0 0 37 0.897 -0.442 0 0.442 0.897 0 0 0 -1 s\2685s02.dat
 1 16 0 0 37 -0.897 -0.442 0 -0.442 0.897 0 0 0 -1 s\2685s02.dat
 2 24 21.168 -26 35 8.937 -1.171 35

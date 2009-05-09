@@ -1,13 +1,15 @@
 0 Torus Inside  1 x 0.0625 x 0.25
 0 Name: t04i0625.dat
-0 Author: Paul Easter
-0 LDRAW_ORG Primitive UPDATE 2002-05
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Primitive UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 Rounding set to 4
-0 L3P IFNOTPOV
-0
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-10-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 0 1 15 0.9809 0 -0.1829 -0.0615 0 0 0 0 0.0625 0 -0.0123 0 1-4cyls.dat
 0 1 17 0.9809 0 -0.183 -0.0615 0 0 0 0 0.0625 0 0.366 0 1-4cyli.dat
 0 1 18 0.9809 0 0.1829 -0.0615 0 0 0 0 0.0625 0 0.0123 0 1-4cyls.dat
@@ -46,9 +48,4 @@
 5 24 .6663 .0239 .6663 .6629 0 .6629 .8705 .0239 .3606 .3606 .0239 .8705
 5 24 .3606 .0239 .8705 .3588 0 .8661 .6663 .0239 .6663 0 .0239 .9423
 5 24 0 .0239 .9423 0 0 .9375 .3606 .0239 .8705 -.3606 .0239 .9423
-0
-0 L3P ELSEPOV
-0      torus{1,0.0625 clipped_by{ box{<0,0,0>,<2,0.0626,2>}
-0        cylinder{<0,0,0>,<0,1.0625,0>,1}}}
-0 L3P ENDPOV
 0

@@ -1,23 +1,15 @@
 0 ~Panel  2 x  5 x  6 Wall without Front Face
 0 Name: s\4444s01.dat
-0 Author: James Jessiman, original 4444.dat code
-0 Author: Andrew Westrate, file prep
-0 LDRAW_ORG Subpart UPDATE 2004-03
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Subpart UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2003-09-17 AJW Created subfile, added primitives, BFC'd
-
-0 // Uncomment the following for the front face
-0 // 1 16 0 42 -10 10 0 0 0 0 -10 0 1 0 2-4ndis.dat
-0 // 4 16 -50 24 -10 50 24 -10 10 32 -10 -10 32 -10
-0 // 4 16 -30 120 -10 30 120 -10 30 144 -10 -30 144 -10
-0 // 4 16 -10 72 -10 10 72 -10 50 120 -10 -50 120 -10
-0 // 4 16 10 32 -10 50 24 -10 50 120 -10 10 72 -10
-0 // 4 16 -50 120 -10 -50 24 -10 -10 32 -10 -10 72 -10
-0 // 4 16 -30 0 -10 30 0 -10 30 24 -10 -30 24 -10
-
-0 Top
+0 !HISTORY 2003-09-17 [westrate] Created subfile, added primitives, BFC'd
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 20 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 20 0 0 6 0 0 0 8 0 0 0 6 4-4cyli.dat

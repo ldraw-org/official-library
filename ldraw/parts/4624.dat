@@ -1,7 +1,13 @@
 0 Wheel Centre Small
 0 Name: 4624.dat
 0 Author: James Jessiman
-0 Official L-Cad update 99-03
+0 !LDRAW_ORG Part UPDATE 1999-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 6 0 8 5.7016 -1.5000 8
  2 24 5.7016 -1.5000 8 3.7016 -1.5000 8

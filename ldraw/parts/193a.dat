@@ -1,15 +1,18 @@
 0 Minifig Helmet Classic with Thin Chin Guard
 0 Name: 193a.dat
-0 Author: Willy Tschager
-0 LDRAW_ORG Part UPDATE 2004-01
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
 0 BFC CERTIFY CW
+0 !CATEGORY Minifig Accessory
 
-0 // 2003-05-03 Willy Tschager added conditional lines, made BFC compliant.
+0 !HISTORY 2003-05-03 [Holly-Wood] added conditional lines, made BFC compliant.
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-05-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 Edge Bottom Inside
-
+0 // Edge Bottom Inside
 
 2 24 0 23.5 -13 -4.975 23.09 -12.011
 2 24 -4.975 23.09 -12.011 -9.192 22.172 -9.192
@@ -185,7 +188,7 @@
 5 24 -12.011 12 -4.975 -12.011 21.341 -4.975 -11.834 14.187 -5.239 -13 21 0
 3 16 -13 21 0 -12.011 21.341 -4.975 -12.011 12 -4.975
 5 24 -13 3 0 -13 21 0 -12.011 12 -4.975 -12.011 3 4.975
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 3 0 13 0 0 0 18 0 0 0 13 2-4cyli.dat
 5 24 13 3 0 13 21 0 12.011 12 -4.975 12.011 3 4.975
 3 16 12.011 3 -4.975 12.011 9 -4.975 13 3 0

@@ -1,11 +1,17 @@
-0 ~Subpart Minifig Torso 973p32 Golden Pattern
+0 ~Minifig Torso with Castle Crossed Pikes Pattern - Gold
 0 Name: s\973p42a.dat
-0 Author: Joachim Probst (jprobst@shadow-corner.ows.es)
-0 LDRAW_ORG Subpart UPDATE 2001-01
+0 Author: Joachim Probst
+0 !LDRAW_ORG Subpart UPDATE 2001-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2001-10-23 PNE Edited overlaping pieces
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2001-10-23 [pneaster] Edited overlaping pieces
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2007-09-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 Golden Pike
+0 // Golden Pike
+
 3 16 6.5 6.5 -10 5 8 -10 6 8.5 -10
 4 16 5 8 -10 6 8.5 -10 0 17 -10 0 19 -10
 4 16 0 17 -10 0 19 -10 3 24.5 -10 4 24 -10

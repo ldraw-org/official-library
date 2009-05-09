@@ -1,9 +1,13 @@
 0 ~Tile  2 x  2 Round with Dejarik Hologame Board - Spaces
 0 Name: s\4150ps3a.dat
-0 Author: Matt Schild          
-0 LDRAW_ORG Subpart UPDATE 2003-01
+0 Author: Matt Schild [mschild]
+0 !LDRAW_ORG Subpart UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2002-05-27 MS fixed bad vertex sequences
+0 !HISTORY 2002-05-27 [mschild] fixed bad vertex sequences
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -5 0 8.4 -8.75 0 15.2 -12.4 0 12.4 -7.1 0 7.1
 4 16 -8.4 0 5 -15.2 0 8.75 -12.4 0 12.4 -7.1 0 7.1

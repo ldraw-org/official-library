@@ -1,14 +1,21 @@
 0 Baseplate 32 x 32 Raised with Ramp and Pit
 0 Name: 2552.dat
-0 Author: Jonathan Wilson
-0 LDRAW_ORG Part UPDATE 2002-04
+0 Author: Jonathan Wilson [jonwil]
+0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2002-06-11 William Howard: Added missing base edge; fixed overlapping quads;
-0            combined/reduced polygons; removed duplicate lines; removed 
-0            redundant line segments; fixed corner insets to better match part;
-0            Set corner 1-4disc/1-4edge/1-4cyli parts at 4 offset (not 5); 
-0            corrected bad vertex sequences and 0 matrix rows; created new 
-0            undertray to reflect above changes
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2002-06-11 [WilliamH] Added missing base edge; fixed overlapping quads;
+0 !HISTORY 2002-06-11 [WilliamH] combined/reduced polygons; removed duplicate lines; 
+0 !HISTORY 2002-06-11 [WilliamH] removed redundant line segments; 
+0 !HISTORY 2002-06-11 [WilliamH] fixed corner insets to better match part;
+0 !HISTORY 2002-06-11 [WilliamH] Set corner 1-4disc/1-4edge/1-4cyli parts at 4 offset (not 5); 
+0 !HISTORY 2002-06-11 [WilliamH] corrected bad vertex sequences and 0 matrix rows; 
+0 !HISTORY 2002-06-11 [WilliamH] created new  undertray to reflect above changes
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 300 0 300 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 280 0 300 1 0 0 0 1 0 0 0 1 stud.dat

@@ -1,9 +1,16 @@
 0 Minifig Tool Mallet
 0 Name: 4522.dat
-0 Author: John VanZwieten
-0 Official LCAD Part - 2000-02 Update
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Accessory
+
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 47.5 0 4 0 0 0 1 0 0 0 4 4-4edge.DAT
  1 16 0 0 0 4 0 0 0 1 0 0 0 4 2-4edge.DAT

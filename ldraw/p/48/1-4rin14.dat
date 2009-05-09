@@ -1,9 +1,14 @@
 0 Hi-Res Ring 14 x 0.25
 0 Name: 48\1-4rin14.dat
-0 Author: Paul Easter
-0 LDRAW_ORG Primitive UPDATE 2003-01
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG 48_Primitive UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 14 0 0 13.8802 0 1.8274 14.8717 0 1.9579 15 0 0
 4 16 13.8802 0 1.8274 13.523 0 3.6235 14.4889 0 3.8823 14.8717 0 1.9579

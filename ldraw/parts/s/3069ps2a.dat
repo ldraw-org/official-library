@@ -1,7 +1,12 @@
 0 ~Tile  1 x  2 with SW Avionics Pattern - Gold detail
 0 Name: s\3069ps2a.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 0.000 0 1.750 -2.009 0 1.997 -2.25 0 2.750 0 0 2.750
  4 16 0.000 0 1.750 2.009 0 1.997 2.25 0 2.750 0 0 2.750

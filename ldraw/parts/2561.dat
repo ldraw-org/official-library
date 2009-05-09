@@ -1,19 +1,19 @@
 0 Minifig Gun Musket
 0 Name: 2561.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 Official LCAD Part - 2000-02 Update
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS minifig weapon, gun, firearm, musket, pirate
+0 !KEYWORDS blackpowder, blunderbuss
 
-0 KEYWORDS minifig weapon gun firearm musket pirate
-0 KEYWORDS blackpowder blunderbuss
-0
-0 . The center of the "grip" is the point 
-0 . ( 0 , 40.828 , -5.172 ), and the angle 
-0 . of the "grip" is 45 degrees in the Y-Z plane.  
-0
-0 muzzle
-0
+0 !HISTORY 1998-05-21 [PTadmin] Official Update 1998-05
+0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
  1 16 0 -26 0 2 0 0 0 1 0 0 0 -2 4-4disc.dat
  1 16 0 -26 0 2 0 0 0 1 0 0 0 -2 4-4edge.dat
 0

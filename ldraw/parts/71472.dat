@@ -1,12 +1,15 @@
 0 Sticker System Town TV Logo
 0 Name: 71472.dat
-0 Author: Willy Tschager
-0 LDRAW_ORG Part UPDATE 2004-04
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 KEYWORDS News, Crisis, 6553, Television, Helicopter, Cameraman, Reporter, Van
+0 !KEYWORDS News, Crisis, 6553, Television, Helicopter, Cameraman, Reporter, Van
 
-0 Subpart TV Logo Pattern
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-07-19 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 1 0 -0.25 0 1 0 0 0 1 0 0 0 1 s\71472s01.dat
 

@@ -1,18 +1,16 @@
 0 Hi-Res Sphere 0.125
 0 Name: 48\1-8sphe.dat
-0 Author: Travis Cobbs
-0 LDRAW_ORG Primitive UPDATE 2003-02
-
-0 This data was generated using the algorithm used by LDView to perform sphere 
-0 primitive substitution.  At LDView's highest quality setting, its spheres have 
-0 the same number of outer facets as the 48 primitives (48 facets around the 
-0 equator of the sphere).  The linetype 5 lines (conditional lines), as well as 
-0 the BFC certification, are newly added.
+0 Author: Travis Cobbs [tcobbs]
+0 !LDRAW_ORG 48_Primitive UPDATE 2003-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 Triangles (linetype 3)
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Triangles (linetype 3)
 3 16 1 0 0 0.9914 0 0.1305 0.9914 0.1305 0
 3 16 0.9914 0 0.1305 0.981 0.1371 0.1371 0.9914 0.1305 0
 3 16 0.9914 0 0.1305 0.9659 0 0.2588 0.981 0.1371 0.1371

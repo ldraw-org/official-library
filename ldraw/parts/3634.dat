@@ -1,9 +1,15 @@
 0 Tyre 17 x 43
 0 Name: 3634.dat
 0 Author: Leonardo Zide
-0 Official LCad update 98-10
+0 !LDRAW_ORG Part UPDATE 1998-10
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 inside teeth 
+0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // inside teeth 
+
  1 16 0 0 -3.5 1 0 0 0 1 0 0 0 1 S\3634a.dat
  1 16 0 0 -3.5 0.707 0.707 0 -0.707 0.707 0 0 0 1 S\3634a.dat
  1 16 0 0 -3.5 0 1 0 -1 0 0 0 0 1 S\3634a.dat

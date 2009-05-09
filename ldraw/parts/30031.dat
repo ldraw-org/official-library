@@ -1,15 +1,19 @@
 0 Minifig Handlebars
 0 Name: 30031.dat
 0 Author: James Jessiman
-0 LDRAW_ORG Part UPDATE 2004-01
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
-0 KEYWORDS Space, bicycle, motorcycle, jet-ski, Town
 0 BFC CERTIFY CCW
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Space, bicycle, motorcycle, jet-ski, Town
 
-0 // 2003-06-09 JHR BFC compliant
-0 // 2003-09-23 OWP Renamed, remove some unneeded lines.
-
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 2003-06-09 [jriley] BFC compliant
+0 !HISTORY 2003-09-23 [OrionP] Renamed, remove some unneeded lines.
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 4 0 0 0 1 0 4 0 0 0 0 4 4-4edge.dat
 1 16 -4 0 0 0 1 0 4 0 0 0 0 4 4-4edge.dat

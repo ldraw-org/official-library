@@ -1,10 +1,14 @@
-0 Clip for Monorail Connectors
+0 ~Clip for Monorail Connectors
 0 Name: s\2685s02.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Subpart UPDATE 2002-05
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Subpart UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Front
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Front
 1 16 0 0 -2 1.945 0 1.945 1.945 0 -1.945 0 4 0 1-4ndis.dat
 1 16 0 0 -2 1.945 0 1.945 1.945 0 -1.945 0 4 0 3-8EDGE.dat
 1 16 2.652 2.652 -2 -0.707 0 -0.707 -0.707 0 0.707 0 4 0 1-4disc.dat

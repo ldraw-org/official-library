@@ -1,9 +1,14 @@
 0 ~Minifig Torso with Greatcoat Pattern - Purple Detail
 0 Name: s\973phba.dat
-0 Author: Andrew Westrate
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 7.5 11.5 -10 14 11 -10 14.5 15 -10 11 16 -10
 1 16 2.75 14.75 -10 1 0 0 0 0 1 0 1 0 4-4ndis.dat

@@ -1,9 +1,7 @@
 0 Pyramid
-0 Name: Pyramid.dat
+0 Name: pyramid.dat
 0 Author: James Jessiman
-0 Original LDraw Model - LDraw beta 0.27 Archive
 
-0 Pyramid
  1 1 -40 -24 60 1 0 0 0 1 0 0 0 1 3001.dat
  1 1 40 -24 60 1 0 0 0 1 0 0 0 1 3001.dat
  1 1 60 -24 0 0 0 1 0 1 0 -1 0 0 3001.dat
@@ -21,3 +19,4 @@
 0 STEP
  1 0 0 -96 0 1 0 0 0 1 0 0 0 1 3003.dat
 0 STEP
+0

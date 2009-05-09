@@ -1,13 +1,16 @@
 0 Container Drawer  4 x  4 x  2
 0 Name: 3.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2004-02
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Homemaker, shelf, cupboard, bookcase
 0 BFC CERTIFY CW
+0 !KEYWORDS Homemaker, shelf, cupboard, bookcase
 
-0 // 2003-08-04 M Kennedy - Completed header, BFC'ed, Optimized
+0 !HISTORY 2003-08-04 [mkennedy] Completed header, BFC'ed, Optimized
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-05-23 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 36 0 36 32 0 32 -32 0 32 -36 0 36 
  4 16 -36 0 36 -32 0 32 -32 0 -36 -36 0 -40 

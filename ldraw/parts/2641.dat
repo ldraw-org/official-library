@@ -1,10 +1,16 @@
 0 Support Crane Stand Single
 0 Name: 2641.dat
-0 Author: (c) Manfred Moolhuysen 1998
-0 Official LCad update 98-08
+0 Author: Manfred Moolhuysen
+0 !LDRAW_ORG Part UPDATE 1998-08
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 foot
-0 int
+0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
+0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // foot
+0 // int
+
 4 16 157 288 148.52 157 288 144.27 150 288 137.27 150 288 141.52
 4 16 150 288 141.52 150 288 136 147.7038 288 135.5434 144.24 288 135.76
 3 16 147.7038 288 135.5434 145.7574 288 134.2426 144.24 288 135.76

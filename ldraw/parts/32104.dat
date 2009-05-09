@@ -1,12 +1,15 @@
 0 Electric Mindstorms Scout Module
 0 Name: 32104.dat
 0 Author: William J. Wood
-0 Derived from 883.dat by John VanZwieten
-0 Note: Part 32104 is stamped on inside of Scout faceplate
-0 LDRAW_ORG Part UPDATE 2002-01
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 Left Half
-0 Front Left Face
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Left Half
+0 // Front Left Face
 2 24 -80 24 -120 -60 16 -120
 2 24 -56 16 -120 -56 34 -120
 2 24 0 46 -120 -80 46 -120

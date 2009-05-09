@@ -1,9 +1,14 @@
-0 Brick 45  2 x  2 with SW Trench Computer Pattern Decoration
+0 ~Brick 45  2 x  2 with SW Trench Computer Pattern Decoration
 0 Name: s\3039s101.dat
-0 Author: John VanZwieten
-0 LDRAW_ORG Subpart UPDATE 2002-03
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Subpart UPDATE 2002-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 2002-06-06 SEB Fixed bad vertex. 
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2002-06-06 [sbliss] Fixed bad vertex. 
+0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 382 0 0.5 0 1 0 0 0 1 0 0 0 1 s\3039a101.dat
 

@@ -1,9 +1,14 @@
-0 Animal Horse Body Connector Female 1/6
+0 ~Animal Horse Body Connector Female 1/6
 0 Name: s\4494s.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Subpart UPDATE 2002-02
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Subpart UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Top
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Top
 2 24 3.2154 0 12 0 0 12
 2 24 3.2154 0 8.5359 3.2154 0 12
 2 24 3.2154 0 8.5359 3.6077 0 7.1547

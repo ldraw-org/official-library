@@ -1,7 +1,12 @@
 0 Homemaker Stove Door
 0 Name: 843.dat
 0 Author: Arne Hackstein
-0 Official LCad update 98-04
+0 !LDRAW_ORG Part UPDATE 1998-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-04-11 [PTadmin] Official Update 1998-04
+0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 35.75 51.75 -39 31.75 51.75 -39 
  2 24 27.75 51.75 -39 -27.75 51.75 -39 

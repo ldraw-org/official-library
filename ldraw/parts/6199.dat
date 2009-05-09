@@ -1,18 +1,21 @@
 0 Belville Swing
 0 Name: 6199.dat
-0 Author: Tore Eriksson
-0 Official LCad Part 2000-01
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Belville
-0 CMDLINE -c13
+0 !HELP Example of use
+0 !HELP  1 5  0 0 0  1 0 0  0 1 0  0 0 1  6200.dat
+0 !HELP  1 5  0 0 0  -1 0 0  0 1 0  0 0 -1  6200.dat
+0 !HELP  1 13 0 -232 0  1 0 0  0 1 0  0 0 1  6199.dat
+0 !HELP  1 5  0 -296 0  1 0 0  0 1 0  0 0 1  3710.dat
+0 !HELP  1 383 0 -304 0  1 0 0  0 1 0  0 0 1  70942.dat
 
-0 Example of use
-0  1 5  0 0 0  1 0 0  0 1 0  0 0 1  6200.dat
-0  1 5  0 0 0  -1 0 0  0 1 0  0 0 -1  6200.dat
-0  1 13 0 -232 0  1 0 0  0 1 0  0 0 1  6199.dat
-0  1 5  0 -296 0  1 0 0  0 1 0  0 0 1  3710.dat
-0  1 383 0 -304 0  1 0 0  0 1 0  0 0 1  70942.dat
-0 /Example of use
+0 !CMDLINE -c13
+
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 -87 0 0 0 174 0 4 0 0 0 0 4 4-4cyli.dat
 1 16 87 0 0 0 4 0 4 0 0 0 0 4 4-8sphe.dat

@@ -1,13 +1,18 @@
 0 Bar  7.6L with Stop
 0 Name: 2714.dat
-0 Author: Kevin M Bane 6/18/99
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Kevin M Bane
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
 0 BFC CERTIFY CCW
-0 KEYWORDS Technic Ski Pole, rod
+0 !KEYWORDS Technic Ski Pole, rod
 
-0 // 2003-06-08 JHR BFC compliant
-0 // 2003-12-02 AJW Fixed L3P errors
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2003-06-08 [jriley] BFC compliant
+0 !HISTORY 2003-12-02 [westrate] Fixed L3P errors
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 -80 0 0 0 1 0 0 0 1 1 0 0 connect.dat
 1 16 -80 0 0 0 2 0 8 0 0 0 0 8 4-4cyli.dat

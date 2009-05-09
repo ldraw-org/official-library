@@ -1,9 +1,15 @@
 0 Panel  3 x  2 x  6 with MTron Logo Pattern
 0 Name: 2466p68.dat
-0 Author: John VanZwieten
-0 Official LCad update 98-09
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Part UPDATE 1998-09
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Panel  3 x  2 x  6
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 2007-05-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Panel  3 x  2 x  6
+
  1 16 0 132 0 1 0 0 0 -1 0 0 0 1 stud3.dat
  2 24 16 136 6 -16 136 6
  2 24 -16 136 6 -16 136 -8

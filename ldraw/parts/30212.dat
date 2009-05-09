@@ -1,8 +1,14 @@
 0 Support Insectoid Leg Large
 0 Name: 30212.dat
-0 Author: William J. Wood
-0 Created with stl2dat conversion tool
-0 LDRAW_ORG Part UPDATE 2001-02
+0 Author: William Wood
+0 !LDRAW_ORG Part UPDATE 2001-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
+
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Created with stl2dat conversion tool
 
 1 16 -10 -98 -10 0 20 0 0 0 -4 -4 0 -0.0001 4-4cyli.dat
 1 16 -10 -98 -10 0 1 0 0 0 -4 -4 0 -0.0001 4-4edge.dat

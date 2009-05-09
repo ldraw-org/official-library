@@ -1,12 +1,16 @@
 0 ~Slope Brick 45  2 x  2 without Front Face
 0 Name: s\3039s01.dat
-0 Author: John VanZwieten
-0 LDRAW_ORG Subpart UPDATE 2003-03
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Subpart UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2003-07-02  Steffen  BFCed
-0 //                      change in part name: "w/o" --> "without"
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2003-07-02 [Steffen] BFCed; change in part name: "w/o" --> "without"
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 20 -10 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 0 4 -10 6 0 0 0 6 0 0 0 6 2-4edge.dat

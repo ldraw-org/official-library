@@ -1,11 +1,14 @@
 0 Tile  1 x  4
 0 Name: 2431.dat
-0 Author: James Jessiman
-0 Author: Kevin B, groove
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2003-01
+0 Author: Kevin Bane
+0 !LDRAW_ORG Part UPDATE 2003-01
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
 4 16 -40 0 -10 40 0 -10 40 0 10 -40 0 10

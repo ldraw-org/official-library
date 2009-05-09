@@ -1,12 +1,15 @@
 0 Flag  6 x  4 with SW Jedi Starfighter Pattern
 0 Name: 43ps1.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2003-03
-
-0 CATEGORY Flag
-0 KEYWORDS Star Wars
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+0 !KEYWORDS Star Wars
+
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43s01.dat
 1 326 0 0 0 1 0 0 0 1 0 0 0 1 s\43ps1a.dat

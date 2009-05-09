@@ -1,7 +1,12 @@
 0 Brick  2 x  4 with Top/Side/End Holes
 0 Name: 3709a.dat
 0 Author: Arne Hackstein
-0 Official LCad update 98-07
+0 !LDRAW_ORG Part UPDATE 1998-07
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  2 24 40 24 20 40 24 -20
  2 24 40 24 -20 -40 24 -20

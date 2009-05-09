@@ -1,10 +1,16 @@
 0 Support Crane Stand Double
 0 Name: 2635.dat
-0 Author: (c) Manfred Moolhuysen 1998
-0 Official LCad update 98-08
+0 Author: Manfred Moolhuysen
+0 !LDRAW_ORG Part UPDATE 1998-08
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 right leg
-0 int
+0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
+0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // right leg
+0 // int
+
 4 16 160 384 -60 120 384 -60 124 384 -56 156 384 -56
 4 16 156 384 -42 124 384 -42 124 384 -38 156 384 -38
 4 16 156 384 -24 124 384 -24 160 384 -20 120 384 -20

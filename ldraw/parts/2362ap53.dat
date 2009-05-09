@@ -1,13 +1,18 @@
 0 Panel  1 x  2 x  3 with Space Police I Left Pattern
 0 Name: 2362ap53.dat
-0 Author: Carsten Schmitz (casz@gmx.de)
-0 LDRAW_ORG Part UPDATE 2004-03
+0 Author: Carsten Schmitz [Deckard]
+0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Space Police
 0 BFC CERTIFY CCW
+0 !KEYWORDS Space Police
+
+0 !HISTORY 2004-04-25 [cwdee] Make use of subfile
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 // Note: The logo letters should be reworked, to be smoother
-0 // 2004-04-25 CWD Make use of subfile
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2362s01.dat
 

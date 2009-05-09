@@ -1,13 +1,16 @@
 0 Wing  3 x  4 with  1 x  2 Cutout
 0 Name: 4859.dat
 0 Author: James Jessiman
-0 Original LDraw Part - LDraw beta 0.27 Archive
-0 LDRAW_ORG Part UPDATE 2005-01
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
 0 BFC CERTIFY CCW
-0 KEYWORDS wedge plate, trapezoid
+0 !KEYWORDS wedge plate, trapezoid
 
-0 // 2004-10-25 SEB BFC'ed, retitled, added grooves, remeshed top surface
-
+0 !HISTORY 2004-10-25 [sbliss] BFC'ed, retitled, added grooves, remeshed top surface
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 4 0 -1 0 0 0 -1 0 0 0 1 stud4.dat
 

@@ -1,17 +1,21 @@
 0 Animal Dragon Tail
 0 Name: 6028.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS Crocodile, Alligator, Stegosaurus, reptile
-0 KEYWORDS Castle, City, Pirates, Adventurers, Dinosaurs
 0 BFC CERTIFY CW
+0 !KEYWORDS Crocodile, Alligator, Stegosaurus, reptile
+0 !KEYWORDS Castle, City, Pirates, Adventurers, Dinosaurs
 
-0 Underside Stud
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Underside Stud
 1 16 14.75 14.5 58 4 0 0 0 -1 0 0 0 4 4-4disc.dat
 1 16 14.75 14.5 58 4 0 0 0 1 0 0 0 4 4-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 14.75 14.5 58 4 0 0 0 13 0 0 0 4 4-4cyli.dat
 1 16 14.75 27.5 58 -2 0 0 0 -1 0 0 0 -2 1-4ring2.dat
 1 16 14.75 27.5 58 0 0 -2 0 -1 0 2 0 0 1-4ring2.dat
@@ -76,7 +80,7 @@
 0 Inner Planes
 1 16 0 2 0 10.5 0 0 0 -1 0 0 0 -10.5 2-4disc.dat
 1 16 0 2 0 10.5 0 0 0 1 0 0 0 -10.5 2-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 2 0 10.5 0 0 0 20 0 0 0 -10.5 2-4cyli.dat
 1 16 0 22 0 -0.5 0 0 0 -1 0 0 0 -0.5 1-4rin28.dat
 1 16 0 22 0 0.5 0 0 0 -1 0 0 0 -0.5 1-4rin28.dat

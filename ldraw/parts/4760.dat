@@ -1,9 +1,14 @@
 0 Electric 9V Battery Box Small (needs work)
 0 Name: 4760.dat
-0 Author: Jonathan Wilson
-0 Official LCad Part 2000-01
+0 Author: Jonathan Wilson [jonwil]
+0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 2000-Jan-08 Kevin Bane: Added LOTS of detail
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2000-01-08 {Kevin Bane} Added LOTS of detail
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 36 4 -76 36 46 -76 -36 46 -76 -36 4 -76
 4 16 36 44 -76 36 48 -76 27 48 -76 27 44 -76

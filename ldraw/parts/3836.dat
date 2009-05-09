@@ -1,12 +1,16 @@
 0 Minifig Tool Pushbroom
 0 Name: 3836.dat
-0 Author: Ampi (ipapp@geometria.hu)
-0 Official LCAD Part - 2000-02 Update
+0 Author: Imre Papp [ampi]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS minifig, tool, broom 
-0 HINT To place on Y=0 plane in working position : turn X-25 then move Y-74.44
+0 !KEYWORDS minifig, tool, broom 
 
-0 Broom
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Broom
 
  1 16 0 71.365 0.63 16 0 0 0 -1.365 -2.94 0 -0.63 6.37 Box.dat
 

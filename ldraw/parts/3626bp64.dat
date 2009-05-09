@@ -1,14 +1,19 @@
 0 Minifig Head with Gold Robot Pattern
 0 Name: 3626bp64.dat
-0 Author: Chris Dee, original 3626bp63.dat
-0 Author: Steve Bliss, color change and tweaking
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 CMDLINE -c47
-0 KEYWORDS droid, Ann Droid, Exploriens, clear headed
+0 !KEYWORDS droid, Ann Droid, Exploriens, clear headed
+0 !CMDLINE -c47
 
-0 top cone front
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // top cone front
+
 4 16 -8.157 1.172 -8.158 -9.009 3.5 -9.01 -4.876 3.5 -11.771 -4.415 1.172 -10.658
 4 16 -4.415 1.172 -10.658 -4.876 3.5 -11.771 0 3.5 -12.741 0 1.172 -11.536
 4 16 4.876 3.5 -11.771 9.009 3.5 -9.01 8.157 1.172 -8.158 4.415 1.172 -10.658

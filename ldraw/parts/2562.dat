@@ -1,18 +1,23 @@
 0 Minifig Gun Flintlock Pistol
 0 Name: 2562.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com <mailto:fwcain@yahoo.com>)
-0 Official LCAD Part - 2000-02 Update
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
-0 KEYWORDS minifig, weapon, firearm, musket, pirates
-0 KEYWORDS blackpowder, wheellock
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS minifig, weapon, firearm, musket, pirates
+0 !KEYWORDS blackpowder, wheellock
 
-0 . FWIW:
-0 . I used an angle of 75 degrees for the bend
-0 . between the barrel and the grip.
-0
-0 muzzle
-0
+0 !HISTORY 1998-05-21 [PTadmin] Official Update 1998-05
+0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // FWIW: I used an angle of 75 degrees for the bend between the barrel and the grip.
+
+0 // muzzle
+
 1 16 0 -23.195 -23.784 2 0 0 0 .5 1.732 0 .866 -1 4-4disc.dat
 1 16 0 -23.195 -23.784 2 0 0 0 .5 1.732 0 .866 -1 4-4edge.dat
 0

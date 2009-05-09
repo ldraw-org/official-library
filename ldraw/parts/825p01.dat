@@ -1,12 +1,18 @@
 0 Door  1 x  3 x  4 Left with Window & Lower Red Cross Pattern
 0 Name: 825p01.dat
 0 Author: Arne Hackstein
-0 LDRAW_ORG Part UPDATE 2004-04
+0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 // 2003-07-12  Steffen  BFCed, added missing quad (door side at doorhandle 
-0 //                      was open), replaced quads by ring primitives
+0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
+0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
+0 !HISTORY 2003-07-12 [Steffen] BFCed, added missing quad (door side at doorhandle was open), replaced quads by ring primitives 
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 96 0 6 0 0 0 6 0 0 0 6 4-4edge.dat
 2 24 6 96 10 6 96 50

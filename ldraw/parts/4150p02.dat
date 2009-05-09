@@ -1,13 +1,18 @@
 0 Tile  2 x  2 Round with Pizza Pattern
 0 Name: 4150p02.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com)
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS food, pizza, pizzeria, town, pepperoni, peperoni
-0 CMDLINE -C14
 0 BFC NOCERTIFY
+0 !KEYWORDS food, pizza, pizzeria, town, pepperoni, peperoni
+0 !CMDLINE -C14
 
-0 // 2003-07-28  Steffen  made use of s\4150s01.dat
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2003-07-28 [Steffen] made use of s\4150s01.dat
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4150s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4disc.dat

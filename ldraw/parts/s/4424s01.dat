@@ -1,7 +1,12 @@
 0 ~Barrel  4 & 1/2 x  4 & 1/2 - 1/18 Segment
 0 Name: s\4424s01.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Subpart UPDATE 2003-01
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Subpart UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 19.6961 -5 -3.47296 20 -5 0
 2 24 19.6961 0 -3.47296 20 0 0

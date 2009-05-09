@@ -1,9 +1,14 @@
 0 ~Windscreen  6 x  8 x  3 SW Shuttle White/Lt.Grey x1/2
 0 Name: s\551ps1a.dat
-0 Author: Franklin W. Cain
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  4 16 -36.5 1.943 56 -36.5 34 -10 -38.5 34 -10 -38.5 1.943 56
  4 16 -40 34 -10 0 34 -10 0 34.97 -12 -40 34.97 -12

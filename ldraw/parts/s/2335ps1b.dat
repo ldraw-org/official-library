@@ -1,7 +1,13 @@
-0 Flag  2 x  2 with SW Pod Race Circuitry Pattern - Gold Area
+0 ~Flag  2 x  2 with SW Pod Race Circuitry Pattern - Gold Area
 0 Name: s\2335ps1b.dat
-0 Author: Carsten Schmitz (casz@gmx.de)
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: Carsten Schmitz [Deckard]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 -2 10 37.5 -2 10 39.5 -2 9.5 39.5 -2 9.5 37.5
 4 16 2 13.5 38.5 2 13.5 46.5 2 14 46.5 2 14 38.5

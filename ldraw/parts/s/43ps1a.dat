@@ -1,7 +1,12 @@
 0 ~Flag  6 x  4 with SW Jedi Starfighter Pattern - Maroon
 0 Name: s\43ps1a.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Subpart UPDATE 2003-03
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Subpart UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 3 16 2 46 126 2 92 106 2 46 106
 4 16 2 46 106 2 92 106 2 92 94 2 39 94

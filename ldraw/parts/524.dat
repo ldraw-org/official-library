@@ -1,15 +1,19 @@
 0 Minifig Helmet Darth Vader
 0 Name: 524.dat
-0 Author: Paul Easter
-0 LDRAW_ORG Part UPDATE 2004-02
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
 0 BFC CERTIFY CW
-0 CMDLINE -c0
-0 KEYWORDS Star Wars, Classic Trilogy, Anakin Skywalker, 
-0 KEYWORDS Dark Lord of the Sith, breath mask
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Star Wars, Classic Trilogy, Anakin Skywalker, 
+0 !KEYWORDS Dark Lord of the Sith, breath mask
+0 !CMDLINE -c0
 
-0 // 2003-11-07 FWC added CMDLINE, some KEYWORDS
+0 !HISTORY 2003-11-07 [fwcain] added CMDLINE, some KEYWORDS
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 -4 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat

@@ -1,15 +1,18 @@
 0 Minifig Hair Beard
 0 Name: 6132.dat
-0 Author: Andrew Westrate
-0 LDRAW_ORG Part UPDATE 2002-06
-
-0 CATEGORY Minifig Accessory
-
-0 KEYWORDS Castle, Dragon Masters, Ninja, Harry Potter
-0 KEYWORDS Santa Claus, Kris Kringle, St Nick, Father Christmas
-0 KEYWORDS wizard, Majisto, Albus Dumbledore
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Part UPDATE 2002-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC NOCERTIFY
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Castle, Dragon Masters, Ninja, Harry Potter
+0 !KEYWORDS Santa Claus, Kris Kringle, St Nick, Father Christmas
+0 !KEYWORDS wizard, Majisto, Albus Dumbledore
+
+0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 2 -7 -17.5 3.75 -5.75 -17.25
 2 24 3.75 -5.75 -17.25 6.75 -3.25 -17

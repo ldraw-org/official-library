@@ -1,15 +1,16 @@
 0 Technic Seat  3 x  2 Base
 0 Name: 2717.dat
-0 Author: Tore Eriksson
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2004-07-30  GuyVivan  Made BFC Compliant
-0 // 2004-07-30  GuyVivan  Corrected Ycolumn all zero and Row 0 All Zeros
-0 // 2004-07-30  GuyVivan  Corrected Bad Vertex Sequences and Vertices not Coplanar
-0 // 2004-07-30  GuyVivan  Add Missing lines, quads and optional lines
-
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2004-07-30 [guyvivan] Add Missing lines, quads and optional lines
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 -20 -41.5 13 0 1 0 2 0 0 0 0 2 4-4edge.dat
 1 16 -20 -41.5 13 0 1 0 2 0 0 0 0 2 4-8SPHE.DAT

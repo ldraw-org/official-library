@@ -1,18 +1,22 @@
 0 Minifig Shield Round
 0 Name: 3876.dat
-0 Author: Willy Tschager
-0 LDRAW_ORG Part UPDATE 2003-01
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC NOCERTIFY
+0 !CATEGORY Minifig Accessory
 
-0 CATEGORY Minifig Accessory
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2002-08-19 [Holly-Wood] replaced shield-section with hires-version (48 sections)
+0 !HISTORY 2002-11-04 [BrickCaster] - removed L3P warnings
+0 !HISTORY 2002-11-14 [OrionP] - added Type 5 lines to ridges, made some primitive subs
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 2002-06-24 Moved from 124.dat
-0 2002-08-19 Willy Tschager - replaced shield-section with hires-version (48 sections)
-0 2002-11-04 DG - removed L3P warnings
-0 2002-11-14 OWP - added Type 5 lines to ridges, made some primitive subs
+0 // Handle
 
-0 Handle
 1 16 0 18 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 0 14 4 0 0 0 0 4 0 1 0 4-4edge.dat
 1 16 0 0 -8 4 0 0 0 0 4 0 1 0 4-4edge.dat

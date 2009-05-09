@@ -1,8 +1,13 @@
 0 Electric Rotation Sensor Rotation Element
 0 Name: 885.dat 
-0 Author: JP Brown           
-0 Official LCAD Part - 2000-02 Update     
-     
+0 Author: Jonathan P. Brown
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
  4 16 7 0 -20 6.44 2.66 -20 5.52 2.28 -20 6 0 -20 
  4 16 6.44 2.66 -20 4.9 4.9 -20 4.2 4.2 -20 5.52 2.28 -20
  4 16 4.9 4.9 -20 2.66 6.44 -20 2.28 5.52 -20 4.2 4.2 -20

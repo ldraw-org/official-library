@@ -1,17 +1,21 @@
 0 Minifig Sword Cutlass
 0 Name: 2530.dat
-0 Author: Franklin W. Cain (fwcain@yahoo.com <mailto:fwcain@yahoo.com>)
-0 Official LCAD Part - 2000-02 Update
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig Accessory
-0 KEYWORDS minifig weapon sword cutlass pirate
-0 KEYWORDS machete jungle adventurers
-0 KEYWORDS sabre saber cavalry wild west
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS minifig weapon, sword, cutlass, pirate
+0 !KEYWORDS machete, jungle, adventurers
+0 !KEYWORDS sabre, saber, cavalry, wild west
+0 !CMDLINE -c8
 
-0 CMDLINE -c8
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-0 grip
-0
+0 // grip
+
 1 16 0 0 0 4 0 0 0 -6 0 0 0 4 4-4cyli.dat
 1 16 0 0 0 4 0 0 0 6 0 0 0 4 4-4cyli.dat
 1 16 0 -6 0 4 0 0 0 1 0 0 0 4 4-4edge.dat

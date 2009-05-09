@@ -1,14 +1,18 @@
 0 ~Pattern  1 x  2 Keyboard
 0 Name: s\3069p80a.dat
-0 Author: Holly Wood
-0 LDRAW_ORG Subpart UPDATE 2004-04
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Subpart UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 Black
-0 First Row
-0 Key Q
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Black
+0 // First Row
+0 // Key 
 4 0 -17.15 0 7.4 -17.15 0 7.9 -16.691 0 7.809 -16.959 0 7.347
 4 0 -16.959 0 7.347 -16.691 0 7.809 -16.301 0 7.548 -16.796 0 7.195
 4 0 -16.796 0 7.195 -16.301 0 7.548 -16.041 0 7.159 -16.688 0 6.968

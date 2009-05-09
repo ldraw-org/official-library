@@ -1,11 +1,12 @@
-0 Minifig Torso with Bead Necklace - Beads
+0 ~Minifig Torso with Bead Necklace - Beads
 0 Name: s\973p71a.dat
-0 Author: Heather Patey (hpatey@nfld.com)
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: Heather Patey
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Originally posted on 22 Jun 2001
-0 (URL: "http://news.lugnet.com/cad/dat/parts/?n=2665")
-
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 24 -10 1 0 0 0 0 1 0 1 0 4-4disc.dat
  1 16 -2.5 23.7 -10 1 0 0 0 0 1 0 1 0 4-4disc.dat

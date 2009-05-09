@@ -1,10 +1,15 @@
-0 Animal Horse Body Connector Male 1/12
+0 ~Animal Horse Body Connector Male 1/12
 0 Name: s\4493s1.dat
-0 Author: Bernd Broich
-0 LDRAW_ORG Subpart UPDATE 2002-02
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Subpart UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Bottom
-0 Ring
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Bottom
+0 // Ring
 2 24 22 1.29409 4.82953 22 2.5 4.33013
 2 24 22 0 5 22 1.29409 4.82953
 4 16 0 1.29409 4.82953 0 2.5 4.33013 22 2.5 4.33013 22 1.29409 4.82953

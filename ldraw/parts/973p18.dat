@@ -1,18 +1,24 @@
 0 Minifig Torso with Suit and Tie Pattern
 0 Name: 973p18.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 LDRAW_ORG Part UPDATE 2005-01
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 KEYWORDS Town, Trains, business, corporate, professional
-0 CMDLINE -c1
+0 !KEYWORDS Town, Trains, business, corporate, professional
+0 !CMDLINE -c1
 
-0 // 1999-04-16 SEB Updated 973-4t.dat to s\973s01.dat; added back surface
-0 // 2000-11-05 CWD Moved neck mark from s\973s01.dat
-0 // 2002-02-16 CSC Closed small gaps in front part
-0 // 2002-02-19 SEB Made it all BFC compliant
-0 // 2004-09-11 TLC Fixed bow-tie quad
-
+0 !HISTORY 1999-04-16 [sbliss] Updated 973-4t.dat to s\973s01.dat; added back surface
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2000-11-05 [cwdee] Moved neck mark from s\973s01.dat
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2002-02-16 [Deckard] Closed small gaps in front part
+0 !HISTORY 2002-02-19 [sbliss] Made it all BFC compliant
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2004-09-11 [tcobbs] Fixed bow-tie quad
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 Plain back

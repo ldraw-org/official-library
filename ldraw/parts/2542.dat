@@ -1,12 +1,17 @@
 0 Minifig Tool Oar (needs work)
 0 Name: 2542.dat            
-0 Author: Howard Lande (howard.lande@t-online.de)
-0 Official LCAD Part - 2000-02 Update
+0 Author: Howard Lande 
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 COMMENT Missing all edgelines
+0 !CATEGORY Minifig Accessory
 
-0 CATEGORY Minifig Accessory
-0
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Comment: Missing all edgelines
+
 4 16 4 0 0 4 80 0 3.6955 80 1.5307 3.6955 0 1.5307
 4 16 3.6955 0 1.5307 3.6955 80 1.5307 2.8284 80 2.8284 2.8284 0 2.8284
 4 16 2.8284 0 2.8284 2.8284 80 2.8284 1.5307 80 3.6955 1.5307 0 3.6955

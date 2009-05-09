@@ -1,7 +1,12 @@
 0 Grab Jaw
 0 Name: 4221.dat
-0 Author: (c)Remco Braak 1997 (rbraak@nat.vu.nl)
-0 Official LCad update 97-17
+0 Author: Remco Braak
+0 !LDRAW_ORG Part UPDATE 1997-17
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 2 24 -10.00   7.00 -52.00 -10.00  12.00 -50.00
 2 24 -10.00  12.00 -50.00 -10.00  12.00 -18.00

@@ -1,10 +1,12 @@
 0 Train Door  1 x  4 x  5 Left with Yellow Stripe Pattern
-0 Name: 4181P07.dat
-0 Author: Kevin M Bane 12/5/99
-0 Author: James Jessiman, 4181.dat
-0 Official LCAD Part - 2000-02 Update
+0 Name: 4181p07.dat
+0 Author: Kevin M Bane
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 Available from set #5581
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 0 120 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
 

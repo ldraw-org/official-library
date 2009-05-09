@@ -1,14 +1,16 @@
 0 ~Pattern MTron Logo
 0 Name: s\3068p68a.dat
-0 Author: John VanZwieten, DAT code
-0 Author: Steffen, file prep
-0 LDRAW_ORG Subpart UPDATE 2004-02
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2003-07-11  Steffen   subfiled, fixed one overlap (black "triangle" poking 
-0 //                       into M from top)
-0 // 2003-09-10  Mkennedy  cleaned up some, fixed gaps
+0 !HISTORY 2003-07-11 [Steffen] subfiled, fixed one overlap (black "triangle" poking into M from top
+0 !HISTORY 2003-09-10 [mkennedy] cleaned up some, fixed gaps
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 18.5 0 0 0 1 0 0 0 18.5 4-4ndis.dat
 1 0 0 0 0 18.5 0 0 0 1 0 0 0 18.5 1-4chrd.dat

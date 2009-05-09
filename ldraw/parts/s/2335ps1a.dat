@@ -1,7 +1,12 @@
 0 ~Flag  2 x  2 with SW Pod Race Circuitry Pattern (Silver Area)
-0 Name: 2335ps1a.dat
-0 Author: Carsten Schmitz (casz@gmx.de)
-0 LDRAW_ORG Subpart UPDATE 2002-02
+0 Name: s\2335ps1a.dat
+0 Author: Carsten Schmitz [Deckard]
+0 !LDRAW_ORG Subpart UPDATE 2002-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 4 16 2 1 11 2 1 12 2 13 12 2 13 11
 4 16 2 1 47.5 2 1 48.5 2 39 48.5 2 39 47.5

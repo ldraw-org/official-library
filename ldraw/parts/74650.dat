@@ -1,14 +1,12 @@
-0 _Electric 9V Battery Box  4 x 14 x  4 (Complete Shortcut)
+0 _Electric 9V Battery Box  4 x 14 x  4 Lt Grey/Dk Grey/Red
 0 Name: 74650.dat
-0 Shortcut for Official TLG Color/Number
-0 Official LCAD Part - 2000-02 Update
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part Physical_Colour UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 This file is a "shortcut" with the correct TLG number
-0 and has the actual coloring of the piece.
-0 Its category is preceded by an underscore character.
-
-0 CATEGORY _Electric
-0 not CW-compliant
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 2846.dat
 1 8 0 0 0 1 0 0 0 1 0 0 0 1 2847.dat

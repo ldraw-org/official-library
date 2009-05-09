@@ -1,10 +1,15 @@
 0 ~Technic Pneumatic Airtank End
 0 Name: 68.dat
 0 Author: Fredrik Glöckner
-0 LDRAW_ORG Part UPDATE 2003-02
+0 !LDRAW_ORG Part UPDATE 2003-02
+0 !LICENSE Not redistributable : see NonCAreadme.txt
 
-0 // 2002-10-20  CWD      4-4con12.dat >> 4-4con1.dat
-0 // 2003-07-31  Steffen  added 1 missing 4-4edge, added "needs work" to title and comments
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2002-10-20 [cwdee] 4-4con12.dat >> 4-4con1.dat
+0 !HISTORY 2003-07-31 [Steffen] added 1 missing 4-4edge, added "needs work" to title and comments
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-10-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 0 // work needed:
 
@@ -18,7 +23,6 @@
 0 // 1 16 60 0 0 0 20 0 -14.1421 0 -14.1421 -14.1421 0 14.1421 t04o9999.dat
 0 // 1 16 60 0 0 0 20 0 -14.1421 0 14.1421 14.1421 0 14.1421 t04o9999.dat
 0 // btw, the ring primitves on the end are rotated at 22.475 degrees, not 22.5, I believe this to be a rounding error since all the ring10 files were rounded to 2 places
-0 //
 0 // Steffen says:
 0 // =================================================================================
 0 // LOTS of non-coplanar quads

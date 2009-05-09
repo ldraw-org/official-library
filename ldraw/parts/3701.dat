@@ -1,14 +1,16 @@
 0 Technic Brick  1 x  4 with Holes
 0 Name: 3701.dat
 0 Author: James Jessiman
-0 Original LDraw Part
-0 LDRAW_ORG Part UPDATE 2003-03
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 // 2002-08-31 ZAN Modified with WINDZ for BFC compliance
-0 // 2003-07-26 OWP Added missing lines to underside
-
+0 !HISTORY 2002-08-31 [izanette] Modified with WINDZ for BFC compliance
+0 !HISTORY 2003-07-26 [OrionP] Added missing lines to underside
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  1 16 20 18 0 1 0 0 0 -1.5 0 0 0 1 stud3.dat
  1 16 0 18 0 1 0 0 0 -1.5 0 0 0 1 stud3.dat

@@ -1,8 +1,12 @@
 0 ~Minifig Torso with SW Camouflage Smock - Light Gray
 0 Name: s\973psm1.dat
-0 Author: Matt Schild, DAT code
-0 Author: Franklin Cain, file prep
-0 LDRAW_ORG Subpart UPDATE 2002-04
+0 Author: Matt Schild [mschild]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
  3 16 9.5 22 -10 12 21.5 -10 13.5 22 -10
  4 16 9.5 22 -10 13.5 22 -10 7 26 -10 10.5 27 -10

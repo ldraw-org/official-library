@@ -1,11 +1,15 @@
 0 Door  1 x  3 x  1 Left with Fire Logo Pattern
 0 Name: 3822p09.dat
-0 Author: John Riley  <Rohnjiley@yahoo.com>
-0 LDRAW_ORG Part UPDATE 2004-01
-
-0 KEYWORDS car flame rescue
+0 Author: John Riley [jriley]
+0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !KEYWORDS car flame rescue
+
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3822s01.dat
 

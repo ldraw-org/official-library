@@ -1,14 +1,18 @@
 0 Minifig Head with Messy Hair Female Pattern
 0 Name: 3626bp40.dat
-0 Author: Franklin W. Cain <fwcain@yahoo.com>
-0 LDRAW_ORG Part UPDATE 2001-01
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2001-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 CATEGORY Minifig
-0 KEYWORDS face, pirates, castle, lipstick, mophead
-0 KEYWORDS pirate wench, maiden, lady-in-waiting, forestwoman, forest babe
+0 !KEYWORDS face, pirates, castle, lipstick, mophead
+0 !KEYWORDS pirate wench, maiden, lady-in-waiting, forestwoman, forest babe
 
-0 eyes
-0
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // eyes
+
  1 0 -3.5 10 -12.304 1.25 -0.244 0 0 0 -1.25 -0.244 1 0 4-4disc.dat
  1 0 3.5 10 -12.304 1.25 0.244 0 0 0 -1.25 0.244 1 0 4-4disc.dat
  1 16 -3.5 10 -12.304 1.25 -0.244 0 0 0 -1.25 -0.244 1 0 4-4ndis.dat

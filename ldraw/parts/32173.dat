@@ -1,10 +1,14 @@
 0 Technic Liftarm 2 x 7 with 2 Ball Joints
 0 Name: 32173.dat
-0 Author: Marc Klein
-0 Created with stl2dat conversion tool
-0 LDRAW_ORG Part UPDATE 2001-03
+0 Author: Marc Klein [marckl]
+0 !LDRAW_ORG Part UPDATE 2001-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 KEYWORDS slizer, throwbots, bionicle, arm, thigh, leg, hip, towball
+0 !KEYWORDS slizer, throwbots, bionicle, arm, thigh, leg, hip, towball
+
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
 1 16 -8 0 20 0 16 0 0 0 -6 -6 0 0 4-4cyli.dat
 1 16 -8 0 20 0 1 0 0 0 -6 -6 0 0 4-4edge.dat

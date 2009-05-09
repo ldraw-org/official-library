@@ -1,16 +1,20 @@
 0 ~Wolfpack Pattern - Background
 0 Name: s\3846p44b.dat
-0 Author: Chris Dee (chris_w_dee@hotmail.com)
-0 Official LCAD Subpart - 2000-02 Update
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Subpart UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 Bounding box :
-0 2 4 11 -8 -10 11 8 -10
-0 2 4 11 8 -10 2 22 -10
-0 2 4 2 22 -10 -2 22 -10
-0 2 4 -2 22 -10 -11 8 -10
-0 2 4 -11 8 -10 -11 -8 -10
-0 2 4 -11 -8 -10 11 -8 -10
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+0 // Bounding box :
+0 // 2 4 11 -8 -10 11 8 -10
+0 // 2 4 11 8 -10 2 22 -10
+0 // 2 4 2 22 -10 -2 22 -10
+0 // 2 4 -2 22 -10 -11 8 -10
+0 // 2 4 -11 8 -10 -11 -8 -10
+0 // 2 4 -11 -8 -10 11 -8 -10
 4 16 -1 17 -10 -2 15 -10 2 15 -10 1 17 -10
 3 16 -1 17 -10 1 17 -10 0 17.5 -10
 4 16 -1.5 19 -10 1.5 19 -10 2 22 -10 -2 22 -10
