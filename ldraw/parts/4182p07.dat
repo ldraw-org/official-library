@@ -1,12 +1,15 @@
 0 Train Door  1 x  4 x  5 Right with Yellow Stripe Pattern
 0 Name: 4182p07.dat
-0 Author: Kevin M Bane
-0 !LDRAW_ORG Part UPDATE 2000-02
-0 !LICENSE Not redistributable : see NonCAreadme.txt
+0 Author: William Howard [WilliamH]
+0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 BFC CERTIFY CCW
 
- 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 4181P07.DAT
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4181s01.dat
+1 16 0 72 0 -1 0 0 0 3 0 0 0 1 s\4181s02.dat
+1 14 0 96 0 -1 0 0 0 3 0 0 0 1 s\4181s02.dat
 0

@@ -1,31 +1,15 @@
-0 Brick  1 x  2 with Yellow Up Arrow and Black Border Pattern
+0 ~Brick  1 x  2 with Yellow Up Arrow Pattern, Obsolete
 0 Name: 3004p04.dat
-0 Author: Kevin M Bane
-0 !LDRAW_ORG Part UPDATE 2003-03
-0 !LICENSE Not redistributable : see NonCAreadme.txt
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Part with yellow up arrow does not exist. Redirected
+0 !HELP to down arrow equivalent for backward compatibility
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2003-06-08 [jriley] BFC compliant
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
-4 16 20 24 -10 20 22 -10 -20 22 -10 -20 24 -10
-4 16 -4 24 -10 -4 11 -10 -20 11 -10 -20 24 -10
-4 16 20 24 -10 20 11 -10 4 11 -10 4 24 -10
-4 16 -10.5 12 -10 1 0.5 -10 -20 0.5 -10 -20 12 -10
-4 16 10.5 12 -10 20 12 -10 20 0.5 -10 -1 0.5 -10
-4 16 20 1.5 -10 20 0 -10 -20 0 -10 -20 1.5 -10
-4 14 3 21 -10 3 9 -10 -3 9 -10 -3 21 -10
-3 14 7 10 -10 0 3 -10 -7 10 -10
-4 0 4 22 -10 4 21 -10 -4 21 -10 -4 22 -10
-4 0 -3 21 -10 -3 10 -10 -4 10 -10 -4 22 -10
-4 0 -3 11 -10 -3 10 -10 -8.5 10 -10 -9.5 11 -10
-4 0 0 3 -10 0 1.5 -10 -9.5 11 -10 -8 11 -10
-4 0 3 21 -10 4 22 -10 4 10 -10 3 10 -10
-4 0 3 11 -10 9.5 11 -10 8.5 10 -10 3 10 -10
-4 0 0 3 -10 8 11 -10 9.5 11 -10 0 1.5 -10
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3004p03.dat
 0

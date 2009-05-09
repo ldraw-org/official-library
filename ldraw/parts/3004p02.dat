@@ -1,33 +1,15 @@
-0 Brick  1 x  2 with Yellow Right Arrow and Black Border Pattern
+0 ~Brick  1 x  2 with Yellow Right Arrow Pattern, Obsolete
 0 Name: 3004p02.dat
-0 Author: Kevin M Bane
-0 !LDRAW_ORG Part UPDATE 2003-03
-0 !LICENSE Not redistributable : see NonCAreadme.txt
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Part with yellow right arrow does not exist. Redirected
+0 !HELP to left arrow equivalent for backward compatibility
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2003-06-08 [jriley] BFC compliant
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
-4 0 16 12 -10 18.54 12 -10 3 4.49 -10 4 6 -10
-4 0 4 6 -10 3 4.49 -10 3 10 -10 4 10 -10
-4 0 3 10 -10 3 9 -10 -15 9 -10 -14 10 -10
-4 0 -14 10 -10 -15 9 -10 -15 15 -10 -14 14 -10
-4 0 16 12 -10 4 18 -10 3 19.52 -10 18.54 12 -10
-4 0 4 18 -10 4 14 -10 3 14 -10 3 19.52 -10
-4 0 3 14 -10 -14 14 -10 -15 15 -10 3 15 -10
-3 14 4 18 -10 16 12 -10 4 6 -10
-4 14 4 10 -10 -14 10 -10 -14 14 -10 4 14 -10
-3 16 20 0 -10 18.54 12 -10 20 24 -10
-3 16 20 24 -10 18.54 12 -10 3 19.52 -10
-3 16 20 24 -10 3 19.52 -10 -20 24 -10
-4 16 -20 24 -10 3 19.52 -10 3 15 -10 -15 15 -10
-4 16 -15 15 -10 -15 9 -10 -20 0 -10 -20 24 -10
-3 16 20 0 -10 3 4.49 -10 18.54 12 -10
-3 16 -20 0 -10 3 4.49 -10 20 0 -10
-4 16 -20 0 -10 -15 9 -10 3 9 -10 3 4.49 -10
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3004p01.dat
 0
