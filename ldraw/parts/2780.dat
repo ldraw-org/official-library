@@ -1,14 +1,14 @@
 0 Technic Pin with Friction and Slots
 0 Name: 2780.dat
-0 Author: Kevin Bane 
-0 !LDRAW_ORG Part UPDATE 2002-02
-0 !LICENSE Not redistributable : see NonCAreadme.txt
+0 Author: Guy Vivan [guyvivan] 
+0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !HISTORY 2002-01-04 [sbliss] Got the correct part number for the slotted pin.
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 BFC CERTIFY CCW
 
-1 16 0 0 0 0 1 0 0 0 1 1 0 0 connect5.dat
-1 16 0 0 0 0 -1 0 0 0 1 1 0 0 connect5.dat
+0 !HISTORY 2008-08-01 [technog] Changed connnect5.dat to confric5.dat (2004-05-16)
+0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
+1 16 0 0 0 0 1 0 0 0 1 1 0 0 confric5.dat
+1 16 0 0 0 0 -1 0 0 0 1 1 0 0 confric5.dat
 0
