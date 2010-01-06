@@ -1,21 +1,12 @@
-0 Technic Pneumatic Airtank
+0 ~Moved to 75974
 0 Name: 67c01.dat
-0 Author: Fredrik Glöckner
-0 !LDRAW_ORG Shortcut UPDATE 2000-02
-0 !LICENSE Not redistributable : see NonCAreadme.txt
+0 Author: [PTadmin]
+0 !LDRAW_ORG Shortcut UPDATE 2009-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !HELP These two lines indicate the positions and directions of the base of
-0 !HELP the nozzles to which you'll want to connect the rubber hoses:
-0 !HELP 1 16 62 20 0 -0.71 -0.71 0 0.71 -0.71 0 0 0 1 NOZZLE.DAT
-0 !HELP 1 16 -62 20 0 0.71 0.71 0 0.71 -0.71 0 0 0 -1 NOZZLE.DAT
+0 BFC CERTIFY CCW
 
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-10-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
- 1 16 0 0 0 1 0 0 0 1 0 0 0 1 67.dat
- 1 16 0 0 0 1 0 0 0 1 0 0 0 1 68.dat
- 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 68.dat
-0 
-
-
+0 // Technic Pneumatic Airtank (Complete)
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 75974.dat
