@@ -1,15 +1,14 @@
 0 Electric Light & Sound Computer Console (Complete)
 0 Name: 905c01.dat
-0 Author: Kevin Bane
-0 !LDRAW_ORG Shortcut UPDATE 2002-05
-0 !LICENSE Not redistributable : see NonCAreadme.txt
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Shortcut UPDATE 2010-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !KEYWORDS slope brick  2 x  2
+0 BFC CERTIFY CCW
+0 !KEYWORDS 9V, space, spaceship, spacecraft, slope 
 
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2007-07-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
- 1 16 0 0 0 1 0 0 0 1 0 0 0 1 905.dat
- 1 16 0 0 -10 1 0 0 0 .707 .707 0 -.707 .707 906.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 905.dat
+1 16 0 0 -10 1 0 0 0 0.707 0.707 0 -0.707 0.707 906.dat
 0

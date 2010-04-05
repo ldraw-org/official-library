@@ -1,16 +1,13 @@
 0 Technic Engine Connecting Rod
 0 Name: 2852.dat
-0 Author: Fredrik Glöckner
-0 !LDRAW_ORG Part UPDATE 2005-01
-0 !LICENSE Not redistributable : see NonCAreadme.txt
+0 Author: Guy Vivan [guyvivan]
+0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
-0 !HISTORY 2004-07-02 [guyvivan] Made BFC Compliant, Corrected Bad Vertex Sequence, Add optional lines
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2006-09-26 [guyvivan] CA-Rewrite
+0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
 2 24 -3.04 -33.96 4 -4 -34.63 4
 2 24 0 -33.25 4 -3.04 -33.96 4
@@ -73,8 +70,8 @@
 1 16 0 0 0 5.66 0 -5.66 -5.66 0 -5.66 0 4 0 1-4cyli.dat
 1 16 0 0 4 5.66 0 -5.66 -5.66 0 -5.66 0 -1 0 1-4ndis.dat
 1 16 0 0 -10 1 0 0 0 0 -1 0 1 0 peghole.dat
-1 16 0 0 -10 2 0 0 0 0 -2 0 1 0 ring4.dat
-1 16 0 0 -4 2 0 0 0 0 -2 0 -1 0 ring4.dat
+1 16 0 0 -10 2 0 0 0 0 -2 0 1 0 4-4ring4.dat
+1 16 0 0 -4 2 0 0 0 0 -2 0 -1 0 4-4ring4.dat
 1 16 0 -30 -4 -2 0 0 0 0 -2 0 1 0 2-4ndis.dat
 1 16 0 -18 -4 2 0 0 0 0 2 0 1 0 2-4ndis.dat
 4 16 2 -18 -2 2 -30 -2 -2 -30 -2 -2 -18 -2
@@ -95,7 +92,7 @@
 1 16 -2 -14.603 -9 0 4 0 0 0 5 5 0 0 1-4cyli.dat
 1 16 0 0 -10 10 0 0 0 0 -10 0 6 0 4-4cyli.dat
 1 16 0 0 -4 8 0 0 0 0 -8 0 4 0 4-4cyli.dat
-1 16 0 0 0 2 0 0 0 0 -2 0 -1 0 ring3.dat
+1 16 0 0 0 2 0 0 0 0 -2 0 -1 0 4-4ring3.dat
 0 BFC INVERTNEXT
 1 16 0 0 -8 6 0 0 0 0 -6 0 8 0 4-4cyli.dat
 5 24 -4 -11 -4 -4 -11 4 -5.66 -5.66 -4 -4 -34.63 -4
