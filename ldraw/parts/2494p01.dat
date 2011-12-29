@@ -1,39 +1,12 @@
-0 Glass for Window  1 x  4 x  5 with 5 White Stripes Pattern
+0 ~Moved to 2494d01
 0 Name: 2494p01.dat
-0 Author: Kevin M Bane
-0 !LDRAW_ORG Part UPDATE 2000-01
-0 !LICENSE Not redistributable : see NonCAreadme.txt
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
-0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 BFC CERTIFY CCW
 
- 2 24 36 112 -2 -36 112 -2 
- 2 24 -36 112 -2 -36 112 -6 
- 2 24 -36 112 -6 36 112 -6 
- 2 24 36 112 -6 36 112 -2 
- 2 24 36 4 -2 -36 4 -2 
- 2 24 -36 4 -2 -36 4 -6 
- 2 24 -36 4 -6 36 4 -6 
- 2 24 36 4 -6 36 4 -2 
- 2 24 36 4 -2 36 112 -2 
- 2 24 -36 4 -2 -36 112 -2 
- 2 24 36 4 -6 36 112 -6 
- 2 24 -36 4 -6 -36 112 -6 
- 4 16 36 112 -2 36 112 -6 -36 112 -6 -36 112 -2 
- 4 16 36 4 -2 36 4 -6 -36 4 -6 -36 4 -2 
- 4 16 36 112 -2 36 4 -2 -36 4 -2 -36 112 -2 
- 4 16 -36 112 -2 -36 4 -2 -36 4 -6 -36 112 -6 
- 4 16 36 112 -6 36 4 -6 36 4 -2 36 112 -2 
- 4 16 -36 82 -6 -36 4 -6 36 4 -6 36 82 -6 
- 4 16 -36 88 -6 -36 85 -6 36 85 -6 36 88 -6 
- 4 16 -36 94 -6 -36 91 -6 36 91 -6 36 94 -6 
- 4 16 -36 100 -6 -36 97 -6 36 97 -6 36 100 -6 
- 4 16 -36 106 -6 -36 103 -6 36 103 -6 36 106 -6 
- 4 16 -36 112 -6 -36 109 -6 36 109 -6 36 112 -6 
- 4 15 -36 85 -6 -36 82 -6 36 82 -6 36 85 -6 
- 4 15 -36 91 -6 -36 88 -6 36 88 -6 36 91 -6 
- 4 15 -36 97 -6 -36 94 -6 36 94 -6 36 97 -6 
- 4 15 -36 103 -6 -36 100 -6 36 100 -6 36 103 -6 
- 4 15 -36 109 -6 -36 106 -6 36 106 -6 36 109 -6 
-0
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
+0 // Glass for Window  1 x  4 x  5 with 5 White Stripes Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2494d01.dat
