@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDConfig.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2024-04-05
+0 !LDRAW_ORG Configuration UPDATE 2024-06-20
 
 0 // * LDraw and BrickLink mostly share naming conventions for their colours.
 0 // * Where possible LEGO colour numbers were used.
@@ -25,6 +25,7 @@
 0 //   The lightness value L and the hue value H in the HSL colours system was lowered by 20 percentage
 0 //   points and 20 degree. 
 
+0 // Colour definitions
 
 0 // LDraw Solid Colours
 0                              // LEGOID  26 - Black
@@ -311,6 +312,8 @@
 0 !COLOUR Metallic_Bright_Blue                                  CODE 185   VALUE #0059A3   EDGE #333333                               PEARLESCENT
 0                              // LEGOID 186 - Metallic Dark Green
 0 !COLOUR Metallic_Dark_Green                                   CODE 186   VALUE #008E3C   EDGE #333333                               PEARLESCENT
+0                              // LEGOID 187 - Metallic Earth Orange
+0 !COLOUR Pearl_Brown                                           CODE 187   VALUE #57392C   EDGE #333333                               PEARLESCENT
 0                              // LEGOID 189 - Reddish Gold
 0 !COLOUR Reddish_Gold                                          CODE 189   VALUE #AC8247   EDGE #333333                               PEARLESCENT
 0                              // LEGOID 200 - Lemon Metallic
@@ -432,4 +435,11 @@
 0 !COLOUR Electric_Contact_Alloy                                CODE 494   VALUE #D0D0D0   EDGE #333333                               METAL
 0 !COLOUR Electric_Contact_Copper                               CODE 495   VALUE #AE7A59   EDGE #333333                               METAL
 0 !COLOUR Trans_Sticker                                         CODE 10047 VALUE #FFFFFF   EDGE #FFFFFF   ALPHA 16
+0 !COLOUR Fabric_Cream                                          CODE 10000 VALUE #EBDFD1   EDGE #333333
+
+0 // Avatar definitions
+
+0 !AVATAR CATEGORY "Brick" DESCRIPTION "Brick" PART 1 0 0  0 1 0  0 0 1 "3002.dat"
+
+
 0
