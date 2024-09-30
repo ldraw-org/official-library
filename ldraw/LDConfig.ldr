@@ -1,7 +1,9 @@
 0 LDraw.org Configuration File
 0 Name: LDConfig.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2024-06-20
+0 !LDRAW_ORG Configuration UPDATE 2024-09-28
+
+0 // Last update: Added 10072 - Rubber Dark Bluish Grey 
 
 0 // * LDraw and BrickLink mostly share naming conventions for their colours.
 0 // * Where possible LEGO colour numbers were used.
@@ -205,7 +207,7 @@
 0                              // LEGOID 12 - Light Orange Brown
 0 !COLOUR Light_Orange_Brown                                    CODE 507   VALUE #FA9C1C   EDGE #333333
 0                              // LEGOID  13 - Red Orange
-0 !COLOUR Fabuland_Red                                          CODE 508   VALUE #FF8014   EDGE #333333
+0 !COLOUR Fabuland_Red                                          CODE 508   VALUE #C65127   EDGE #333333
 0                              // LEGOID  19 - Light Brown
 0 !COLOUR Fabuland_Orange                                       CODE 509   VALUE #CF8A47   EDGE #333333
 0                              // LEGOID  14 - Pastel Green
@@ -312,7 +314,7 @@
 0 !COLOUR Metallic_Bright_Blue                                  CODE 185   VALUE #0059A3   EDGE #333333                               PEARLESCENT
 0                              // LEGOID 186 - Metallic Dark Green
 0 !COLOUR Metallic_Dark_Green                                   CODE 186   VALUE #008E3C   EDGE #333333                               PEARLESCENT
-0                              // LEGOID 187 - Metallic Earth Orange
+0                              // LEGOID 187 - Metallic Earth Orange 
 0 !COLOUR Pearl_Brown                                           CODE 187   VALUE #57392C   EDGE #333333                               PEARLESCENT
 0                              // LEGOID 189 - Reddish Gold
 0 !COLOUR Reddish_Gold                                          CODE 189   VALUE #AC8247   EDGE #333333                               PEARLESCENT
@@ -405,9 +407,11 @@
 0 !COLOUR Rubber_Green                                          CODE 10002 VALUE #00852B   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Bright_Green                                   CODE 10010 VALUE #58AB41   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Magenta                                        CODE 10026 VALUE #901F76   EDGE #333333                               RUBBER
+0 !COLOUR Rubber_Bright_Pink                                    CODE 10029 VALUE #FF9ECD   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Medium_Lavender                                CODE 10030 VALUE #A06EB9   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Lavender                                       CODE 10031 VALUE #CDA4DE   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Reddish_Brown                                  CODE 10070 VALUE #5F3109   EDGE #808080                               RUBBER
+0 !COLOUR Rubber_Dark_Bluish_Grey                               CODE 10072 VALUE #646464   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Medium_Blue                                    CODE 10073 VALUE #7396C8   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Light_Nougat                                   CODE 10078 VALUE #FFC995   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Bright_Light_Yellow                            CODE 10226 VALUE #FFEC6C   EDGE #333333                               RUBBER
@@ -435,11 +439,5 @@
 0 !COLOUR Electric_Contact_Alloy                                CODE 494   VALUE #D0D0D0   EDGE #333333                               METAL
 0 !COLOUR Electric_Contact_Copper                               CODE 495   VALUE #AE7A59   EDGE #333333                               METAL
 0 !COLOUR Trans_Sticker                                         CODE 10047 VALUE #FFFFFF   EDGE #FFFFFF   ALPHA 16
-0 !COLOUR Fabric_Cream                                          CODE 10000 VALUE #EBDFD1   EDGE #333333
-
-0 // Avatar definitions
-
-0 !AVATAR CATEGORY "Brick" DESCRIPTION "Brick" PART 1 0 0  0 1 0  0 0 1 "3002.dat"
-
-
+0 !COLOUR Fabric_Cream                                          CODE 10000 VALUE #F8F3E4   EDGE #333333
 0
