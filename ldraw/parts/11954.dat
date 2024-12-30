@@ -1,7 +1,7 @@
 0 Technic Panel Smooth 11 x  2 x  3 with 10 Front Pin Holes
 0 Name: 11954.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2024-02
+0 !LDRAW_ORG Part UPDATE 2024-11
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,6 +13,8 @@
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
 0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
+0 !HISTORY 2024-12-27 [OrionP] Remove scientific notation
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
 
 1 16 0 0 -20 0 1 0 -1 0 0 0 0 1 connhole.dat
 1 16 0 0 -60 0 1 0 -1 0 0 0 0 1 connhole.dat
@@ -836,7 +838,7 @@
 4 16 -6.5148 -35.4078 26.9135 -3.9132 -31.5145 29.5144 -3.9132 -31.5145 -29.5144 -6.5148 -35.4078 -26.9135
 5 24 -10.4076 -39.9999 -25.9997 -10.4076 -39.9999 25.9997 -6.5148 -35.4078 -26.9135 -15 -44.5922 -26.9134
 5 24 -6.5148 -35.4078 -26.9135 -6.5148 -35.4078 26.9135 -3.9132 -31.5145 -29.5144 -10.4076 -39.9999 -25.9997
-1 16 -24 -46.364 0 0 0 6 0 -1 0 31.636 0 -5e-005 rect.dat
+1 16 -24 -46.364 0 0 0 6 0 -1 0 31.636 0 0 rect.dat
 4 16 -18 -46.364 -31.6361 -18 -46.364 31.6361 -15 -44.5922 26.9134 -15 -44.5922 -26.9134
 5 24 -15 -44.5922 -26.9134 -15 -44.5922 26.9134 -10.4076 -39.9999 25.9997 -18 -46.364 -31.6361
 4 16 -15 -33.636 -31.65 -15 -33.64 31.635 -30 -33.636 31.65 -30 -33.636 -31.65

@@ -1,13 +1,14 @@
 0 ~Electric Touch Sensor Brick  3 x  2 - Top
 0 Name: 32025.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LDRAW_ORG Part UPDATE 2024-11
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
+0 !HISTORY 2024-02-06 [Steffen] used stugs
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
 
 2 24 26 24 16 -26 24 16
 2 24 -26 24 16 -26 24 -16
@@ -75,12 +76,8 @@
 4 16 25 19 -20 30 24 -20 30 0 -20 25 17 -20
 4 16 2 19 -20 18 19 -20 18 17 -20 2 17 -20
 
-1 16 20 0 10 -1 0 0 0 1 0 0 0 -1 studel.dat
-1 16 0 0 10 -1 0 0 0 1 0 0 0 -1 studel.dat
-1 16 -20 0 10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 20 0 -10 1 0 0 0 1 0 0 0 1 studel.dat
-1 16 0 0 -10 1 0 0 0 1 0 0 0 1 studel.dat
-1 16 -20 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 stugel-2x2.dat
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 stug-2x1.dat
 1 16 -20 10 -20 1 0 0 0 0 -1 0 4 0 axlehole.dat
 1 16 -20 10 -20 1 0 0 0 0 -1 0 1 0 axlehol2.dat
 1 16 -20 10 -16 1 0 0 0 0 -1 0 1 0 axlehol2.dat

@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDConfig.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2024-09-28
+0 !LDRAW_ORG Configuration UPDATE 2024-12-19
 
 0 // Last update: Added 10072 - Rubber Dark Bluish Grey 
 
@@ -406,6 +406,7 @@
 0 !COLOUR Rubber_White                                          CODE 511   VALUE #F4F4F4   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Green                                          CODE 10002 VALUE #00852B   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Bright_Green                                   CODE 10010 VALUE #58AB41   EDGE #333333                               RUBBER
+0 !COLOUR Rubber_Tan                                            CODE 10019 VALUE #D7BA8C   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Magenta                                        CODE 10026 VALUE #901F76   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Bright_Pink                                    CODE 10029 VALUE #FF9ECD   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Medium_Lavender                                CODE 10030 VALUE #A06EB9   EDGE #333333                               RUBBER
@@ -440,4 +441,111 @@
 0 !COLOUR Electric_Contact_Copper                               CODE 495   VALUE #AE7A59   EDGE #333333                               METAL
 0 !COLOUR Trans_Sticker                                         CODE 10047 VALUE #FFFFFF   EDGE #FFFFFF   ALPHA 16
 0 !COLOUR Fabric_Cream                                          CODE 10000 VALUE #F8F3E4   EDGE #333333
-0
+
+
+
+0 // Avatar definitions
+
+0 !AVATAR CATEGORY "Animal" DESCRIPTION "Animal" PART 1 0 0  0 1 0  0 0 1 "13786.dat"
+0 !AVATAR CATEGORY "Antenna" DESCRIPTION "Antenna" PART 1 0 0  0 1 0  0 0 1 "3144.dat"
+0 !AVATAR CATEGORY "Arch" DESCRIPTION "Arch" PART 1 0 0  0 1 0  0 0 1 "4490.dat"
+0 !AVATAR CATEGORY "Arm" DESCRIPTION "Arm" PART 1 0 0  0 1 0  0 0 1 "4220a.dat"
+
+0 !AVATAR CATEGORY "Bar" DESCRIPTION "Bar" PART 1 0 0  0 1 0  0 0 1 "87994.dat"
+0 !AVATAR CATEGORY "Baseplate" DESCRIPTION "Baseplate" PART 1 0 0  0 1 0  0 0 1 "3947.dat"
+0 !AVATAR CATEGORY "Belville" DESCRIPTION "Belville" PART 1 0 0  0 1 0  0 0 1 "72514.dat"
+0 !AVATAR CATEGORY "Boat" DESCRIPTION "Boat" PART 1 0 0  0 1 0  0 0 1 "28925.dat"
+0 !AVATAR CATEGORY "Bracket" DESCRIPTION "Bracket" PART 1 0 0  0 1 0  0 0 1 "44728.dat"
+0 !AVATAR CATEGORY "Brick" DESCRIPTION "Brick" PART 1 0 0  0 1 0  0 0 1 "3002.dat"
+
+0 !AVATAR CATEGORY "Car" DESCRIPTION "Car" PART 1 0 0  0 1 0  0 0 1 "3829c01.dat"
+0 !AVATAR CATEGORY "Clikits" DESCRIPTION "Clikits" PART 1 0 0  0 1 0  0 0 1 "46296.dat"
+0 !AVATAR CATEGORY "Cockpit" DESCRIPTION "Cockpit" PART 1 0 0  0 1 0  0 0 1 "30200.dat"
+0 !AVATAR CATEGORY "Cone" DESCRIPTION "Cone" PART 1 0 0  0 1 0  0 0 1 "3942a.dat"
+0 !AVATAR CATEGORY "Constraction" DESCRIPTION "Constraction" PART 1 0 0  0 1 0  0 0 1 "32475.dat"
+0 !AVATAR CATEGORY "Constraction Accessory" DESCRIPTION "Constraction Accessory" PART 1 0 0  0 1 0  0 0 1 "85582.dat"
+0 !AVATAR CATEGORY "Container" DESCRIPTION "Container" PART 1 0 0  0 1 0  0 0 1 "61780.dat"
+0 !AVATAR CATEGORY "Conveyor" DESCRIPTION "Conveyor" PART 1 0 0  0 1 0  0 0 1 "92713c01.dat"
+0 !AVATAR CATEGORY "Crane" DESCRIPTION "Crane" PART 1 0 0  0 1 0  0 0 1 "30395.dat"
+0 !AVATAR CATEGORY "Cylinder" DESCRIPTION "Cylinder" PART 1 0 0  0 1 0  0 0 1 "30367b.dat"
+
+0 !AVATAR CATEGORY "Dish" DESCRIPTION "Dish" PART 1 0 0  0 1 0  0 0 1 "3960.dat"
+0 !AVATAR CATEGORY "Door" DESCRIPTION "Door" PART 1 0 0  0 1 0  0 0 1 "3861a.dat"
+0 !AVATAR CATEGORY "Duplo" DESCRIPTION "Duplo" PART 1 0 0  0 1 0  0 0 1 "40666.dat"
+
+0 !AVATAR CATEGORY "Electric" DESCRIPTION "Electric" PART 1 0 0  0 1 0  0 0 1 "73666.dat"
+0 !AVATAR CATEGORY "Exhaust" DESCRIPTION "Exhaust" PART 1 0 0  0 1 0  0 0 1 "71137.dat"
+
+0 !AVATAR CATEGORY "Fence" DESCRIPTION "Fence" PART 1 0 0  0 1 0  0 0 1 "33303.dat"
+0 !AVATAR CATEGORY "Figure" DESCRIPTION "Figure" PART 1 0 0  0 1 0  0 0 1 "92198c01.dat"
+0 !AVATAR CATEGORY "Figure Accessory" DESCRIPTION "Figure Accessory" PART 1 0 0  0 1 0  0 0 1 "11245.dat"
+0 !AVATAR CATEGORY "Flag" DESCRIPTION "Flag" PART 1 0 0  0 1 0  0 0 1 "3596.dat"
+0 !AVATAR CATEGORY "Forklift" DESCRIPTION "Forklift" PART 1 0 0  0 1 0  0 0 1 "3430c00-f1.dat"
+0 !AVATAR CATEGORY "Freestyle" DESCRIPTION "Freestyle" PART 1 0 0  0 1 0  0 0 1 "3004.dat"
+
+0 !AVATAR CATEGORY "Garage" DESCRIPTION "Garage" PART 1 0 0  0 1 0  0 0 1 "822bc02.dat"
+0 !AVATAR CATEGORY "Glass" DESCRIPTION "Glass" PART 1 0 0  0 1 0  0 0 1 "4036.dat"
+0 !AVATAR CATEGORY "Grab" DESCRIPTION "Grab" PART 1 0 0  0 1 0  0 0 1 "3004.dat"
+
+0 !AVATAR CATEGORY "Helper" DESCRIPTION "Helper" PART 1 0 0  0 1 0  0 0 1 "helper2druler100ldu.dat"
+0 !AVATAR CATEGORY "Hinge" DESCRIPTION "Hinge" PART 1 0 0  0 1 0  0 0 1 "3937c01.dat"
+0 !AVATAR CATEGORY "Homemaker" DESCRIPTION "Homemaker" PART 1 0 0  0 1 0  0 0 1 "837.dat"
+0 !AVATAR CATEGORY "Hose" DESCRIPTION "Hose" PART 1 0 0  0 1 0  0 0 1 "73590a.dat"
+
+0 !AVATAR CATEGORY "Ladder" DESCRIPTION "Ladder" PART 1 0 0  0 1 0  0 0 1 "11299.dat"
+0 !AVATAR CATEGORY "Lever" DESCRIPTION "Lever" PART 1 0 0  0 1 0  0 0 1 "3004.dat"
+
+0 !AVATAR CATEGORY "Magnet" DESCRIPTION "Magnet" PART 1 0 0  0 1 0  0 0 1 "735.dat"
+0 !AVATAR CATEGORY "Minifig" DESCRIPTION "Minifig" PART 1 0 0  0 1 0  0 0 1 "973.dat"
+0 !AVATAR CATEGORY "Minifig Accessory" DESCRIPTION "Minifig Accessory" PART 1 0 0  0 1 0  0 0 1 "3962a.dat"
+0 !AVATAR CATEGORY "Minifig Footwear" DESCRIPTION "Minifig Footwear" PART 1 0 0  0 1 0  0 0 1 "10190.dat"
+0 !AVATAR CATEGORY "Minifig Headwear" DESCRIPTION "Minifig Headwear" PART 1 0 0  0 1 0  0 0 1 "30138.dat"
+0 !AVATAR CATEGORY "Minifig Hipwear" DESCRIPTION "Minifig Hipwear" PART 1 0 0  0 1 0  0 0 1 "24782.dat"
+0 !AVATAR CATEGORY "Minifig Neckwear" DESCRIPTION "Minifig Neckwear" PART 1 0 0  0 1 0  0 0 1 "2587.dat"
+0 !AVATAR CATEGORY "Monorail" DESCRIPTION "Monorail" PART 1 0 0  0 1 0  0 0 1 "2684c01.dat"
+
+0 !AVATAR CATEGORY "Panel" DESCRIPTION "Panel" PART 1 0 0  0 1 0  0 0 1 "6231.dat"
+0 !AVATAR CATEGORY "Plane" DESCRIPTION "Plane" PART 1 0 0  0 1 0  0 0 1 "87613.dat"
+0 !AVATAR CATEGORY "Plant" DESCRIPTION "Plant" PART 1 0 0  0 1 0  0 0 1 "6255.dat"
+0 !AVATAR CATEGORY "Plate" DESCRIPTION "Plate" PART 1 0 0  0 1 0  0 0 1 "3021.dat"
+0 !AVATAR CATEGORY "Platform" DESCRIPTION "Platform" PART 1 0 0  0 1 0  0 0 1 "2642.dat"
+0 !AVATAR CATEGORY "Propeller" DESCRIPTION "Propeller" PART 1 0 0  0 1 0  0 0 1 "15211.dat"
+
+0 !AVATAR CATEGORY "Rack" DESCRIPTION "Rack" PART 1 0 0  0 1 0  0 0 1 "2426c02.dat"
+0 !AVATAR CATEGORY "Roadsign" DESCRIPTION "Roadsign" PART 1 0 0  0 1 0  0 0 1 "3350.dat"
+0 !AVATAR CATEGORY "Rock" DESCRIPTION "Rock" PART 1 0 0  0 1 0  0 0 1 "42284.dat"
+
+0 !AVATAR CATEGORY "Scala" DESCRIPTION "Scala" PART 1 0 0  0 1 0  0 0 1 "33086.dat"
+0 !AVATAR CATEGORY "Screw" DESCRIPTION "Screw" PART 1 0 0  0 1 0  0 0 1 "3004.dat"
+0 !AVATAR CATEGORY "Sheet Cardboard" DESCRIPTION "Sheet Cardboard" PART 1 0 0  0 1 0  0 0 1 "u572p02.dat"
+0 !AVATAR CATEGORY "Sheet Fabric" DESCRIPTION "Sheet Fabric" PART 1 0 0  0 1 0  0 0 1 "u9494p01c01.dat"
+0 !AVATAR CATEGORY "Sheet Plastic" DESCRIPTION "Sheet Plastic" PART 1 0 0  0 1 0  0 0 1 "u66.dat"
+0 !AVATAR CATEGORY "Slope" DESCRIPTION "Slope" PART 1 0 0  0 1 0  0 0 1 "3298.dat"
+0 !AVATAR CATEGORY "Sphere" DESCRIPTION "Sphere" PART 1 0 0  0 1 0  0 0 1 "98107.dat"
+0 !AVATAR CATEGORY "Staircase" DESCRIPTION "Staircase" PART 1 0 0  0 1 0  0 0 1 "4784.dat"
+0 !AVATAR CATEGORY "Sticker" DESCRIPTION "Sticker" PART 1 0 0  0 1 0  0 0 1 "192425a.dat"
+0 !AVATAR CATEGORY "String" DESCRIPTION "String" PART 1 0 0  0 1 0  0 0 1 "76384.dat"
+0 !AVATAR CATEGORY "Support" DESCRIPTION "Support" PART 1 0 0  0 1 0  0 0 1 "2580.dat"
+
+0 !AVATAR CATEGORY "Tail" DESCRIPTION "Tail" PART 1 0 0  0 1 0  0 0 1 "4867.dat"
+0 !AVATAR CATEGORY "Tap" DESCRIPTION "Tap" PART 1 0 0  0 1 0  0 0 1 "6936.dat"
+0 !AVATAR CATEGORY "Technic" DESCRIPTION "Technic" PART 1 0 0  0 1 0  0 0 1 "4019.dat"
+0 !AVATAR CATEGORY "Tile" DESCRIPTION "Tile" PART 1 0 0  0 1 0  0 0 1 "3068b.dat"
+0 !AVATAR CATEGORY "Tipper" DESCRIPTION "Tipper" PART 1 0 0  0 1 0  0 0 1 "15455.dat"
+0 !AVATAR CATEGORY "Tractor" DESCRIPTION "Tractor" PART 1 0 0  0 1 0  0 0 1 "828.dat"
+0 !AVATAR CATEGORY "Trailer" DESCRIPTION "Trailer" PART 1 0 0  0 1 0  0 0 1 "30184.dat"
+0 !AVATAR CATEGORY "Train" DESCRIPTION "Train" PART 1 0 0  0 1 0  0 0 1 "53400.dat"
+0 !AVATAR CATEGORY "Turntable" DESCRIPTION "Turntable" PART 1 0 0  0 1 0  0 0 1 "3403c01.dat"
+0 !AVATAR CATEGORY "Tyre" DESCRIPTION "Tyre" PART 1 0 0  0 1 0  0 0 1 "3641.dat"
+
+0 !AVATAR CATEGORY "Vehicle" DESCRIPTION "Vehicle" PART 1 0 0  0 1 0  0 0 1 "50859bc01.dat"
+
+0 !AVATAR CATEGORY "Wedge" DESCRIPTION "Wedge" PART 1 0 0  0 1 0  0 0 1 "48933.dat"
+0 !AVATAR CATEGORY "Wheel" DESCRIPTION "Wheel" PART 1 0 0  0 1 0  0 0 1 "2470.dat"
+0 !AVATAR CATEGORY "Winch" DESCRIPTION "Winch" PART 1 0 0  0 1 0  0 0 1 "73037.dat"
+0 !AVATAR CATEGORY "Window" DESCRIPTION "Window" PART 1 0 0  0 1 0  0 0 1 "3853.dat"
+0 !AVATAR CATEGORY "Windscreen" DESCRIPTION "Windscreen" PART 1 0 0  0 1 0  0 0 1 "3823.dat"
+0 !AVATAR CATEGORY "Wing" DESCRIPTION "Wing" PART 1 0 0  0 1 0  0 0 1 "3936.dat"
+
+0 !AVATAR CATEGORY "Znap" DESCRIPTION "Znap" PART 1 0 0  0 1 0  0 0 1 "32210.dat" 
+
