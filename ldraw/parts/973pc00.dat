@@ -1,15 +1,18 @@
-0 Minifig Torso with Skull and DkPink Roses Pattern
+0 Minifig Torso with Skull and Dark Pink Roses Pattern
 0 Name: 973pc00.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2015-02
+0 !LDRAW_ORG Part UPDATE 2025-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Rock band, set 850486
+0 !KEYWORDS Band Shirt, Bricklink 973pb1235, Dia de los Muertos, Guns N' Roses
+0 !KEYWORDS Hard Rock, Heavy Metal, Music, Rebel, Rock band, set 850486
+0 !KEYWORDS Set 8804
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
+0 !HISTORY 2025-02-20 [MagFors] Update description and keywords
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
