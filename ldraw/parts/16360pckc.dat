@@ -1,16 +1,17 @@
-0 Minifig Torso with Arms and Hands with Female Wetsuit, Coral and Dark Azure Trim and Turtle Logo Pattern
+0 Minifig Torso with Dual Mould Arms and Hands with Female Wetsuit, Coral and Dark Azure Trim and Turtle Logo Pattern
 0 Name: 16360pckc.dat
 0 Author: Chris Böhnke [KnightOfTarenta]
-0 !LDRAW_ORG Shortcut UPDATE 2025-02
+0 !LDRAW_ORG Shortcut UPDATE 2025-03
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973pb3874c01, BrickOwl 835548, CMF series 20
-0 !KEYWORDS Mini Upper Part No 5120, Rebrickable 973g04c01h01pr5120, Sea Rescuer
-0 !KEYWORDS Set 71027
+0 !KEYWORDS Bricklink 973pb3874c01, CMF series 20, Mini Upper Part No 5120
+0 !KEYWORDS Rebrickable 973g04c01h01pr5120, Sea Rescuer, Set 71027
 
 0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+0 !HISTORY 2025-03-16 [MagFors] Update description
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pckc.dat
 1 321 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 16000p01.dat
