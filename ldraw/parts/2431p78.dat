@@ -2,9 +2,11 @@
 0 Name: 2431p78.dat
 0 Author: Sam Roberts [sroberts]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 2431px16, Rebrickable 2431pr0020, Set 4512
 
 0 !HISTORY 2009-09-03 [anathema] BFC'd
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03

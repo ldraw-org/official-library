@@ -1,9 +1,9 @@
 0 LDraw.org Configuration File
 0 Name: LDConfig.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2024-12-19
+0 !LDRAW_ORG Configuration UPDATE 2025-04-25
 
-0 // Last update: Added 10072 - Rubber Dark Bluish Grey 
+0 // Last update: Added Canvas color
 
 0 // * LDraw and BrickLink mostly share naming conventions for their colours.
 0 // * Where possible LEGO colour numbers were used.
@@ -386,7 +386,7 @@
 0 // LDraw Speckle Colours
 0 !COLOUR Speckle_Black_Copper                                  CODE  75   VALUE #000000   EDGE #AB6038                               MATERIAL SPECKLE VALUE #AB6038 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
 0 !COLOUR Speckle_Dark_Bluish_Grey_Silver                       CODE  76   VALUE #635F61   EDGE #898788                               MATERIAL SPECKLE VALUE #898788 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
-0                              // LEGOID 132 - Black Glitter
+0                               // LEGOID 132 - Black Glitter
 0 !COLOUR Speckle_Black_Silver                                  CODE 132   VALUE #000000   EDGE #898788                               MATERIAL SPECKLE VALUE #898788 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
 0 !COLOUR Speckle_Black_Gold                                    CODE 133   VALUE #000000   EDGE #DBAC34                               MATERIAL SPECKLE VALUE #DBAC34 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
 
@@ -432,6 +432,13 @@
 0 !COLOUR Rubber_Trans_Red                                      CODE 10036 VALUE #C91A09   EDGE #660D05   ALPHA 128                   RUBBER
 0 !COLOUR Rubber_Trans_Light_Blue                               CODE 10043 VALUE #AEE9EF   EDGE #59D1DE   ALPHA 128                   RUBBER
 
+0 // LDraw Fabric Colours
+0 !COLOUR Canvas_Black                                          CODE 20000 VALUE #1B2A34   EDGE #808080                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Blue                                           CODE 20001 VALUE #1E5AA8   EDGE #333333                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Green                                          CODE 20002 VALUE #00852B   EDGE #333333                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Red                                            CODE 20004 VALUE #B40000   EDGE #333333                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_White                                          CODE 20015 VALUE #F4F4F4   EDGE #333333                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Cream                                          CODE 20500 VALUE #F8F3E4   EDGE #333333                               MATERIAL FABRIC CANVAS
 
 0 // LDraw Internal Common Material Colours
 0 !COLOUR Main_Colour                                           CODE  16   VALUE #FFFF80   EDGE #333333
@@ -440,12 +447,10 @@
 0 !COLOUR Electric_Contact_Alloy                                CODE 494   VALUE #D0D0D0   EDGE #333333                               METAL
 0 !COLOUR Electric_Contact_Copper                               CODE 495   VALUE #AE7A59   EDGE #333333                               METAL
 0 !COLOUR Trans_Sticker                                         CODE 10047 VALUE #FFFFFF   EDGE #FFFFFF   ALPHA 16
-0 !COLOUR Fabric_Cream                                          CODE 10000 VALUE #F8F3E4   EDGE #333333
 
 
 
 0 // Avatar definitions
-
 0 !AVATAR CATEGORY "Animal" DESCRIPTION "Animal" PART 1 0 0  0 1 0  0 0 1 "13786.dat"
 0 !AVATAR CATEGORY "Antenna" DESCRIPTION "Antenna" PART 1 0 0  0 1 0  0 0 1 "3144.dat"
 0 !AVATAR CATEGORY "Arch" DESCRIPTION "Arch" PART 1 0 0  0 1 0  0 0 1 "4490.dat"

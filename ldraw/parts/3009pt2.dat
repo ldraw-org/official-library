@@ -6,6 +6,8 @@
 
 0 BFC CERTIFY CW
 
+0 !KEYWORDS BrickLink 3009pb032, Rebrickable 3009pr0050, Set DBASE
+
 0 !CMDLINE -c15
 
 0 !HISTORY 2009-08-08 [Eldar] remove overlaps,lines in pattern

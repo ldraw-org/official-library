@@ -6,6 +6,8 @@
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS BrickLink wheel1a, Rebrickable upn0384a
+
 0 !CMDLINE -c4
 
 0 !HISTORY 2018-03-17 [Holly-Wood] Changed winding to CCW, changed description

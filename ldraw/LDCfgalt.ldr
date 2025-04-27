@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDCfgalt.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2024-12-19
+0 !LDRAW_ORG Configuration UPDATE 2025-04-25
 
 0 // * All of the colour values are the same as in ldconfig.ldr.
 0 // * All of the edge colours, that are coloured in ldconfig.ldr, are the same.
@@ -12,6 +12,7 @@
 0 // * Edge colours for Pearl were lowered by 10 percentage points.
 0 // * Edge colours for Metallic were raised by 10 percentage points.
 0 // * Edge colours for Rubber, except transparent, were lowered by 20 percentage points.
+0 // * Edge colours for Fabric were lowered by 10 percentage points.
 0 // * Edge colours for Internal Common Material are the same, or if changed, 
 0 //   raised by 10 percentage points.
 
@@ -230,6 +231,7 @@
 0 !COLOUR Rubber_Bright_Green                CODE 10010 VALUE #58AB41   EDGE #316024                               RUBBER
 0 !COLOUR Rubber_Tan                         CODE 10019 VALUE #D7BA8C   EDGE #BC8D42                               RUBBER
 0 !COLOUR Rubber_Magenta                     CODE 10026 VALUE #901F76   EDGE #3A0C30                               RUBBER
+0 !COLOUR Rubber_Bright_Pink                 CODE 10029 VALUE #FF9ECD   EDGE #FF3898                               RUBBER
 0 !COLOUR Rubber_Medium_Lavender             CODE 10030 VALUE #A06EB9   EDGE #6C3E82                               RUBBER
 0 !COLOUR Rubber_Lavender                    CODE 10031 VALUE #CDA4DE   EDGE #A35AC3                               RUBBER
 0 !COLOUR Rubber_Reddish_Brown               CODE 10070 VALUE #5F3109   EDGE #2E1804                               RUBBER
@@ -253,6 +255,13 @@
 0 !COLOUR Rubber_Trans_Red                   CODE 10036 VALUE #C91A09   EDGE #660D05   ALPHA 128                   RUBBER
 0 !COLOUR Rubber_Trans_Light_Blue            CODE 10043 VALUE #AEE9EF   EDGE #59D1DE   ALPHA 128                   RUBBER
 
+0 // LDraw Fabric Colours
+0 !COLOUR Canvas_Black                       CODE 20000 VALUE #1B2A34   EDGE #080D10                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Blue                        CODE 20001 VALUE #1E5AA8   EDGE #16437D                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Green                       CODE 20002 VALUE #00852B   EDGE #005119                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Red                         CODE 20004 VALUE #B40000   EDGE #7F0000                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_White                       CODE 20015 VALUE #F4F4F4   EDGE #DBDBDB                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Cream                       CODE 20500 VALUE #F8F3E4   EDGE #EDE0BA                               MATERIAL FABRIC CANVAS
 
 0 // LDraw Internal Common Material Colours
 0 !COLOUR Main_Colour                        CODE  16   VALUE #FFFF80   EDGE #333333
@@ -261,7 +270,6 @@
 0 !COLOUR Electric_Contact_Alloy             CODE 494   VALUE #D0D0D0   EDGE #EAEAEA                               METAL
 0 !COLOUR Electric_Contact_Copper            CODE 495   VALUE #AE7A59   EDGE #BF967D                               METAL
 0 !COLOUR Trans_Sticker                      CODE 10047 VALUE #FFFFFF   EDGE #FFFFFF   ALPHA 16
-0 !COLOUR Fabric_Cream                       CODE 10000 VALUE #EBDFD1   EDGE #DBC5AD
 
 
 
