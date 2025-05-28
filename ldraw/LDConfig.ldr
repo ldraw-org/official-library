@@ -1,9 +1,9 @@
 0 LDraw.org Configuration File
 0 Name: LDConfig.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2025-04-25
+0 !LDRAW_ORG Configuration UPDATE 2025-05-20
 
-0 // Last update: Added Canvas color
+0 // Last update: Added Canvas color 20288, 20010, 20086,
 
 0 // * LDraw and BrickLink mostly share naming conventions for their colours.
 0 // * Where possible LEGO colour numbers were used.
@@ -60,7 +60,7 @@
 0 !COLOUR Pink                                                  CODE  13   VALUE #F6A9BB   EDGE #333333
 0                              // LEGOID  24 - Bright Yellow
 0 !COLOUR Yellow                                                CODE  14   VALUE #FAC80A   EDGE #333333
-0                              // LEGOID   1 - White
+0                              // LEGOID   1/426 - White
 0 !COLOUR White                                                 CODE  15   VALUE #F4F4F4   EDGE #333333
 0                              // LEGOID   6 - Light Green
 0 !COLOUR Light_Green                                           CODE  17   VALUE #ADD9A8   EDGE #333333
@@ -144,7 +144,7 @@
 0 !COLOUR Reddish_Lilac                                         CODE 218   VALUE #8E5597   EDGE #333333
 0                              // LEGOID 219 - Lilac
 0 !COLOUR Lilac                                                 CODE 219   VALUE #564E9D   EDGE #333333
-0                              // LEGOID 226 - Cool Yellow
+0                              // LEGOID 226/427 - Cool Yellow
 0 !COLOUR Bright_Light_Yellow                                   CODE 226   VALUE #FFEC6C   EDGE #333333
 0                              // LEGOID 232 - Dove Blue
 0 !COLOUR Sky_Blue                                              CODE 232   VALUE #77C9D8   EDGE #333333
@@ -437,7 +437,12 @@
 0 !COLOUR Canvas_Blue                                           CODE 20001 VALUE #1E5AA8   EDGE #333333                               MATERIAL FABRIC CANVAS
 0 !COLOUR Canvas_Green                                          CODE 20002 VALUE #00852B   EDGE #333333                               MATERIAL FABRIC CANVAS
 0 !COLOUR Canvas_Red                                            CODE 20004 VALUE #B40000   EDGE #333333                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Bright_Green                                   CODE 20010 VALUE #58AB41   EDGE #333333                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Yellow                                         CODE 20014 VALUE #FAC80A   EDGE #333333                               MATERIAL FABRIC CANVAS
 0 !COLOUR Canvas_White                                          CODE 20015 VALUE #F4F4F4   EDGE #333333                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Reddish_Brown                                  CODE 20070 VALUE #5F3109   EDGE #808080                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Light_Brown                                    CODE 20086 VALUE #7B5D41   EDGE #333333                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Dark_Green                                     CODE 20288 VALUE #00451A   EDGE #808080                               MATERIAL FABRIC CANVAS
 0 !COLOUR Canvas_Cream                                          CODE 20500 VALUE #F8F3E4   EDGE #333333                               MATERIAL FABRIC CANVAS
 
 0 // LDraw Internal Common Material Colours
