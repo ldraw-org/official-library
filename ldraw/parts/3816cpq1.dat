@@ -1,7 +1,7 @@
 0 Minifig Leg Right with Dark Blue and Gold Loincloth Pattern
 0 Name: 3816cpq1.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LDRAW_ORG Part UPDATE 2025-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Move down 12 units to align with hips
@@ -11,16 +11,18 @@
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Anubis Guard, Bricklink 970c00pb0081, Bricklink 970c00pb0082
-0 !KEYWORDS Brickowl 288328, Brickowl 403903, Pharaoh's Quest
-0 !KEYWORDS Rebrickable 970c03pr0196, Rebrickable 970c11pr0200, set 7327
-0 !KEYWORDS Amset-Ra
+0 !KEYWORDS Amset-Ra, Anubis Guard, Bricklink 970c00pb0081
+0 !KEYWORDS Bricklink 970c00pb0082, Brickowl 288328, Brickowl 403903
+0 !KEYWORDS Pharaoh's Quest, Rebrickable 970c03pr0196, Rebrickable 970c11pr0200
+0 !KEYWORDS Set 7327
 
 0 !HISTORY 2011-12-29 [Wesley] Original pattern design
 0 !HISTORY 2020-06-06 [MagFors] Adapted to corrected geometry
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 0 !HISTORY 2023-05-24 [MagFors] Adapted to c-version leg
 0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+0 !HISTORY 2025-07-27 [OrionP] Minor header edits
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
 
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817cs01.dat

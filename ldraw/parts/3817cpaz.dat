@@ -1,7 +1,7 @@
 0 Minifig Leg Left with Dark Red Loincloth, Belt with White Spikes and White Claws Pattern
 0 Name: 3817cpaz.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LDRAW_ORG Part UPDATE 2025-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Move down 12 units to align with hips
@@ -11,10 +11,13 @@
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Brickowl 894501, Chima, Crug, Rebrickable 970c19pr0438, set 30252
-0 !KEYWORDS set 70002, set 70014, set 70112, set 850910, Bricklink 970c88pb09
+0 !KEYWORDS Bricklink 970c88pb09, Brickowl 894501, Chima, Crug
+0 !KEYWORDS Rebrickable 970c19pr0438, set 30252, set 70002, set 70014, set 70112
+0 !KEYWORDS set 850910
 
 0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+0 !HISTORY 2025-07-27 [OrionP] Minor header edits
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817cs01.dat

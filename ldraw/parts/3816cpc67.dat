@@ -1,7 +1,7 @@
 0 Minifig Leg Right with Clockwork Robot Pattern
 0 Name: 3816cpc67.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LDRAW_ORG Part UPDATE 2025-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Move down 12 units to align with hips
@@ -11,14 +11,16 @@
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Brickowl 347081, CMF, Collectible Minifigures
-0 !KEYWORDS Rebrickable 970c14pr0288, Series 6, set 8827, Bricklink 970c86pb03
+0 !KEYWORDS Bricklink 970c86pb03, Brickowl 347081, CMF, Collectible Minifigures
+0 !KEYWORDS Rebrickable 970c14pr0288, Series 6, set 8827
 
 0 !HISTORY 2012-12-28 [MagFors] Original design as 3816pc67
 0 !HISTORY 2020-06-16 [MagFors] Adapted to corrected geometry
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 0 !HISTORY 2023-06-02 [MagFors] Adapted to c-version leg
 0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+0 !HISTORY 2025-07-27 [OrionP] Minor header edits
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
 
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817cs01.dat

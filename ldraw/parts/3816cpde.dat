@@ -1,7 +1,7 @@
 0 Minifig Leg Right with Laboratory Smock Pattern
 0 Name: 3816cpde.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LDRAW_ORG Part UPDATE 2025-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Move down 12 units to align with hips
@@ -11,15 +11,17 @@
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Brickowl 887982, CMF, Collectible Minifigures, Mad Scientist
-0 !KEYWORDS Rebrickable 970c03pr0003, set 1382, set 852331, Studio
-0 !KEYWORDS Bricklink 970c11pb06
+0 !KEYWORDS Bricklink 970c11pb06, Brickowl 887982, CMF, Collectible Minifigures
+0 !KEYWORDS Mad Scientist, Rebrickable 970c03pr0003, set 1382, set 852331
+0 !KEYWORDS Studio
 
 0 !HISTORY 2009-12-29 [westrate] Original design as 3816pde
 0 !HISTORY 2020-06-27 [MagFors] Adapted to corrected geometry
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 0 !HISTORY 2023-05-28 [MagFors] Adapted to c-version leg
 0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+0 !HISTORY 2025-07-27 [OrionP] Minor header edits
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
 
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817cs01.dat
