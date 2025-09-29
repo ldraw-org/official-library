@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDCfgalt.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2025-08-04
+0 !LDRAW_ORG Configuration UPDATE 2025-09-18
 
 0 // * All of the colour values are the same as in ldconfig.ldr.
 0 // * All of the edge colours, that are coloured in ldconfig.ldr, are the same.
@@ -151,6 +151,8 @@
 0 !COLOUR Trans_Light_Green                  CODE 285   VALUE #7DC291   EDGE #46955D   ALPHA 128
 0 !COLOUR Trans_Light_Blue_Violet            CODE 293   VALUE #6BABE4   EDGE #247BC6   ALPHA 128
 0 !COLOUR Trans_Black                        CODE 10375 VALUE #212121   EDGE #545454   ALPHA 128
+0 !COLOUR Trans_White                        CODE 11015 VALUE #F4F4F4   EDGE #C1C1C1   ALPHA 174
+0 !COLOUR Trans_Tan                          CODE 11019 VALUE #D7BA8C   EDGE #BC8D41   ALPHA 128
 
 0 // LDraw Chrome Plated Colours
 0 !COLOUR Chrome_Antique_Brass               CODE  60   VALUE #645A4C   EDGE #665B4D                               CHROME

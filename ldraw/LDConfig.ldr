@@ -1,16 +1,9 @@
 0 LDraw.org Configuration File
 0 Name: LDConfig.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2025-08-04
+0 !LDRAW_ORG Configuration UPDATE 2025-09-18
 
-0 // Last update: Added Regular Colours 10022, 296, 315, 316
-0 // Last update: Added Modulex Category with 41 New Colours (Range 30000-31002)
-0 // Last update: Added Fluorescent Paint Colours with 2 New Colours (332, 333)
-0 // Last update: Added 13 (regular) Rubber Colours (10028, 10092, 10084, 10326, 10212, 10005, 10003, 10085, 10288, 10151, 10191, 10330, 10008)
-0 // Last update: Added 8 Rubber Metallic Colours (10135, 10137, 10147, 10148, 10150, 10189, 10200, 10297)
-0 // Last update: Added 2 Rubber Transparent Colours (10057, 10079)
-0 // Last update: Added 9 Canvas Colours (20006, 20007, 20019, 20022, 20028, 20071, 20072, 20320, 20335)
-0 // Last update: Updated some Reference Comments
+0 // Last update: Added 11015 Trans_White and 11019 Trans_Tan
 
 0 // * LDraw and BrickLink mostly share naming conventions for their colours.
 0 // * Where possible LEGO colour numbers were used.
@@ -296,7 +289,8 @@
 0 !COLOUR Trans_Light_Blue_Violet                               CODE   293  VALUE #6BABE4    EDGE #247BC6   ALPHA 128
 0                              // LEGOID 375 - Transparent Black
 0 !COLOUR Trans_Black                                           CODE 10375  VALUE #212121    EDGE #545454   ALPHA 128
-
+0 !COLOUR Trans_White                                           CODE 11015  VALUE #F4F4F4    EDGE #C1C1C1   ALPHA 174
+0 !COLOUR Trans_Tan                                             CODE 11019  VALUE #D7BA8C    EDGE #BC8D41   ALPHA 128
 
 0 // LDraw Chrome Plated Colours
 0                              // LEGO - Anti.Gold
