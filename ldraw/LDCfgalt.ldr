@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDCfgalt.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2025-09-18
+0 !LDRAW_ORG Configuration UPDATE 2025-11-10
 
 0 // * All of the colour values are the same as in ldconfig.ldr.
 0 // * All of the edge colours, that are coloured in ldconfig.ldr, are the same.
@@ -217,6 +217,7 @@
 0 !COLOUR Glitter_Trans_Neon_Green           CODE 339   VALUE #C0FF00   EDGE #739900   ALPHA 128                   MATERIAL GLITTER VALUE #998C00 FRACTION 0.17 VFRACTION 0.2 SIZE 1
 0 !COLOUR Glitter_Trans_Orange               CODE 341   VALUE #F08F1C   EDGE #9E5C0A   ALPHA 128                   MATERIAL GLITTER VALUE #9E2A0A FRACTION 0.17 VFRACTION 0.2 SIZE 1
 0 !COLOUR Glitter_Trans_Bright_Green         CODE 10351 VALUE #56E646   EDGE #27AF18   ALPHA 128                   MATERIAL GLITTER VALUE #59AF18 FRACTION 0.17 VFRACTION 0.2 SIZE 1
+
 0 !COLOUR Opal_Trans_Clear                   CODE 360   VALUE #FCFCFC   EDGE #C9C9C9   ALPHA 240   LUMINANCE  5    MATERIAL GLITTER VALUE #FFFFFF FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0 !COLOUR Opal_Trans_Light_Blue              CODE 362   VALUE #AEE9EF   EDGE #59D1DE   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #59DEBF FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0 !COLOUR Opal_Trans_Black                   CODE 363   VALUE #635F52   EDGE #2A2823   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #7781C9 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
@@ -319,7 +320,6 @@
 0 !COLOUR Rubber_Dark_Green                  CODE 10288 VALUE #00451A   EDGE #001407                               RUBBER
 0 !COLOUR Rubber_Pearl_Gold                  CODE 10297 VALUE #AA7F2E   EDGE #584118                               RUBBER
 0 !COLOUR Rubber_Dark_Brown                  CODE 10308 VALUE #352100   EDGE #000000                               RUBBER
-0 !COLOUR Rubber_Dark_Brown                  CODE 10308 VALUE #352100   EDGE #000000                               RUBBER
 0 !COLOUR Rubber_Dark_Red                    CODE 10320 VALUE #720012   EDGE #3D0009                               RUBBER
 0 !COLOUR Rubber_Dark_Azure                  CODE 10321 VALUE #469BC3   EDGE #27607B                               RUBBER
 0 !COLOUR Rubber_Medium_Azure                CODE 10322 VALUE #68C3E2   EDGE #2499C0                               RUBBER
@@ -392,7 +392,7 @@
 0 !AVATAR CATEGORY "Container" DESCRIPTION "Container" PART 1 0 0  0 1 0  0 0 1 "61780.dat"
 0 !AVATAR CATEGORY "Conveyor" DESCRIPTION "Conveyor" PART 1 0 0  0 1 0  0 0 1 "92713c01.dat"
 0 !AVATAR CATEGORY "Crane" DESCRIPTION "Crane" PART 1 0 0  0 1 0  0 0 1 "30395.dat"
-0 !AVATAR CATEGORY "Cylinder" DESCRIPTION "Cylinder" PART 1 0 0  0 1 0  0 0 1 "30367b.dat"
+0 !AVATAR CATEGORY "Cylinder" DESCRIPTION "Cylinder" PART 1 0 0  0 1 0  0 0 1 "3062b.dat"
 
 0 !AVATAR CATEGORY "Dish" DESCRIPTION "Dish" PART 1 0 0  0 1 0  0 0 1 "3960.dat"
 0 !AVATAR CATEGORY "Door" DESCRIPTION "Door" PART 1 0 0  0 1 0  0 0 1 "3861a.dat"
@@ -405,12 +405,13 @@
 0 !AVATAR CATEGORY "Figure" DESCRIPTION "Figure" PART 1 0 0  0 1 0  0 0 1 "92198c01.dat"
 0 !AVATAR CATEGORY "Figure Accessory" DESCRIPTION "Figure Accessory" PART 1 0 0  0 1 0  0 0 1 "11245.dat"
 0 !AVATAR CATEGORY "Flag" DESCRIPTION "Flag" PART 1 0 0  0 1 0  0 0 1 "3596.dat"
+0 !AVATAR CATEGORY "Flexible" DESCRIPTION "Flexible" PART 1 0 0  0 1 0  0 0 1 "92338-f1.dat"
 0 !AVATAR CATEGORY "Forklift" DESCRIPTION "Forklift" PART 1 0 0  0 1 0  0 0 1 "3430c00-f1.dat"
-0 !AVATAR CATEGORY "Freestyle" DESCRIPTION "Freestyle" PART 1 0 0  0 1 0  0 0 1 "3004.dat"
+0 !AVATAR CATEGORY "Freestyle" DESCRIPTION "Freestyle" PART 1 0 0  0 1 0  0 0 1 "6243p01.dat"
 
 0 !AVATAR CATEGORY "Garage" DESCRIPTION "Garage" PART 1 0 0  0 1 0  0 0 1 "822bc02.dat"
 0 !AVATAR CATEGORY "Glass" DESCRIPTION "Glass" PART 1 0 0  0 1 0  0 0 1 "4036.dat"
-0 !AVATAR CATEGORY "Grab" DESCRIPTION "Grab" PART 1 0 0  0 1 0  0 0 1 "3004.dat"
+0 !AVATAR CATEGORY "Grab" DESCRIPTION "Grab" PART 1 0 0  0 1 0  0 0 1 "3492c02.dat"
 
 0 !AVATAR CATEGORY "Helper" DESCRIPTION "Helper" PART 1 0 0  0 1 0  0 0 1 "helper2druler100ldu.dat"
 0 !AVATAR CATEGORY "Hinge" DESCRIPTION "Hinge" PART 1 0 0  0 1 0  0 0 1 "3937c01.dat"
@@ -418,7 +419,7 @@
 0 !AVATAR CATEGORY "Hose" DESCRIPTION "Hose" PART 1 0 0  0 1 0  0 0 1 "73590a.dat"
 
 0 !AVATAR CATEGORY "Ladder" DESCRIPTION "Ladder" PART 1 0 0  0 1 0  0 0 1 "11299.dat"
-0 !AVATAR CATEGORY "Lever" DESCRIPTION "Lever" PART 1 0 0  0 1 0  0 0 1 "3004.dat"
+0 !AVATAR CATEGORY "Lever" DESCRIPTION "Lever" PART 1 0 0  0 1 0  0 0 1 "73587p01.dat"
 
 0 !AVATAR CATEGORY "Magnet" DESCRIPTION "Magnet" PART 1 0 0  0 1 0  0 0 1 "735.dat"
 0 !AVATAR CATEGORY "Minifig" DESCRIPTION "Minifig" PART 1 0 0  0 1 0  0 0 1 "973.dat"
@@ -427,7 +428,9 @@
 0 !AVATAR CATEGORY "Minifig Headwear" DESCRIPTION "Minifig Headwear" PART 1 0 0  0 1 0  0 0 1 "30138.dat"
 0 !AVATAR CATEGORY "Minifig Hipwear" DESCRIPTION "Minifig Hipwear" PART 1 0 0  0 1 0  0 0 1 "24782.dat"
 0 !AVATAR CATEGORY "Minifig Neckwear" DESCRIPTION "Minifig Neckwear" PART 1 0 0  0 1 0  0 0 1 "2587.dat"
+0 !AVATAR CATEGORY "Modulex" DESCRIPTION "Modulex" PART 1 0 0  0 1 0  0 0 1 "u7006.dat"
 0 !AVATAR CATEGORY "Monorail" DESCRIPTION "Monorail" PART 1 0 0  0 1 0  0 0 1 "2684c01.dat"
+0 !AVATAR CATEGORY "Mursten" DESCRIPTION "Mursten" PART 1 0 0  0 1 0  0 0 1 "u8003c.dat"
 
 0 !AVATAR CATEGORY "Panel" DESCRIPTION "Panel" PART 1 0 0  0 1 0  0 0 1 "6231.dat"
 0 !AVATAR CATEGORY "Plane" DESCRIPTION "Plane" PART 1 0 0  0 1 0  0 0 1 "87613.dat"
@@ -436,12 +439,14 @@
 0 !AVATAR CATEGORY "Platform" DESCRIPTION "Platform" PART 1 0 0  0 1 0  0 0 1 "2642.dat"
 0 !AVATAR CATEGORY "Propeller" DESCRIPTION "Propeller" PART 1 0 0  0 1 0  0 0 1 "15211.dat"
 
+0 !AVATAR CATEGORY "Quatro" DESCRIPTION "Quatro" PART 1 0 0  0 1 0  0 0 1 "48287.dat"
+
 0 !AVATAR CATEGORY "Rack" DESCRIPTION "Rack" PART 1 0 0  0 1 0  0 0 1 "2426c02.dat"
 0 !AVATAR CATEGORY "Roadsign" DESCRIPTION "Roadsign" PART 1 0 0  0 1 0  0 0 1 "3350.dat"
 0 !AVATAR CATEGORY "Rock" DESCRIPTION "Rock" PART 1 0 0  0 1 0  0 0 1 "42284.dat"
 
 0 !AVATAR CATEGORY "Scala" DESCRIPTION "Scala" PART 1 0 0  0 1 0  0 0 1 "33086.dat"
-0 !AVATAR CATEGORY "Screw" DESCRIPTION "Screw" PART 1 0 0  0 1 0  0 0 1 "3004.dat"
+0 !AVATAR CATEGORY "Screw" DESCRIPTION "Screw" PART 1 0 0  0 1 0  0 0 1 "u9013.dat"
 0 !AVATAR CATEGORY "Sheet Cardboard" DESCRIPTION "Sheet Cardboard" PART 1 0 0  0 1 0  0 0 1 "u572p02.dat"
 0 !AVATAR CATEGORY "Sheet Fabric" DESCRIPTION "Sheet Fabric" PART 1 0 0  0 1 0  0 0 1 "u9494p01c01.dat"
 0 !AVATAR CATEGORY "Sheet Plastic" DESCRIPTION "Sheet Plastic" PART 1 0 0  0 1 0  0 0 1 "u66.dat"
@@ -449,6 +454,7 @@
 0 !AVATAR CATEGORY "Sphere" DESCRIPTION "Sphere" PART 1 0 0  0 1 0  0 0 1 "98107.dat"
 0 !AVATAR CATEGORY "Staircase" DESCRIPTION "Staircase" PART 1 0 0  0 1 0  0 0 1 "4784.dat"
 0 !AVATAR CATEGORY "Sticker" DESCRIPTION "Sticker" PART 1 0 0  0 1 0  0 0 1 "192425a.dat"
+0 !AVATAR CATEGORY "Sticker Shortcut" DESCRIPTION "Sticker Shortcut" PART 1 0 0  0 1 0  0 0 1 "4215ad04.dat"
 0 !AVATAR CATEGORY "String" DESCRIPTION "String" PART 1 0 0  0 1 0  0 0 1 "76384.dat"
 0 !AVATAR CATEGORY "Support" DESCRIPTION "Support" PART 1 0 0  0 1 0  0 0 1 "2580.dat"
 
