@@ -1,7 +1,7 @@
 0 Minifig Torso with Bright Light Blue Parabola Shaped Belly Pattern
 0 Name: 973pcfd.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 0 !HISTORY 2025-10-24 [MagFors] Corrected colour
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-25 [OrionP] Minor header edits
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -19 29 10 19 29 10 19 32 10 -19 32 10

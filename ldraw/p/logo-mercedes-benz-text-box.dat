@@ -1,7 +1,7 @@
-0 Logo Mercedes-Benz Text
+0 Logo Mercedes-Benz Text Box
 0 Name: logo-mercedes-benz-text-box.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Primitive UPDATE 2025-11
+0 !LDRAW_ORG Primitive UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Exact dimensions X = 92; Z = 10.4
@@ -11,6 +11,8 @@
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-03 [Holly-Wood] Fixed description
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 0 // Faces
 4 16 -15.69 0 -.0679 -16.0068 0 -.0679 -16.12 0 -2.5792 -14.8756 0 -1.3801

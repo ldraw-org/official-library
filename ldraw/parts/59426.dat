@@ -1,7 +1,7 @@
 0 Technic Axle  5.5 with Stop Type 2
 0 Name: 59426.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Compared to older 33209, 59426 long arm is 2 ldu longer
@@ -15,6 +15,8 @@
 0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
 0 !HISTORY 2025-10-28 [Blechtaler] used axle sleeve
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-25 [OrionP] Minor header edits
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 1 16 55 0 0 0 -1 0 1 0 0 0 0 1 axleend2.dat
 1 16 -27 0 0 0 79.5 0 1 0 0 0 0 1 axlehol8.dat

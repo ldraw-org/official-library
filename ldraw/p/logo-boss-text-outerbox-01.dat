@@ -1,7 +1,7 @@
-0 Logo Boss Text From 1924 To 2021
+0 Logo Boss Text Box From 1924 To 2021
 0 Name: logo-boss-text-outerbox-01.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Primitive UPDATE 2025-11
+0 !LDRAW_ORG Primitive UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Exact dimensions X = 37.2; Z = 10
@@ -10,6 +10,8 @@
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-02 [Holly-Wood] Fixed description
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 0 // Outerbox
 4 16 -18.6 0 4.3 -18.6 0 -4.3 -17.85 0 -4.3 -17.85 0 4.3

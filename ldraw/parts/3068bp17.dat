@@ -1,7 +1,7 @@
 0 Tile  2 x  2 with Centered Black Disc (28 LDU Diameter) Pattern
 0 Name: 3068bp17.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -19,6 +19,8 @@
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2025-10-28 [KnightOfTarenta] Changed Name, fixed T-junc
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-25 [OrionP] Minor header edits
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 0 // Base Part
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat

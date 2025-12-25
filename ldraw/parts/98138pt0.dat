@@ -1,17 +1,19 @@
-0 Tile  1 x  1 Round with 'RS' Pattern
+0 Tile  1 x  1 Round with "RS" Pattern
 0 Name: 98138pt0.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2025-06
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 98138pb054, Porsche GT3 RS, Rebrickable 98138pr0055
-0 !KEYWORDS set 42056, Wheelhub
+0 !KEYWORDS BrickLink 98138pb054, Brickowl 874657, Brickset 26505
+0 !KEYWORDS Porsche GT3 RS, Rebrickable 98138pr0055, set 42056, Wheelhub
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 0 !HISTORY 2025-04-01 [jb70] Using new Logo Primitives and Subfile
 0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
+0 !HISTORY 2025-12-23 [MagFors] Update description
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s02.dat
 1 16 0 0 0 10 0 0 0 1 0 0 0 10 4-4ering.dat

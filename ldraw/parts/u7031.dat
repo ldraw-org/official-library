@@ -1,7 +1,7 @@
 0 Modulex Slope Brick 27  2 x  1
 0 Name: u7031.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,6 +13,8 @@
 0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
 0 !HISTORY 2025-11-02 [OrionP] Fix Invalid lines
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-25 [OrionP] Minor header edits
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 1 16 10 -1.25 0 0 1 0 -1.25 0 0 0 0 3.75 rect.dat
 1 16 -10 -5.475 0 0 -1 0 -5.475 0 0 0 0 -3.75 rect.dat

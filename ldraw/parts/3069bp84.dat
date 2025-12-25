@@ -1,7 +1,7 @@
 0 Tile  1 x  2 with Lavender Ribbon with "12:00" and  3 Balloons Pattern
 0 Name: 3069bp84.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -14,6 +14,8 @@
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 0 !HISTORY 2025-10-22 [MagFors] Corrected colours, reduced decimals
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-25 [OrionP] Minor header edits
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 26 -10.65 0 5.75 -11.7 0 4.8 -11.55 0 4.55 -11.05 0 4.8

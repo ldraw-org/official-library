@@ -1,7 +1,7 @@
 0 Tyre 22/ 30 x 30 ZR
 0 Name: 44309.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,6 +13,8 @@
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2025-03-10 [Blechtaler] used prims
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-25 [OrionP] Minor header edits
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\44309s01.dat
 1 16 0 0 0 0 -1 0 1 0 0 0 0 1 s\44309s01.dat

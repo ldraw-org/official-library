@@ -1,7 +1,7 @@
 0 Constraction Hook Small with Peghole and Axle
 0 Name: 42074.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -14,6 +14,8 @@
 0 !HISTORY 2025-10-11 [MagFors] Complete rework, original by Guy Vivan
 0 !HISTORY 2025-10-11 [MagFors] Shaped axleend
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-25 [OrionP] Minor header edits
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 1 16 10 0 0 0 -20 0 -9 0 0 0 0 -9 4-4cylo.dat
 1 16 0 0 0 0 -1 0 -1 0 0 0 0 -1 connhole.dat

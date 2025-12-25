@@ -1,7 +1,7 @@
 0 Mursten Brick  2 x  2 with 2 Adjacent Slots
 0 Name: u8002d.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -15,6 +15,8 @@
 0 !HISTORY 2021-07-27 [MagFors] Studs without logo
 0 !HISTORY 2025-11-11 [MagFors] removed overlap
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-25 [OrionP] Minor header edits
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 4 16 -20 24 20 -16 24 16 -16 24 -16 -20 24 -20
 4 16 20 24 20 16 24 16 -16 24 16 -20 24 20

@@ -1,7 +1,7 @@
 0 Cone  3 x  3 x  2
 0 Name: 6233.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -15,6 +15,8 @@
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2024-12-31 [Blechtaler] reworked with subfiles and Hi-Res outer cone
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-25 [OrionP] Minor header edits
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 axl5ho10.dat

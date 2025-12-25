@@ -1,17 +1,21 @@
-0 Duplo Brick 2 x 6 x 2 with Raised Central 2 x 2 Section with Curved Sides with Three Yellow Stars Pattern
+0 Duplo Brick  2 x  6 x  2 with Raised Central  2 x  2 Section with Curved Sides with Three Yellow Stars Pattern
 0 Name: 4197p01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Part UPDATE 2025-04
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Bricklink 4197pb002, Circus, Clown, Rebrickable 4197pr0002, Set 1583
-0 !KEYWORDS Set 1685, Set 2221, Set 2326, Set 2383, Set 2387
+
+0 !KEYWORDS Bricklink 4197pb002, Brickowl 382108, Circus, Clown
+0 !KEYWORDS Rebrickable 4197pr0002, Set 1583, Set 1685, Set 2221, Set 2326
+0 !KEYWORDS Set 2383, Set 2387
 
 0 !HISTORY 2025-03-31 [Holly-Wood] Added prims
 0 !HISTORY 2025-04-27 [OrionP] Official Update 2025-04
+0 !HISTORY 2025-12-23 [MagFors] Update description
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4197s01.dat
 1 16 100 0 -40 -60 0 0 0 0 51.7 0 1 0 48\3-16tang.dat

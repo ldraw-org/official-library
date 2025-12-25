@@ -1,7 +1,7 @@
 0 Brick  2 x  2 x  3 with 4 White Stripes Pattern
 0 Name: 30145p01.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -14,6 +14,8 @@
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2025-02-21 [KnightOfTarenta] Sub-filed, Keywords, Adjustments to Pattern
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-25 [OrionP] Minor header edits
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 0 // Base Part
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30145s01.dat

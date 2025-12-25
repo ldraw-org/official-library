@@ -1,7 +1,7 @@
 0 Arch  1 x  3 x  2 Ogee
 0 Name: 88292.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,6 +13,8 @@
 0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 0 !HISTORY 2025-10-28 [Blechtaler] slightly reworked, added "Ogee" to title
 0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-25 [OrionP] Minor header edits
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 0 // arch
 1 16 10 44 26.1991 0 -1 0 0 0 -21.6474 -16.1991 0 0 3-16tndis.dat
