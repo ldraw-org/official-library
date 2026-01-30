@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDCfgalt.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2025-11-10
+0 !LDRAW_ORG Configuration UPDATE 2026-01-03
 
 0 // * All of the colour values are the same as in ldconfig.ldr.
 0 // * All of the edge colours, that are coloured in ldconfig.ldr, are the same.
@@ -111,6 +111,8 @@
 0 !COLOUR Sienna_Brown                       CODE 422     VALUE #915C3C   EDGE #6B452D
 0 !COLOUR Umber_Brown                        CODE 423     VALUE #543F33   EDGE #32261F
 0 !COLOUR Ochre_Yellow                       CODE 424     VALUE #DD9E47   EDGE #CA8525
+0 !COLOUR Warm_Pink                          CODE 430     VALUE #F79B9B   EDGE #F36C6C
+0 !COLOUR Bright_Blue_Violet                 CODE 431     VALUE #665EA7   EDGE #514A86
 0 !COLOUR Fabuland_Brown                     CODE 450     VALUE #D27744   EDGE #B8602C
 0 !COLOUR Medium_Orange                      CODE 462     VALUE #F58624   EDGE #DB6B0A
 0 !COLOUR Dark_Orange                        CODE 484     VALUE #91501C   EDGE #663913
@@ -118,7 +120,7 @@
 0 !COLOUR Light_Orange_Brown                 CODE 507     VALUE #FA9C1C   EDGE #E08504
 0 !COLOUR Fabuland_Red                       CODE 508     VALUE #C65127   EDGE #993F1E
 0 !COLOUR Fabuland_Orange                    CODE 509     VALUE #CF8A47   EDGE #B6722F
-0 !COLOUR Fabuland_Lime                      CODE 510     VALUE #78FC78   EDGE #46FB46
+0 !COLOUR Fabuland_Lime                      CODE 510     VALUE #ACE35A   EDGE #95DB2D
 0 !COLOUR Lemon                              CODE 10015   VALUE #FFF230   EDGE #F9E900
 0 !COLOUR Rose_Pink                          CODE 10017   VALUE #FF9494   EDGE #FF6060
 0 !COLOUR Yellowish_Dark_Pink                CODE 10022   VALUE #D05098   EDGE #B9317E
@@ -225,6 +227,7 @@
 0 !COLOUR Opal_Trans_Purple                  CODE 365   VALUE #671F81   EDGE #441456   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #2F1456 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0 !COLOUR Opal_Trans_Green                   CODE 367   VALUE #237841   EDGE #174F2B   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #0B270B FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0 !COLOUR Opal_Trans_Dark_Blue               CODE 10366 VALUE #0020A0   EDGE #000B38   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #001D38 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
+0 !COLOUR Opal_Trans_Yellow                  CODE 376   VALUE #F5CD2F   EDGE #B49208   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #B45908 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 
 0 // LDraw Speckle Colours
 0 !COLOUR Speckle_Black_Copper               CODE  75   VALUE #000000   EDGE #AB6038                               MATERIAL SPECKLE VALUE #AB6038 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
