@@ -1,10 +1,11 @@
 0 LDraw.org Configuration File
 0 Name: LDConfig.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2026-01-03
+0 !LDRAW_ORG Configuration UPDATE 2026-04-14
 
-0 // Last update: Added New Colours 376 Opal_Trans_Yellow, 430 Warm_Pink and 431 Bright_Blue_Violet
-0 // Last update: Changed Hex Value of 510 Fabuland_Lime
+0 // Last update: Changed Alpha of Colour 32 Trans_Black_IR from 210 to 245
+0 // Last update: Changed Alpha of Colours 21 and 329 from 240 to 245
+0 // Last update: Changed Alpha of Colour 294 from 240 to 200
 
 0 // * LDraw and BrickLink mostly share naming conventions for their colours.
 0 // * Where possible LEGO colour numbers were used.
@@ -238,7 +239,7 @@
 
 0 // LDraw Transparent Colours
 0                              // LEGOID 109 / 355 - Trans Black IR
-0 !COLOUR Trans_Black_IR_Lens                                   CODE    32   VALUE #000000   EDGE #333333   ALPHA 210
+0 !COLOUR Trans_Black_IR_Lens                                   CODE    32   VALUE #000000   EDGE #333333   ALPHA 245
 0                              // LEGOID  43 - Transparent Blue
 0 !COLOUR Trans_Dark_Blue                                       CODE    33   VALUE #0020A0   EDGE #000B38   ALPHA 128
 0                              // LEGOID  48 - Transparent Green
@@ -388,14 +389,14 @@
 
 
 0 // LDraw Milky Colours
-0                              // LEGOID 294 - Phosphorescent Green
-0 !COLOUR Glow_In_Dark_Opaque                                   CODE    21   VALUE #E0FFB0   EDGE #B8FF4D   ALPHA 240   LUMINANCE 15
+0                              // LEGOID 50 - Phosphorescent White
+0 !COLOUR Glow_In_Dark_Opaque                                   CODE    21   VALUE #E0FFB0   EDGE #B8FF4D   ALPHA 245   LUMINANCE 15
 0                              // LEGOID  20 - Nature
 0 !COLOUR Milky_White                                           CODE    79   VALUE #EEEEEE   EDGE #BABABA   ALPHA 240
-0                              // LEGOID  50 - Phosphorescent White
-0 !COLOUR Glow_In_Dark_Trans                                    CODE   294   VALUE #BDC6AD   EDGE #8D9D72   ALPHA 240   LUMINANCE 15
+0                              // LEGOID 294 - Phosphorescent Green 
+0 !COLOUR Glow_In_Dark_Trans                                    CODE   294   VALUE #BDC6AD   EDGE #8D9D72   ALPHA 200   LUMINANCE 15
 0                              // LEGOID 329 - White Glow
-0 !COLOUR Glow_In_Dark_White                                    CODE   329   VALUE #F5F3D7   EDGE #E0DA85   ALPHA 240   LUMINANCE 15
+0 !COLOUR Glow_In_Dark_White                                    CODE   329   VALUE #F5F3D7   EDGE #E0DA85   ALPHA 245   LUMINANCE 15
 
 
 0 // LDraw Glitter Colours
