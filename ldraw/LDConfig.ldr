@@ -1,11 +1,9 @@
 0 LDraw.org Configuration File
 0 Name: LDConfig.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2026-04-14
+0 !LDRAW_ORG Configuration UPDATE 2026-05-29
 
-0 // Last update: Changed Alpha of Colour 32 Trans_Black_IR from 210 to 245
-0 // Last update: Changed Alpha of Colours 21 and 329 from 240 to 245
-0 // Last update: Changed Alpha of Colour 294 from 240 to 200
+0 // Last update: Changed Opal_Trans_Green to Opal_Trans_Bright_Green
 
 0 // * LDraw and BrickLink mostly share naming conventions for their colours.
 0 // * Where possible LEGO colour numbers were used.
@@ -428,7 +426,7 @@
 0                              // LEGOID 365 - Transparent Violet Opal
 0 !COLOUR Opal_Trans_Purple                                     CODE   365   VALUE #671F81   EDGE #441456   ALPHA 200   LUMINANCE 5     MATERIAL GLITTER VALUE #2F1456 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0                              // LEGOID 367 - Transparent Green Opal
-0 !COLOUR Opal_Trans_Green                                      CODE   367   VALUE #237841   EDGE #174F2B   ALPHA 200   LUMINANCE 5     MATERIAL GLITTER VALUE #0B270B FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
+0 !COLOUR Opal_Trans_Bright_Green                               CODE   367   VALUE #56E646   EDGE #27AF18   ALPHA 200   LUMINANCE 5     MATERIAL GLITTER VALUE #0B270B FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0                              // LEGOID 376 - Transparent Yellow Opalescence
 0 !COLOUR Opal_Trans_Yellow                                     CODE   376   VALUE #F5CD2F   EDGE #B49208   ALPHA 200   LUMINANCE 5     MATERIAL GLITTER VALUE #B45908 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0                              // LEGOID 366 - Transparent Blue Opal 
