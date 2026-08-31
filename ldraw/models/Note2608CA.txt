@@ -1,0 +1,96 @@
+ldraw.org Parts Update 2026-08
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Mon, 31 Aug 2026 04:17:21 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 248
+   New files: 202
+   New Parts: 144
+   New Subparts: 56
+   New Primitives: 2
+
+Moved Parts
+   3496c02.dat                ~Moved to 9044ap02
+
+Renamed Parts
+   6218812u.dat               Sticker  0.8 x  1.9 with Light Blue and White Triangles on Blue Background Right
+   changed to    Sticker  0.8 x  1.7 with Light Blue and White Triangles on Blue Background Right
+   s\6177969bs02.dat          ~Sticker  1.9 x  0.8 with Black Number 2 in White Disc on Black Background - Second Face
+   changed to    ~Sticker  1.8 x  0.8 with Black Number 2 in White Disc on Black Background - Second Face
+   s\6177969bs01.dat          ~Sticker  1.9 x  0.8 with Black Number 2 in White Disc on Black Background - First Face
+   changed to    ~Sticker  1.8 x  0.8 with Black Number 2 in White Disc on Black Background - First Face
+   6177969bc01.dat            Sticker  1.9 x  0.8 with Black Number 2 in White Disc on Black Background (Formed)
+   changed to    Sticker  1.8 x  0.8 with Black Number  2 in White Disc on Black Background (Formed)
+   s\1023035s03.dat           ~Figure Friends Foot Underside for Legs with Thin Hinge
+   changed to    ~Figure Friends Foot Underside for Legs Bare with Thin Hinge
+   4510086b.dat               Sticker  0.8 x  0.8 with Red and Blue Buttons
+   changed to    Sticker  0.8 x  0.9 with Red and Blue Buttons
+   4159998c.dat               Sticker  2 x  1.6 with Silver Frame and Rivets on Black Background
+   changed to    Sticker  2.2 x  1.8 with Silver Frame and Rivets on Black Background
+   4533401e.dat               Sticker  1.1 x  1.6 with Buttons and Circuitry
+   changed to    Sticker  1.2 x  1.8 with Buttons and Circuitry
+   6259665b.dat               Sticker  1.8 x  0.7 with Dark Bluish Grey and Blue Rectangle
+   changed to    Sticker  2.0 x  0.8 with Dark Bluish Grey and Blue Rectangle
+   4286ds1.dat                Slope Brick 33 3 x 1 with Blue and Dark Bluish Grey Panels and Yellow Markings Stickers
+   changed to    Slope Brick 33  3 x  1 with Blue and Dark Bluish Grey Panels and Yellow Markings Stickers
+   3678ad01.dat               Slope Brick 65  2 x  2 x  2 without Centre Tube with Sticker Silver Frame and Rivets on Black Background
+   changed to    Slope Brick 65  2 x  2 x  2 without Centre Tube with Silver Frame and Rivets on Black Background Sticker
+   s\11477b02.dat             ~Sticker Back  0.8 x  1.9 Trapezoid (Formed)
+   changed to    ~Sticker Back  0.8 x  1.7 Trapezoid (Formed)
+   6218812wc01.dat            Sticker  0.8 x  1.9 with Light Blue Triangles on Blue Background Left (Formed)
+   changed to    Sticker  0.8 x  1.7 with Light Blue Triangles on Blue Background Left (Formed)
+   s\6218812us01.dat          ~Sticker  0.8 x  1.9 with Light Blue and White Triangles on Blue Background Right  - First Face
+   changed to    ~Sticker  0.8 x  1.7 with Light Blue and White Triangles on Blue Background Right  - First Face
+   6218812uc01.dat            Sticker  0.8 x  1.9 with Light Blue and White Triangles on Blue Background Right (Formed)
+   changed to    Sticker  0.8 x  1.7 with Light Blue and White Triangles on Blue Background Right (Formed)
+   s\6218812us02.dat          ~Sticker  0.8 x  1.9 with Light Blue and White Triangles on Blue Background Right - Seecond Face
+   changed to    ~Sticker  0.8 x  1.7 with Light Blue and White Triangles on Blue Background Right - Seecond Face
+   s\6218812us03.dat          ~Sticker  0.8 x  1.9 with Light Blue and White Triangles on Blue Background Right - Third Face
+   changed to    ~Sticker  0.8 x  1.7 with Light Blue and White Triangles on Blue Background Right - Third Face
+   s\6218812us05.dat          ~Sticker  0.8 x  1.9 with Light Blue and White Triangles on Blue Background Right - Fifth Face
+   changed to    ~Sticker  0.8 x  1.7 with Light Blue and White Triangles on Blue Background Right - Fifth Face
+   s\6218812us04.dat          ~Sticker  0.8 x  1.9 with Light Blue and White Triangles on Blue Background Right - Fourth Face
+   changed to    ~Sticker  0.8 x  1.7 with Light Blue and White Triangles on Blue Background Right - Fourth Face
+   s\6218812us06.dat          ~Sticker  0.8 x  1.9 with Light Blue and White Triangles on Blue Background Right - Sixth Face
+   changed to    ~Sticker  0.8 x  1.7 with Light Blue and White Triangles on Blue Background Right - Sixth Face
+   2241p04.dat                Figure Friends Hip And Legs with Short Skirt with Medium Brown Legs and Metallic Pink Ankle and Foot Strap Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Short Skirt with Medium Brown Legs and Metallic Pink Ankle and Foot Strap Sandals Pattern
+   2241p03.dat                Figure Friends Hip And Legs with Short Skirt with Medium Nougat Legs and Gold Ankle and Foot Strap Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Short Skirt with Medium Nougat Legs and Gold Ankle and Foot Strap Sandals Pattern
+   1023035p04.dat             Figure Friends with Cargo Pants with Medium Tan Legs and Dark Blue V-Shaped Straps Sandals Pattern
+   changed to    Figure Friends Legs with Cargo Pants with Medium Tan Legs and Dark Blue V-Shaped Straps Sandals Pattern
+   6186799b.dat               Sticker  1.7 x  1.7 with Reddish Brown Symmetric Symbols on White Background
+   changed to    Sticker  1.8 x  1.8 with Reddish Brown Symmetric Symbols on White Background
+   6186799c.dat               Sticker  6.3 x  2.6 with Red Ninjago Logogram "DOJO" on White Background
+   changed to    Sticker  6.4 x  2.6 with Red Ninjago Logogram "DOJO" on White Background
+   6186799f.dat               Sticker  1.7 x  0.7 with Trainer Card with Red Ninjago Minifigure and Text Box
+   changed to    Sticker  1.8 x  0.8 with Trainer Card with Red Ninjago Minifigure and Text Box
+   3070bp0z.dat               Tile  1 x  1 with with Color Explosion on Blue Background Pattern
+   changed to    Tile  1 x  1 with Color Explosion on Blue Background Pattern
+   3008d0u.dat                Brick  1 x  8 with with "THE BRICK SEPARATOR" Movie Poster Sticker
+   changed to    Brick  1 x  8 with "THE BRICK SEPARATOR" Movie Poster Sticker
+   3960psa.dat                Dish 4 x  4 Inverted with with SW TIE Hatch Black and Dark Bluish Grey Pattern
+   changed to    Dish  4 x  4 Inverted with SW TIE Hatch Black and Dark Bluish Grey Pattern
+   6337749j.dat               Sticker  1.0 x  1.8 with with "C.R." and Wood Grain Background
+   changed to    Sticker  1.0 x  1.8 with "C.R." and Wood Grain Background
+   3960px5.dat                Dish 4 x  4 Inverted with Two Minions in Washing Machine Pattern
+   changed to    Dish  4 x  4 Inverted with Two Minions in Washing Machine Pattern
+   3960pb8.dat                Dish 4 x  4 Inverted with White Force Field Pattern
+   changed to    Dish  4 x  4 Inverted with White Force Field Pattern
+   3960p0z.dat                Dish 4 x 4 Inverted with Dark Pink Star Shaped Eyes, Medium Lavender Stripes and Dark Purple Closed Mouth with Tooth Pattern
+   changed to    Dish  4 x  4 Inverted with Dark Pink Star Shaped Eyes, Medium Lavender Stripes and Dark Purple Closed Mouth with Tooth Pattern
+
+Other Fixed Parts
+   762.dat                    ~Winding Drum  1 x  2
+   6142275g.dat               Sticker  1.2 x  1.8 with Lights and Levers on Dark Bluish Grey Background
+   4533401d.dat               Sticker  1.2 x  0.8 with Blue, White and Red Buttons
+   6142275i.dat               Sticker  1.2 x  0.8 with Red Line on Black, Grey and White Background Right
+   s\stickerback008x012.dat   ~Sticker Back  0.8 x  1.2
+   6142275o.dat               Sticker  3.0 x  1.8 with White Audi Logo and Number 1, Red Arrows and Quads on White Background
+
+Minor Edits
+   4 Parts with minor administrative edits and/or license changes
