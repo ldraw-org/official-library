@@ -1,0 +1,101 @@
+ldraw.org Parts Update 2026-09
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Wed, 30 Sep 2026 14:39:25 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 234
+   New files: 161
+   New Parts: 121
+   New Subparts: 31
+   New Primitives: 7
+   New 48_Primitives: 2
+
+Moved Parts
+   3068b2h.dat                ~Moved to 3068bd2i
+
+Renamed Parts
+   30145p02.dat               Brick  2 x  2 x  3 with Green Dots Pattern
+   changed to    Brick  2 x  2 x  3 with 3 Green Dots Pattern
+   4629791b.dat               Sticker  0.9 x  1.9 with Chrome Silver Mirror
+   changed to    Sticker  0.9 x  1.8 with Chrome Silver Mirror
+   6196575s.dat               Sticker  0.8 x  1.7 with White "9" on Black Background and Red Border
+   changed to    Sticker  0.9 x  1.8 with White "9" on Black Background and Red Border
+   6058327d.dat               Sticker  0.7 x  1.7 with Buttons and Circuitry
+   changed to    Sticker  0.9 x  1.8 with Buttons and Circuitry
+   6259665d.dat               Sticker  0.8 x  1.7 with Red Markings and Blue Rectangle Right
+   changed to    Sticker  0.9 x  1.8 with Red Markings and Blue Rectangle Right
+   6058327c.dat               Sticker  2.8 x  1.7 with Olive Green Trapezoid with Cut Corners on Dark Bluish Grey Background
+   changed to    Sticker  3.0 x  1.8 with Olive Green Trapezoid with Cut Corners on Dark Bluish Grey Background
+   87544.dat                  Panel  1 x  2 x  3 Reinforced with Hollow Studs
+   changed to    Panel  1 x  2 x  3 Reinforced
+   s\87544s01.dat             ~Panel  1 x  2 x  3 without Front Face and Studs
+   changed to    ~Panel  1 x  2 x  3 Reinforced without Front Face
+   s\87552s01.dat             ~Panel  1 x  2 x  2 Reinforced without Front Face or Studs
+   changed to    ~Panel  1 x  2 x  2 Reinforced without Front Face
+   2268p03.dat                Figure Friends Hips and Legs with Cargo Pants with Medium Nougat Legs, Tan Shoes with Dark Blue Laces and Soles Pattern
+   changed to    Figure Friends Hips and Legs with Cargo Pants with Reddish Brown Legs, Olive Green Shoes with White Laces and Dark Blue Soles Pattern
+   1023035p03.dat             Figure Friends Legs with Cargo Pants with Medium Nougat Legs, Tan Shoes with Dark Blue Laces and Soles Pattern
+   changed to    Figure Friends Legs with Cargo Pants with Reddish Brown Legs, Olive Green Shoes with White Laces and Dark Blue Soles Pattern
+   6218812w.dat               Sticker  0.8 x  1.9 with Light Blue Triangles on Blue Background Left
+   changed to    Sticker  0.8 x  1.7 with Light Blue Triangles on Blue Background Left
+   6148328bj.dat              Sticker  0.8 x  0.8 with White Mobil1 Logo on Black Background
+   changed to    Sticker  0.8 x  0.8 with White Mobil 1 Logo on Black Background
+   6177741n.dat               Sticker  1.9 x  1.8 with Door Outline with Black 16 in White Frame with Yellow Stripes on Transparent Background Right
+   changed to    Sticker  1.9 x  1.8 with Door Outline with Black "16" in White Frame with Yellow Stripes on Transparent Background Right
+   6177741q.dat               Sticker  1.9 x  1.8 with Door Outline with Black 16 in White Frame with Yellow Stripes on Transparent Background Left
+   changed to    Sticker  1.9 x  1.8 with Door Outline with Black "16" in White Frame with Yellow Stripes on Transparent Background Left
+   s\6177741ns01.dat          ~Sticker  1.9 x  1.8 with Door Outline with Black 16 in White Frame with Yellow Stripes on Transparent Background Right - First Face
+   changed to    ~Sticker  1.9 x  1.8 with Door Outline with Black "16" in White Frame with Yellow Stripes on Transparent Background Right - First Face
+   s\6177741qs01.dat          ~Sticker  1.9 x  1.8 with Door Outline with Black 16 in White Frame with Yellow Stripes on Transparent Background Left - First Face
+   changed to    ~Sticker  1.9 x  1.8 with Door Outline with Black "16" in White Frame with Yellow Stripes on Transparent Background Left - First Face
+   s\6177741ns06.dat          ~Sticker  1.9 x  1.8 with Door Outline with Black 16 in White Frame with Yellow Stripes on Transparent Background Right - Sixth Face
+   changed to    ~Sticker  1.9 x  1.8 with Door Outline with Black "16" in White Frame with Yellow Stripes on Transparent Background Right - Sixth Face
+   6177741nc01.dat            Sticker  1.9 x  1.8 with Door Outline with Black 16 in White Frame with Yellow Stripes on Transparent Background Right (Formed)
+   changed to    Sticker  1.9 x  1.8 with Door Outline with Black "16" in White Frame with Yellow Stripes on Transparent Background Right (Formed)
+   6177741qc01.dat            Sticker  1.9 x  1.8 with Door Outline with Black 16 in White Frame with Yellow Stripes on Transparent Background Left (Formed)
+   changed to    Sticker  1.9 x  1.8 with Door Outline with Black "16" in White Frame with Yellow Stripes on Transparent Background Left (Formed)
+   6337749fc01.dat            Sticker  1.8 x  1.7 with Four Bright Light Orange Buttons (Formed)
+   changed to    Sticker  1.9 x  1.8 with Four Bright Light Orange Buttons (Formed)
+   6196575g.dat               Sticker  0.7 x  1.7 with Two Black Hashes on Tan Background
+   changed to    Sticker  0.8 x  1.8 with Two Black Hashes on Tan Background
+   6196575gc01.dat            Sticker  0.7 x  1.7 with Two Black Hashes on Tan Background (Formed)
+   changed to    Sticker  0.8 x  1.8 with Two Black Hashes on Tan Background (Formed)
+   6177741kc01.dat            Sticker  0.8 x  2.5 with Yellow Stripes on Transparent Background Right Formed
+   changed to    Sticker  0.8 x  2.5 with Yellow Stripes on Transparent Background Right (Formed)
+   28621p16.dat               Minifig Head with Black Eyebrows Thick Moustache and Round Glasses Pattern
+   changed to    Minifig Head with Black Eyebrows, Thick Moustache and Round Glasses Pattern
+   85080.dat                  Brick  2 x  2 Corner Round w Stud Notch and Reinforced Underside
+   changed to    Brick  2 x  2 Corner Round with Stud Notch and Reinforced Underside
+
+Other Fixed Parts
+   60621.dat                  Door  1 x  4 x  6 Barred
+   4215bps1.dat               Panel  1 x  4 x  3 with SW Death Star, Shield and Planet Pattern
+   s\92244s03.dat             ~Figure Friends Female Left Arm Elbow
+   s\92244s04.dat             ~Figure Friends Female Left Arm Lower
+   s\stickerback018x019.dat   ~Sticker Back  1.8 x  1.9
+   6177741r.dat               Sticker  0.9 x  1.8 with Black Trapezoid on Transparent Background Right
+   6177741i.dat               Sticker  0.9 x  0.8 with Black Grille on Transparent Background Left
+   6177741c.dat               Sticker  0.9 x  0.8 with Black Air Scope on Transparent Background Right (Needs Work)
+   6177741w.dat               Sticker  0.9 x  0.8 with White Arc on Transparent Background Right
+   87552.dat                  Panel  1 x  2 x  2 Reinforced
+   s\1023035p02s01.dat        ~Figure Friends Legs Shoe with Laces Top Type 3
+   92832.dat                  Windscreen  6 x  7 x  2.667
+   s\92832s02.dat             ~Windscreen  6 x  7 x  2.667 without Patternable Surfaces - Half
+   s\6148328aps01.dat         ~Sticker  0.8 x  1.9 with Dark Grey Lines on White Background Back Right - First Face
+   s\6148328aps06.dat         ~Sticker  0.8 x  1.9 with Dark Grey Lines on White Background Back Right - Sixth Face
+   6148328ac.dat              Sticker  0.8 x  1.9 with White Stripes and Black Headlamp on Red Background Right (Needs Work)
+   s\6148328acs01.dat         ~Sticker  0.8 x  1.9 with White Stripes and Black Headlamp on Red Background Right - First Face
+   s\6148328acs06.dat         ~Sticker  0.8 x  1.9 with White Stripes and Black Headlamp on Red Background Right - Sixth Face
+   6148328ap.dat              Sticker  0.8 x  1.9 with Dark Grey Lines on White Background Back Right
+   6337749f.dat               Sticker  1.9 x  1.8 with Four Bright Light Orange Buttons
+   s\15068b01.dat             ~Sticker Back  1.9 x  1.8 (Formed)
+   6177970q.dat               Sticker  0.8 x  2.5 with Black Trapezoid on Red Background Right
+   30536.dat                  Windscreen  8 x  4 x  2 with Hinge Locking
+   9044ap02.dat               Tap  1 x  2 with Chrome Silver Spout
+
+Minor Edits
+   7 Parts with minor administrative edits and/or license changes
