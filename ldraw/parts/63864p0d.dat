@@ -1,0 +1,22 @@
+0 Tile  1 x  3 with Red Gingerbread Mouth Pattern
+0 Name: 63864p0d.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2026-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tile
+0 !KEYWORDS Brickheadz, Bricklink 63864pb332, Brickowl 1467676
+0 !KEYWORDS Rebrickable 63864pr0023, Set 40923, Shrek
+
+0 !HISTORY 2026-10-26 [OrionP] Official Update 2026-10
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\63864s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\63864p0ds01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\63864p0ds01.dat
+3 16 -30 0 -10 30 0 -10 0 0 -8.9
+3 16 -4.83 0 6.11 0 0 5.6 4.83 0 6.11
+4 16 4.83 0 6.11 12.2 0 8.59 -12.2 0 8.59 -4.83 0 6.11
+4 16 -14.74 0 8.9 -12.2 0 8.59 12.2 0 8.59 14.74 0 8.9
+4 16 -30 0 10 -14.74 0 8.9 14.74 0 8.9 30 0 10

@@ -1,18 +1,20 @@
-0 Slope Brick Curved  2 x  4 with Underside Studs with White Racing Lines and "GT" Pattern
+0 Slope Brick Curved  2 x  4 with White Racing Lines and "GT" Pattern
 0 Name: 88930p02.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2026-10
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 88930pb095, Ford, Mustang, Rebrickable 88930pr0032
-0 !KEYWORDS Set 10265
+0 !CATEGORY Slope
+0 !KEYWORDS BrickLink 88930pb095, Brickowl 6883, Brickset 45352, Ford, Mustang
+0 !KEYWORDS Rebrickable 88930pr0032, Set 10265
 
 0 !CMDLINE -c272
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
-
+0 !HISTORY 2026-10-02 [MagFors] Update description
+0 !HISTORY 2026-10-26 [OrionP] Official Update 2026-10
 
 0 // Main
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61068s01.dat

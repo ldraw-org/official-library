@@ -1,16 +1,18 @@
-0 Slope Brick Curved  2 x  4 with Underside Studs with Yellow Arches and Circles Pattern
+0 Slope Brick Curved  2 x  4 with Yellow Arches and Circles Pattern
 0 Name: 88930pz1.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LDRAW_ORG Part UPDATE 2026-10
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Belle, Brickheadz, BrickLink 88930pb076, Rebrickable 88930pr0012
-0 !KEYWORDS Set 41595
+0 !CATEGORY Slope
+0 !KEYWORDS Belle, Brickheadz, BrickLink 88930pb076, Brickowl 975988
+0 !KEYWORDS Brickset 33523, Rebrickable 88930pr0012, Set 41595
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
+0 !HISTORY 2026-10-02 [MagFors] Update description
+0 !HISTORY 2026-10-26 [OrionP] Official Update 2026-10
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61068s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\88930s01.dat

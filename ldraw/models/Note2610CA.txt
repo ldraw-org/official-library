@@ -1,0 +1,93 @@
+ldraw.org Parts Update 2026-10
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Mon, 26 Oct 2026 03:15:57 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 253
+   New files: 186
+   New Parts: 129
+   New Subparts: 55
+   New Primitives: 1
+   New Part_Texmaps: 1
+
+Moved Parts
+   973c01.dat                 ~Moved to 76382p00
+   412.dat                    ~Moved to 30015
+
+Renamed Parts
+   6103027d.dat               Sticker  0.8 x  1.7 with Dark Bluish Grey Panel with Two Hinged Arms
+   changed to    Sticker  0.9 x  1.8 with Dark Bluish Grey Panel with Two Hinged Arms
+   4620857d.dat               Sticker  0.9 x  1.9 with Dark Red Heart and "3186 BSS" License Plate
+   changed to    Sticker  0.9 x  1.8 with Dark Red Heart and "3186 BSS" License Plate
+   4620858k.dat               Sticker  0.9 x  1.9 with Paintbox and Makeup Brushes
+   changed to    Sticker  0.9 x  1.8 with Paintbox and Makeup Brushes
+   6103027a.dat               Sticker  0.8 x  1.7 with Dark Bluish Grey Panel and Two Black Rivets
+   changed to    Sticker  0.9 x  1.8 with Dark Bluish Grey Panel and Two Black Rivets
+   4614415e.dat               Sticker  0.8 x  1.7 with Black "H VW 1962"
+   changed to    Sticker  0.9 x  1.8 with Black "H VW 1962"
+   6018377f.dat               Sticker  0.9 x  1.9 with Dog Bone and Medium Lavender "1" in White Circle on Medium Azure Background
+   changed to    Sticker  0.9 x  1.8 with Dog Bone and Medium Lavender "1" in White Circle on Medium Azure Background
+   6103027c.dat               Sticker  0.8 x  1.7 with Dark Bluish Grey Panel and Two Dark Bluish Grey Stripes
+   changed to    Sticker  0.9 x  1.8 with Dark Bluish Grey Panel and Two Dark Bluish Grey Stripes
+   6018377e.dat               Sticker  0.9 x  1.9 with Heart and Medium Lavender "2" in White Circle on Lime Background
+   changed to    Sticker  0.9 x  1.8 with Heart and Medium Lavender "2" in White Circle on Lime Background
+   4620858l.dat               Sticker  0.9 x  1.9 with Paintbox, Mirror and Makeup Brushes
+   changed to    Sticker  0.9 x  1.8 with Paintbox, Mirror and Makeup Brushes
+   6178096a.dat               Sticker  0.8 x  1.7 with Metallic Silver VW Logo
+   changed to    Sticker  0.9 x  1.8 with Metallic Silver VW Logo
+   6203389c.dat               Sticker  1.1 x  1.7 with Viewscreen and Controls
+   changed to    Sticker  1.2 x  1.8 with Viewscreen and Controls
+   3846p4k.dat                Minifig Shield Triangular with Dark Green Dragon on Medium Nougat/Tan Pattern
+   changed to    Minifig Shield Triangular with Dark Green Dragon on Bright Light Yellow/Orange Pattern
+   2586p4k.dat                Minifig Shield Ovoid with Dark Green Dragon on Medium Nougat/Tan Pattern
+   changed to    Minifig Shield Ovoid with Dark Green Dragon on Bright Light Yellow/Orange Pattern
+   4622303l.dat               Sticker  1.75 x  1.75 Mercedes-Benz Logo on Orange
+   changed to    Sticker  1.8 x  1.8 Mercedes-Benz Logo on Orange
+   6148328br.dat              Sticker  1.0 x  1.8 with Black Mobil1 and Michelin Logos on White Background
+   changed to    Sticker  1.0 x  1.8 with Black Mobil 1 and Michelin Logos on White Background
+   88930p02.dat               Slope Brick Curved  2 x  4 with Underside Studs with White Racing Lines and "GT" Pattern
+   changed to    Slope Brick Curved  2 x  4 with White Racing Lines and "GT" Pattern
+   88930py0.dat               Slope Brick Curved  2 x  4 with Underside Studs with "AMG" Logo behind Dark Bluish Grey Grille Pattern
+   changed to    Slope Brick Curved  2 x  4 with "AMG" Logo behind Dark Bluish Grey Grille Pattern
+   88930pz1.dat               Slope Brick Curved  2 x  4 with Underside Studs with Yellow Arches and Circles Pattern
+   changed to    Slope Brick Curved  2 x  4 with Yellow Arches and Circles Pattern
+   88930pz0.dat               Slope Brick Curved  2 x  4 with Underside Studs with Black Lines and Dark Red Rectangle Pattern
+   changed to    Slope Brick Curved  2 x  4 with Black Lines and Dark Red Rectangle Pattern
+   88930pz4.dat               Slope Brick Curved  2 x  4 with Underside Studs with Metallic Dark Grey Lines Pattern
+   changed to    Slope Brick Curved  2 x  4 with Metallic Dark Grey Lines Pattern
+
+Other Fixed Parts
+   81911.dat                  Windscreen  2 x  4 x  1 Curved
+   567c04.dat                 Electric Plug (Type 1) Twin with Hollow Pin (Complete)
+   592c04.dat                 Electric Plug (Type 1) Single with Hollow Pin (Complete)
+   u9238.dat                  ~Pin Hollow for Electric Plug (Type 1) Twin or Single
+   6177954q.dat               Sticker  1.8 x  1.9 with Logos on Red Background
+   6142617i.dat               Sticker  0.9 x  1.8 with Grey and Silver Ring on Black Background Left (Needs Work)
+   6177969c.dat               Sticker  0.9 x  1.8 with Grey Stripes on Black Background
+   6142617c.dat               Sticker  0.9 x  1.8 with Black Stripe on White Background
+   6177949a.dat               Sticker  0.8 x  1.8 with Silver Exhaust Pipes on Black Background
+   6018377d.dat               Sticker  0.9 x  1.9 with Star and Medium Lavender "2" in White Circle on Lime Background
+   6142617q.dat               Sticker  0.9 x  1.8 with Chevrolet Logo on Black Stripe on Red Background
+   6221655c.dat               Sticker  0.9 x  1.8 with Black, 3 Grey and Red Stripes on White Bakground Right
+   6141875j.dat               Sticker  0.9 x  1.8 with Black Air Vent on Blue Background Right
+   30273.dat                  Minifig Helmet with Chinstrap and Wide Brim
+   s\6177954qs06.dat          ~Sticker  1.8 x  1.9 with Logos on Red Background - Sixth Face
+   s\6177954qs01.dat          ~Sticker  1.8 x  1.9 with Logos on Red Background - First Face
+   6177954qc01.dat            Sticker  1.8 x  1.9 with Logos on Red Background (Formed)
+   6177741k.dat               Sticker  0.8 x  2.5 with Yellow Stripes on Transparent Background Right
+   6177741pc01.dat            Sticker  0.8 x  4.1 with Front Grille with Vertical Lines on Transparent Background (Formed)
+   6177741p.dat               Sticker  0.8 x  4.1 with Front Grille with Vertical Lines on Transparent Background
+   6177741ec01.dat            Sticker  0.8 x  4.1 with White "AMG" in Black Frame on Transparent Background (Formed)
+   6177741vc01.dat            Sticker  0.8 x  4.1 with Front Grille with Horizontal Line and Dots on Transparent Background (Formed)
+   6177741v.dat               Sticker  0.8 x  4.1 with Front Grille with Horizontal Line and Dots on Transparent Background
+   6177741e.dat               Sticker  0.8 x  4.1 with White "AMG" in Black Frame on Transparent Background
+   6221655ec01.dat            Sticker  1.8 x  4.0 with Black Trapezoid on White Background Right (Formed)
+   6177970sc01.dat            Sticker  4.0 x  1.8 with Ferrari Rectangular Badge and Black Air Vent on Red Background (Formed) (Needs Work)
+   42022.dat                  Slope Brick Curved  6 x  1
+
+Minor Edits
+   4 Parts with minor administrative edits and/or license changes

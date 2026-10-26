@@ -1,16 +1,18 @@
-0 Slope Brick Curved  2 x  4 with Underside Studs with Black Lines and Dark Red Rectangle Pattern
+0 Slope Brick Curved  2 x  4 with Black Lines and Dark Red Rectangle Pattern
 0 Name: 88930pz0.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LDRAW_ORG Part UPDATE 2026-10
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Brickheadz, BrickLink 88930pb075, Iron Man, Rebrickable 88930pr0011
-0 !KEYWORDS Set 41590
+0 !CATEGORY Slope
+0 !KEYWORDS Brickheadz, BrickLink 88930pb075, Brickowl 521386, Brickset 33521
+0 !KEYWORDS Iron Man, Rebrickable 88930pr0011, Set 41590
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !HISTORY 2026-10-02 [MagFors] Update description
+0 !HISTORY 2026-10-26 [OrionP] Official Update 2026-10
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61068s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\88930s01.dat
